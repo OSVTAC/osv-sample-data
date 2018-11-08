@@ -1,0 +1,261 @@
+{
+   "headers" : [
+      {
+         "ballot_title_tl" : "Mga Katungkulang Nominado ng Botante at mga Hindi Makapartido",
+         "instructions_text_tl" : "Ang lahat ng botante, maging ano man ang inihayag nilang kinakatigang partido nang sila ay nagparehistro, o tumangging ihayag ang kinakatigang partido, ay maaaring iboto ang sinumang kandidato para sa katungkulang nominado ng botante o hindi makapartido. Ang kinakatigang partido, kung mayroon man, na hinirang ng kandidato para sa katungkulang nominado ng botante ay pinili ng kandidato at ipinapakita lang para sa kaalaman ng mga bumoboto. Hindi nito ipinahihiwatig na ang kandidato ay nominado o inirerekomenda ng partido o na inaprobahan ng partido ang kandidato. Ang kinakatigang partido, kung mayroon man, ng kumakandidato para sa katungkulang hindi makapartido ay hindi makikita sa balota.",
+         "ballot_title_zh" : "Voter-Nominated and Nonpartisan Offices",
+         "instructions_text_zh" : "<strong>選民提名職位和非黨派職位。</strong><br>所有選民，不論在登記時披露政黨傾向或謝絕表態，均可投票給選民提名職位或是非黨派職位的任何候選人。如果選民提名職位的候選人表明政黨傾向，這是該候選人之個人選擇，而且僅提供作為選民參考。它並非表示候選人受到該政黨提名或舉名支持，也不代表候選人受到該政黨認可。選票上的非黨派職位不會列出候選人的政黨傾向(若有)。",
+         "instructions_text" : "All voters, regardless of the party preference they disclosed upon registration, or refusal to disclose a party preference, may vote for any candidate for a voter-nominated or nonpartisan office. The party preference, if any, designated by a candidate for a voter-nominated office is selected by the candidate and is shown for the information of the voters only. It does not imply that the candidate is nominated or endorsed by the party or that the party approves of the candidate. The party preference, if any, of a candidate for a nonpartisan office does not appear on the ballot.",
+         "ballot_title" : "Voter-Nominated and Nonpartisan Offices",
+         "id" : "intro",
+         "instructions_text_es" : "Todos los electores, sin importar la preferencia por partido que hayan revelado al inscribirse, o su negativa de revelar una preferencia por partido, pueden votar por cualquier candidato a un cargo nominado por los electores o no partidario. La preferencia por partido, si la hubiera, designada por un candidato a un cargo nominado por los electores, es seleccionada por el candidato y se muestra solo para la información de los electores. No implica que el candidato esté nominado ni ratificado por el partido ni que el partido apruebe al candidato. La preferencia por partido, si la hubiera, de un candidato por un cargo no partidario, no aparece en la boleta electoral.",
+         "ballot_title_es" : "Cargos Nominados por los Electores y Cargos No Partidarios"
+      },
+      {
+         "ballot_title" : "VOTER-NOMINATED OFFICES",
+         "ballot_title_tl" : "MGA KATUNGKULANG NOMINADO NG BOTANTE",
+         "id" : "header-1",
+         "ballot_title_es" : "CARGOS NOMINADOS POR LOS ELECTORES",
+         "ballot_title_zh" : "選民提名職位"
+      },
+      {
+         "ballot_title" : "STATE",
+         "ballot_title_tl" : "ESTADO",
+         "id" : "header-4",
+         "ballot_title_es" : "ESTADO",
+         "ballot_title_zh" : "州",
+         "contests" : [
+            {
+               "ballot_title_tl" : "MIYEMBRO NG ASEMBLEYA NG ESTADO",
+               "vote_for_msg_es" : "Vote por uno",
+               "ballot_title_zh" : "加州眾議員",
+               "vote_for_msg" : "Vote for One",
+               "choices" : [
+                  {
+                     "candidate_party_es" : "Preferencia por partido: Demócrata",
+                     "ballot_designation_zh" : "加州眾議員",
+                     "id" : "4812",
+                     "ballot_title" : "DAVID CHIU",
+                     "ballot_title_es" : "DAVID CHIU",
+                     "ballot_designation" : "Assemblymember",
+                     "candidate_party" : "Party Preference: Democratic",
+                     "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+                     "ballot_title_tl" : "DAVID CHIU",
+                     "candidate_party_zh" : "政黨傾向：民主黨",
+                     "ballot_title_zh" : "邱信福",
+                     "ballot_designation_es" : "Miembro de la Asamblea",
+                     "ballot_designation_tl" : "Miyembro ng Asembleya"
+                  },
+                  {
+                     "candidate_party_es" : "Preferencia por partido: Demócrata",
+                     "ballot_designation_zh" : "小企業創業者",
+                     "ballot_title" : "ALEJANDRO FERNANDEZ",
+                     "id" : "4813",
+                     "ballot_title_es" : "ALEJANDRO FERNANDEZ",
+                     "ballot_designation" : "Small Business Entrepreneur",
+                     "candidate_party" : "Party Preference: Democratic",
+                     "candidate_party_zh" : "政黨傾向：民主黨",
+                     "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+                     "ballot_title_tl" : "ALEJANDRO FERNANDEZ",
+                     "ballot_designation_tl" : "Mangangalakal sa Maliit na Negosyo",
+                     "ballot_designation_es" : "Emprendedor de Pequeña Empresa",
+                     "ballot_title_zh" : "阿勒簡德羅 ‧ 費南德斯"
+                  }
+               ],
+               "is_partisan" : "Y",
+               "id" : "403",
+               "number_elected" : 1,
+               "ballot_title" : "STATE ASSEMBLY MEMBER",
+               "ballot_title_es" : "MIEMBRO DE LA ASAMBLEA DEL ESTADO",
+               "type" : "office",
+               "writeins_allowed" : 1,
+               "vote_for_msg_zh" : "選一名",
+               "vote_for_msg_tl" : "Bumoto ng Isa"
+            }
+         ]
+      },
+      {
+         "ballot_title_es" : "CARGOS NO PARTIDARIOS",
+         "ballot_title_zh" : "無黨派職位",
+         "ballot_title" : "NONPARTISAN OFFICES",
+         "id" : "header-5",
+         "ballot_title_tl" : "MGA KATUNGKULANG HINDI MAKAPARTIDO"
+      },
+      {
+         "ballot_title_es" : "CIUDAD Y CONDADO",
+         "ballot_title_zh" : "市縣",
+         "ballot_title" : "CITY AND COUNTY",
+         "id" : "header-9",
+         "ballot_title_tl" : "LUNGSOD AT COUNTY",
+         "contests" : [
+            {
+               "ballot_title_tl" : "PUNONG-BAYAN",
+               "vote_for_msg_es" : "Vote por su primera, segunda y tercera preferencias",
+               "vote_for_msg" : "Vote your first, second, and third choices",
+               "instructions_text_tl" : "Maaari ninyong pagsunud-sunurin ang hanggang sa tatlong pinili. Para pagsunud-sunurin ang mas kaunti sa tatlong kandidato, iwanan na blangko ang anumang mga natitirang pagpipilian.",
+               "number_elected" : 1,
+               "instructions_text_zh" : "您最多可以投選三個選擇。如果投選的候選人少於三名候選人，多餘欄目可留為空白。",
+               "ballot_title" : "MAYOR",
+               "choices" : [
+                  {
+                     "ballot_title_zh" : "艾咪 ‧ 法拉 ‧ 維絲",
+                     "ballot_designation_es" : "Ejecutiva de Organización sin Fines de Lucro",
+                     "ballot_designation_tl" : "Nonprofit na Ehekutibo",
+                     "ballot_title_tl" : "AMY FARAH WEISS",
+                     "ballot_designation" : "Nonprofit Executive",
+                     "ballot_title_es" : "AMY FARAH WEISS",
+                     "id" : "3790",
+                     "ballot_title" : "AMY FARAH WEISS",
+                     "ballot_designation_zh" : "非牟利機構主管"
+                  },
+                  {
+                     "ballot_designation" : "Family Social Worker",
+                     "ballot_title_tl" : "ELLEN LEE ZHOU",
+                     "ballot_title_zh" : "李愛晨",
+                     "ballot_designation_es" : "Trabajadora Social Familiar",
+                     "ballot_designation_tl" : "Social Worker para sa mga Pamilya",
+                     "ballot_designation_zh" : "家庭社工",
+                     "id" : "3789",
+                     "ballot_title" : "ELLEN LEE ZHOU",
+                     "ballot_title_es" : "ELLEN LEE ZHOU"
+                  }
+               ],
+               "ballot_title_zh" : "市長",
+               "vote_type_id" : "rcv",
+               "writeins_allowed" : 1,
+               "vote_for_msg_zh" : "投選您的第一、第二和第三選擇",
+               "vote_for_msg_tl" : "Iboto ang inyong una, pangalawa, at pangatlong pinili",
+               "instructions_text_es" : "Puede seleccionar un máximo de tres opciones por orden de preferencia. Para seleccionar por orden de preferencia a menos de tres candidatos, deje en blanco las opciones restantes.",
+               "id" : "598",
+               "instructions_text" : "You may rank up to three choices. To rank fewer than three candidates, leave any remaining choices blank.",
+               "ballot_title_es" : "ALCALDE"
+            }
+         ]
+      },
+      {
+         "ballot_title" : "MEASURES SUBMITTED TO THE VOTERS",
+         "ballot_title_tl" : "MGA PANUKALANG ISINUMITE SA MGA BOTANTE",
+         "id" : "header-14",
+         "ballot_title_es" : "INICIATIVAS DE LEY PRESENTADAS A LOS ELECTORES",
+         "ballot_title_zh" : "提交選民投票的提案"
+      },
+      {
+         "id" : "header-15",
+         "ballot_title_tl" : "MGA PROPOSISYON NG ESTADO",
+         "ballot_title" : "STATE PROPOSITIONS",
+         "ballot_title_zh" : "州提案",
+         "ballot_title_es" : "PROPOSICIONES ESTATALES",
+         "contests" : [
+            {
+               "choice_names_zh" : "贊成;反對",
+               "question_text" : "<strong>AUTHORIZES BONDS FUNDING PARKS, NATURAL RESOURCES PROTECTION, CLIMATE ADAPTATION, WATER QUALITY AND SUPPLY, AND FLOOD PROTECTION.</strong> Authorizes $4 billion in general obligation bonds for: parks, natural resources protection, climate adaptation, water quality and supply, and flood protection. Fiscal Impact: Increased state bond repayment costs averaging $200 million annually over 40 years. Local government savings for natural resources-related projects, likely averaging several tens of millions of dollars annually over the next few decades.",
+               "ballot_title_zh" : "68",
+               "ballot_title_tl" : "68",
+               "choice_names_tl" : "OO;HINDI",
+               "choices" : [
+                  {
+                     "ballot_title_tl" : "OO",
+                     "id" : "2725",
+                     "ballot_title" : "YES",
+                     "ballot_title_zh" : "贊成",
+                     "ballot_title_es" : "SÍ"
+                  },
+                  {
+                     "ballot_title_zh" : "反對",
+                     "ballot_title_es" : "NO",
+                     "id" : "2726",
+                     "ballot_title_tl" : "HINDI",
+                     "ballot_title" : "NO"
+                  }
+               ],
+               "choice_names" : "YES;NO",
+               "ballot_title_es" : "68",
+               "question_text_tl" : "<strong>PAHIHINTULUTAN ANG PAGPOPONDO NG MGA BONO SA MGA PARKE, PROTEKSYON SA MGA LIKAS NA YAMAN, PAG-AYON SA KLIMA, KALIDAD AT SUPPLY NG TUBIG, AT PROTEKSYON SA BAHA.</strong> Pahihintulutan ang $4 na bilyon sa mga bono para sa pangkalahatang obligasyon para sa: mga parke, proteksyon sa mga likas na yaman, pag-ayon sa klima, kalidad at supply ng tubig, at proteksyon sa baha. Epekto sa Pananalapi: Tumaas na mga gastusin sa muling pagbabayad sa bono ng estado na may average na humigit-kumulang $200 milyon taun-taon sa loob ng susunod na 40 taon. Mga ipon ng lokal na pamahalaan para sa mga proyektong nauugnay sa mga likas na yaman, na malamang na may average na milyun-milyong dolyar taun-taon sa loob ng susunod na ilang dekada.",
+               "question_text_zh" : "<strong>授權發行債券，為公園、自然資源的保護、氣候變遷的因應、水質與供水，以及防洪提供資金。</strong>授權發行40億美元的普通責任債券，用途包括：公園、自然資源保護、氣候變遷的因應、水質與供水，以及防洪。財政影響：每年州政府償還公債的支出成本平均增加2億美元，為期40年。在未來數十年，地方政府在自然資源相關計畫，可能每年節省平均約數千萬美元。",
+               "ballot_title" : "68",
+               "id" : "446",
+               "choice_names_es" : "SÍ;NO",
+               "question_text_es" : "<strong>AUTORIZA BONOS PARA LA FINANCIACIÓN DE PARQUES, PROTECCIÓN DE RECURSOS NATURALES, ADAPTACIÓN CLIMÁTICA, SUMINISTRO Y CALIDAD DEL AGUA, Y PROTECCIÓN CONTRA INUNDACIONES.</strong> Autoriza 4 mil millones de dólares en bonos de obligación general para lo siguiente: parques, protección de recursos naturales, adaptación climática, suministro y calidad del agua, y protección contra inundaciones. Impacto fiscal: el aumento promedio del costo del pago de los bonos estatales será de 200 millones de dólares por año durante 40 años. Es probable que, en promedio, los ahorros del gobierno local para proyectos relacionados con recursos naturales sean de varias decenas de millones de dólares por año durante las próximas décadas.",
+               "type" : "measure"
+            },
+               "choice_names_zh" : "贊成;反對",
+               "ballot_title_zh" : "69",
+               "question_text" : "<strong>REQUIRES THAT CERTAIN NEW TRANSPORTATION REVENUES BE USED FOR TRANSPORTATION PURPOSES. LEGISLATIVE CONSTITUTIONAL AMENDMENT.</strong> Requires that certain revenues generated by a 2017 transportation funding law be used only for transportation purposes and generally prohibits Legislature from diverting funds to other purposes. Fiscal Impact: No direct effect on the amount of state and local revenues or costs but could affect how some monies are spent.",
+               "ballot_title_tl" : "69",
+               "choice_names_es" : "SÍ;NO",
+               "type" : "measure",
+               "question_text_es" : "<strong>EXIGE QUE CIERTOS INGRESOS PÚBLICOS NUEVOS CORRESPONDIENTES AL TRANSPORTE SE UTILICEN PARA FINES RELACIONADOS CON ESTE SECTOR. ENMIENDA CONSTITUCIONAL LEGISLATIVA.</strong> Exige que ciertos ingresos públicos generados por una ley de financiación del transporte de 2017 se utilicen solo para fines relacionados con dicho sector y, en general, prohíbe que la legislatura desvíe fondos para cumplir otros propósitos. Impacto fiscal: no hay un efecto directo en las sumas de los ingresos públicos o costos locales o estatales, pero podría afectar la forma en que se gastan ciertas cantidades de dinero.",
+               "ballot_title_es" : "69",
+               "question_text_zh" : "<strong>要求某些新的運輸收入只能用於運輸相關用途。州議會憲法修正案。</strong>要求來自2017年運輸預算法案的新運輸收入只能用於運輸相關用途，原則上禁止州議會將資金調撥作別的用途。財政影響：對州政府與地方收支不會有直接影響，不過可能會影響到有些資金的用法。",
+               "question_text_tl" : "<strong>NAG-AATAS NA GAMITIN ANG ILANG PARTIKULAR NA BAGONG KITA SA TRANSPORTASYON PARA SA MGA LAYUNING PANTRANSPORTASYON. LEHISLATIBONG AMYENDA SA SALIGANG-BATAS.</strong> Nag-aatas na gamitin lang ang ilang partikular na kitang nalikom sa pamamagitan ng batas sa pagpopondo ng transportasyon sa taong 2017 para sa mga layuning pantransportasyon at pangkalahatang nagbabawal sa Lehislatura na ilipat ang mga pondo sa iba pang layunin. Epekto sa Pananalapi: Walang direktang epekto sa halaga ng mga kita o gastusin ng estado at lokal na pamahalaan ngunit maaaring makaapekto sa paggastos ng ilang pera.",
+               "ballot_title" : "69",
+               "id" : "584"
+            },
+            {
+               "choice_names_zh" : "贊成;反對",
+               "question_text" : "<strong>REQUIRES LEGISLATIVE SUPERMAJORITY VOTE APPROVING USE OF CAP-AND-TRADE RESERVE FUND. LEGISLATIVE CONSTITUTIONAL AMENDMENT.</strong> Beginning in 2024, requires that cap-and-trade revenues accumulate in a reserve fund until the Legislature, by a two-thirds majority, authorizes use of the revenues. Fiscal Impact: Beginning in 2024, potential temporary increase in state sales tax revenue, ranging from none to a few hundred million dollars annually, and possible changes in how revenue from sale of greenhouse gas emission permits is spent.",
+               "ballot_title_zh" : "70",
+               "ballot_title_tl" : "70",
+               "choice_names_tl" : "OO;HINDI",
+               "choices" : [
+                  {
+                     "ballot_title" : "YES",
+                     "ballot_title_tl" : "OO",
+                     "id" : "3763",
+                     "ballot_title_es" : "SÍ",
+                     "ballot_title_zh" : "贊成"
+                  },
+                  {
+                     "id" : "3764",
+                     "ballot_title_tl" : "HINDI",
+                     "ballot_title" : "NO",
+                     "ballot_title_zh" : "反對",
+                     "ballot_title_es" : "NO"
+                  }
+               ],
+               "choice_names" : "YES;NO",
+               "ballot_title_es" : "70",
+               "ballot_title" : "70",
+               "question_text_zh" : "<strong>要求獲得州議會絕對多數票來批准使用排放總量管制和交易收入儲備基金。州議會憲法修正案。</strong>從2024年起，要求「排放總量管制和交易收入」累積存入一個儲備基金，直到獲得州議會三分之二多數議員的同意，才得以授權動用。財政影響：從2024年起，加州營業稅收入每年可能暫時增加零到數億美元，而且來自銷售溫室氣體排放許可證的收入其用法也可能改變。",
+               "question_text_tl" : "<strong>KINAKAILANGAN ANG BOTO NG MAYORYA NG LEHISLATURA NA NAG-AAPRUBA SA PAGGAMIT NG NAKARESERBANG PONDO SA CAP-AND-TRADE. LEHISLATIBONG AMYENDA SA SALIGANG-BATAS.</strong> Simula 2024, aatasang pagsama-samahin ang mga kita sa cap-and-trade sa isang nakareserbang pondo hanggang pahintulutan ng Lehislatura, ayon sa dalawang-katlo ng kabuuan, ang paggamit sa mga kita. Epekto sa Pananalapi: Simula 2024, maaaring pansamantalang tumaas ang kita sa buwis sa mga pagbebenta ng estado, na mula sa wala ay magiging ilang daang milyong dolyar taun-taon, at posibleng magkaroon ng mga pagbabago sa paggasta ng kita mula sa pagbebenta ng mga permit sa greenhouse gas emission.",
+               "id" : "585",
+               "choice_names_es" : "SÍ;NO",
+               "question_text_es" : "<strong>REQUIERE UN VOTO LEGISLATIVO MAYORITARIO PARA APROBAR EL USO DEL FONDO DE RESERVA DEL PROGRAMA CAP-AND-TRADE. ENMIENDA CONSTITUCIONAL LEGISLATIVA.</strong> Exige que, a partir del año 2024, los ingresos públicos provenientes del programa cap-and-trade se acumulen en un fondo de reserva hasta que la legislatura, por una mayoría de dos tercios, autorice el uso de los ingresos. Impacto fiscal: a partir del año 2024, posible aumento temporal de los ingresos provenientes del impuesto estatal a las ventas, que oscilaría de cero a unos cuantos cientos de millones de dólares por año. Además, posibles cambios en la forma de invertir los ingresos provenientes de la venta de permisos de emisión de gases de efecto invernadero.",
+               "type" : "measure"
+            },
+            {
+               "ballot_title_tl" : "71",
+               "ballot_title_zh" : "71",
+               "question_text" : "<strong>SETS EFFECTIVE DATE FOR BALLOT MEASURES. LEGISLATIVE CONSTITUTIONAL AMENDMENT. </strong>Provides that ballot measures approved by a majority of voters shall take effect five days after the Secretary of State certifies the results of the election. Fiscal Impact: Likely little or no effect on state and local finances.",
+               "choice_names_zh" : "贊成;反對",
+               "choice_names" : "YES;NO",
+               "choices" : [
+                  {
+                     "ballot_title_tl" : "OO",
+                     "id" : "3765",
+                     "ballot_title" : "YES",
+                     "ballot_title_zh" : "贊成",
+                     "ballot_title_es" : "SÍ"
+                  },
+                  {
+                     "ballot_title_zh" : "反對",
+                     "ballot_title_es" : "NO",
+                     "id" : "3766",
+                     "ballot_title_tl" : "HINDI",
+                     "ballot_title" : "NO"
+                  }
+               ],
+               "choice_names_tl" : "OO;HINDI",
+               "id" : "586",
+               "question_text_zh" : "<strong>規定選票議案生效日期。州議會憲法修正案。</strong>規定獲得多數選民投票同意的選票議案應該在州務卿認證投票結果五日後生效。財政影響：對州政府和地方財政可能造成很少影響或毫無影響。",
+               "question_text_tl" : "<strong>NAGTATAKDA SA PETSA NG PAGKAKAROON NG BISA PARA SA MGA PANUKALA SA BALOTA. LEHISLATIBONG AMYENDA SA SALIGANG-BATAS.</strong> Nagsasaad na ang panukala sa balotang inaprubahan ng mayorya ng mga botante ay magkakabisa limang araw pagkatapos patunayan ng Kalihim ng Estado ang mga resulta ng halalan. Epekto sa Pananalapi: Posibleng magkaroon ng maliit o walang epekto sa mga pananalapi ng estado at lokal na pamahalaan.",
+               "ballot_title" : "71",
+               "ballot_title_es" : "71",
+               "question_text_es" : "<strong>ESTABLECE LA FECHA DE ENTRADA EN VIGENCIA DE LAS INICIATIVAS DE LEY INCLUIDAS EN LAS BOLETAS. ENMIENDA CONSTITUCIONAL LEGISLATIVA.</strong> Establece que las iniciativas de ley incluidas en las boletas aprobadas por la mayoría de los votantes entrarán en vigencia cinco días después de que la Secretaría de Estado certifique los resultados de la elección. Impacto fiscal: probablemente, el efecto en las finanzas locales o estatales sea menor o nulo.",
+               "type" : "measure",
+               "choice_names_es" : "SÍ;NO"
+            }
+         ]
+      }
+   ]
+}

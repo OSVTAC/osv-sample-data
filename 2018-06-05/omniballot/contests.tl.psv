@@ -1,0 +1,18 @@
+H=headers:Header|status|updated|id|ballot_title|ballot_title_tl|ballot_subtitle|ballot_subtitle_tl|instructions_text|instructions_text_tl
+O=contests:OfficeContest|status|updated|id|ballot_title|ballot_title_tl|ballot_subtitle|ballot_subtitle_tl
+C=choices:Candidate|status|updated|id|ballot_title|ballot_designation|ballot_designation_tl
+M=contests:MeasureContest|status|updated|id|ballot_title|ballot_title_tl|ballot_subtitle|ballot_subtitle_tl|question_text|question_text_tl
+H0|O||HDR01|Voter-Nominated and Nonpartisan Offices|Mga Katungkulang Nominado ng Botante at mga Hindi Makapartido|||All voters, regardless of the party preference they disclosed upon registration, or refusal to disclose a party preference, may vote for any candidate for a voter-nominated or nonpartisan office. The party preference, if any, designated by a candidate for a voter-nominated office is selected by the candidate and is shown for the information of the voters only. It does not imply that the candidate is nominated or endorsed by the party or that the party approves of the candidate. The party preference, if any, of a candidate for a nonpartisan office does not appear on the ballot.|Ang lahat ng botante, maging ano man ang inihayag nilang kinakatigang partido nang sila ay nagparehistro, o tumangging ihayag ang kinakatigang partido, ay maaaring iboto ang sinumang kandidato para sa katungkulang nominado ng botante o hindi makapartido. Ang kinakatigang partido, kung mayroon man, na hinirang ng kandidato para sa katungkulang nominado ng botante ay pinili ng kandidato at ipinapakita lang para sa kaalaman ng mga bumoboto. Hindi nito ipinahihiwatig na ang kandidato ay nominado o inirerekomenda ng partido o na inaprobahan ng partido ang kandidato. Ang kinakatigang partido, kung mayroon man, ng kumakandidato para sa katungkulang hindi makapartido ay hindi makikita sa balota.
+H0|O||HDR02|VOTER-NOMINATED OFFICES|MGA KATUNGKULANG NOMINADO NG BOTANTE||||
+H0|O||HDR03|STATE|ESTADO||||
+H0|O||HDR04|FEDERAL|PEDERAL||||
+H0|O||HDR05|STATE|ESTADO||||
+H0|O||HDR06|NONPARTISAN OFFICES|MGA KATUNGKULANG HINDI MAKAPARTIDO||||
+H0|O||HDR07|CITY AND COUNTY|LUNGSOD AT COUNTY||||
+H0|O||HDR08|JUDICIAL|PANGHUKUMAN||||
+H0|O||HDR09|SCHOOL|||||
+H0|O||HDR10|CITY AND COUNTY|LUNGSOD AT COUNTY||||
+H0|O||HDR11|MEASURES SUBMITTED TO THE VOTERS|MGA PANUKALANG ISINUMITE SA MGA BOTANTE||||
+H0|O||HDR12|STATE PROPOSITIONS|MGA PROPOSISYON NG ESTADO||||
+H0|O||HDR13|REGIONAL MEASURE|PANREHIYONG PANUKALA||||
+H0|O||HDR14|CITY AND COUNTY PROPOSITIONS|MGA PROPOSISYON NG LUNGSOD AT COUNTY||||

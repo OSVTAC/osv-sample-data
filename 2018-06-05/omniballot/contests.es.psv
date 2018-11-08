@@ -1,0 +1,18 @@
+H=headers:Header|status|updated|id|ballot_title|ballot_title_es|ballot_subtitle|ballot_subtitle_es|instructions_text|instructions_text_es
+O=contests:OfficeContest|status|updated|id|ballot_title|ballot_title_es|ballot_subtitle|ballot_subtitle_es
+C=choices:Candidate|status|updated|id|ballot_title|ballot_designation|ballot_designation_es
+M=contests:MeasureContest|status|updated|id|ballot_title|ballot_title_es|ballot_subtitle|ballot_subtitle_es|question_text|question_text_es
+H0|O||HDR01|Voter-Nominated and Nonpartisan Offices|Cargos Nominados por los Electores y Cargos No Partidarios|||All voters, regardless of the party preference they disclosed upon registration, or refusal to disclose a party preference, may vote for any candidate for a voter-nominated or nonpartisan office. The party preference, if any, designated by a candidate for a voter-nominated office is selected by the candidate and is shown for the information of the voters only. It does not imply that the candidate is nominated or endorsed by the party or that the party approves of the candidate. The party preference, if any, of a candidate for a nonpartisan office does not appear on the ballot.|Todos los electores, sin importar la preferencia por partido que hayan revelado al inscribirse, o su negativa de revelar una preferencia por partido, pueden votar por cualquier candidato a un cargo nominado por los electores o no partidario. La preferencia por partido, si la hubiera, designada por un candidato a un cargo nominado por los electores, es seleccionada por el candidato y se muestra solo para la información de los electores. No implica que el candidato esté nominado ni ratificado por el partido ni que el partido apruebe al candidato. La preferencia por partido, si la hubiera, de un candidato por un cargo no partidario, no aparece en la boleta electoral.
+H0|O||HDR02|VOTER-NOMINATED OFFICES|CARGOS NOMINADOS POR LOS ELECTORES||||
+H0|O||HDR03|STATE|ESTADO||||
+H0|O||HDR04|FEDERAL|||||
+H0|O||HDR05|STATE|ESTADO||||
+H0|O||HDR06|NONPARTISAN OFFICES|CARGOS NO PARTIDARIOS||||
+H0|O||HDR07|CITY AND COUNTY|CIUDAD Y CONDADO||||
+H0|O||HDR08|JUDICIAL|||||
+H0|O||HDR09|SCHOOL|ESCUELA||||
+H0|O||HDR10|CITY AND COUNTY|CIUDAD Y CONDADO||||
+H0|O||HDR11|MEASURES SUBMITTED TO THE VOTERS|INICIATIVAS DE LEY PRESENTADAS A LOS ELECTORES||||
+H0|O||HDR12|STATE PROPOSITIONS|PROPOSICIONES ESTATALES||||
+H0|O||HDR13|REGIONAL MEASURE|INICIATIVA DE LEY REGIONAL||||
+H0|O||HDR14|CITY AND COUNTY PROPOSITIONS|PROPOSICIONES DE LA CIUDAD Y CONDADO||||

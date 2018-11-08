@@ -1,0 +1,4090 @@
+{
+   "ballot_title_zh" : "全州聯合直接初選",
+   "election_date" : "2018-06-05",
+   "election_area_es" : "Ciudad y Condado de San Francisco",
+   "election_area_zh" : "舊金山市",
+   "ballot_title_es" : "Elecciones Estatales Primarias Directas Consolidadas",
+   "ballot_title_tl" : "Pinagsamang Pambuong-Estado na Tuwirang Primaryang Eleksyon",
+   "ballot_title" : "Consolidated Statewide Direct Primary Election",
+   "election_area" : "City and County of San Francisco",
+   "ballot_items" : [
+      {
+         "ballot_title_es" : "Cargos Nominados por los Electores y Cargos No Partidarios",
+         "ballot_title_tl" : "Mga Katungkulang Nominado ng Botante at mga Hindi Makapartido",
+         "ballot_title" : "Voter-Nominated and Nonpartisan Offices",
+         "id" : "HDR01",
+         "instructions_text_es" : "Todos los electores, sin importar la preferencia por partido que hayan revelado al inscribirse, o su negativa de revelar una preferencia por partido, pueden votar por cualquier candidato a un cargo nominado por los electores o no partidario. La preferencia por partido, si la hubiera, designada por un candidato a un cargo nominado por los electores, es seleccionada por el candidato y se muestra solo para la información de los electores. No implica que el candidato esté nominado ni ratificado por el partido ni que el partido apruebe al candidato. La preferencia por partido, si la hubiera, de un candidato por un cargo no partidario, no aparece en la boleta electoral.",
+         "instructions_text_zh" : "<strong>選民提名職位和非黨派職位。</strong><br>所有選民，不論在登記時披露政黨傾向或謝絕表態，均可投票給選民提名職位或是非黨派職位的任何候選人。如果選民提名職位的候選人表明政黨傾向，這是該候選人之個人選擇，而且僅提供作為選民參考。它並非表示候選人受到該政黨提名或舉名支持，也不代表候選人受到該政黨認可。選票上的非黨派職位不會列出候選人的政黨傾向(若有)。",
+         "header_id" : "",
+         "type" : "header",
+         "instructions_text" : "All voters, regardless of the party preference they disclosed upon registration, or refusal to disclose a party preference, may vote for any candidate for a voter-nominated or nonpartisan office. The party preference, if any, designated by a candidate for a voter-nominated office is selected by the candidate and is shown for the information of the voters only. It does not imply that the candidate is nominated or endorsed by the party or that the party approves of the candidate. The party preference, if any, of a candidate for a nonpartisan office does not appear on the ballot.",
+         "instructions_text_tl" : "Ang lahat ng botante, maging ano man ang inihayag nilang kinakatigang partido nang sila ay nagparehistro, o tumangging ihayag ang kinakatigang partido, ay maaaring iboto ang sinumang kandidato para sa katungkulang nominado ng botante o hindi makapartido. Ang kinakatigang partido, kung mayroon man, na hinirang ng kandidato para sa katungkulang nominado ng botante ay pinili ng kandidato at ipinapakita lang para sa kaalaman ng mga bumoboto. Hindi nito ipinahihiwatig na ang kandidato ay nominado o inirerekomenda ng partido o na inaprobahan ng partido ang kandidato. Ang kinakatigang partido, kung mayroon man, ng kumakandidato para sa katungkulang hindi makapartido ay hindi makikita sa balota.",
+         "classification" : "Instructions"
+      },
+      {
+         "type" : "header",
+         "classification" : "Office Group",
+         "ballot_title_es" : "CARGOS NOMINADOS POR LOS ELECTORES",
+         "ballot_title_tl" : "MGA KATUNGKULANG NOMINADO NG BOTANTE",
+         "id" : "HDR02",
+         "ballot_title" : "VOTER-NOMINATED OFFICES",
+         "header_id" : "",
+         "ballot_title_zh" : "選民提名職位"
+      },
+      {
+         "type" : "header",
+         "classification" : "Office Category",
+         "id" : "HDR03",
+         "ballot_title" : "STATE",
+         "ballot_title_tl" : "ESTADO",
+         "ballot_title_es" : "ESTADO",
+         "header_id" : "HDR02",
+         "ballot_title_zh" : "州"
+      },
+      {
+         "header_id" : "HDR03",
+         "ballot_title_zh" : "州長",
+         "vote_for_msg" : "Vote for One",
+         "id" : "553",
+         "ballot_title_es" : "GOBERNADOR",
+         "vote_for_msg_es" : "Vote por uno",
+         "vote_for_msg_zh" : "選一名",
+         "is_partisan" : "Y",
+         "choices" : [
+            {
+               "ballot_designation_es" : "Director Ejecutivo de Empresa Emergente de Cadena de Bloques",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_title_zh" : "托馬斯 ‧ 傑佛遜 ‧ 卡里斯",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_designation_tl" : "CEO ng Nagsisimulang Blockchain",
+               "ballot_designation_zh" : "Blockchain初創公司總裁",
+               "id" : "4863",
+               "ballot_designation" : "Blockchain Startup CEO",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "ballot_title" : "THOMAS JEFFERSON CARES",
+               "candidate_party_zh" : "政黨傾向：民主黨"
+            },
+            {
+               "id" : "4866",
+               "ballot_designation" : "California State Treasurer",
+               "ballot_title" : "JOHN CHIANG",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_title_zh" : "江俊輝",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_designation_zh" : "加州財政部長",
+               "ballot_designation_tl" : "Ingat-yaman ng Estado ng California",
+               "ballot_designation_es" : "Tesorero del Estado de California"
+            },
+            {
+               "ballot_designation_es" : "Empresario / Defensor del Contribuyente",
+               "candidate_party_tl" : "Kinakatigang Partido: Republikano",
+               "ballot_title_zh" : "約翰 H. 考克斯",
+               "candidate_party" : "Party Preference: Republican",
+               "ballot_designation_zh" : "企業家 / 納稅人維權者",
+               "ballot_designation_tl" : "Negosyante / Tagapagtaguyod ng Nagbabayad ng Buwis",
+               "id" : "4862",
+               "candidate_party_es" : "Preferencia por partido: Republicano",
+               "ballot_designation" : "Businessman / Taxpayer Advocate",
+               "ballot_title" : "JOHN H. COX",
+               "candidate_party_zh" : "政黨傾向：共和黨"
+            },
+            {
+               "ballot_designation_es" : "Gerente de Operaciones, Departamento de Justicia",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_title_zh" : "阿曼達 ‧ 倫特里亞",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_designation_tl" : "COO, Kagawaran ng Hustisya",
+               "ballot_designation_zh" : "司法部首席運營官",
+               "id" : "4877",
+               "ballot_designation" : "COO, Justice Department",
+               "ballot_title" : "AMANDA RENTERIA",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "candidate_party_zh" : "政黨傾向：民主黨"
+            },
+            {
+               "ballot_designation_es" : "Educadora / Defensora de Menores",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "id" : "4870",
+               "ballot_designation" : "Educator / Youth Advocate",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "ballot_title" : "DELAINE EASTIN",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_designation_tl" : "Edukador / Tagapagtaguyod ng Kabataan",
+               "ballot_designation_zh" : "教育工作者 / 青少年維權者",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_title_zh" : "德拉尼 ‧ 伊斯丁"
+            },
+            {
+               "ballot_designation_es" : "Ministro de Mercado",
+               "ballot_designation_zh" : "市場牧師",
+               "ballot_designation_tl" : "Ministro ng Lugar ng Pamilihan",
+               "candidate_party" : "Party Preference: None",
+               "ballot_title_zh" : "傑弗里 ‧ 愛德華 ‧ 泰勒",
+               "candidate_party_tl" : "Kinakatigang Partido: Wala",
+               "candidate_party_zh" : "政黨傾向：沒有",
+               "ballot_title" : "JEFFREY EDWARD TAYLOR",
+               "ballot_designation" : "Marketplace Minister",
+               "candidate_party_es" : "Preferencia por partido: Ninguno",
+               "id" : "4879"
+            },
+            {
+               "ballot_designation" : "CEO / Educator / Artist",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "ballot_title" : "KLEMENT TINAJ",
+               "id" : "4880",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "ballot_title_zh" : "克萊蒙特 ‧ 提那吉",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_designation_zh" : "首席執行官 / 教育工作者 / 藝術家",
+               "ballot_designation_tl" : "CEO / Edukador / Artista",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_designation_es" : "Director Ejecutivo / Educador / Artista"
+            },
+            {
+               "ballot_designation_es" : "Director Ejecutivo / Propietario de Empresa",
+               "candidate_party_zh" : "政黨傾向：沒有",
+               "id" : "4867",
+               "ballot_designation" : "CEO / Business Owner",
+               "candidate_party_es" : "Preferencia por partido: Ninguno",
+               "ballot_title" : "HAKAN \"HAWK\" MIKADO",
+               "candidate_party" : "Party Preference: None",
+               "ballot_designation_zh" : "首席執行官 / 企業主",
+               "ballot_designation_tl" : "CEO / May-ari ng Negosyo",
+               "candidate_party_tl" : "Kinakatigang Partido: Wala",
+               "ballot_title_zh" : "哈坎“霍克”米卡多"
+            },
+            {
+               "ballot_designation_es" : "Educador Jubilado",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_designation_zh" : "退休教育工作者",
+               "ballot_designation_tl" : "Retiradong Edukador",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_title_zh" : "阿爾伯特 ‧ 凱撒 ‧ 梅澤蒂",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "id" : "4874",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "ballot_designation" : "Retired Educator",
+               "ballot_title" : "ALBERT CAESAR MEZZETTI"
+            },
+            {
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "ballot_title" : "GAVIN NEWSOM",
+               "ballot_designation" : "Lieutenant Governor / Businessman",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "id" : "4875",
+               "ballot_designation_zh" : "副州長 / 企業家",
+               "ballot_designation_tl" : "Tenyente Gobernador / Negosyante",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_title_zh" : "加文 ‧ 紐森",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_designation_es" : "Vicegobernador / Empresario"
+            },
+            {
+               "candidate_party_tl" : "Kinakatigang Partido: Republikano",
+               "ballot_title_zh" : "羅伯特 C. 紐曼",
+               "candidate_party" : "Party Preference: Republican",
+               "ballot_designation_zh" : "臨床研究心理學家",
+               "ballot_designation_tl" : "Pangklinikang Sikologo sa Pananaliksik",
+               "id" : "4882",
+               "ballot_title" : "ROBERT C. NEWMAN, II",
+               "ballot_designation" : "Research Clinical Psychologist",
+               "candidate_party_es" : "Preferencia por partido: Republicano",
+               "candidate_party_zh" : "政黨傾向：共和黨",
+               "ballot_designation_es" : "Psicólogo Clínico de Investigación"
+            },
+            {
+               "ballot_designation_es" : "Escritor",
+               "id" : "4872",
+               "candidate_party_es" : "Preferencia por partido: Verde",
+               "ballot_designation" : "Author",
+               "ballot_title" : "JOSH JONES",
+               "candidate_party_zh" : "政黨傾向：綠黨",
+               "candidate_party_tl" : "Kinakatigang Partido: Luntian",
+               "ballot_title_zh" : "喬希 ‧ 瓊斯",
+               "candidate_party" : "Party Preference: Green",
+               "ballot_designation_tl" : "Awtor",
+               "ballot_designation_zh" : "作家"
+            },
+            {
+               "ballot_designation_es" : "Doctor en Medicina Jubilado",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "id" : "4861",
+               "ballot_designation" : "Retired Medical Doctor",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "ballot_title" : "J. BRIBIESCA",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_designation_zh" : "退休醫生",
+               "ballot_designation_tl" : "Retiradong Doktor na Medikal",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_title_zh" : "J. 布利彼斯卡"
+            },
+            {
+               "candidate_party_zh" : "政黨傾向：和平自由黨",
+               "ballot_designation" : "Graphic Artist",
+               "ballot_title" : "GLORIA ESTELA LA RIVA",
+               "candidate_party_es" : "Preferencia por partido: Paz y Libertad",
+               "id" : "4859",
+               "ballot_designation_zh" : "圖形設計師",
+               "ballot_designation_tl" : "Grapikong Artista",
+               "candidate_party" : "Party Preference: Peace and Freedom",
+               "ballot_title_zh" : "格羅麗亞 ‧ 愛斯特拉 ‧ 拉 ‧ 麗娃",
+               "candidate_party_tl" : "Kinakatigang Partido: Kapayapaan at Kalayaan",
+               "ballot_designation_es" : "Artista Gráfica"
+            },
+            {
+               "candidate_party_zh" : "政黨傾向：共和黨",
+               "candidate_party_es" : "Preferencia por partido: Republicano",
+               "ballot_title" : "PETER Y LIU",
+               "id" : "4876",
+               "candidate_party" : "Party Preference: Republican",
+               "ballot_title_zh" : "劉彼得",
+               "candidate_party_tl" : "Kinakatigang Partido: Republikano"
+            },
+            {
+               "ballot_designation_es" : "Asesor de Políticas Públicas",
+               "ballot_title" : "ANTONIO VILLARAIGOSA",
+               "ballot_designation" : "Public Policy Advisor",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "id" : "4883",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "ballot_title_zh" : "安東尼 ‧ 維拉萊戈薩",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_designation_tl" : "Tagapayo sa Pampublikong Patakaran",
+               "ballot_designation_zh" : "公共政策顧問",
+               "candidate_party" : "Party Preference: Democratic"
+            },
+            {
+               "ballot_designation_es" : "Asistente Judicial",
+               "candidate_party" : "Party Preference: Republican",
+               "ballot_designation_tl" : "Katulong na Panghukuman",
+               "ballot_designation_zh" : "司法助理",
+               "candidate_party_tl" : "Kinakatigang Partido: Republikano",
+               "ballot_title_zh" : "伊馮娜 ‧ 吉拉德",
+               "candidate_party_zh" : "政黨傾向：共和黨",
+               "id" : "4865",
+               "candidate_party_es" : "Preferencia por partido: Republicano",
+               "ballot_designation" : "Judicial Assistant",
+               "ballot_title" : "YVONNE GIRARD"
+            },
+            {
+               "ballot_title_zh" : "羅伯特 ‧ 戴維森 ‧ 格里菲斯",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_designation_zh" : "創業者 / 經濟學家 / 父親",
+               "ballot_designation_tl" : "Mangangalakal / Ekonomista / Ama",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_designation" : "Entrepreneur / Economist / Father",
+               "ballot_title" : "ROBERT DAVIDSON GRIFFIS",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "id" : "4873",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "ballot_designation_es" : "Emprendedor / Economista / Padre"
+            },
+            {
+               "ballot_designation_es" : "Gerente de Realidad Virtual",
+               "ballot_designation_zh" : "虛擬現實經理",
+               "ballot_designation_tl" : "Tagapamahala ng Birtuwal na Realidad",
+               "candidate_party" : "Party Preference: None",
+               "ballot_title_zh" : "舒巴姆 ‧ 格爾",
+               "candidate_party_tl" : "Kinakatigang Partido: Wala",
+               "candidate_party_zh" : "政黨傾向：沒有",
+               "ballot_designation" : "Virtual Reality Manager",
+               "ballot_title" : "SHUBHAM GOEL",
+               "candidate_party_es" : "Preferencia por partido: Ninguno",
+               "id" : "4864"
+            },
+            {
+               "ballot_designation_es" : "Asambleísta de California / Empresario",
+               "candidate_party" : "Party Preference: Republican",
+               "ballot_designation_zh" : "加州眾議員 / 企業家",
+               "ballot_designation_tl" : "Miyembro ng Asembleya ng California / Negosyante",
+               "candidate_party_tl" : "Kinakatigang Partido: Republikano",
+               "ballot_title_zh" : "特拉維斯 ‧ 艾倫",
+               "candidate_party_zh" : "政黨傾向：共和黨",
+               "id" : "4860",
+               "ballot_designation" : "California Assemblyman / Businessman",
+               "candidate_party_es" : "Preferencia por partido: Republicano",
+               "ballot_title" : "TRAVIS ALLEN"
+            },
+            {
+               "ballot_designation" : "Mathematician",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "ballot_title" : "AKINYEMI AGBEDE",
+               "id" : "4858",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "ballot_title_zh" : "阿金耶米 ‧ 阿格彼得",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_designation_zh" : "數學家",
+               "ballot_designation_tl" : "Dalubhasa sa Matematika",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_designation_es" : "Matemático"
+            },
+            {
+               "ballot_designation_es" : "Propietario de Empresa",
+               "candidate_party_zh" : "政黨傾向：沒有",
+               "candidate_party_es" : "Preferencia por partido: Ninguno",
+               "ballot_designation" : "Business Owner",
+               "ballot_title" : "JOHNNY WATTENBURG",
+               "id" : "4881",
+               "ballot_designation_tl" : "May-ari ng Negosyo",
+               "ballot_designation_zh" : "企業主",
+               "candidate_party" : "Party Preference: None",
+               "ballot_title_zh" : "約翰尼 ‧ 瓦滕伯格",
+               "candidate_party_tl" : "Kinakatigang Partido: Wala"
+            },
+            {
+               "candidate_party_tl" : "Kinakatigang Partido: Libertaryan",
+               "ballot_title_zh" : "尼古拉 ‧ 維爾德斯達",
+               "candidate_party" : "Party Preference: Libertarian",
+               "ballot_designation_tl" : "Artista ng Pagrekord",
+               "ballot_designation_zh" : "錄音藝人",
+               "id" : "4871",
+               "ballot_designation" : "Recording Artist",
+               "candidate_party_es" : "Preferencia por partido: Libertario",
+               "ballot_title" : "NICKOLAS WILDSTAR",
+               "candidate_party_zh" : "政黨傾向：自由黨",
+               "ballot_designation_es" : "Artista de Grabación"
+            },
+            {
+               "ballot_designation" : "Senior Software Engineer",
+               "ballot_title" : "DESMOND SILVEIRA",
+               "candidate_party_es" : "Preferencia por partido: Ninguno",
+               "id" : "4869",
+               "candidate_party_zh" : "政黨傾向：沒有",
+               "ballot_title_zh" : "德斯蒙德 ‧ 希爾維拉",
+               "candidate_party_tl" : "Kinakatigang Partido: Wala",
+               "ballot_designation_zh" : "高級軟體工程師",
+               "ballot_designation_tl" : "Nakatataas na Inhinyero ng Programa ng Kompyuter",
+               "candidate_party" : "Party Preference: None",
+               "ballot_designation_es" : "Ingeniero Senior de Software"
+            },
+            {
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "id" : "4878",
+               "ballot_designation" : "Environmental Organization Executive",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "ballot_title" : "MICHAEL SHELLENBERGER",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_designation_tl" : "Tagapagpaganap ng Organisasyong Pangkapaligiran",
+               "ballot_designation_zh" : "環保組織執行官",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_title_zh" : "邁克爾 ‧ 施萊恩伯格",
+               "ballot_designation_es" : "Ejecutivo de Organización Medioambiental"
+            },
+            {
+               "candidate_party_zh" : "政黨傾向：自由黨",
+               "candidate_party_es" : "Preferencia por partido: Libertario",
+               "ballot_designation" : "Entrepreneur / Transhumanist Lecturer",
+               "ballot_title" : "ZOLTAN ISTVAN",
+               "id" : "4868",
+               "ballot_designation_zh" : "創業者 / 超人類主義講師",
+               "ballot_designation_tl" : "Mangangalakal / Transhumanistang Tagapanayam",
+               "candidate_party" : "Party Preference: Libertarian",
+               "ballot_title_zh" : "索爾坦 ‧ 伊斯特萬",
+               "candidate_party_tl" : "Kinakatigang Partido: Libertaryan",
+               "ballot_designation_es" : "Emprendedor / Orador Transhumanista"
+            },
+            {
+               "ballot_designation_es" : "Titiritero / Músico",
+               "candidate_party" : "Party Preference: Green",
+               "ballot_designation_tl" : "Tagatanghal ng Papet / Musikero",
+               "ballot_designation_zh" : "木偶藝人 / 音樂家",
+               "candidate_party_tl" : "Kinakatigang Partido: Luntian",
+               "ballot_title_zh" : "克里斯托弗 N. 卡爾森",
+               "candidate_party_zh" : "政黨傾向：綠黨",
+               "id" : "4857",
+               "ballot_designation" : "Puppeteer / Musician",
+               "ballot_title" : "CHRISTOPHER N. CARLSON",
+               "candidate_party_es" : "Preferencia por partido: Verde"
+            }
+         ],
+         "ballot_title" : "GOVERNOR",
+         "ballot_title_tl" : "GOBERNADOR",
+         "number_elected" : 1,
+         "writeins_allowed" : 1,
+         "vote_for_msg_tl" : "Bumoto ng Isa",
+         "type" : "office",
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ],
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "ballot_title" : "'Ballots Cast'",
+               "id" : "'SVCst'"
+            },
+            {
+               "ballot_title" : "'Registered Voters'",
+               "id" : "'SVReg'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "id" : "'SVRej'",
+               "ballot_title" : "'Ballots Rejected'"
+            },
+            {
+               "ballot_title" : "'Ballots Uncounted'",
+               "id" : "'SVUnc'"
+            },
+            {
+               "ballot_title" : "'Writein Votes'",
+               "id" : "'SVWri'"
+            },
+            {
+               "ballot_title" : "'Undervotes'",
+               "id" : "'SVUnd'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ]
+      },
+      {
+         "vote_for_msg_zh" : "選一名",
+         "vote_for_msg_es" : "Vote por uno",
+         "is_partisan" : "Y",
+         "header_id" : "HDR03",
+         "ballot_title_zh" : "副州長",
+         "vote_for_msg" : "Vote for One",
+         "id" : "554",
+         "ballot_title_es" : "VICEGOBERNADOR",
+         "number_elected" : 1,
+         "writeins_allowed" : 1,
+         "vote_for_msg_tl" : "Bumoto ng Isa",
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ],
+         "type" : "office",
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "ballot_title" : "'Ballots Cast'",
+               "id" : "'SVCst'"
+            },
+            {
+               "ballot_title" : "'Registered Voters'",
+               "id" : "'SVReg'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "id" : "'SVRej'",
+               "ballot_title" : "'Ballots Rejected'"
+            },
+            {
+               "ballot_title" : "'Ballots Uncounted'",
+               "id" : "'SVUnc'"
+            },
+            {
+               "ballot_title" : "'Writein Votes'",
+               "id" : "'SVWri'"
+            },
+            {
+               "ballot_title" : "'Undervotes'",
+               "id" : "'SVUnd'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "choices" : [
+            {
+               "candidate_party_es" : "Preferencia por partido: Ninguno",
+               "ballot_designation" : "Dentist / Dental Surgeon",
+               "ballot_title" : "DANNY THOMAS",
+               "id" : "4894",
+               "candidate_party_zh" : "政黨傾向：沒有",
+               "ballot_title_zh" : "丹尼 ‧ 托馬斯",
+               "candidate_party_tl" : "Kinakatigang Partido: Wala",
+               "ballot_designation_tl" : "Dentista / Siruhano ng Ngipin",
+               "ballot_designation_zh" : "牙科醫生 / 牙外科醫生",
+               "candidate_party" : "Party Preference: None",
+               "ballot_designation_es" : "Dentista / Cirujano Dental"
+            },
+            {
+               "ballot_designation_es" : "Padre / Emprendedor / Empresario",
+               "id" : "4888",
+               "candidate_party_es" : "Preferencia por partido: Republicano",
+               "ballot_designation" : "Father / Entrepreneur / Businessman",
+               "ballot_title" : "COLE HARRIS",
+               "candidate_party_zh" : "政黨傾向：共和黨",
+               "candidate_party_tl" : "Kinakatigang Partido: Republikano",
+               "ballot_title_zh" : "科爾 ‧ 哈里斯",
+               "candidate_party" : "Party Preference: Republican",
+               "ballot_designation_tl" : "Ama / Mangangalakal / Negosyante",
+               "ballot_designation_zh" : "父親 / 創業者 / 企業家"
+            },
+            {
+               "ballot_designation_es" : "Senador Estatal / Empresario",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_designation_zh" : "加州參議員 / 企業家",
+               "ballot_designation_tl" : "Senador ng Estado / Negosyante",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_title_zh" : "艾德 ‧ 艾爾南德斯",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "id" : "4890",
+               "ballot_designation" : "State Senator / Businessman",
+               "ballot_title" : "ED HERNANDEZ",
+               "candidate_party_es" : "Preferencia por partido: Demócrata"
+            },
+            {
+               "candidate_party_zh" : "政黨傾向：共和黨",
+               "ballot_designation" : "Retired Business Owner",
+               "ballot_title" : "DAVID R. HERNANDEZ",
+               "candidate_party_es" : "Preferencia por partido: Republicano",
+               "id" : "4889",
+               "ballot_designation_tl" : "Retiradong May-ari ng Negosyo",
+               "ballot_designation_zh" : "退休企業主",
+               "candidate_party" : "Party Preference: Republican",
+               "ballot_title_zh" : "大衛 R. 艾爾南德斯",
+               "candidate_party_tl" : "Kinakatigang Partido: Republikano",
+               "ballot_designation_es" : "Propietario de Empresa Jubilado"
+            },
+            {
+               "ballot_designation_es" : "Economista / Empresaria / Educadora",
+               "ballot_designation" : "Economist / Businesswoman / Educator",
+               "candidate_party_es" : "Preferencia por partido: Republicano",
+               "ballot_title" : "LYDIA ORTEGA",
+               "id" : "4893",
+               "candidate_party_zh" : "政黨傾向：共和黨",
+               "ballot_title_zh" : "莉迪亞 ‧ 奧特加",
+               "candidate_party_tl" : "Kinakatigang Partido: Republikano",
+               "ballot_designation_zh" : "經濟學家 / 企業家 / 教育工作者",
+               "ballot_designation_tl" : "Ekonomista / Negosyante / Edukador",
+               "candidate_party" : "Party Preference: Republican"
+            },
+            {
+               "ballot_designation_es" : "Organizadora Comunitaria / Educadora",
+               "ballot_designation_zh" : "社區組織者 / 教育工作者",
+               "ballot_designation_tl" : "Tagapagtatag sa Komunidad / Edukador",
+               "candidate_party" : "Party Preference: None",
+               "ballot_title_zh" : "蓋爾 ‧ 邁克拉福林",
+               "candidate_party_tl" : "Kinakatigang Partido: Wala",
+               "candidate_party_zh" : "政黨傾向：沒有",
+               "candidate_party_es" : "Preferencia por partido: Ninguno",
+               "ballot_designation" : "Community Organizer / Educator",
+               "ballot_title" : "GAYLE MCLAUGHLIN",
+               "id" : "4892"
+            },
+            {
+               "ballot_designation_es" : "Abogado / Educador",
+               "ballot_title_zh" : "傑夫 ‧ 布萊奇",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_designation_zh" : "律師 / 教育工作者",
+               "ballot_designation_tl" : "Abugado / Edukador",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_title" : "JEFF BLEICH",
+               "ballot_designation" : "Attorney / Educator",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "id" : "4884",
+               "candidate_party_zh" : "政黨傾向：民主黨"
+            },
+            {
+               "ballot_designation_es" : "Empresaria / Asesora Económica",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_title_zh" : "艾利尼 ‧ 庫那拉吉斯",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_designation_zh" : "企業家 / 經濟顧問",
+               "ballot_designation_tl" : "Negosyante / Tagapayong Pangkabuhayan",
+               "id" : "4891",
+               "ballot_designation" : "Businesswoman / Economic Advisor",
+               "ballot_title" : "ELENI KOUNALAKIS",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "candidate_party_zh" : "政黨傾向：民主黨"
+            },
+            {
+               "ballot_designation_es" : "Abogado",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_designation_zh" : "律師",
+               "ballot_designation_tl" : "Abugado",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_title_zh" : "卡莫隆 ‧ 加拉彼克盧",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "id" : "4887",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "ballot_designation" : "Attorney",
+               "ballot_title" : "CAMERON GHARABIKLOU"
+            },
+            {
+               "ballot_designation" : "Strategist / Programmer / Entrepreneur",
+               "candidate_party_es" : "Preferencia por partido: Libertario",
+               "ballot_title" : "TIM FERREIRA",
+               "id" : "4886",
+               "candidate_party_zh" : "政黨傾向：自由黨",
+               "ballot_title_zh" : "蒂姆 ‧ 佛萊拉",
+               "candidate_party_tl" : "Kinakatigang Partido: Libertaryan",
+               "ballot_designation_zh" : "戰略師 / 程式員 / 創業者",
+               "ballot_designation_tl" : "Taga-istratehiya / Tagagawa ng Programa / Mangangalakal",
+               "candidate_party" : "Party Preference: Libertarian",
+               "ballot_designation_es" : "Estratega / Programador / Emprendedor"
+            },
+            {
+               "ballot_designation_es" : "Emprendedor",
+               "candidate_party" : "Party Preference: Republican",
+               "ballot_designation_tl" : "Mangangalakal",
+               "ballot_designation_zh" : "創業者",
+               "candidate_party_tl" : "Kinakatigang Partido: Republikano",
+               "ballot_title_zh" : "大衛 ‧ 芬奈爾",
+               "candidate_party_zh" : "政黨傾向：共和黨",
+               "id" : "4885",
+               "ballot_designation" : "Entrepreneur",
+               "candidate_party_es" : "Preferencia por partido: Republicano",
+               "ballot_title" : "DAVID FENNELL"
+            }
+         ],
+         "ballot_title" : "LIEUTENANT GOVERNOR",
+         "ballot_title_tl" : "TENYENTE GOBERNADOR"
+      },
+      {
+         "choices" : [
+            {
+               "ballot_designation_es" : "Secretario de Estado",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "id" : "4903",
+               "ballot_designation" : "Secretary of State",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "ballot_title" : "ALEX PADILLA",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_designation_tl" : "Kahilim ng Estado",
+               "ballot_designation_zh" : "州務卿",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_title_zh" : "阿列克斯 ‧ 帕迪拉"
+            },
+            {
+               "candidate_party_zh" : "政黨傾向：自由黨",
+               "candidate_party_es" : "Preferencia por partido: Libertario",
+               "ballot_designation" : "Retired Nurse",
+               "ballot_title" : "GAIL K. LIGHTFOOT",
+               "id" : "4900",
+               "ballot_designation_tl" : "Retiradong Nars",
+               "ballot_designation_zh" : "退休護士",
+               "candidate_party" : "Party Preference: Libertarian",
+               "ballot_title_zh" : "蓋爾 K. 萊特福特",
+               "candidate_party_tl" : "Kinakatigang Partido: Libertaryan",
+               "ballot_designation_es" : "Enfermera Jubilada"
+            },
+            {
+               "candidate_party" : "Party Preference: Peace and Freedom",
+               "ballot_designation_zh" : "退休政府分析師",
+               "ballot_designation_tl" : "Retiradong Manunuri ng Pamahalaan",
+               "candidate_party_tl" : "Kinakatigang Partido: Kapayapaan at Kalayaan",
+               "ballot_title_zh" : "C. T. 韋伯",
+               "candidate_party_zh" : "政黨傾向：和平自由黨",
+               "id" : "4906",
+               "ballot_designation" : "Retired Government Analyst",
+               "ballot_title" : "C.T. WEBER",
+               "candidate_party_es" : "Preferencia por partido: Paz y Libertad",
+               "ballot_designation_es" : "Analista Gubernamental Jubilado"
+            },
+            {
+               "ballot_title_zh" : "埃里克 ‧ 利德伯格",
+               "candidate_party_tl" : "Kinakatigang Partido: Luntian",
+               "ballot_designation_tl" : "Tagapagtatag sa Komunidad",
+               "ballot_designation_zh" : "社區組織者",
+               "candidate_party" : "Party Preference: Green",
+               "candidate_party_es" : "Preferencia por partido: Verde",
+               "ballot_designation" : "Community Organizer",
+               "ballot_title" : "ERIK RYDBERG",
+               "id" : "4905",
+               "candidate_party_zh" : "政黨傾向：綠黨",
+               "ballot_designation_es" : "Organizador Comunitario"
+            },
+            {
+               "ballot_designation_tl" : "Retiradong Empleyado sa Pagbodega",
+               "ballot_designation_zh" : "退休倉庫員工",
+               "candidate_party" : "Party Preference: Republican",
+               "ballot_title_zh" : "拉烏爾 ‧ 羅德里格斯",
+               "candidate_party_tl" : "Kinakatigang Partido: Republikano",
+               "candidate_party_zh" : "政黨傾向：共和黨",
+               "ballot_title" : "RAUL RODRIGUEZ JR",
+               "ballot_designation" : "Retired Warehousing Employee",
+               "candidate_party_es" : "Preferencia por partido: Republicano",
+               "id" : "4904",
+               "ballot_designation_es" : "Empleado de Almacén Jubilado"
+            },
+            {
+               "candidate_party_zh" : "政黨傾向：綠黨",
+               "ballot_designation" : "Electoral Reform Consultant",
+               "ballot_title" : "MICHAEL FEINSTEIN",
+               "candidate_party_es" : "Preferencia por partido: Verde",
+               "id" : "4899",
+               "ballot_designation_tl" : "Tagapayo sa Reporma sa Halalan",
+               "ballot_designation_zh" : "選舉改革顧問",
+               "candidate_party" : "Party Preference: Green",
+               "ballot_title_zh" : "邁克爾 ‧ 費恩斯坦",
+               "candidate_party_tl" : "Kinakatigang Partido: Luntian",
+               "ballot_designation_es" : "Consultor de Reforma Electoral"
+            },
+            {
+               "id" : "4901",
+               "ballot_title" : "RUBEN MAJOR",
+               "ballot_designation" : "Paramedic / Educator / Businessperson",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_title_zh" : "魯本 ‧ 馬約爾",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_designation_tl" : "Paramediko / Edukador / Negosyante",
+               "ballot_designation_zh" : "救護員 / 教育工作者 / 企業家",
+               "ballot_designation_es" : "Paramédico / Educador / Empresario"
+            },
+            {
+               "ballot_designation_es" : "Abogado de Derecho Electoral",
+               "candidate_party" : "Party Preference: Republican",
+               "ballot_designation_tl" : "Abugado sa Batas ng Halalan",
+               "ballot_designation_zh" : "選舉法律師",
+               "candidate_party_tl" : "Kinakatigang Partido: Republikano",
+               "ballot_title_zh" : "馬克 P. 莫瑟",
+               "candidate_party_zh" : "政黨傾向：共和黨",
+               "id" : "4902",
+               "candidate_party_es" : "Preferencia por partido: Republicano",
+               "ballot_designation" : "Election Law Attorney",
+               "ballot_title" : "MARK P. MEUSER"
+            }
+         ],
+         "ballot_title_tl" : "KALIHIM NG ESTADO",
+         "ballot_title" : "SECRETARY OF STATE",
+         "vote_for_msg_tl" : "Bumoto ng Isa",
+         "number_elected" : 1,
+         "writeins_allowed" : 1,
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ],
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "ballot_title" : "'Ballots Cast'",
+               "id" : "'SVCst'"
+            },
+            {
+               "ballot_title" : "'Registered Voters'",
+               "id" : "'SVReg'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "id" : "'SVRej'",
+               "ballot_title" : "'Ballots Rejected'"
+            },
+            {
+               "ballot_title" : "'Ballots Uncounted'",
+               "id" : "'SVUnc'"
+            },
+            {
+               "ballot_title" : "'Writein Votes'",
+               "id" : "'SVWri'"
+            },
+            {
+               "ballot_title" : "'Undervotes'",
+               "id" : "'SVUnd'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "type" : "office",
+         "vote_for_msg" : "Vote for One",
+         "header_id" : "HDR03",
+         "ballot_title_zh" : "州務卿",
+         "ballot_title_es" : "SECRETARIO DE ESTADO",
+         "id" : "557",
+         "is_partisan" : "Y",
+         "vote_for_msg_zh" : "選一名",
+         "vote_for_msg_es" : "Vote por uno"
+      },
+      {
+         "ballot_title_tl" : "KONTROLER",
+         "ballot_title" : "CONTROLLER",
+         "choices" : [
+            {
+               "ballot_designation_es" : "Educadora Jubilada",
+               "ballot_title_zh" : "瑪麗 ‧ 盧 ‧ 芬雷",
+               "candidate_party_tl" : "Kinakatigang Partido: Kapayapaan at Kalayaan",
+               "ballot_designation_zh" : "退休教育工作者",
+               "ballot_designation_tl" : "Retiradong Edukador",
+               "candidate_party" : "Party Preference: Peace and Freedom",
+               "ballot_title" : "MARY LOU FINLEY",
+               "ballot_designation" : "Retired Educator",
+               "candidate_party_es" : "Preferencia por partido: Paz y Libertad",
+               "id" : "4907",
+               "candidate_party_zh" : "政黨傾向：和平自由黨"
+            },
+            {
+               "ballot_designation_es" : "Contralora Estatal de California",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_title_zh" : "余淑婷",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_designation_zh" : "加州主計長",
+               "ballot_designation_tl" : "Kontroler ng Estado ng California",
+               "id" : "4909",
+               "ballot_title" : "BETTY T. YEE",
+               "ballot_designation" : "California State Controller",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "candidate_party_zh" : "政黨傾向：民主黨"
+            },
+            {
+               "ballot_designation_es" : "Emprendedor",
+               "ballot_title_zh" : "康斯坦丁諾斯 ‧ 羅蒂提斯",
+               "candidate_party_tl" : "Kinakatigang Partido: Republikano",
+               "ballot_designation_zh" : "創業者",
+               "ballot_designation_tl" : "Mangangalakal",
+               "candidate_party" : "Party Preference: Republican",
+               "ballot_title" : "KONSTANTINOS RODITIS",
+               "ballot_designation" : "Entrepreneur",
+               "candidate_party_es" : "Preferencia por partido: Republicano",
+               "id" : "4908",
+               "candidate_party_zh" : "政黨傾向：共和黨"
+            }
+         ],
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ],
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "ballot_title" : "'Ballots Cast'",
+               "id" : "'SVCst'"
+            },
+            {
+               "ballot_title" : "'Registered Voters'",
+               "id" : "'SVReg'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "id" : "'SVRej'",
+               "ballot_title" : "'Ballots Rejected'"
+            },
+            {
+               "ballot_title" : "'Ballots Uncounted'",
+               "id" : "'SVUnc'"
+            },
+            {
+               "ballot_title" : "'Writein Votes'",
+               "id" : "'SVWri'"
+            },
+            {
+               "ballot_title" : "'Undervotes'",
+               "id" : "'SVUnd'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "type" : "office",
+         "vote_for_msg_tl" : "Bumoto ng Isa",
+         "writeins_allowed" : 1,
+         "number_elected" : 1,
+         "ballot_title_es" : "CONTRALOR",
+         "id" : "558",
+         "vote_for_msg" : "Vote for One",
+         "ballot_title_zh" : "主計長",
+         "header_id" : "HDR03",
+         "is_partisan" : "Y",
+         "vote_for_msg_es" : "Vote por uno",
+         "vote_for_msg_zh" : "選一名"
+      },
+      {
+         "is_partisan" : "Y",
+         "vote_for_msg_es" : "Vote por uno",
+         "vote_for_msg_zh" : "選一名",
+         "ballot_title_es" : "TESORERO",
+         "id" : "559",
+         "vote_for_msg" : "Vote for One",
+         "header_id" : "HDR03",
+         "ballot_title_zh" : "財務部長",
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ],
+         "type" : "office",
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "ballot_title" : "'Ballots Cast'",
+               "id" : "'SVCst'"
+            },
+            {
+               "ballot_title" : "'Registered Voters'",
+               "id" : "'SVReg'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "id" : "'SVRej'",
+               "ballot_title" : "'Ballots Rejected'"
+            },
+            {
+               "ballot_title" : "'Ballots Uncounted'",
+               "id" : "'SVUnc'"
+            },
+            {
+               "ballot_title" : "'Writein Votes'",
+               "id" : "'SVWri'"
+            },
+            {
+               "ballot_title" : "'Undervotes'",
+               "id" : "'SVUnd'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "vote_for_msg_tl" : "Bumoto ng Isa",
+         "number_elected" : 1,
+         "writeins_allowed" : 1,
+         "ballot_title_tl" : "INGAT-YAMAN",
+         "ballot_title" : "TREASURER",
+         "choices" : [
+            {
+               "ballot_title_zh" : "傑克 M. 格里羅",
+               "candidate_party_tl" : "Kinakatigang Partido: Republikano",
+               "ballot_designation_zh" : "註冊會計師 / 市議員 / 經濟學家",
+               "ballot_designation_tl" : "CPA / Miyembro ng Konseho / Ekonomista",
+               "candidate_party" : "Party Preference: Republican",
+               "ballot_designation" : "CPA / Councilmember / Economist",
+               "ballot_title" : "JACK M. GUERRERO",
+               "candidate_party_es" : "Preferencia por partido: Republicano",
+               "id" : "4912",
+               "candidate_party_zh" : "政黨傾向：共和黨",
+               "ballot_designation_es" : "Contador Público Certificado / Concejal / Economista"
+            },
+            {
+               "candidate_party" : "Party Preference: Peace and Freedom",
+               "ballot_designation_tl" : "Retiradong Inhinyero ng Pagpapatakbo sa Pamamagitan ng Singaw",
+               "ballot_designation_zh" : "退休蒸汽工程師",
+               "candidate_party_tl" : "Kinakatigang Partido: Kapayapaan at Kalayaan",
+               "ballot_title_zh" : "凱文 ‧ 阿金",
+               "candidate_party_zh" : "政黨傾向：和平自由黨",
+               "id" : "4910",
+               "candidate_party_es" : "Preferencia por partido: Paz y Libertad",
+               "ballot_designation" : "Retired Steam Engineer",
+               "ballot_title" : "KEVIN AKIN",
+               "ballot_designation_es" : "Ingeniero de Sistemas de Vapor Jubilado"
+            },
+            {
+               "candidate_party" : "Party Preference: Republican",
+               "ballot_designation_zh" : "企業家 / 註冊會計師",
+               "ballot_designation_tl" : "Negosyante / CPA",
+               "candidate_party_tl" : "Kinakatigang Partido: Republikano",
+               "ballot_title_zh" : "格雷格 ‧ 康隆",
+               "candidate_party_zh" : "政黨傾向：共和黨",
+               "id" : "4911",
+               "ballot_designation" : "Businessman / CPA",
+               "ballot_title" : "GREG CONLON",
+               "candidate_party_es" : "Preferencia por partido: Republicano",
+               "ballot_designation_es" : "Empresario / Contador Público Certificado"
+            },
+            {
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "id" : "4913",
+               "ballot_designation" : "CPA / Taxpayer Representative",
+               "ballot_title" : "FIONA MA",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_designation_tl" : "CPA / Kinatawan ng Nagbabayad ng Buwis",
+               "ballot_designation_zh" : "註冊會計師 / 納稅人代表",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_title_zh" : "菲奧娜 ‧ 馬",
+               "ballot_designation_es" : "Contadora Pública Certificada / Representante de Contribuyentes"
+            },
+            {
+               "ballot_designation_tl" : "Opisina ng Gobernador, Tagapayo",
+               "ballot_designation_zh" : "州長辦公室顧問",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_title_zh" : "維微克 ‧ 維斯瓦納森",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "ballot_title" : "VIVEK VISWANATHAN",
+               "ballot_designation" : "Governor's Office, Advisor",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "id" : "4914",
+               "ballot_designation_es" : "Asesor, Oficina del Gobernador"
+            }
+         ]
+      },
+      {
+         "choices" : [
+            {
+               "ballot_designation_es" : "Comisionado de Seguros de California",
+               "ballot_designation_zh" : "加州保險部長",
+               "ballot_designation_tl" : "Komisyonado ng Seguro ng California",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_title_zh" : "大衛 ‧ 瓊斯",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "ballot_designation" : "California Insurance Commissioner",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "ballot_title" : "DAVE JONES",
+               "id" : "4895"
+            },
+            {
+               "ballot_designation_es" : "Juez de California Jubilado",
+               "ballot_designation_zh" : "退休加州法官",
+               "ballot_designation_tl" : "Retiradong Hukom ng California",
+               "candidate_party" : "Party Preference: Republican",
+               "ballot_title_zh" : "斯蒂芬 C 拜雷",
+               "candidate_party_tl" : "Kinakatigang Partido: Republikano",
+               "candidate_party_zh" : "政黨傾向：共和黨",
+               "ballot_title" : "STEVEN C BAILEY",
+               "ballot_designation" : "Retired California Judge",
+               "candidate_party_es" : "Preferencia por partido: Republicano",
+               "id" : "4897"
+            },
+            {
+               "ballot_designation_es" : "Procurador General Nombrado del Estado de California",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_title_zh" : "哈維 ‧ 貝西拉",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_designation_tl" : "Hinirang na Pangkalahatang Abugado ng Estado ng California",
+               "ballot_designation_zh" : "加州司法部長",
+               "id" : "4898",
+               "ballot_designation" : "Appointed Attorney General of the State of California",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "ballot_title" : "XAVIER BECERRA",
+               "candidate_party_zh" : "政黨傾向：民主黨"
+            },
+            {
+               "id" : "4896",
+               "ballot_designation" : "Attorney / Business Owner",
+               "candidate_party_es" : "Preferencia por partido: Republicano",
+               "ballot_title" : "ERIC EARLY",
+               "candidate_party_zh" : "政黨傾向：共和黨",
+               "candidate_party_tl" : "Kinakatigang Partido: Republikano",
+               "ballot_title_zh" : "埃里克 ‧ 厄利",
+               "candidate_party" : "Party Preference: Republican",
+               "ballot_designation_zh" : "律師 / 企業主",
+               "ballot_designation_tl" : "Abugado / May-ari ng Negosyo",
+               "ballot_designation_es" : "Abogado / Propietario de Empresa"
+            }
+         ],
+         "ballot_title" : "ATTORNEY GENERAL",
+         "ballot_title_tl" : "PANGKALAHATANG ABUGADO",
+         "number_elected" : 1,
+         "writeins_allowed" : 1,
+         "vote_for_msg_tl" : "Bumoto ng Isa",
+         "type" : "office",
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ],
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "ballot_title" : "'Ballots Cast'",
+               "id" : "'SVCst'"
+            },
+            {
+               "ballot_title" : "'Registered Voters'",
+               "id" : "'SVReg'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "id" : "'SVRej'",
+               "ballot_title" : "'Ballots Rejected'"
+            },
+            {
+               "ballot_title" : "'Ballots Uncounted'",
+               "id" : "'SVUnc'"
+            },
+            {
+               "ballot_title" : "'Writein Votes'",
+               "id" : "'SVWri'"
+            },
+            {
+               "ballot_title" : "'Undervotes'",
+               "id" : "'SVUnd'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "header_id" : "HDR03",
+         "ballot_title_zh" : "司法部長",
+         "vote_for_msg" : "Vote for One",
+         "id" : "555",
+         "ballot_title_es" : "PROCURADOR GENERAL",
+         "vote_for_msg_zh" : "選一名",
+         "vote_for_msg_es" : "Vote por uno",
+         "is_partisan" : "Y"
+      },
+      {
+         "choices" : [
+            {
+               "ballot_designation_es" : "Empresario / Director de Organización Sin Fines de Lucro",
+               "ballot_designation" : "Businessman / Non-Profit Director",
+               "candidate_party_es" : "Preferencia por partido: Ninguno",
+               "ballot_title" : "STEVE POIZNER",
+               "id" : "4824",
+               "candidate_party_zh" : "政黨傾向：沒有",
+               "ballot_title_zh" : "史蒂夫 ‧ 波伊茲納",
+               "candidate_party_tl" : "Kinakatigang Partido: Wala",
+               "ballot_designation_tl" : "Negosyante / Direktor ng Di-Nagtutubo",
+               "ballot_designation_zh" : "企業家 / 非營利組織主任",
+               "candidate_party" : "Party Preference: None"
+            },
+            {
+               "ballot_designation_zh" : "加州參議員",
+               "ballot_designation_tl" : "Senador ng California",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_title_zh" : "理查多 ‧ 拉拉",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "ballot_designation" : "California Senator",
+               "ballot_title" : "RICARDO LARA",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "id" : "4822",
+               "ballot_designation_es" : "Senador de California"
+            },
+            {
+               "ballot_designation_es" : "Maestra de Escuela Pública",
+               "candidate_party_tl" : "Kinakatigang Partido: Kapayapaan at Kalayaan",
+               "ballot_title_zh" : "娜塔莉 ‧ 利茲",
+               "candidate_party" : "Party Preference: Peace and Freedom",
+               "ballot_designation_zh" : "公立學校教師",
+               "ballot_designation_tl" : "Guro sa Pampublikong Paaralan",
+               "id" : "4821",
+               "candidate_party_es" : "Preferencia por partido: Paz y Libertad",
+               "ballot_designation" : "Public School Teacher",
+               "ballot_title" : "NATHALIE HRIZI",
+               "candidate_party_zh" : "政黨傾向：和平自由黨"
+            },
+            {
+               "ballot_designation_es" : "Médico, Medicina Interna",
+               "ballot_designation_tl" : "Doktor, Panloob na Medisina",
+               "ballot_designation_zh" : "內科醫生",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_title_zh" : "馬禠富",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "ballot_designation" : "Physician, Internal Medicine",
+               "ballot_title" : "ASIF MAHMOOD",
+               "id" : "4823"
+            }
+         ],
+         "ballot_title_tl" : "KOMISYONADO NG SEGURO",
+         "ballot_title" : "INSURANCE COMMISSIONER",
+         "vote_for_msg_tl" : "Bumoto ng Isa",
+         "writeins_allowed" : 1,
+         "number_elected" : 1,
+         "type" : "office",
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ],
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "ballot_title" : "'Ballots Cast'",
+               "id" : "'SVCst'"
+            },
+            {
+               "ballot_title" : "'Registered Voters'",
+               "id" : "'SVReg'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "id" : "'SVRej'",
+               "ballot_title" : "'Ballots Rejected'"
+            },
+            {
+               "ballot_title" : "'Ballots Uncounted'",
+               "id" : "'SVUnc'"
+            },
+            {
+               "ballot_title" : "'Writein Votes'",
+               "id" : "'SVWri'"
+            },
+            {
+               "ballot_title" : "'Undervotes'",
+               "id" : "'SVUnd'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "vote_for_msg" : "Vote for One",
+         "ballot_title_zh" : "保險部長",
+         "header_id" : "HDR03",
+         "ballot_title_es" : "COMISIONADO DE SEGUROS",
+         "id" : "608",
+         "is_partisan" : "Y",
+         "vote_for_msg_es" : "Vote por uno",
+         "vote_for_msg_zh" : "選一名"
+      },
+      {
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ],
+         "type" : "office",
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "ballot_title" : "'Ballots Cast'",
+               "id" : "'SVCst'"
+            },
+            {
+               "ballot_title" : "'Registered Voters'",
+               "id" : "'SVReg'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "id" : "'SVRej'",
+               "ballot_title" : "'Ballots Rejected'"
+            },
+            {
+               "ballot_title" : "'Ballots Uncounted'",
+               "id" : "'SVUnc'"
+            },
+            {
+               "ballot_title" : "'Writein Votes'",
+               "id" : "'SVWri'"
+            },
+            {
+               "ballot_title" : "'Undervotes'",
+               "id" : "'SVUnd'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "vote_for_msg_tl" : "Bumoto ng Isa",
+         "number_elected" : 1,
+         "writeins_allowed" : 1,
+         "ballot_title_tl" : "MIYEMBRO NG LUPON NG TAGASINGIL NG BUWIS, DISTRITO 2",
+         "ballot_title" : "BOARD OF EQUALIZATION MEMBER, DISTRICT 2",
+         "choices" : [
+            {
+               "ballot_designation_es" : "Senadora Estatal",
+               "ballot_designation" : "State Senator",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "ballot_title" : "CATHLEEN GALGIANI",
+               "id" : "4820",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "ballot_title_zh" : "凱瑟琳 ‧ 加爾加尼",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_designation_tl" : "Senadora ng Estado",
+               "ballot_designation_zh" : "加州參議員",
+               "candidate_party" : "Party Preference: Democratic"
+            },
+            {
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_title_zh" : "張昭富",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_designation_tl" : "Miyembro ng Konseho / May-ari ng Negosyo",
+               "ballot_designation_zh" : "市議員 / 企業主",
+               "id" : "4818",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "ballot_designation" : "Councilmember / Business Owner",
+               "ballot_title" : "BARRY CHANG",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "ballot_designation_es" : "Concejal / Propietario de Empresa"
+            },
+            {
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_title_zh" : "瑪利亞 ‧ 科恩",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_designation_zh" : "舊金山市 / 縣政府議員",
+               "ballot_designation_tl" : "Superbisor, Lungsod at County ng San Francisco",
+               "id" : "4819",
+               "ballot_designation" : "Supervisor, City and County of San Francisco",
+               "ballot_title" : "MALIA COHEN",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "ballot_designation_es" : "Supervisora, Ciudad y Condado de San Francisco"
+            },
+            {
+               "ballot_designation_zh" : "房地產經紀人 / 企業家",
+               "ballot_designation_tl" : "Ahente ng Tunay na Ari-arian / Negosyante",
+               "candidate_party" : "Party Preference: Republican",
+               "ballot_title_zh" : "馬克 ‧ 伯恩斯",
+               "candidate_party_tl" : "Kinakatigang Partido: Republikano",
+               "candidate_party_zh" : "政黨傾向：共和黨",
+               "ballot_designation" : "Realtor / Businessman",
+               "candidate_party_es" : "Preferencia por partido: Republicano",
+               "ballot_title" : "MARK BURNS",
+               "id" : "4817",
+               "ballot_designation_es" : "Agente de Bienes Raíces / Empresario"
+            }
+         ],
+         "is_partisan" : "Y",
+         "vote_for_msg_zh" : "選一名",
+         "vote_for_msg_es" : "Vote por uno",
+         "ballot_title_es" : "MIEMBRO DE LA DIRECTIVA DE IMPUESTOS SOBRE VENTAS, USO Y OTROS, DISTRITO 2",
+         "id" : "607",
+         "vote_for_msg" : "Vote for One",
+         "header_id" : "HDR03",
+         "ballot_title_zh" : "平稅局委員，第2區"
+      },
+      {
+         "ballot_title_zh" : "聯邦",
+         "header_id" : "HDR02",
+         "classification" : "Office Category",
+         "ballot_title" : "FEDERAL",
+         "id" : "HDR04",
+         "ballot_title_tl" : "PEDERAL",
+         "type" : "header"
+      },
+      {
+         "ballot_title" : "UNITED STATES SENATE",
+         "ballot_title_tl" : "SENADO NG ESTADOS UNIDOS",
+         "choices" : [
+            {
+               "candidate_party_zh" : "政黨傾向：自由黨",
+               "ballot_title" : "DERRICK MICHAEL REID",
+               "ballot_designation" : "Retired Attorney",
+               "candidate_party_es" : "Preferencia por partido: Libertario",
+               "id" : "4853",
+               "ballot_designation_tl" : "Retiradong Abugado",
+               "ballot_designation_zh" : "退休律師",
+               "candidate_party" : "Party Preference: Libertarian",
+               "ballot_title_zh" : "德里克 ‧ 邁克爾 ‧ 里德",
+               "candidate_party_tl" : "Kinakatigang Partido: Libertaryan",
+               "ballot_designation_es" : "Abogado Jubilado"
+            },
+            {
+               "id" : "4832",
+               "ballot_designation" : "United States Senator",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "ballot_title" : "DIANNE FEINSTEIN",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_title_zh" : "黛安 ‧ 范士丹",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_designation_tl" : "Senadora ng Estados Unidos",
+               "ballot_designation_zh" : "聯邦參議員",
+               "ballot_designation_es" : "Senadora de Estatos Unidos"
+            },
+            {
+               "ballot_designation_es" : "Defensora de Soluciones Constitucionales",
+               "candidate_party_zh" : "政黨傾向：沒有",
+               "id" : "4833",
+               "ballot_designation" : "Constitutional Solutions Advocate",
+               "candidate_party_es" : "Preferencia por partido: Ninguno",
+               "ballot_title" : "COLLEEN SHEA FERNALD",
+               "candidate_party" : "Party Preference: None",
+               "ballot_designation_tl" : "Tagapagtaguyod ng mga Solusyong Ayon sa Saligang-batas",
+               "ballot_designation_zh" : "憲法解決方案維權者",
+               "candidate_party_tl" : "Kinakatigang Partido: Wala",
+               "ballot_title_zh" : "科琳 ‧ 希婭 ‧ 費納爾德"
+            },
+            {
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "ballot_designation" : "Community Advocate",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "ballot_title" : "ADRIENNE NICOLE EDWARDS",
+               "id" : "4831",
+               "ballot_designation_zh" : "社區維權者",
+               "ballot_designation_tl" : "Tagapagtaguyod ng Komunidad",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_title_zh" : "阿德里安妮 ‧ 妮可 ‧ 愛德華",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_designation_es" : "Defensora Comunitaria"
+            },
+            {
+               "ballot_designation_tl" : "May-ari ng Maliit na Negosyo",
+               "ballot_designation_zh" : "小企業主",
+               "candidate_party" : "Party Preference: Republican",
+               "ballot_title_zh" : "保羅 A. 泰勒",
+               "candidate_party_tl" : "Kinakatigang Partido: Republikano",
+               "candidate_party_zh" : "政黨傾向：共和黨",
+               "ballot_designation" : "Small Business Owner",
+               "ballot_title" : "PAUL A TAYLOR",
+               "candidate_party_es" : "Preferencia por partido: Republicano",
+               "id" : "4855",
+               "ballot_designation_es" : "Propietario de Pequeña Empresa"
+            },
+            {
+               "id" : "4856",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "ballot_designation" : "Retired USAF Sergeant",
+               "ballot_title" : "DONNIE O. TURNER",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_title_zh" : "多尼 O. 特納",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_designation_tl" : "Retiradong Sarhento ng USAF",
+               "ballot_designation_zh" : "退休空軍上士",
+               "ballot_designation_es" : "Sargento de la Fuerza Aérea de EE.UU., Retirado"
+            },
+            {
+               "ballot_designation_es" : "Abogado de Derechos Civiles",
+               "id" : "4839",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "ballot_designation" : "Civil Rights Attorney",
+               "ballot_title" : "PAT HARRIS",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_title_zh" : "帕特 ‧ 哈里斯",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_designation_zh" : "民權律師",
+               "ballot_designation_tl" : "Abugado ng mga Karapatang Sibil"
+            },
+            {
+               "ballot_designation_es" : "Directora de Política Nacional",
+               "ballot_designation_tl" : "Pambansang Direktor na Pampulitika",
+               "ballot_designation_zh" : "全國政治委員會主任",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_title_zh" : "艾莉森 ‧ 哈特森",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "ballot_title" : "ALISON HARTSON",
+               "ballot_designation" : "National Political Director",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "id" : "4840"
+            },
+            {
+               "ballot_designation_es" : "Abogado / Ingeniero",
+               "candidate_party_zh" : "政黨傾向：沒有",
+               "id" : "4838",
+               "candidate_party_es" : "Preferencia por partido: Ninguno",
+               "ballot_designation" : "Attorney / Engineer",
+               "ballot_title" : "JASON M. HANANIA",
+               "candidate_party" : "Party Preference: None",
+               "ballot_designation_zh" : "律師 / 工程師",
+               "ballot_designation_tl" : "Abugado / Inhinyero",
+               "candidate_party_tl" : "Kinakatigang Partido: Wala",
+               "ballot_title_zh" : "傑森 M. 哈納尼亞"
+            },
+            {
+               "ballot_designation_es" : "Analista Político",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "ballot_designation" : "Policy Analyst",
+               "ballot_title" : "DAVID HILDEBRAND",
+               "id" : "4841",
+               "ballot_designation_zh" : "政策分析師",
+               "ballot_designation_tl" : "Manunuri ng Patakaran",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_title_zh" : "大衛 ‧ 希爾德布蘭德",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko"
+            },
+            {
+               "ballot_designation_es" : "Ingeniero de Sistemas Aeroespaciales",
+               "ballot_title_zh" : "李 ‧ 奧爾森",
+               "candidate_party_tl" : "Kinakatigang Partido: Wala",
+               "ballot_designation_zh" : "航天系統工程師",
+               "ballot_designation_tl" : "Inhinyero ng mga Sistemang Panghimpapawid",
+               "candidate_party" : "Party Preference: None",
+               "candidate_party_es" : "Preferencia por partido: Ninguno",
+               "ballot_designation" : "Aerospace Systems Engineer",
+               "ballot_title" : "LEE OLSON",
+               "id" : "4846",
+               "candidate_party_zh" : "政黨傾向：沒有"
+            },
+            {
+               "id" : "4829",
+               "candidate_party_es" : "Preferencia por partido: Republicano",
+               "ballot_designation" : "Businessman / Land Developer",
+               "ballot_title" : "ROQUE \"ROCKY\" DE LA FUENTE",
+               "candidate_party_zh" : "政黨傾向：共和黨",
+               "candidate_party_tl" : "Kinakatigang Partido: Republikano",
+               "ballot_title_zh" : "羅克“羅基”弗恩特",
+               "candidate_party" : "Party Preference: Republican",
+               "ballot_designation_zh" : "企業家 / 土地開發商",
+               "ballot_designation_tl" : "Negosyante / Tagapagpaunlad ng Lupa",
+               "ballot_designation_es" : "Empresario / Emprendedor Inmobiliario"
+            },
+            {
+               "ballot_designation_es" : "Senador de California",
+               "ballot_designation_tl" : "Senador ng California",
+               "ballot_designation_zh" : "加州參議員",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_title_zh" : "凱文 ‧ 德利昂",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "ballot_designation" : "California Senator",
+               "ballot_title" : "KEVIN DE LEON",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "id" : "4825"
+            },
+            {
+               "ballot_designation_es" : "Defensor de Seguridad Inalámbrica",
+               "candidate_party_tl" : "Kinakatigang Partido: Republikano",
+               "ballot_title_zh" : "凱文 ‧ 莫圖斯",
+               "candidate_party" : "Party Preference: Republican",
+               "ballot_designation_zh" : "無線通訊安全維權者",
+               "ballot_designation_tl" : "Tagapagtaguyod ng Kaligtasan ng Walang-kawad",
+               "id" : "4845",
+               "ballot_designation" : "Wireless Safety Advocate",
+               "ballot_title" : "KEVIN MOTTUS",
+               "candidate_party_es" : "Preferencia por partido: Republicano",
+               "candidate_party_zh" : "政黨傾向：共和黨"
+            },
+            {
+               "candidate_party_es" : "Preferencia por partido: Ninguno",
+               "ballot_designation" : "Special Education Teacher",
+               "ballot_title" : "DAVID MOORE",
+               "id" : "4844",
+               "candidate_party_zh" : "政黨傾向：沒有",
+               "ballot_title_zh" : "大衛 ‧ 莫爾",
+               "candidate_party_tl" : "Kinakatigang Partido: Wala",
+               "ballot_designation_tl" : "Guro sa Espesyal na Edukasyon",
+               "ballot_designation_zh" : "特教老師",
+               "candidate_party" : "Party Preference: None",
+               "ballot_designation_es" : "Maestro de Educación Especial"
+            },
+            {
+               "ballot_designation_es" : "Científico",
+               "candidate_party_tl" : "Kinakatigang Partido: Republikano",
+               "ballot_title_zh" : "馬里奧 ‧ 納波里巴",
+               "candidate_party" : "Party Preference: Republican",
+               "ballot_designation_tl" : "Siyentista",
+               "ballot_designation_zh" : "科學家",
+               "id" : "4847",
+               "candidate_party_es" : "Preferencia por partido: Republicano",
+               "ballot_designation" : "Scientist",
+               "ballot_title" : "MARIO NABLIBA",
+               "candidate_party_zh" : "政黨傾向：共和黨"
+            },
+            {
+               "ballot_designation_es" : "Gerente de Proyectos de Construcción",
+               "ballot_designation" : "Construction Project Manager",
+               "ballot_title" : "GERALD PLUMMER",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "id" : "4852",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "ballot_title_zh" : "吉拉爾德 ‧ 普拉莫",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_designation_tl" : "Tagapamahala ng Proyektong Konstruksiyon",
+               "ballot_designation_zh" : "工程監理",
+               "candidate_party" : "Party Preference: Democratic"
+            },
+            {
+               "candidate_party_tl" : "Kinakatigang Partido: Republikano",
+               "ballot_title_zh" : "湯姆 ‧ 帕爾澤",
+               "candidate_party" : "Party Preference: Republican",
+               "ballot_designation_zh" : "退休城市規劃專家",
+               "ballot_designation_tl" : "Retiradong Tagaplano ng Kalunsuran",
+               "id" : "4848",
+               "ballot_title" : "TOM PALZER",
+               "ballot_designation" : "Retired Urban Planner",
+               "candidate_party_es" : "Preferencia por partido: Republicano",
+               "candidate_party_zh" : "政黨傾向：共和黨",
+               "ballot_designation_es" : "Planificador Urbano Jubilado"
+            },
+            {
+               "candidate_party" : "Party Preference: Peace and Freedom",
+               "candidate_party_tl" : "Kinakatigang Partido: Kapayapaan at Kalayaan",
+               "ballot_title_zh" : "約翰 ‧ 湯普森 ‧ 帕克",
+               "candidate_party_zh" : "政黨傾向：和平自由黨",
+               "id" : "4849",
+               "candidate_party_es" : "Preferencia por partido: Paz y Libertad",
+               "ballot_title" : "JOHN THOMPSON PARKER"
+            },
+            {
+               "ballot_designation" : "Missing Children's Advocate",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "ballot_title" : "DOUGLAS HOWARD PIERCE",
+               "id" : "4851",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "ballot_title_zh" : "道格拉斯 ‧ 哈沃德 ‧ 皮爾斯",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_designation_zh" : "失蹤兒童維權者",
+               "ballot_designation_tl" : "Tagapagtaguyod ng mga Nawawalang Bata",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_designation_es" : "Defensor de Niños Perdidos"
+            },
+            {
+               "ballot_designation_es" : "Ingeniero Aeroespacial Jubilado",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "ballot_designation" : "Retired Aerospace Engineer",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "ballot_title" : "HERBERT G. PETERS",
+               "id" : "4850",
+               "ballot_designation_zh" : "退休航天工程師",
+               "ballot_designation_tl" : "Retiradong Inhinyerong Panghimpapawid",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_title_zh" : "赫伯特 G. 彼得斯",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko"
+            },
+            {
+               "ballot_designation_es" : "Director de Finanzas",
+               "ballot_title_zh" : "詹姆斯 P. 布拉德雷",
+               "candidate_party_tl" : "Kinakatigang Partido: Republikano",
+               "ballot_designation_tl" : "Punong Opisyal sa Pananalapi",
+               "ballot_designation_zh" : "首席財務官",
+               "candidate_party" : "Party Preference: Republican",
+               "ballot_title" : "JAMES P BRADLEY",
+               "ballot_designation" : "Chief Financial Officer",
+               "candidate_party_es" : "Preferencia por partido: Republicano",
+               "id" : "4830",
+               "candidate_party_zh" : "政黨傾向：共和黨"
+            },
+            {
+               "ballot_designation_es" : "Maestro / Ingeniero / Empresario",
+               "candidate_party" : "Party Preference: Republican",
+               "ballot_designation_zh" : "教師 / 工程師 / 企業家",
+               "ballot_designation_tl" : "Guro / Inhinyero / Negosyante",
+               "candidate_party_tl" : "Kinakatigang Partido: Republikano",
+               "ballot_title_zh" : "阿倫 K. 布米特拉",
+               "candidate_party_zh" : "政黨傾向：共和黨",
+               "id" : "4826",
+               "candidate_party_es" : "Preferencia por partido: Republicano",
+               "ballot_designation" : "Teacher / Engineer / Businessman",
+               "ballot_title" : "ARUN K. BHUMITRA"
+            },
+            {
+               "candidate_party" : "Party Preference: Republican",
+               "candidate_party_tl" : "Kinakatigang Partido: Republikano",
+               "ballot_title_zh" : "傑利 ‧ 約瑟夫 ‧ 勞斯",
+               "candidate_party_zh" : "政黨傾向：共和黨",
+               "id" : "4842",
+               "ballot_title" : "JERRY JOSEPH LAWS",
+               "candidate_party_es" : "Preferencia por partido: Republicano"
+            },
+            {
+               "ballot_designation_tl" : "Tagapagtaguyod ng mga Karapatang Sibil",
+               "ballot_designation_zh" : "公民權利維權者",
+               "candidate_party" : "Party Preference: Republican",
+               "ballot_title_zh" : "帕特里克 ‧ 利特爾",
+               "candidate_party_tl" : "Kinakatigang Partido: Republikano",
+               "candidate_party_zh" : "政黨傾向：共和黨",
+               "ballot_designation" : "Civil Rights Advocate",
+               "candidate_party_es" : "Preferencia por partido: Republicano",
+               "ballot_title" : "PATRICK LITTLE",
+               "id" : "4843",
+               "ballot_designation_es" : "Defensor de Derechos Civiles"
+            },
+            {
+               "ballot_designation_es" : "Operador de Paratránsito",
+               "candidate_party_zh" : "政黨傾向：沒有",
+               "ballot_designation" : "Paratransit Operator",
+               "ballot_title" : "TIM GILDERSLEEVE",
+               "candidate_party_es" : "Preferencia por partido: Ninguno",
+               "id" : "4835",
+               "ballot_designation_tl" : "Tagapagpatakbo ng Paratransit",
+               "ballot_designation_zh" : "殘障交通工具運營者",
+               "candidate_party" : "Party Preference: None",
+               "ballot_title_zh" : "蒂姆 ‧ 吉爾德斯利弗",
+               "candidate_party_tl" : "Kinakatigang Partido: Wala"
+            },
+            {
+               "ballot_designation_es" : "Corredor de Bienes Raíces",
+               "candidate_party_es" : "Preferencia por partido: Ninguno",
+               "ballot_designation" : "Real Estate Broker",
+               "ballot_title" : "MICHAEL FAHMY GIRGIS",
+               "id" : "4836",
+               "candidate_party_zh" : "政黨傾向：沒有",
+               "ballot_title_zh" : "邁克爾 ‧ 法米 ‧ 吉爾吉斯",
+               "candidate_party_tl" : "Kinakatigang Partido: Wala",
+               "ballot_designation_zh" : "房地產經紀人",
+               "ballot_designation_tl" : "Broker ng Tunay na Ari-arian",
+               "candidate_party" : "Party Preference: None"
+            },
+            {
+               "ballot_designation" : "Doctor of Chiropractic",
+               "candidate_party_es" : "Preferencia por partido: Ninguno",
+               "ballot_title" : "DON J. GRUNDMANN",
+               "id" : "4837",
+               "candidate_party_zh" : "政黨傾向：沒有",
+               "ballot_title_zh" : "多恩 J. 格倫德曼",
+               "candidate_party_tl" : "Kinakatigang Partido: Wala",
+               "ballot_designation_tl" : "Doktor ng Kiropraktiko",
+               "ballot_designation_zh" : "脊椎按摩醫生",
+               "candidate_party" : "Party Preference: None",
+               "ballot_designation_es" : "Doctor en Quiropráctica"
+            },
+            {
+               "candidate_party_zh" : "政黨傾向：沒有",
+               "id" : "4834",
+               "candidate_party_es" : "Preferencia por partido: Ninguno",
+               "ballot_designation" : "Water Scientist / Professor",
+               "ballot_title" : "RASH BIHARI GHOSH",
+               "candidate_party" : "Party Preference: None",
+               "ballot_designation_tl" : "Siyentista ng Tubig / Propesor",
+               "ballot_designation_zh" : "水科學家 / 教授",
+               "candidate_party_tl" : "Kinakatigang Partido: Wala",
+               "ballot_title_zh" : "拉什 ‧ 比哈利 ‧ 高什",
+               "ballot_designation_es" : "Científico de Aguas / Profesor"
+            },
+            {
+               "id" : "4854",
+               "ballot_designation" : "Author",
+               "ballot_title" : "LING LING SHI",
+               "candidate_party_es" : "Preferencia por partido: Ninguno",
+               "candidate_party_zh" : "政黨傾向：沒有",
+               "candidate_party_tl" : "Kinakatigang Partido: Wala",
+               "ballot_title_zh" : "史玲玲",
+               "candidate_party" : "Party Preference: None",
+               "ballot_designation_tl" : "Awtor",
+               "ballot_designation_zh" : "作家",
+               "ballot_designation_es" : "Escritora"
+            },
+            {
+               "ballot_designation_es" : "Chofer de Autobús",
+               "candidate_party_zh" : "政黨傾向：共和黨",
+               "ballot_title" : "JOHN \"JACK\" CREW",
+               "ballot_designation" : "Bus Driver",
+               "candidate_party_es" : "Preferencia por partido: Republicano",
+               "id" : "4827",
+               "ballot_designation_tl" : "Drayber ng Bus",
+               "ballot_designation_zh" : "公共汽車駕駛員",
+               "candidate_party" : "Party Preference: Republican",
+               "ballot_title_zh" : "約翰“傑克”克魯",
+               "candidate_party_tl" : "Kinakatigang Partido: Republikano"
+            },
+            {
+               "candidate_party_zh" : "政黨傾向：共和黨",
+               "ballot_designation" : "Published Author",
+               "candidate_party_es" : "Preferencia por partido: Republicano",
+               "ballot_title" : "ERIN CRUZ",
+               "id" : "4828",
+               "ballot_designation_tl" : "Nakapaglathalang Awtor",
+               "ballot_designation_zh" : "作家",
+               "candidate_party" : "Party Preference: Republican",
+               "ballot_title_zh" : "艾琳 ‧ 克魯斯",
+               "candidate_party_tl" : "Kinakatigang Partido: Republikano",
+               "ballot_designation_es" : "Escritora Publicada"
+            }
+         ],
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ],
+         "type" : "office",
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "ballot_title" : "'Ballots Cast'",
+               "id" : "'SVCst'"
+            },
+            {
+               "ballot_title" : "'Registered Voters'",
+               "id" : "'SVReg'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "id" : "'SVRej'",
+               "ballot_title" : "'Ballots Rejected'"
+            },
+            {
+               "ballot_title" : "'Ballots Uncounted'",
+               "id" : "'SVUnc'"
+            },
+            {
+               "ballot_title" : "'Writein Votes'",
+               "id" : "'SVWri'"
+            },
+            {
+               "ballot_title" : "'Undervotes'",
+               "id" : "'SVUnd'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "writeins_allowed" : 1,
+         "number_elected" : 1,
+         "vote_for_msg_tl" : "Bumoto ng Isa",
+         "id" : "605",
+         "ballot_title_es" : "SENADO DE ESTADOS UNIDOS",
+         "ballot_title_zh" : "美國參議院",
+         "header_id" : "HDR04",
+         "vote_for_msg" : "Vote for One",
+         "vote_for_msg_es" : "Vote por uno",
+         "vote_for_msg_zh" : "選一名",
+         "is_partisan" : "Y"
+      },
+      {
+         "ballot_subtitle_tl" : "DISTRITO 12",
+         "is_partisan" : "Y",
+         "vote_for_msg_es" : "Vote por uno",
+         "vote_for_msg_zh" : "選一名",
+         "ballot_title_es" : "REPRESENTANTE DE ESTADOS UNIDOS",
+         "ballot_subtitle" : "DISTRICT 12",
+         "ballot_subtitle_zh" : "第12選區",
+         "id" : "444",
+         "vote_for_msg" : "Vote for One",
+         "header_id" : "HDR04",
+         "ballot_title_zh" : "美國眾議員",
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "ballot_title" : "'Ballots Cast'",
+               "id" : "'SVCst'"
+            },
+            {
+               "ballot_title" : "'Registered Voters'",
+               "id" : "'SVReg'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "id" : "'SVRej'",
+               "ballot_title" : "'Ballots Rejected'"
+            },
+            {
+               "ballot_title" : "'Ballots Uncounted'",
+               "id" : "'SVUnc'"
+            },
+            {
+               "ballot_title" : "'Writein Votes'",
+               "id" : "'SVWri'"
+            },
+            {
+               "ballot_title" : "'Undervotes'",
+               "id" : "'SVUnd'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ],
+         "type" : "office",
+         "ballot_subtitle_es" : "DISTRITO 12",
+         "vote_for_msg_tl" : "Bumoto ng Isa",
+         "number_elected" : 1,
+         "writeins_allowed" : 1,
+         "ballot_title_tl" : "KINATAWAN NG ESTADOS UNIDOS",
+         "ballot_title" : "UNITED STATES REPRESENTATIVE",
+         "choices" : [
+            {
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "id" : "4805",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "ballot_designation" : "Member of Congress",
+               "ballot_title" : "NANCY PELOSI",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_designation_zh" : "聯邦眾議員",
+               "ballot_designation_tl" : "Miyembro ng Kongreso",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_title_zh" : "南希 ‧ 佩洛西",
+               "ballot_designation_es" : "Miembro del Congreso"
+            },
+            {
+               "id" : "4803",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "ballot_designation" : "Civil Rights Attorney",
+               "ballot_title" : "STEPHEN JAFFE",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_title_zh" : "斯蒂芬 ‧ 哈菲",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_designation_tl" : "Abugado ng mga Karapatang Sibil",
+               "ballot_designation_zh" : "民權律師",
+               "ballot_designation_es" : "Abogado de Derechos Civiles"
+            },
+            {
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_designation_tl" : "Abugado / Tagapagtaguyod / Artista",
+               "ballot_designation_zh" : "律師 / 維權者 / 藝術家",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "ballot_title_zh" : "沙希德 ‧ 布塔爾",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "id" : "4801",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "ballot_designation" : "Lawyer / Advocate / Artist",
+               "ballot_title" : "SHAHID BUTTAR",
+               "ballot_designation_es" : "Abogado / Defensor / Artista"
+            },
+            {
+               "ballot_designation_zh" : "移民權利專員",
+               "ballot_designation_tl" : "Komisyonado ng mga Karapatan ng Imigrante",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_title_zh" : "藍可嘉",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "ballot_designation" : "Immigrant Rights Commissioner",
+               "ballot_title" : "RYAN A. KHOJASTEH",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "id" : "4804",
+               "ballot_designation_es" : "Comisionado de Derechos de Inmigrantes"
+            },
+            {
+               "ballot_designation_es" : "Abogado / Escritor",
+               "ballot_title_zh" : "邁克爾 ‧ 高爾斯坦",
+               "candidate_party_tl" : "Kinakatigang Partido: Wala",
+               "ballot_designation_zh" : "律師 / 作家",
+               "ballot_designation_tl" : "Abugado / Awtor",
+               "candidate_party" : "Party Preference: None",
+               "ballot_designation" : "Lawyer / Author",
+               "ballot_title" : "MICHAEL GOLDSTEIN",
+               "candidate_party_es" : "Preferencia por partido: Ninguno",
+               "id" : "4800",
+               "candidate_party_zh" : "政黨傾向：沒有"
+            },
+            {
+               "candidate_party_tl" : "Kinakatigang Partido: Republikano",
+               "ballot_title_zh" : "慕凱玲",
+               "candidate_party" : "Party Preference: Republican",
+               "ballot_designation_zh" : "教育工作者",
+               "ballot_designation_tl" : "Edukador",
+               "id" : "4806",
+               "ballot_designation" : "Educator",
+               "candidate_party_es" : "Preferencia por partido: Republicano",
+               "ballot_title" : "LISA REMMER",
+               "candidate_party_zh" : "政黨傾向：共和黨",
+               "ballot_designation_es" : "Educadora"
+            },
+            {
+               "ballot_designation_es" : "Emprendedor Jubilado",
+               "candidate_party_tl" : "Kinakatigang Partido: Luntian",
+               "ballot_title_zh" : "巴利 ‧ 赫曼森",
+               "candidate_party" : "Party Preference: Green",
+               "ballot_designation_tl" : "Retiradong Mangangalakal",
+               "ballot_designation_zh" : "退休創業者",
+               "id" : "4802",
+               "candidate_party_es" : "Preferencia por partido: Verde",
+               "ballot_designation" : "Retired Entrepreneur",
+               "ballot_title" : "BARRY HERMANSON",
+               "candidate_party_zh" : "政黨傾向：綠黨"
+            }
+         ]
+      },
+      {
+         "classification" : "Office Category",
+         "type" : "header",
+         "header_id" : "HDR02",
+         "ballot_title_zh" : "州",
+         "ballot_title_tl" : "ESTADO",
+         "ballot_title_es" : "ESTADO",
+         "id" : "HDR05",
+         "ballot_title" : "STATE"
+      },
+      {
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "ballot_title" : "'Ballots Cast'",
+               "id" : "'SVCst'"
+            },
+            {
+               "ballot_title" : "'Registered Voters'",
+               "id" : "'SVReg'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "id" : "'SVRej'",
+               "ballot_title" : "'Ballots Rejected'"
+            },
+            {
+               "ballot_title" : "'Ballots Uncounted'",
+               "id" : "'SVUnc'"
+            },
+            {
+               "ballot_title" : "'Writein Votes'",
+               "id" : "'SVWri'"
+            },
+            {
+               "ballot_title" : "'Undervotes'",
+               "id" : "'SVUnd'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ],
+         "type" : "office",
+         "ballot_subtitle_es" : "DISTRITO 17",
+         "vote_for_msg_tl" : "Bumoto ng Isa",
+         "writeins_allowed" : 1,
+         "number_elected" : 1,
+         "ballot_title_tl" : "MIYEMBRO NG ASEMBLEYA NG ESTADO",
+         "ballot_title" : "STATE ASSEMBLY MEMBER",
+         "choices" : [
+            {
+               "ballot_designation_es" : "Miembro de la Asamblea",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "ballot_designation" : "Assemblymember",
+               "ballot_title" : "DAVID CHIU",
+               "id" : "4812",
+               "ballot_designation_tl" : "Miyembro ng Asembleya",
+               "ballot_designation_zh" : "加州眾議員",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_title_zh" : "邱信福",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko"
+            },
+            {
+               "ballot_designation_es" : "Emprendedor de Pequeña Empresa",
+               "ballot_designation_zh" : "小企業創業者",
+               "ballot_designation_tl" : "Mangangalakal sa Maliit na Negosyo",
+               "candidate_party" : "Party Preference: Democratic",
+               "ballot_title_zh" : "阿勒簡德羅 ‧ 費南德斯",
+               "candidate_party_tl" : "Kinakatigang Partido: Demokratiko",
+               "candidate_party_zh" : "政黨傾向：民主黨",
+               "ballot_designation" : "Small Business Entrepreneur",
+               "candidate_party_es" : "Preferencia por partido: Demócrata",
+               "ballot_title" : "ALEJANDRO FERNANDEZ",
+               "id" : "4813"
+            }
+         ],
+         "ballot_subtitle_tl" : "DISTRITO 17",
+         "is_partisan" : "Y",
+         "vote_for_msg_zh" : "選一名",
+         "vote_for_msg_es" : "Vote por uno",
+         "ballot_subtitle" : "DISTRICT 17",
+         "ballot_title_es" : "MIEMBRO DE LA ASAMBLEA DEL ESTADO",
+         "ballot_subtitle_zh" : "第17選區",
+         "id" : "403",
+         "vote_for_msg" : "Vote for One",
+         "ballot_title_zh" : "加州眾議員",
+         "header_id" : "HDR05"
+      },
+      {
+         "type" : "header",
+         "classification" : "Office Group",
+         "ballot_title" : "NONPARTISAN OFFICES",
+         "id" : "HDR06",
+         "ballot_title_tl" : "MGA KATUNGKULANG HINDI MAKAPARTIDO",
+         "ballot_title_es" : "CARGOS NO PARTIDARIOS",
+         "ballot_title_zh" : "無黨派職位",
+         "header_id" : ""
+      },
+      {
+         "classification" : "District Name",
+         "type" : "header",
+         "header_id" : "HDR06",
+         "ballot_title_zh" : "市縣",
+         "id" : "HDR07",
+         "ballot_title" : "CITY AND COUNTY",
+         "ballot_title_tl" : "LUNGSOD AT COUNTY",
+         "ballot_title_es" : "CIUDAD Y CONDADO"
+      },
+      {
+         "ballot_title_tl" : "PANGHUKUMAN",
+         "type" : "header",
+         "id" : "HDR08",
+         "ballot_title" : "JUDICIAL",
+         "classification" : "Office Category",
+         "header_id" : "HDR07",
+         "ballot_title_zh" : "司法"
+      },
+      {
+         "vote_for_msg_es" : "Vote por uno",
+         "vote_for_msg_zh" : "選一名",
+         "vote_for_msg" : "Vote for One",
+         "ballot_title_zh" : "高等法院法官，第4席",
+         "header_id" : "HDR08",
+         "ballot_title_es" : "JUEZ DEL TRIBUNAL SUPERIOR, OFICINA NÚM. 4",
+         "id" : "599",
+         "vote_for_msg_tl" : "Bumoto ng Isa",
+         "writeins_allowed" : 1,
+         "number_elected" : 1,
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ],
+         "type" : "office",
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "ballot_title" : "'Ballots Cast'",
+               "id" : "'SVCst'"
+            },
+            {
+               "ballot_title" : "'Registered Voters'",
+               "id" : "'SVReg'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "id" : "'SVRej'",
+               "ballot_title" : "'Ballots Rejected'"
+            },
+            {
+               "ballot_title" : "'Ballots Uncounted'",
+               "id" : "'SVUnc'"
+            },
+            {
+               "ballot_title" : "'Writein Votes'",
+               "id" : "'SVWri'"
+            },
+            {
+               "ballot_title" : "'Undervotes'",
+               "id" : "'SVUnd'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "choices" : [
+            {
+               "id" : "3791",
+               "ballot_designation_es" : "Oficina del Defensor Público de la Ciudad y Condado de San Francisco, Abogado",
+               "ballot_designation" : "City and County of San Francisco Public Defender's Office, Attorney",
+               "ballot_title" : "PHOENIX STREETS",
+               "ballot_title_zh" : "史尼斯",
+               "ballot_designation_tl" : "Opisina ng Pampublikong Tagapagtanggol sa Lungsod at County ng San Francisco, Abugado",
+               "ballot_designation_zh" : "三藩市市縣公共辯護律師辦公室，律師"
+            },
+            {
+               "ballot_designation_es" : "Juez del Tribunal Superior de la Ciudad y Condado de San Francisco",
+               "id" : "3792",
+               "ballot_designation" : "City & County of San Francisco Superior Court Judge",
+               "ballot_title" : "ANDREW Y.S. CHENG",
+               "ballot_designation_zh" : "三藩市市縣高等法院法官",
+               "ballot_designation_tl" : "Hukom ng Korte Superyor ng Lungsod at County ng San Francisco",
+               "ballot_title_zh" : "鄭元松"
+            }
+         ],
+         "ballot_title_tl" : "HUKOM NG KORTE SUPERYOR, KATUNGKULAN BLG. 4",
+         "ballot_title" : "JUDGE OF THE SUPERIOR COURT, OFFICE NO. 4"
+      },
+      {
+         "ballot_title" : "JUDGE OF THE SUPERIOR COURT, OFFICE NO. 7",
+         "ballot_title_tl" : "HUKOM NG KORTE SUPERYOR, KATUNGKULAN BLG. 7",
+         "choices" : [
+            {
+               "ballot_designation_es" : "Juez del Tribunal Superior de la Ciudad y Condado de San Francisco",
+               "id" : "3793",
+               "ballot_title" : "CURTIS KARNOW",
+               "ballot_designation" : "City and County of San Francisco Superior Court Judge",
+               "ballot_title_zh" : "高德深",
+               "ballot_designation_tl" : "Hukom ng Korte Superyor ng Lungsod at County ng San Francisco",
+               "ballot_designation_zh" : "三藩市市縣高等法院法官"
+            },
+            {
+               "ballot_designation_tl" : "Opisina ng Pampublikong Tagapagtanggol sa Lungsod at County ng San Francisco, Abugado",
+               "ballot_designation_zh" : "三藩市市縣公共辯護律師辦公室，律師",
+               "ballot_title_zh" : "伊瑪麗",
+               "ballot_title" : "MARIA EVANGELISTA",
+               "ballot_designation" : "City and County of San Francisco Public Defender's Office, Attorney",
+               "ballot_designation_es" : "Oficina del Defensor Público de la Ciudad y Condado de San Francisco, Abogada",
+               "id" : "3794"
+            }
+         ],
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ],
+         "type" : "office",
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "ballot_title" : "'Ballots Cast'",
+               "id" : "'SVCst'"
+            },
+            {
+               "ballot_title" : "'Registered Voters'",
+               "id" : "'SVReg'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "id" : "'SVRej'",
+               "ballot_title" : "'Ballots Rejected'"
+            },
+            {
+               "ballot_title" : "'Ballots Uncounted'",
+               "id" : "'SVUnc'"
+            },
+            {
+               "ballot_title" : "'Writein Votes'",
+               "id" : "'SVWri'"
+            },
+            {
+               "ballot_title" : "'Undervotes'",
+               "id" : "'SVUnd'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "number_elected" : 1,
+         "writeins_allowed" : 1,
+         "vote_for_msg_tl" : "Bumoto ng Isa",
+         "id" : "443",
+         "ballot_title_es" : "JUEZ DEL TRIBUNAL SUPERIOR, OFICINA NÚM. 7",
+         "header_id" : "HDR08",
+         "ballot_title_zh" : "高等法院法官，第7席",
+         "vote_for_msg" : "Vote for One",
+         "vote_for_msg_zh" : "選一名",
+         "vote_for_msg_es" : "Vote por uno"
+      },
+      {
+         "vote_for_msg_es" : "Vote por uno",
+         "vote_for_msg_zh" : "選一名",
+         "id" : "600",
+         "ballot_title_es" : "JUEZ DEL TRIBUNAL SUPERIOR, OFICINA NÚM. 9",
+         "ballot_title_zh" : "高等法院法官，第9席",
+         "header_id" : "HDR08",
+         "vote_for_msg" : "Vote for One",
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ],
+         "type" : "office",
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "ballot_title" : "'Ballots Cast'",
+               "id" : "'SVCst'"
+            },
+            {
+               "ballot_title" : "'Registered Voters'",
+               "id" : "'SVReg'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "id" : "'SVRej'",
+               "ballot_title" : "'Ballots Rejected'"
+            },
+            {
+               "ballot_title" : "'Ballots Uncounted'",
+               "id" : "'SVUnc'"
+            },
+            {
+               "ballot_title" : "'Writein Votes'",
+               "id" : "'SVWri'"
+            },
+            {
+               "ballot_title" : "'Undervotes'",
+               "id" : "'SVUnd'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "writeins_allowed" : 1,
+         "number_elected" : 1,
+         "vote_for_msg_tl" : "Bumoto ng Isa",
+         "ballot_title" : "JUDGE OF THE SUPERIOR COURT, OFFICE NO. 9",
+         "ballot_title_tl" : "HUKOM NG KORTE SUPERYOR, KATUNGKULAN BLG. 9",
+         "choices" : [
+            {
+               "id" : "3795",
+               "ballot_designation_es" : "Jueza del Tribunal Superior de la Ciudad y Condado de San Francisco",
+               "ballot_title" : "CYNTHIA MING-MEI LEE",
+               "ballot_designation" : "City and County of San Francisco Superior Court Judge",
+               "ballot_designation_zh" : "三藩市市縣高等法院法官",
+               "ballot_designation_tl" : "Hukom ng Korte Superyor ng Lungsod at County ng San Francisco",
+               "ballot_title_zh" : "李明美"
+            },
+            {
+               "ballot_designation" : "City and County of San Francisco Assessment Appeals Board Commissioner / Attorney",
+               "ballot_title" : "ELIZABETH ZAREH",
+               "ballot_designation_es" : "Comisionada del Consejo de Apelaciones de Tasación de la Ciudad y Condado de San Francisco / Abogada",
+               "id" : "3796",
+               "ballot_title_zh" : "逸飛清",
+               "ballot_designation_zh" : "三藩市市縣估值上訴委員會委員 / 律師",
+               "ballot_designation_tl" : "Komisyoner ng Lupon para sa mga Apela ng Pagtatasa ng Lungsod at County ng San Francisco / Abugado"
+            },
+            {
+               "ballot_designation_tl" : "Opisina ng Pampublikong Tagapagtanggol sa Lungsod at County ng San Francisco, Abugado",
+               "ballot_designation_zh" : "三藩市市縣公共辯護律師辦公室，律師",
+               "ballot_title_zh" : "麥羅夫",
+               "ballot_designation_es" : "Oficina del Defensor Público de la Ciudad y Condado de San Francisco, Abogado",
+               "id" : "3797",
+               "ballot_designation" : "City & County of San Francisco Public Defender's Office, Attorney",
+               "ballot_title" : "KWIXUAN H. MALOOF"
+            }
+         ]
+      },
+      {
+         "vote_for_msg_zh" : "選一名",
+         "vote_for_msg_es" : "Vote por uno",
+         "ballot_title_zh" : "高等法院法官，第11席",
+         "header_id" : "HDR08",
+         "vote_for_msg" : "Vote for One",
+         "id" : "601",
+         "ballot_title_es" : "JUEZ DEL TRIBUNAL SUPERIOR, OFICINA NÚM. 11",
+         "writeins_allowed" : 1,
+         "number_elected" : 1,
+         "vote_for_msg_tl" : "Bumoto ng Isa",
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ],
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "ballot_title" : "'Ballots Cast'",
+               "id" : "'SVCst'"
+            },
+            {
+               "ballot_title" : "'Registered Voters'",
+               "id" : "'SVReg'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "id" : "'SVRej'",
+               "ballot_title" : "'Ballots Rejected'"
+            },
+            {
+               "ballot_title" : "'Ballots Uncounted'",
+               "id" : "'SVUnc'"
+            },
+            {
+               "ballot_title" : "'Writein Votes'",
+               "id" : "'SVWri'"
+            },
+            {
+               "ballot_title" : "'Undervotes'",
+               "id" : "'SVUnd'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "type" : "office",
+         "choices" : [
+            {
+               "id" : "3799",
+               "ballot_designation_es" : "Oficina del Defensor Público de la Ciudad y Condado de San Francisco, Abogada",
+               "ballot_designation" : "City & County of San Francisco Public Defender's Office, Attorney",
+               "ballot_title" : "NIKI JUDITH SOLIS",
+               "ballot_title_zh" : "蘇妮卡",
+               "ballot_designation_zh" : "三藩市市縣公共辯護律師辦公室，律師",
+               "ballot_designation_tl" : "Opisina ng Pampublikong Tagapagtanggol sa Lungsod at County ng San Francisco, Abugado"
+            },
+            {
+               "ballot_designation" : "City and County of San Francisco Superior Court Judge",
+               "ballot_title" : "JEFFREY S. ROSS",
+               "ballot_designation_es" : "Juez del Tribunal Superior de la Ciudad y Condado de San Francisco",
+               "id" : "3798",
+               "ballot_designation_zh" : "三藩市市縣高等法院法官",
+               "ballot_designation_tl" : "Hukom ng Korte Superyor ng Lungsod at County ng San Francisco",
+               "ballot_title_zh" : "羅啟文"
+            }
+         ],
+         "ballot_title" : "JUDGE OF THE SUPERIOR COURT, OFFICE NO. 11",
+         "ballot_title_tl" : "HUKOM NG KORTE SUPERYOR, KATUNGKULAN BLG. 11"
+      },
+      {
+         "classification" : "Office Category",
+         "ballot_title_zh" : "學校",
+         "header_id" : "HDR06",
+         "ballot_title_es" : "ESCUELA",
+         "type" : "header",
+         "ballot_title" : "SCHOOL",
+         "id" : "HDR09"
+      },
+      {
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ],
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "ballot_title" : "'Ballots Cast'",
+               "id" : "'SVCst'"
+            },
+            {
+               "ballot_title" : "'Registered Voters'",
+               "id" : "'SVReg'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "id" : "'SVRej'",
+               "ballot_title" : "'Ballots Rejected'"
+            },
+            {
+               "ballot_title" : "'Ballots Uncounted'",
+               "id" : "'SVUnc'"
+            },
+            {
+               "ballot_title" : "'Writein Votes'",
+               "id" : "'SVWri'"
+            },
+            {
+               "ballot_title" : "'Undervotes'",
+               "id" : "'SVUnd'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "type" : "office",
+         "number_elected" : 1,
+         "writeins_allowed" : 1,
+         "vote_for_msg_tl" : "Bumoto ng Isa",
+         "ballot_title" : "SUPERINTENDENT OF PUBLIC INSTRUCTION",
+         "ballot_title_tl" : "SUPERINTENDENTE NG PAMPUBLIKONG PAGTUTURO",
+         "choices" : [
+            {
+               "ballot_designation" : "Educational Administrator / Instructor",
+               "ballot_title" : "LILY (ESPINOZA) PLOSKI",
+               "ballot_designation_es" : "Administradora Educativa / Instructora",
+               "id" : "3707",
+               "ballot_title_zh" : "莉莉（艾斯皮諾察）波羅斯基",
+               "ballot_designation_zh" : "教育管理者 / 教員",
+               "ballot_designation_tl" : "Tagapangasiwang Pang-edukasyon / Tagapagturo"
+            },
+            {
+               "ballot_title" : "STEVEN IRELAND",
+               "ballot_designation" : "Parent",
+               "id" : "3706",
+               "ballot_designation_es" : "Padre",
+               "ballot_title_zh" : "斯蒂芬 ‧ 愛爾蘭",
+               "ballot_designation_zh" : "家長",
+               "ballot_designation_tl" : "Magulang"
+            },
+            {
+               "ballot_designation_tl" : "Edukador / Mambabatas ng Estado",
+               "ballot_designation_zh" : "教育工作者 / 加州眾議員",
+               "ballot_title_zh" : "托尼 K. 瑟蒙德",
+               "ballot_designation_es" : "Educador / Legislador del Estado",
+               "id" : "3832",
+               "ballot_title" : "TONY K. THURMOND",
+               "ballot_designation" : "Educator / State Legislator"
+            },
+            {
+               "ballot_designation" : "Schools Improvement Director",
+               "ballot_title" : "MARSHALL TUCK",
+               "id" : "3833",
+               "ballot_designation_es" : "Director de Mejoras Escolares",
+               "ballot_designation_tl" : "Direktor ng Pagpapahusay ng mga Paaralan",
+               "ballot_designation_zh" : "學校改進主任",
+               "ballot_title_zh" : "馬歇爾 ‧ 塔克"
+            }
+         ],
+         "vote_for_msg_es" : "Vote por uno",
+         "vote_for_msg_zh" : "選一名",
+         "id" : "563",
+         "ballot_title_es" : "SUPERINTENDENTE DE INSTRUCCIÓN PÚBLICA",
+         "header_id" : "HDR09",
+         "ballot_title_zh" : "教育部長",
+         "vote_for_msg" : "Vote for One"
+      },
+      {
+         "type" : "header",
+         "classification" : "District Name",
+         "ballot_title" : "CITY AND COUNTY",
+         "id" : "HDR10",
+         "ballot_title_es" : "CIUDAD Y CONDADO",
+         "ballot_title_tl" : "LUNGSOD AT COUNTY",
+         "ballot_title_zh" : "市縣",
+         "header_id" : "HDR06"
+      },
+      {
+         "instructions_text" : "You may rank up to three choices. To rank fewer than three candidates, leave any remaining choices blank.",
+         "vote_for_msg_zh" : "投選您的第一、第二和第三選擇",
+         "vote_for_msg_es" : "Vote por su primera, segunda y tercera preferencias",
+         "vote_type_id" : "rcv",
+         "id" : "598",
+         "ballot_title_es" : "ALCALDE",
+         "instructions_text_zh" : "您最多可以投選三個選擇。如果投選的候選人少於三名候選人，多餘欄目可留為空白。",
+         "ballot_title_zh" : "市長",
+         "vote_for_msg" : "Vote your first, second, and third choices",
+         "instructions_text_tl" : "Maaari ninyong pagsunud-sunurin ang hanggang sa tatlong pinili. Para pagsunud-sunurin ang mas kaunti sa tatlong kandidato, iwanan na blangko ang anumang mga natitirang pagpipilian.",
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "ballot_title" : "'Ballots Cast'",
+               "id" : "'SVCst'"
+            },
+            {
+               "ballot_title" : "'Registered Voters'",
+               "id" : "'SVReg'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "id" : "'SVRej'",
+               "ballot_title" : "'Ballots Rejected'"
+            },
+            {
+               "ballot_title" : "'Ballots Uncounted'",
+               "id" : "'SVUnc'"
+            },
+            {
+               "ballot_title" : "'Writein Votes'",
+               "id" : "'SVWri'"
+            },
+            {
+               "ballot_title" : "'Undervotes'",
+               "id" : "'SVUnd'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            },
+            {
+               "ballot_title" : "'Exhausted Ballots'",
+               "id" : "'SVExh'"
+            }
+         ],
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ],
+         "number_elected" : 1,
+         "writeins_allowed" : 1,
+         "vote_for_msg_tl" : "Iboto ang inyong una, pangalawa, at pangatlong pinili",
+         "ballot_title" : "MAYOR",
+         "ballot_title_tl" : "PUNONG-BAYAN",
+         "choices" : [
+            {
+               "ballot_designation_es" : "Ejecutiva de Organización sin Fines de Lucro",
+               "id" : "3790",
+               "ballot_designation" : "Nonprofit Executive",
+               "ballot_title" : "AMY FARAH WEISS",
+               "ballot_designation_tl" : "Nonprofit na Ehekutibo",
+               "ballot_designation_zh" : "非牟利機構主管",
+               "ballot_title_zh" : "艾咪 ‧ 法拉 ‧ 維絲"
+            },
+            {
+               "id" : "3789",
+               "ballot_designation_es" : "Trabajadora Social Familiar",
+               "ballot_designation" : "Family Social Worker",
+               "ballot_title" : "ELLEN LEE ZHOU",
+               "ballot_title_zh" : "李愛晨",
+               "ballot_designation_zh" : "家庭社工",
+               "ballot_designation_tl" : "Social Worker para sa mga Pamilya"
+            },
+            {
+               "ballot_designation_es" : "Profesional de Salud Holística",
+               "id" : "4969",
+               "ballot_title" : "MICHELLE BRAVO",
+               "ballot_designation" : "Holistic Health Practitioner",
+               "ballot_designation_zh" : "全面保健執業者",
+               "ballot_designation_tl" : "Praktisyoner para sa Holistikong Kalusugan",
+               "ballot_title_zh" : "米歇爾  布拉沃"
+            },
+            {
+               "id" : "4970",
+               "ballot_designation_es" : "Presidenta, Consejo de Supervisores",
+               "ballot_designation" : "President, Board of Supervisors",
+               "ballot_title" : "LONDON BREED",
+               "ballot_designation_zh" : "市參議會主席",
+               "ballot_designation_tl" : "Presidente, Lupon ng mga Superbisor",
+               "ballot_title_zh" : "倫敦 ‧ 布理德"
+            },
+            {
+               "ballot_title_zh" : "馬克 ‧ 里諾",
+               "ballot_designation_tl" : "May-ari ng Maliit na Negosyo",
+               "ballot_designation_zh" : "小商業商人",
+               "ballot_title" : "MARK LENO",
+               "ballot_designation" : "Small Businessperson",
+               "ballot_designation_es" : "Pequeño Empresario",
+               "id" : "3786"
+            },
+            {
+               "ballot_title" : "JANE KIM",
+               "ballot_designation" : "Supervisor",
+               "ballot_designation_es" : "Supervisora",
+               "id" : "3788",
+               "ballot_designation_zh" : "市參議員",
+               "ballot_designation_tl" : "Superbisor",
+               "ballot_title_zh" : "金貞妍"
+            },
+            {
+               "ballot_designation_es" : "Asesor de Pequeñas Empresas",
+               "id" : "3785",
+               "ballot_title" : "RICHIE GREENBERG",
+               "ballot_designation" : "Small Business Advisor",
+               "ballot_title_zh" : "理奇 ‧ 葛林伯格",
+               "ballot_designation_tl" : "Tagapayo para sa Maliliit na Negosyo",
+               "ballot_designation_zh" : "小商業顧問"
+            },
+            {
+               "ballot_designation_tl" : "Abugado para sa mga Karapatang Sibil",
+               "ballot_designation_zh" : "民權律師",
+               "ballot_title_zh" : "安琪娜  阿里奧圖",
+               "ballot_title" : "ANGELA ALIOTO",
+               "ballot_designation" : "Civil Rights Attorney",
+               "id" : "3787",
+               "ballot_designation_es" : "Abogada de Derechos Civiles"
+            }
+         ],
+         "instructions_text_es" : "Puede seleccionar un máximo de tres opciones por orden de preferencia. Para seleccionar por orden de preferencia a menos de tres candidatos, deje en blanco las opciones restantes."
+      },
+      {
+         "id" : "HDR11",
+         "ballot_title" : "MEASURES SUBMITTED TO THE VOTERS",
+         "ballot_title_tl" : "MGA PANUKALANG ISINUMITE SA MGA BOTANTE",
+         "ballot_title_es" : "INICIATIVAS DE LEY PRESENTADAS A LOS ELECTORES",
+         "header_id" : "",
+         "ballot_title_zh" : "提交選民投票的提案",
+         "type" : "header",
+         "classification" : "Measure Group"
+      },
+      {
+         "type" : "header",
+         "classification" : "Measure Category",
+         "ballot_title" : "STATE PROPOSITIONS",
+         "id" : "HDR12",
+         "ballot_title_es" : "PROPOSICIONES ESTATALES",
+         "ballot_title_tl" : "MGA PROPOSISYON NG ESTADO",
+         "ballot_title_zh" : "州提案",
+         "header_id" : "HDR11"
+      },
+      {
+         "id" : "446",
+         "ballot_title" : "68",
+         "choice_names_tl" : "OO;HINDI",
+         "header_id" : "HDR12",
+         "choices" : [
+            {
+               "ballot_title_zh" : "贊成",
+               "id" : "2725",
+               "ballot_title" : "YES",
+               "ballot_title_es" : "SÍ",
+               "ballot_title_tl" : "OO"
+            },
+            {
+               "ballot_title_tl" : "HINDI",
+               "ballot_title_es" : "NO",
+               "ballot_title" : "NO",
+               "id" : "2726",
+               "ballot_title_zh" : "反對"
+            }
+         ],
+         "question_text" : "<strong>AUTHORIZES BONDS FUNDING PARKS, NATURAL RESOURCES PROTECTION, CLIMATE ADAPTATION, WATER QUALITY AND SUPPLY, AND FLOOD PROTECTION.</strong> Authorizes $4 billion in general obligation bonds for: parks, natural resources protection, climate adaptation, water quality and supply, and flood protection. Fiscal Impact: Increased state bond repayment costs averaging $200 million annually over 40 years. Local government savings for natural resources-related projects, likely averaging several tens of millions of dollars annually over the next few decades.",
+         "choice_names_zh" : "贊成;反對",
+         "question_text_es" : "<strong>AUTORIZA BONOS PARA LA FINANCIACIÓN DE PARQUES, PROTECCIÓN DE RECURSOS NATURALES, ADAPTACIÓN CLIMÁTICA, SUMINISTRO Y CALIDAD DEL AGUA, Y PROTECCIÓN CONTRA INUNDACIONES.</strong> Autoriza 4 mil millones de dólares en bonos de obligación general para lo siguiente: parques, protección de recursos naturales, adaptación climática, suministro y calidad del agua, y protección contra inundaciones. Impacto fiscal: el aumento promedio del costo del pago de los bonos estatales será de 200 millones de dólares por año durante 40 años. Es probable que, en promedio, los ahorros del gobierno local para proyectos relacionados con recursos naturales sean de varias decenas de millones de dólares por año durante las próximas décadas.",
+         "choice_names" : "YES;NO",
+         "type" : "measure",
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ],
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "id" : "'SVCst'",
+               "ballot_title" : "'Ballots Cast'"
+            },
+            {
+               "id" : "'SVReg'",
+               "ballot_title" : "'Registered Voters'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "ballot_title" : "'Ballots Rejected'",
+               "id" : "'SVRej'"
+            },
+            {
+               "id" : "'SVUnc'",
+               "ballot_title" : "'Ballots Uncounted'"
+            },
+            {
+               "id" : "'SVUnd'",
+               "ballot_title" : "'Undervotes'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "question_text_tl" : "<strong>PAHIHINTULUTAN ANG PAGPOPONDO NG MGA BONO SA MGA PARKE, PROTEKSYON SA MGA LIKAS NA YAMAN, PAG-AYON SA KLIMA, KALIDAD AT SUPPLY NG TUBIG, AT PROTEKSYON SA BAHA.</strong> Pahihintulutan ang $4 na bilyon sa mga bono para sa pangkalahatang obligasyon para sa: mga parke, proteksyon sa mga likas na yaman, pag-ayon sa klima, kalidad at supply ng tubig, at proteksyon sa baha. Epekto sa Pananalapi: Tumaas na mga gastusin sa muling pagbabayad sa bono ng estado na may average na humigit-kumulang $200 milyon taun-taon sa loob ng susunod na 40 taon. Mga ipon ng lokal na pamahalaan para sa mga proyektong nauugnay sa mga likas na yaman, na malamang na may average na milyun-milyong dolyar taun-taon sa loob ng susunod na ilang dekada.",
+         "question_text_zh" : "<strong>授權發行債券，為公園、自然資源的保護、氣候變遷的因應、水質與供水，以及防洪提供資金。</strong>授權發行40億美元的普通責任債券，用途包括：公園、自然資源保護、氣候變遷的因應、水質與供水，以及防洪。財政影響：每年州政府償還公債的支出成本平均增加2億美元，為期40年。在未來數十年，地方政府在自然資源相關計畫，可能每年節省平均約數千萬美元。",
+         "choice_names_es" : "SÍ;NO"
+      },
+      {
+         "question_text_tl" : "<strong>NAG-AATAS NA GAMITIN ANG ILANG PARTIKULAR NA BAGONG KITA SA TRANSPORTASYON PARA SA MGA LAYUNING PANTRANSPORTASYON. LEHISLATIBONG AMYENDA SA SALIGANG-BATAS.</strong> Nag-aatas na gamitin lang ang ilang partikular na kitang nalikom sa pamamagitan ng batas sa pagpopondo ng transportasyon sa taong 2017 para sa mga layuning pantransportasyon at pangkalahatang nagbabawal sa Lehislatura na ilipat ang mga pondo sa iba pang layunin. Epekto sa Pananalapi: Walang direktang epekto sa halaga ng mga kita o gastusin ng estado at lokal na pamahalaan ngunit maaaring makaapekto sa paggastos ng ilang pera.",
+         "question_text_zh" : "<strong>要求某些新的運輸收入只能用於運輸相關用途。州議會憲法修正案。</strong>要求來自2017年運輸預算法案的新運輸收入只能用於運輸相關用途，原則上禁止州議會將資金調撥作別的用途。財政影響：對州政府與地方收支不會有直接影響，不過可能會影響到有些資金的用法。",
+         "choice_names_es" : "SÍ;NO",
+         "question_text_es" : "<strong>EXIGE QUE CIERTOS INGRESOS PÚBLICOS NUEVOS CORRESPONDIENTES AL TRANSPORTE SE UTILICEN PARA FINES RELACIONADOS CON ESTE SECTOR. ENMIENDA CONSTITUCIONAL LEGISLATIVA.</strong> Exige que ciertos ingresos públicos generados por una ley de financiación del transporte de 2017 se utilicen solo para fines relacionados con dicho sector y, en general, prohíbe que la legislatura desvíe fondos para cumplir otros propósitos. Impacto fiscal: no hay un efecto directo en las sumas de los ingresos públicos o costos locales o estatales, pero podría afectar la forma en que se gastan ciertas cantidades de dinero.",
+         "type" : "measure",
+         "choice_names" : "YES;NO",
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "id" : "'SVCst'",
+               "ballot_title" : "'Ballots Cast'"
+            },
+            {
+               "id" : "'SVReg'",
+               "ballot_title" : "'Registered Voters'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "ballot_title" : "'Ballots Rejected'",
+               "id" : "'SVRej'"
+            },
+            {
+               "id" : "'SVUnc'",
+               "ballot_title" : "'Ballots Uncounted'"
+            },
+            {
+               "id" : "'SVUnd'",
+               "ballot_title" : "'Undervotes'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ],
+         "header_id" : "HDR12",
+         "choices" : [
+            {
+               "ballot_title" : "YES",
+               "id" : "3761",
+               "ballot_title_tl" : "OO",
+               "ballot_title_es" : "SÍ",
+               "ballot_title_zh" : "贊成"
+            },
+            {
+               "ballot_title_es" : "NO",
+               "ballot_title_tl" : "HINDI",
+               "id" : "3762",
+               "ballot_title" : "NO",
+               "ballot_title_zh" : "反對"
+            }
+         ],
+         "choice_names_zh" : "贊成;反對",
+         "question_text" : "<strong>REQUIRES THAT CERTAIN NEW TRANSPORTATION REVENUES BE USED FOR TRANSPORTATION PURPOSES. LEGISLATIVE CONSTITUTIONAL AMENDMENT.</strong> Requires that certain revenues generated by a 2017 transportation funding law be used only for transportation purposes and generally prohibits Legislature from diverting funds to other purposes. Fiscal Impact: No direct effect on the amount of state and local revenues or costs but could affect how some monies are spent.",
+         "id" : "584",
+         "ballot_title" : "69",
+         "choice_names_tl" : "OO;HINDI"
+      },
+      {
+         "question_text_es" : "<strong>REQUIERE UN VOTO LEGISLATIVO MAYORITARIO PARA APROBAR EL USO DEL FONDO DE RESERVA DEL PROGRAMA CAP-AND-TRADE. ENMIENDA CONSTITUCIONAL LEGISLATIVA.</strong> Exige que, a partir del año 2024, los ingresos públicos provenientes del programa cap-and-trade se acumulen en un fondo de reserva hasta que la legislatura, por una mayoría de dos tercios, autorice el uso de los ingresos. Impacto fiscal: a partir del año 2024, posible aumento temporal de los ingresos provenientes del impuesto estatal a las ventas, que oscilaría de cero a unos cuantos cientos de millones de dólares por año. Además, posibles cambios en la forma de invertir los ingresos provenientes de la venta de permisos de emisión de gases de efecto invernadero.",
+         "choice_names" : "YES;NO",
+         "type" : "measure",
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "id" : "'SVCst'",
+               "ballot_title" : "'Ballots Cast'"
+            },
+            {
+               "id" : "'SVReg'",
+               "ballot_title" : "'Registered Voters'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "ballot_title" : "'Ballots Rejected'",
+               "id" : "'SVRej'"
+            },
+            {
+               "id" : "'SVUnc'",
+               "ballot_title" : "'Ballots Uncounted'"
+            },
+            {
+               "id" : "'SVUnd'",
+               "ballot_title" : "'Undervotes'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ],
+         "choice_names_es" : "SÍ;NO",
+         "question_text_zh" : "<strong>要求獲得州議會絕對多數票來批准使用排放總量管制和交易收入儲備基金。州議會憲法修正案。</strong>從2024年起，要求「排放總量管制和交易收入」累積存入一個儲備基金，直到獲得州議會三分之二多數議員的同意，才得以授權動用。財政影響：從2024年起，加州營業稅收入每年可能暫時增加零到數億美元，而且來自銷售溫室氣體排放許可證的收入其用法也可能改變。",
+         "question_text_tl" : "<strong>KINAKAILANGAN ANG BOTO NG MAYORYA NG LEHISLATURA NA NAG-AAPRUBA SA PAGGAMIT NG NAKARESERBANG PONDO SA CAP-AND-TRADE. LEHISLATIBONG AMYENDA SA SALIGANG-BATAS.</strong> Simula 2024, aatasang pagsama-samahin ang mga kita sa cap-and-trade sa isang nakareserbang pondo hanggang pahintulutan ng Lehislatura, ayon sa dalawang-katlo ng kabuuan, ang paggamit sa mga kita. Epekto sa Pananalapi: Simula 2024, maaaring pansamantalang tumaas ang kita sa buwis sa mga pagbebenta ng estado, na mula sa wala ay magiging ilang daang milyong dolyar taun-taon, at posibleng magkaroon ng mga pagbabago sa paggasta ng kita mula sa pagbebenta ng mga permit sa greenhouse gas emission.",
+         "ballot_title" : "70",
+         "choice_names_tl" : "OO;HINDI",
+         "id" : "585",
+         "question_text" : "<strong>REQUIRES LEGISLATIVE SUPERMAJORITY VOTE APPROVING USE OF CAP-AND-TRADE RESERVE FUND. LEGISLATIVE CONSTITUTIONAL AMENDMENT.</strong> Beginning in 2024, requires that cap-and-trade revenues accumulate in a reserve fund until the Legislature, by a two-thirds majority, authorizes use of the revenues. Fiscal Impact: Beginning in 2024, potential temporary increase in state sales tax revenue, ranging from none to a few hundred million dollars annually, and possible changes in how revenue from sale of greenhouse gas emission permits is spent.",
+         "choice_names_zh" : "贊成;反對",
+         "choices" : [
+            {
+               "ballot_title" : "YES",
+               "id" : "3763",
+               "ballot_title_tl" : "OO",
+               "ballot_title_es" : "SÍ",
+               "ballot_title_zh" : "贊成"
+            },
+            {
+               "ballot_title_es" : "NO",
+               "ballot_title_tl" : "HINDI",
+               "ballot_title" : "NO",
+               "id" : "3764",
+               "ballot_title_zh" : "反對"
+            }
+         ],
+         "header_id" : "HDR12"
+      },
+      {
+         "question_text_es" : "<strong>ESTABLECE LA FECHA DE ENTRADA EN VIGENCIA DE LAS INICIATIVAS DE LEY INCLUIDAS EN LAS BOLETAS. ENMIENDA CONSTITUCIONAL LEGISLATIVA.</strong> Establece que las iniciativas de ley incluidas en las boletas aprobadas por la mayoría de los votantes entrarán en vigencia cinco días después de que la Secretaría de Estado certifique los resultados de la elección. Impacto fiscal: probablemente, el efecto en las finanzas locales o estatales sea menor o nulo.",
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ],
+         "choice_names" : "YES;NO",
+         "type" : "measure",
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "id" : "'SVCst'",
+               "ballot_title" : "'Ballots Cast'"
+            },
+            {
+               "id" : "'SVReg'",
+               "ballot_title" : "'Registered Voters'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "ballot_title" : "'Ballots Rejected'",
+               "id" : "'SVRej'"
+            },
+            {
+               "id" : "'SVUnc'",
+               "ballot_title" : "'Ballots Uncounted'"
+            },
+            {
+               "id" : "'SVUnd'",
+               "ballot_title" : "'Undervotes'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "choice_names_es" : "SÍ;NO",
+         "question_text_zh" : "<strong>規定選票議案生效日期。州議會憲法修正案。</strong>規定獲得多數選民投票同意的選票議案應該在州務卿認證投票結果五日後生效。財政影響：對州政府和地方財政可能造成很少影響或毫無影響。",
+         "question_text_tl" : "<strong>NAGTATAKDA SA PETSA NG PAGKAKAROON NG BISA PARA SA MGA PANUKALA SA BALOTA. LEHISLATIBONG AMYENDA SA SALIGANG-BATAS.</strong> Nagsasaad na ang panukala sa balotang inaprubahan ng mayorya ng mga botante ay magkakabisa limang araw pagkatapos patunayan ng Kalihim ng Estado ang mga resulta ng halalan. Epekto sa Pananalapi: Posibleng magkaroon ng maliit o walang epekto sa mga pananalapi ng estado at lokal na pamahalaan.",
+         "ballot_title" : "71",
+         "choice_names_tl" : "OO;HINDI",
+         "id" : "586",
+         "question_text" : "<strong>SETS EFFECTIVE DATE FOR BALLOT MEASURES. LEGISLATIVE CONSTITUTIONAL AMENDMENT. </strong>Provides that ballot measures approved by a majority of voters shall take effect five days after the Secretary of State certifies the results of the election. Fiscal Impact: Likely little or no effect on state and local finances.",
+         "choice_names_zh" : "贊成;反對",
+         "choices" : [
+            {
+               "ballot_title_zh" : "贊成",
+               "ballot_title_es" : "SÍ",
+               "ballot_title_tl" : "OO",
+               "ballot_title" : "YES",
+               "id" : "3765"
+            },
+            {
+               "ballot_title" : "NO",
+               "id" : "3766",
+               "ballot_title_es" : "NO",
+               "ballot_title_tl" : "HINDI",
+               "ballot_title_zh" : "反對"
+            }
+         ],
+         "header_id" : "HDR12"
+      },
+      {
+         "question_text_tl" : "<strong>PINAPAHINTULUTAN ANG LEHISLATURA NA IBUKOD ANG MGA BAGONG TAYONG SISTEMA NA PANSALO NG ULAN SA KINAKAILANGANG MULING PAGTATASA NG BUWIS NG ARI-ARIAN. LEHISLATIBONG AMYENDA SA SALIGANG-BATAS.</strong> Pinapahintulutan ang Lehislatura na payagan ang konstruksiyon ng mga sistema na pansalo ng ulan, na makukumpleto sa o pagkalipas ng Enero 1, 2019, nang hindi kinakailangan ang muling pagtatasa ng buwis ng ari-arian. Epekto sa Pananalapi: Malamang ay maliit na bawas sa mga kita sa taunang pagbubuwis sa ari-arian sa mga lokal na pamahalaan.",
+         "choice_names_es" : "SÍ;NO",
+         "question_text_zh" : "<strong>允許州議會讓新建的集雨系統豁免於物業稅重估的規定。州議會憲法修正案。</strong>允許州議會能讓2019年1月1日或之後建造完成的集雨系統不需要接受物業稅重估。財政影響：地方政府每年的物業稅收入可能稍微減少。",
+         "question_text_es" : "<strong>PERMITE QUE LA LEGISLATURA EXIMA LOS SISTEMAS DE CAPTACIÓN DE AGUAS PLUVIALES RECIÉN CONSTRUIDOS DEL REQUISITO DE RETASACIÓN DEL IMPUESTO A LA PROPIEDAD. ENMIENDA CONSTITUCIONAL LEGISLATIVA.</strong> Permite que la legislatura autorice la construcción de sistemas de captación de aguas pluviales, que se completen el 1 de enero de 2019 o después de esa fecha, sin exigir la retasación del impuesto a la propiedad. Impacto fiscal: probablemente, una reducción menor en los ingresos anuales del impuesto a la propiedad para los gobiernos locales.",
+         "type" : "measure",
+         "choice_names" : "YES;NO",
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "id" : "'SVCst'",
+               "ballot_title" : "'Ballots Cast'"
+            },
+            {
+               "id" : "'SVReg'",
+               "ballot_title" : "'Registered Voters'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "ballot_title" : "'Ballots Rejected'",
+               "id" : "'SVRej'"
+            },
+            {
+               "id" : "'SVUnc'",
+               "ballot_title" : "'Ballots Uncounted'"
+            },
+            {
+               "id" : "'SVUnd'",
+               "ballot_title" : "'Undervotes'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ],
+         "choices" : [
+            {
+               "ballot_title_zh" : "贊成",
+               "ballot_title_es" : "SÍ",
+               "ballot_title_tl" : "OO",
+               "ballot_title" : "YES",
+               "id" : "3767"
+            },
+            {
+               "ballot_title_tl" : "HINDI",
+               "ballot_title_es" : "NO",
+               "id" : "3768",
+               "ballot_title" : "NO",
+               "ballot_title_zh" : "反對"
+            }
+         ],
+         "header_id" : "HDR12",
+         "choice_names_zh" : "贊成;反對",
+         "question_text" : "<strong>PERMITS LEGISLATURE TO EXCLUDE NEWLY CONSTRUCTED RAIN-CAPTURE SYSTEMS FROM PROPERTY-TAX REASSESSMENT REQUIREMENT. LEGISLATIVE CONSTITUTIONAL AMENDMENT. </strong>Permits Legislature to allow construction of rain-capture systems, completed on or after January 1, 2019, without requiring property-tax reassessment. Fiscal Impact: Probably minor reduction in annual property tax revenues to local governments.",
+         "ballot_title" : "72",
+         "choice_names_tl" : "OO;HINDI",
+         "id" : "587"
+      },
+      {
+         "classification" : "Measure Category",
+         "type" : "header",
+         "header_id" : "HDR11",
+         "ballot_title_zh" : "區域提案",
+         "id" : "HDR13",
+         "ballot_title" : "REGIONAL MEASURE",
+         "ballot_title_tl" : "PANREHIYONG PANUKALA",
+         "ballot_title_es" : "INICIATIVA DE LEY REGIONAL"
+      },
+      {
+         "question_text_tl" : "PLANO SA PAGPAPAHUPA NG TRAPIKO SA BAY AREA. Dapat bang pahintulutan ng mga botante ang isang planong bawasan ang trapiko ng auto at trak, bawasan ang siksikan sa BART, ayusin ang daloy sa mga pagsisiksikan sa freeway, at pabutihin ang serbisyo ng bus, ferry, BART at commuter rail alinsunod sa nakasaad sa plano sa librito ng botante na ito, sa pamamagitan ng $1 na dagdag sa toll simula 2019, $1 na dagdag sa 2022, at $1 na dagdag sa 2025, sa lahat ng tulay ng toll sa Bay Area maliban sa Golden Gate Bridge, na may independiyenteng pagbabantay sa lahat ng pondo?",
+         "choice_names_es" : "SÍ;NO",
+         "question_text_zh" : "灣區交通舒緩計劃。選民是否應授權一項計劃以減少汽車及卡車車流、舒緩灣區捷運人潮、疏通高速公路瓶頸，並改善公車、渡輪、灣區捷運和通勤鐵路運輸服務，按照選民手冊中所詳細說明之計劃，針對於除了金門大橋外，所有灣區收取通行費之橋樑，生效於2019年增加1美元通行費，2022年增加1美元並於2025年增加1美元，並對所有資金採取獨立監督？",
+         "question_text_es" : "PLAN PARA DISMINUIR EL TRÁFICO EN EL ÁREA DE LA BAHÍA. ¿Deben autorizar los votantes un plan para disminuir el tráfico de camiones y automóviles, disminuir el congestionamiento en BART, descongestionar los embotellamientos en las autopistas y mejorar los servicios de autobuses, transbordadores, BART y ferrovías suburbanas según lo especificado en el plan en este folleto para el votante, con un aumento de $1 efectivo en 2019, un aumento de $1 en 2022 y un aumento de $1 en 2025, en todos los puentes de peaje del Área de la Bahía, excepto el Puente Golden Gate, con una supervisión independiente de todos los fondos?",
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ],
+         "choice_names" : "YES;NO",
+         "type" : "measure",
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "id" : "'SVCst'",
+               "ballot_title" : "'Ballots Cast'"
+            },
+            {
+               "id" : "'SVReg'",
+               "ballot_title" : "'Registered Voters'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "ballot_title" : "'Ballots Rejected'",
+               "id" : "'SVRej'"
+            },
+            {
+               "id" : "'SVUnc'",
+               "ballot_title" : "'Ballots Uncounted'"
+            },
+            {
+               "id" : "'SVUnd'",
+               "ballot_title" : "'Undervotes'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "choices" : [
+            {
+               "ballot_title_zh" : "贊成",
+               "ballot_title" : "YES",
+               "id" : "4971",
+               "ballot_title_es" : "SÍ",
+               "ballot_title_tl" : "OO"
+            },
+            {
+               "id" : "4972",
+               "ballot_title" : "NO",
+               "ballot_title_tl" : "HINDI",
+               "ballot_title_es" : "NO",
+               "ballot_title_zh" : "反對"
+            }
+         ],
+         "header_id" : "HDR13",
+         "choice_names_zh" : "贊成;反對",
+         "question_text" : "BAY AREA TRAFFIC RELIEF PLAN. Shall voters authorize a plan to reduce auto and truck traffic, relieve crowding on BART, unclog freeway bottlenecks, and improve bus, ferry, BART and commuter rail service as specified in the plan in this voter pamphlet, with a $1 toll increase effective in 2019, a $1 increase in 2022, and a $1 increase in 2025, on all Bay Area toll bridges except the Golden Gate Bridge, with independent oversight of all funds?",
+         "choice_names_tl" : "OO;HINDI",
+         "ballot_title" : "3",
+         "id" : "617"
+      },
+      {
+         "ballot_title" : "CITY AND COUNTY PROPOSITIONS",
+         "id" : "HDR14",
+         "ballot_title_es" : "PROPOSICIONES DE LA CIUDAD Y CONDADO",
+         "ballot_title_tl" : "MGA PROPOSISYON NG LUNGSOD AT COUNTY",
+         "ballot_title_zh" : "市縣提案",
+         "header_id" : "HDR11",
+         "type" : "header",
+         "classification" : "Measure Category"
+      },
+      {
+         "choice_names_tl" : "OO;HINDI",
+         "ballot_title" : " A",
+         "id" : "372",
+         "question_text" : "Shall the City authorize the San Francisco Public Utilities Commission to issue revenue bonds to build or improve the City’s clean power facilities, with approval by two-thirds of the Board of Supervisors, and prohibit the PUC from financing construction of power plants that generate electricity from fossil fuels or nuclear power?",
+         "choice_names_zh" : "贊成;反對",
+         "choices" : [
+            {
+               "ballot_title_zh" : "贊成",
+               "ballot_title" : "YES",
+               "id" : "2297",
+               "ballot_title_es" : "SÍ",
+               "ballot_title_tl" : "OO"
+            },
+            {
+               "ballot_title_tl" : "HINDI",
+               "ballot_title_es" : "NO",
+               "id" : "2298",
+               "ballot_title" : "NO",
+               "ballot_title_zh" : "反對"
+            }
+         ],
+         "header_id" : "HDR14",
+         "type" : "measure",
+         "question_text_es" : "¿Debería la Ciudad autorizar a la Comisión de Servicios Públicos (PUC por sus iniciales en inglés) de San Francisco emitir bonos de ingresos para construir o mejorar instalaciones de energía limpia de la Ciudad con la aprobación de dos tercios del Consejo de Supervisores, y prohibir a la PUC financiar la construcción de plantas de energía que generen electricidad de combustibles fósiles o de energía nuclear?",
+         "choice_names" : "YES;NO",
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "id" : "'SVCst'",
+               "ballot_title" : "'Ballots Cast'"
+            },
+            {
+               "id" : "'SVReg'",
+               "ballot_title" : "'Registered Voters'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "ballot_title" : "'Ballots Rejected'",
+               "id" : "'SVRej'"
+            },
+            {
+               "id" : "'SVUnc'",
+               "ballot_title" : "'Ballots Uncounted'"
+            },
+            {
+               "id" : "'SVUnd'",
+               "ballot_title" : "'Undervotes'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ],
+         "choice_names_es" : "SÍ;NO",
+         "question_text_zh" : "市府是否應在獲得市參議會三分之二的議員批准下，授權三藩市公共事業委員會發行收益公債來興建或改善本市的清潔能源設施，並且禁止公共事業委員會資助興建利用化石燃料或核能生產電力的電廠？",
+         "question_text_tl" : "Dapat bang bigyan ng Lungsod ng awtorisasyon ang Public Utilities Commission o PUC (Komisyon para sa mga Pampublikong Serbisyo sa Koryente, Gas at Tubig) na maglabas ng revenue bonds (utang para sa proyektong kumikita) upang maipatayo o mapaghusay ang mga pasilidad para sa enerhiya na mabuti sa kapaligiran, kung may pag-apruba ng two-thirds (dalawa sa tatlong bahagi) ng Board of Supervisors (Lupon ng mga Superbisor), at pagbawalan ang PUC sa pagpipinansiya sa konstruksiyon ng power plants (plantang pinagmumulan ng koryente) na kumukuha ng koryente mula sa fossil fuels (nakabaong enerhiya) o lakas nukleyar?"
+      },
+      {
+         "choice_names_zh" : "贊成;反對",
+         "question_text" : "Shall the City require appointed members of boards and commissions established by the Charter to forfeit their appointed seat when they file to run for state or local elective office?",
+         "choices" : [
+            {
+               "ballot_title_zh" : "贊成",
+               "ballot_title_tl" : "OO",
+               "ballot_title_es" : "SÍ",
+               "ballot_title" : "YES",
+               "id" : "2299"
+            },
+            {
+               "ballot_title" : "NO",
+               "id" : "2300",
+               "ballot_title_tl" : "HINDI",
+               "ballot_title_es" : "NO",
+               "ballot_title_zh" : "反對"
+            }
+         ],
+         "header_id" : "HDR14",
+         "choice_names_tl" : "OO;HINDI",
+         "ballot_title" : " B",
+         "id" : "373",
+         "choice_names_es" : "SÍ;NO",
+         "question_text_zh" : "市府是否應要求依市憲章設立之理事會和委員會的被任命成員在申請參加州或地方民選職位競選時，放棄被任命的席位？",
+         "question_text_tl" : "Dapat bang itakda ng Lungsod sa naitalagang mga miyembro ng lupon o komisyong itinatag sa pamamagitan ng Tsarter, na isuko ang kanilang itinalagang puwesto kapag nag-file sila ng pagtakbo para sa inihahalal na puwesto sa estado o lokal na gobyerno?",
+         "choice_names" : "YES;NO",
+         "question_text_es" : "¿Debería la Ciudad exigir a los miembros designados de comisiones y consejos establecidos por la Carta Constitucional a renunciar a su nombramiento designado a la hora de inscribirse para postularse a un cargo electivo local o estatal?",
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "id" : "'SVCst'",
+               "ballot_title" : "'Ballots Cast'"
+            },
+            {
+               "id" : "'SVReg'",
+               "ballot_title" : "'Registered Voters'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "ballot_title" : "'Ballots Rejected'",
+               "id" : "'SVRej'"
+            },
+            {
+               "id" : "'SVUnc'",
+               "ballot_title" : "'Ballots Uncounted'"
+            },
+            {
+               "id" : "'SVUnd'",
+               "ballot_title" : "'Undervotes'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "type" : "measure",
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ]
+      },
+      {
+         "question_text_es" : "¿Debería la Ciudad imponer un nuevo impuesto del 1% sobre los ingresos brutos que reciba una empresa por arrendar espacios para almacenamiento en San Francisco y del 3.5% sobre los ingresos que reciba una empresa por arrendar ciertos espacios comerciales en San Francisco para financiar un cuidado infantil y una educación temprana de buena calidad para niños pequeños, y para otros fines públicos?",
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ],
+         "choice_names" : "YES;NO",
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "id" : "'SVCst'",
+               "ballot_title" : "'Ballots Cast'"
+            },
+            {
+               "id" : "'SVReg'",
+               "ballot_title" : "'Registered Voters'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "ballot_title" : "'Ballots Rejected'",
+               "id" : "'SVRej'"
+            },
+            {
+               "id" : "'SVUnc'",
+               "ballot_title" : "'Ballots Uncounted'"
+            },
+            {
+               "id" : "'SVUnd'",
+               "ballot_title" : "'Undervotes'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "type" : "measure",
+         "question_text_tl" : "Dapat bang magpataw ang Lungsod ng bagong gross receipts tax (buwis sa kabuuang kita) na 1% ng kita na tinatanggap ng mga negosyo mula sa pagpapaupa ng pang-warehouse na espasyo sa San Francisco, at 3.5% sa kitang tinatanggap ng negosyo mula sa pagpapaupa ng ilang komersiyal na espasyo sa San Francisco, nang mapondohan ang de-kalidad na maagang pangangalaga at edukasyon para sa musmos na bata at para sa iba pang pampublikong layunin?",
+         "question_text_zh" : "市府是否應對企業在三藩市出租倉庫空間的所得，徵收一項新的1%營業總收入稅，並對企業在三藩市出租商業空間的所得，徵收3.5%的營業總收入稅，來資助優質托兒服務、幼兒教育以及其他公共用途？",
+         "choice_names_es" : "SÍ;NO",
+         "id" : "374",
+         "choice_names_tl" : "OO;HINDI",
+         "ballot_title" : " C",
+         "header_id" : "HDR14",
+         "choices" : [
+            {
+               "ballot_title_es" : "SÍ",
+               "ballot_title_tl" : "OO",
+               "id" : "2301",
+               "ballot_title" : "YES",
+               "ballot_title_zh" : "贊成"
+            },
+            {
+               "ballot_title_zh" : "反對",
+               "ballot_title" : "NO",
+               "id" : "2302",
+               "ballot_title_es" : "NO",
+               "ballot_title_tl" : "HINDI"
+            }
+         ],
+         "question_text" : "Shall the City impose a new gross receipts tax of 1% on revenues a business receives from leasing warehouse space in San Francisco, and 3.5% on revenues a business receives from leasing some commercial spaces in San Francisco, to fund quality early care and education for young children and for other public purposes?",
+         "choice_names_zh" : "贊成;反對"
+      },
+      {
+         "ballot_title" : " D",
+         "choice_names_tl" : "OO;HINDI",
+         "id" : "375",
+         "choices" : [
+            {
+               "ballot_title_zh" : "贊成",
+               "ballot_title_es" : "SÍ",
+               "ballot_title_tl" : "OO",
+               "id" : "2303",
+               "ballot_title" : "YES"
+            },
+            {
+               "ballot_title_zh" : "反對",
+               "id" : "2304",
+               "ballot_title" : "NO",
+               "ballot_title_tl" : "HINDI",
+               "ballot_title_es" : "NO"
+            }
+         ],
+         "header_id" : "HDR14",
+         "question_text" : "Shall the City impose a new gross receipts tax of 1.7% on revenues a business receives from leasing some commercial spaces in San Francisco, to fund homeless services, housing for extremely low- to middle-income households and for other public purposes?",
+         "choice_names_zh" : "贊成;反對",
+         "question_text_es" : "¿Debería la Ciudad imponer un nuevo impuesto del 1.7% sobre los ingresos brutos que reciba una empresa por arrendar espacios comerciales en San Francisco para financiar servicios para personas sin hogar, viviendas para hogares con ingresos de extremadamente bajos a medianos, y para otros fines públicos?",
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ],
+         "choice_names" : "YES;NO",
+         "type" : "measure",
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "id" : "'SVCst'",
+               "ballot_title" : "'Ballots Cast'"
+            },
+            {
+               "id" : "'SVReg'",
+               "ballot_title" : "'Registered Voters'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "ballot_title" : "'Ballots Rejected'",
+               "id" : "'SVRej'"
+            },
+            {
+               "id" : "'SVUnc'",
+               "ballot_title" : "'Ballots Uncounted'"
+            },
+            {
+               "id" : "'SVUnd'",
+               "ballot_title" : "'Undervotes'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "question_text_tl" : "Dapat bang magpataw ang Lungsod ng bagong gross receipts tax (buwis sa kabuuang kita) na 1.7% ng kita na tinatanggap ng mga negosyo sa pagpapaupa ng ilang espasyong komersiyal sa San Francisco, at nang mapondohan ang mga serbisyo para sa kawalan ng tahanan, pabahay para sa mga kabahayang napakaliit hanggang katamtaman ang kita at para sa iba pang pampublikong layunin?",
+         "choice_names_es" : "SÍ;NO",
+         "question_text_zh" : "市府是否應對企業在三藩市出租某些商業空間的所得，徵收一項新的1.7%營業總收入稅，來資助無家可歸者服務、收入極低至收入中等家庭的住房以及其他公共用途？"
+      },
+      {
+         "question_text" : "Shall the City ordinance prohibiting the sale of flavored tobacco products in San Francisco take effect?",
+         "choice_names_zh" : "贊成;反對",
+         "header_id" : "HDR14",
+         "choices" : [
+            {
+               "id" : "2834",
+               "ballot_title" : "YES",
+               "ballot_title_es" : "SÍ",
+               "ballot_title_tl" : "OO",
+               "ballot_title_zh" : "贊成"
+            },
+            {
+               "id" : "2835",
+               "ballot_title" : "NO",
+               "ballot_title_es" : "NO",
+               "ballot_title_tl" : "HINDI",
+               "ballot_title_zh" : "反對"
+            }
+         ],
+         "id" : "448",
+         "choice_names_tl" : "OO;HINDI",
+         "ballot_title" : " E",
+         "question_text_zh" : "市府是否應讓禁止在三藩市銷售調味煙草產品的市法令生效？",
+         "choice_names_es" : "SÍ;NO",
+         "question_text_tl" : "Dapat bang ipatupad ang ordinansa ng Lungsod na nagbabawal sa pagbebenta sa San Francisco ng mga may lasang produkto ng tabako?",
+         "question_text_es" : "¿Debería entrar en vigencia la ordenanza de la Ciudad que prohíbe la venta de productos de tabaco de sabores en San Francisco?",
+         "type" : "measure",
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "id" : "'SVCst'",
+               "ballot_title" : "'Ballots Cast'"
+            },
+            {
+               "id" : "'SVReg'",
+               "ballot_title" : "'Registered Voters'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "ballot_title" : "'Ballots Rejected'",
+               "id" : "'SVRej'"
+            },
+            {
+               "id" : "'SVUnc'",
+               "ballot_title" : "'Ballots Uncounted'"
+            },
+            {
+               "id" : "'SVUnd'",
+               "ballot_title" : "'Undervotes'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "choice_names" : "YES;NO",
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ]
+      },
+      {
+         "question_text_es" : "¿Debería la Ciudad establecer, financiar y administrar un programa que ofrezca representación jurídica a todos los inquilinos de residencias que enfrenten desalojo en San Francisco?",
+         "type" : "measure",
+         "choice_names" : "YES;NO",
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "id" : "'SVCst'",
+               "ballot_title" : "'Ballots Cast'"
+            },
+            {
+               "id" : "'SVReg'",
+               "ballot_title" : "'Registered Voters'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "ballot_title" : "'Ballots Rejected'",
+               "id" : "'SVRej'"
+            },
+            {
+               "id" : "'SVUnc'",
+               "ballot_title" : "'Ballots Uncounted'"
+            },
+            {
+               "id" : "'SVUnd'",
+               "ballot_title" : "'Undervotes'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ],
+         "question_text_tl" : "Dapat bang magtatag, magpondo at magpatakbo ang Lungsod ng programa upang magkaloob ng legal na representasyon sa lahat ng nangungupahan sa residensiyal na gusali sa San Francisco na kumakaharap sa pagpapaalis sa tinitirhan?",
+         "question_text_zh" : "市府是否應設立、資助並管理一項計劃，為三藩市所有面臨迫遷的住宅租客提供法律代表？",
+         "choice_names_es" : "SÍ;NO",
+         "id" : "376",
+         "choice_names_tl" : "OO;HINDI",
+         "ballot_title" : " F",
+         "header_id" : "HDR14",
+         "choices" : [
+            {
+               "ballot_title_zh" : "贊成",
+               "ballot_title_tl" : "OO",
+               "ballot_title_es" : "SÍ",
+               "id" : "2305",
+               "ballot_title" : "YES"
+            },
+            {
+               "ballot_title_es" : "NO",
+               "ballot_title_tl" : "HINDI",
+               "ballot_title" : "NO",
+               "id" : "2306",
+               "ballot_title_zh" : "反對"
+            }
+         ],
+         "choice_names_zh" : "贊成;反對",
+         "question_text" : "Shall the City establish, fund and run a program to provide legal representation for all residential tenants in San Francisco facing eviction?"
+      },
+      {
+         "question_text" : "Shall the City collect an annual tax of $298 per parcel for investment in education, subject to certain exemptions including those for senior citizens?",
+         "choice_names_zh" : "贊成;反對",
+         "choices" : [
+            {
+               "ballot_title_zh" : "贊成",
+               "ballot_title" : "YES",
+               "id" : "3776",
+               "ballot_title_tl" : "OO",
+               "ballot_title_es" : "SÍ"
+            },
+            {
+               "ballot_title_zh" : "反對",
+               "ballot_title_tl" : "HINDI",
+               "ballot_title_es" : "NO",
+               "id" : "3777",
+               "ballot_title" : "NO"
+            }
+         ],
+         "header_id" : "HDR14",
+         "choice_names_tl" : "OO;HINDI",
+         "ballot_title" : " G",
+         "id" : "594",
+         "choice_names_es" : "SÍ;NO",
+         "question_text_zh" : "市府是否應向每地塊徵收298元年度稅金以用於教育投資，但有若干情況可獲豁免，包括長者？",
+         "question_text_tl" : "Dapat bang mangolekta ang Lungsod ng taunang buwis na $298 kada parsela ng lupa para sa pamumuhunan sa edukasyon, kung saan may ilang hindi saklaw tulad ng para sa mga senior citizen o matatanda?",
+         "question_text_es" : "¿Debería la Ciudad cobrar un impuesto anual de $298 por parcela para la inversión en educación, sujeto a ciertas exenciones, entre ellas las referidas a personas de la tercera edad?",
+         "choice_names" : "YES;NO",
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "id" : "'SVCst'",
+               "ballot_title" : "'Ballots Cast'"
+            },
+            {
+               "id" : "'SVReg'",
+               "ballot_title" : "'Registered Voters'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "ballot_title" : "'Ballots Rejected'",
+               "id" : "'SVRej'"
+            },
+            {
+               "id" : "'SVUnc'",
+               "ballot_title" : "'Ballots Uncounted'"
+            },
+            {
+               "id" : "'SVUnd'",
+               "ballot_title" : "'Undervotes'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ],
+         "type" : "measure"
+      },
+      {
+         "question_text_zh" : "市府是否應制定政策規定警察何時可使用電擊槍，並在特定條款約束下授權警察局為所有警察購買電擊槍？",
+         "choice_names_es" : "SÍ;NO",
+         "question_text_tl" : "Dapat bang magtakda ang Lungsod ng polisiya ukol sa mga pagkakataon na puwedeng gumamit ang mga pulis ng taser at bigyan ng awtorisasyon ang Police Department (Departamento ng Pulisya) upang bumili ng taser para sa lahat ng pulis, basta’t mayroong mga espesipikong kondisyon?",
+         "question_text_es" : "¿Debería la Ciudad establecer una política sobre cuándo los agentes de policía pueden usar pistolas eléctricas, y autorizar al Departamento de Policía a adquirir pistolas eléctricas para todos los agentes, sujeto a condiciones específicas?",
+         "type" : "measure",
+         "choice_names" : "YES;NO",
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ],
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "id" : "'SVCst'",
+               "ballot_title" : "'Ballots Cast'"
+            },
+            {
+               "id" : "'SVReg'",
+               "ballot_title" : "'Registered Voters'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "ballot_title" : "'Ballots Rejected'",
+               "id" : "'SVRej'"
+            },
+            {
+               "id" : "'SVUnc'",
+               "ballot_title" : "'Ballots Uncounted'"
+            },
+            {
+               "id" : "'SVUnd'",
+               "ballot_title" : "'Undervotes'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "choice_names_zh" : "贊成;反對",
+         "question_text" : "Shall the City set a policy for when police officers can use tasers and authorize the Police Department to purchase tasers for all officers, subject to specific conditions?",
+         "header_id" : "HDR14",
+         "choices" : [
+            {
+               "ballot_title_zh" : "贊成",
+               "id" : "3778",
+               "ballot_title" : "YES",
+               "ballot_title_es" : "SÍ",
+               "ballot_title_tl" : "OO"
+            },
+            {
+               "ballot_title_tl" : "HINDI",
+               "ballot_title_es" : "NO",
+               "ballot_title" : "NO",
+               "id" : "3779",
+               "ballot_title_zh" : "反對"
+            }
+         ],
+         "id" : "595",
+         "ballot_title" : " H",
+         "choice_names_tl" : "OO;HINDI"
+      },
+      {
+         "choices" : [
+            {
+               "ballot_title" : "YES",
+               "id" : "3780",
+               "ballot_title_es" : "SÍ",
+               "ballot_title_tl" : "OO",
+               "ballot_title_zh" : "贊成"
+            },
+            {
+               "ballot_title_zh" : "反對",
+               "ballot_title" : "NO",
+               "id" : "3781",
+               "ballot_title_tl" : "HINDI",
+               "ballot_title_es" : "NO"
+            }
+         ],
+         "header_id" : "HDR14",
+         "choice_names_zh" : "贊成;反對",
+         "question_text" : "Shall the City adopt a policy not to encourage professional sports teams from other cities to move to San Francisco and to oppose any sports team ownership group attempting to avoid payment of an outstanding public debt?",
+         "ballot_title" : " I",
+         "choice_names_tl" : "OO;HINDI",
+         "id" : "596",
+         "question_text_tl" : "Dapat bang magpatupad ang Lungsod ng polisiya na hindi hihikayatin ang mga propesyonal na sports team (koponang pampalakasan) mula sa ibang lungsod na lumipat sa San Francisco, at upang tutulan ang anumang pangkat na nagmamay-ari ng sports team na sumusubok na umiwas sa pagbabayad ng pampublikong utang na mayroon pa sila?",
+         "choice_names_es" : "SÍ;NO",
+         "question_text_zh" : "市府是否應採取政策，不鼓勵其他城市的職業球隊搬至三藩市，並反對任何球隊的所有權集團企圖逃避支付未償的公債？",
+         "question_text_es" : "¿Debería la Ciudad adoptar una política de no alentar a que los equipos deportivos profesionales de otras ciudades se muden a San Francisco y oponerse a los grupos propietarios de equipos deportivos que estén tratando de evitar el pago de una deuda pública pendiente?",
+         "result_attributes" : [
+            {
+               "id" : "'SVTot'",
+               "ballot_title" : "'Ballots Counted'"
+            },
+            {
+               "id" : "'SVCst'",
+               "ballot_title" : "'Ballots Cast'"
+            },
+            {
+               "id" : "'SVReg'",
+               "ballot_title" : "'Registered Voters'"
+            },
+            {
+               "ballot_title" : "'Voter Turnout'",
+               "id" : "'SVTrn'"
+            },
+            {
+               "ballot_title" : "'Ballots Rejected'",
+               "id" : "'SVRej'"
+            },
+            {
+               "id" : "'SVUnc'",
+               "ballot_title" : "'Ballots Uncounted'"
+            },
+            {
+               "id" : "'SVUnd'",
+               "ballot_title" : "'Undervotes'"
+            },
+            {
+               "id" : "'SVOvr'",
+               "ballot_title" : "'Overvotes'"
+            }
+         ],
+         "type" : "measure",
+         "choice_names" : "YES;NO",
+         "subtotal_types" : [
+            {
+               "heading" : "Total",
+               "id" : "TO"
+            },
+            {
+               "heading" : "Election Day",
+               "id" : "ED"
+            },
+            {
+               "id" : "MV",
+               "heading" : "Vote by Mail"
+            }
+         ]
+      }
+   ],
+   "election_area_tl" : "Lungsod at County ng San Francisco"
+}

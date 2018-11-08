@@ -1,0 +1,18 @@
+H=headers:Header|status|updated|id|ballot_title|ballot_title_zh|ballot_subtitle|ballot_subtitle_zh|instructions_text|instructions_text_zh
+O=contests:OfficeContest|status|updated|id|ballot_title|ballot_title_zh|ballot_subtitle|ballot_subtitle_zh
+C=choices:Candidate|status|updated|id|ballot_title|ballot_title_zh|ballot_designation|ballot_designation_zh
+M=contests:MeasureContest|status|updated|id|ballot_title|ballot_title_zh|ballot_subtitle|ballot_subtitle_zh|question_text|question_text_zh
+H0|O||HDR01|Voter-Nominated and Nonpartisan Offices||||All voters, regardless of the party preference they disclosed upon registration, or refusal to disclose a party preference, may vote for any candidate for a voter-nominated or nonpartisan office. The party preference, if any, designated by a candidate for a voter-nominated office is selected by the candidate and is shown for the information of the voters only. It does not imply that the candidate is nominated or endorsed by the party or that the party approves of the candidate. The party preference, if any, of a candidate for a nonpartisan office does not appear on the ballot.|<strong>選民提名職位和非黨派職位。</strong><br>所有選民，不論在登記時披露政黨傾向或謝絕表態，均可投票給選民提名職位或是非黨派職位的任何候選人。如果選民提名職位的候選人表明政黨傾向，這是該候選人之個人選擇，而且僅提供作為選民參考。它並非表示候選人受到該政黨提名或舉名支持，也不代表候選人受到該政黨認可。選票上的非黨派職位不會列出候選人的政黨傾向(若有)。
+H0|O||HDR02|VOTER-NOMINATED OFFICES|選民提名職位||||
+H0|O||HDR03|STATE|州||||
+H0|O||HDR04|FEDERAL|聯邦||||
+H0|O||HDR05|STATE|州||||
+H0|O||HDR06|NONPARTISAN OFFICES|無黨派職位||||
+H0|O||HDR07|CITY AND COUNTY|市縣||||
+H0|O||HDR08|JUDICIAL|司法||||
+H0|O||HDR09|SCHOOL|學校||||
+H0|O||HDR10|CITY AND COUNTY|市縣||||
+H0|O||HDR11|MEASURES SUBMITTED TO THE VOTERS|提交選民投票的提案||||
+H0|O||HDR12|STATE PROPOSITIONS|州提案||||
+H0|O||HDR13|REGIONAL MEASURE|區域提案||||
+H0|O||HDR14|CITY AND COUNTY PROPOSITIONS|市縣提案||||

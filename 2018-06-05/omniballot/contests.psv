@@ -1,0 +1,18 @@
+H=headers:Header|id|ballot_title|ballot_subtitle|instructions_text
+O=contests:OfficeContest|id|ballot_title|ballot_subtitle|vote_for_msg|number_elected
+C=choices:Candidate|id|ballot_title|candidate_party|ballot_designation
+M=contests:MeasureContest|id|ballot_title|ballot_subtitle|question_text|choice_names
+H0|HDR01|Voter-Nominated and Nonpartisan Offices||All voters, regardless of the party preference they disclosed upon registration, or refusal to disclose a party preference, may vote for any candidate for a voter-nominated or nonpartisan office. The party preference, if any, designated by a candidate for a voter-nominated office is selected by the candidate and is shown for the information of the voters only. It does not imply that the candidate is nominated or endorsed by the party or that the party approves of the candidate. The party preference, if any, of a candidate for a nonpartisan office does not appear on the ballot.
+H0|HDR02|VOTER-NOMINATED OFFICES||
+H0|HDR03|STATE||
+H0|HDR04|FEDERAL||
+H0|HDR05|STATE||
+H0|HDR06|NONPARTISAN OFFICES||
+H0|HDR07|CITY AND COUNTY||
+H0|HDR08|JUDICIAL||
+H0|HDR09|SCHOOL||
+H0|HDR10|CITY AND COUNTY||
+H0|HDR11|MEASURES SUBMITTED TO THE VOTERS||
+H0|HDR12|STATE PROPOSITIONS||
+H0|HDR13|REGIONAL MEASURE||
+H0|HDR14|CITY AND COUNTY PROPOSITIONS||

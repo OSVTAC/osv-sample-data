@@ -1,0 +1,34 @@
+contest|ATTORNEY GENERAL|司法部長
+contest|BOARD OF EQUALIZATION MEMBER, DISTRICT 2|平稅局委員，第2區
+contest|CONTROLLER|主計長
+contest|GOVERNOR|州長
+contest|INSURANCE COMMISSIONER|保險部長
+contest|JUDGE OF THE SUPERIOR COURT, OFFICE NO. 11|高等法院法官，第11席
+contest|JUDGE OF THE SUPERIOR COURT, OFFICE NO. 4|高等法院法官，第4席
+contest|JUDGE OF THE SUPERIOR COURT, OFFICE NO. 7|高等法院法官，第7席
+contest|JUDGE OF THE SUPERIOR COURT, OFFICE NO. 9|高等法院法官，第9席
+contest|LIEUTENANT GOVERNOR|副州長
+contest|SECRETARY OF STATE|州務卿
+contest|STATE ASSEMBLY MEMBER|加州眾議員
+contest|SUPERINTENDENT OF PUBLIC INSTRUCTION|教育部長
+contest|TREASURER|財務部長
+contest|UNITED STATES REPRESENTATIVE|美國眾議員
+contest|UNITED STATES SENATE|美國參議院
+header|CITY AND COUNTY|市縣
+header|CITY AND COUNTY PROPOSITIONS|市縣提案
+header|DISTRICT 12|第12選區
+header|DISTRICT 17|第17選區
+header|FEDERAL|聯邦
+header|JUDICIAL|司法
+header|MAYOR|市長
+header|MEASURES SUBMITTED TO THE VOTERS|提交選民投票的提案
+header|NONPARTISAN OFFICES|無黨派職位
+header|REGIONAL MEASURE|區域提案
+header|SCHOOL|學校
+header|STATE|州
+header|STATE PROPOSITIONS|州提案
+header|VOTER-NOMINATED OFFICES|選民提名職位
+measure_choice|NO|反對
+measure_choice|YES|贊成
+vote_for|Vote for One|選一名
+vote_for|Vote your first, second, and third choices|投選您的第一、第二和第三選擇
