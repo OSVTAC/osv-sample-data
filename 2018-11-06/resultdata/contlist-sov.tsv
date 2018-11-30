@@ -1,0 +1,52 @@
+contest_order	contest_id_sov	contest_id_eds	contest_full_name	vote_for	contest_type
+001	100	001	Governor	1	0
+002	105	002	Lieutenant Governor	1	0
+003	110	003	Secretary of State	1	0
+004	115	004	State Controller	1	0
+005	120	005	State Treasurer	1	0
+006	125	006	Attorney General	1	0
+007	130	007	Insurance Commissioner	1	0
+008	135	008	Board of Equalization, District 2	1	0
+009	140	009	U.S. Senator	1	0
+010	145	010	U.S. Representative, District 12	1	0
+011	150	011	U.S. Representative, District 13	1	0
+012	155	012	U.S. Representative, District 14	1	0
+013	160	013	State Assembly, District 17	1	0
+014	165	014	State Assembly, District 19	1	0
+015	305	016	Sup Ct. Assoc Justice CORRIGAN	1	4
+016	310	017	Sup Ct. Assoc Justice KRUGER	1	4
+017	315	018	COA Div 1 Presiding Justice HUMES	1	4
+018	320	019	COA Div 1 Assoc Justice MARGULIES	1	4
+019	325	020	COA Div 2 Assoc Justice RICHMAN	1	4
+020	330	021	COA Div 2 Assoc Justice MILLER	1	4
+021	335	022	COA Div 3 Presiding Justice SIGGINS	1	4
+022	340	023	COA Div 4 Assoc Justice STREETER	1	4
+023	345	024	COA Div 4 Assoc Juctice TUCHER	1	4
+024	350	025	COA Div 5 Presiding Juctice JONES	1	4
+025	235	026	Superintendent of Public Instruction	1	0
+026	170	015	Member, Board of Education	3	0
+027	240	027	Member, Community College Board	3	0
+028	245	028	BART Director, District 8	1	0
+029	250	029	Assessor-Recorder	1	0
+030	265	032	Public Defender	1	0
+031	280	035	Board of Supervisors, District 2	1	0
+032	285	036	Board of Supervisors, District 4	1	0
+033	290	037	Board of Supervisors, District 6	1	0
+034	295	038	Board of Supervisors, District 8	1	0
+035	300	039	Board of Supervisors, District 10	1	0
+036	355	040	State Proposition 1	1	4
+037	360	041	State Proposition 2	1	4
+038	365	042	State Proposition 3	1	4
+039	370	043	State Proposition 4	1	4
+040	375	044	State Proposition 5	1	4
+041	380	045	State Proposition 6	1	4
+042	385	046	State Proposition 7	1	4
+043	390	047	State Proposition 8	1	4
+044	395	048	State Proposition 10	1	4
+045	400	049	State Proposition 11	1	4
+046	405	050	State Proposition 12	1	4
+047	410	051	Local Measure A	1	4
+048	415	052	Local Measure B	1	4
+049	420	053	Local Measure C	1	4
+050	425	054	Local Measure D	1	4
+051	430	055	Local Measure E	1	4

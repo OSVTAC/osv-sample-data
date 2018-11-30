@@ -1,0 +1,37 @@
+contest_order|contest_id|contest_full_name|vote_for|contest_type
+001|001|Governor|1|0
+002|002|Lieutenant Governor|1|0
+003|003|Secretary of State|1|0
+004|004|State Controller|1|0
+005|005|State Treasurer|1|0
+006|006|Attorney General|1|0
+007|007|Insurance Commissioner|1|0
+008|008|Board of Equalization, District 2|1|0
+009|009|U.S. Senator|1|0
+010|010|U.S. Representative, District 12|1|0
+011|011|U.S. Representative, District 13|1|0
+012|012|U.S. Representative, District 14|1|0
+013|013|State Assembly, District 17|1|0
+014|014|State Assembly, District 19|1|0
+015|015|Superior Court Judge, Seat 4|1|0
+016|016|Superior Court Judge, Seat 7|1|0
+017|017|Superior Court Judge, Seat 9|1|0
+018|018|Superior Court Judge, Seat 11|1|0
+019|019|Superintendent of Public Instruction|1|0
+020|020|Mayor|1|0
+021|021|Board of Supervisors, District 8|1|0
+022|022|State Proposition 68|1|4
+023|023|State Proposition 69|1|4
+024|024|State Proposition 70|1|4
+025|025|State Proposition 71|1|4
+026|026|State Proposition 72|1|4
+027|027|Regional Measure 3|1|4
+028|028|Local Measure A|1|4
+029|029|Local Measure B|1|4
+030|030|Local Measure C|1|4
+031|031|Local Measure D|1|4
+032|032|Local Measure E|1|4
+033|033|Local Measure F|1|4
+034|034|Local Measure G|1|4
+035|035|Local Measure H|1|4
+036|036|Local Measure I|1|4
