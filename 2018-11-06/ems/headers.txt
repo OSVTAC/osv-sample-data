@@ -1,6 +1,10 @@
 Headers in the EMS tsv data:
 
 emsdata-raw/CFMJ001_ContestCandidateData.tsv
+
+List of candidates with contest ID, but also has missing contest data:
+szBallotHeading..iOfficeOnBallot
+
    Field Name                     Sample
 -------------------------------------------------------------
  1  iContestID                     1010
@@ -53,6 +57,9 @@ emsdata-raw/CFMJ001_ContestCandidateData.tsv
 48  sElectronicCandStmt            No
 
 emsdata-raw/CFMJ001_ContestData.tsv
+
+Contest definitions data but mising some items in CFMJ001_ContestCandidateData.tsv
+
    Field Name                     Sample
 -------------------------------------------------------------
  1  ELECTION                       November 6 2018 Consolidated General Election
@@ -73,6 +80,9 @@ emsdata-raw/CFMJ001_ContestData.tsv
 16  CONTESTPARTY                   
 
 emsdata-raw/CFMJ008.tsv
+
+Measure contest ID and abbreviated name
+
    Field Name                     Sample
 -------------------------------------------------------------
  1  iMeasureID                     1801
@@ -127,6 +137,9 @@ emsdata-raw/CFMJ008.tsv
 50  dtElectionDate                 11/6/2018
 
 emsdata-raw/ConsolDistBT.tsv
+
+Consolidated precinct ID, name, VBM status, ballot type, and major districts
+
    Field Name                     Sample
 -------------------------------------------------------------
  1  VotingPrecinctID               1101
@@ -140,6 +153,9 @@ emsdata-raw/ConsolDistBT.tsv
  9  Supervisorial                  11
 
 emsdata-raw/PDMJ001.tsv
+
+District ID and Name, with precincts and splits
+
    Field Name                     Sample
 -------------------------------------------------------------
  1  sDistrictID                    *0
@@ -150,6 +166,9 @@ emsdata-raw/PDMJ001.tsv
  6  szPrecinctName                 Pct 1101
 
 emsdata-raw/PODJ011.tsv
+
+Poll location with consolidated precinct and regular precinct with ballot type
+
    Field Name                     Sample
 -------------------------------------------------------------
  1  ElectionAbbr                   2018NOVGEN
@@ -167,6 +186,9 @@ emsdata-raw/PODJ011.tsv
 13  BallotTypeList                 4
 
 emsdata-raw/SGMJ001.tsv
+
+Street address range to precinct mapping.
+
    Field Name                     Sample
 -------------------------------------------------------------
  1  DistrictID                     *0
@@ -205,3 +227,18 @@ emsdata-raw/SGMJ001.tsv
 34  SegmentRemarks                 08/17/05, self storage, flaged as business address       09/15/04 unconfirmed, maildrop
 35  LastUpdateID                   Administrator
 36  LastUpdateDate                 5/4/2012 11:45:18 AM
+
+emsdata-raw/EWMJ014_ContestBalTypeXref.txt
+
+List of contest IDs and rotation code by ballot type
+
+   Field Name                     Sample
+-------------------------------------------------------------
+ 1  ELECTIONABBR                   2018NOVGEN
+ 2  CONTESTID                      1010
+ 3  CONTESTABBR1                   UNITED STATES SENATE
+ 4  CONTESTABBR2                   District 12
+ 5  BALLOTTYPE                     1
+ 6  ROTATION                       1
+
+

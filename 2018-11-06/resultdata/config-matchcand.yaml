@@ -1,0 +1,36 @@
+files:
+  - filename: ../omniballot/contlist-omni.tsv
+    file_type: contest-master
+    contest_id_col:   sequence
+    contest_name_col: title
+    contest_text_col: text
+    contest_type_col: type
+    skip_contest_types:
+        - text
+        - header
+    question_pats:
+        - "{number}=Proposition:{number}"
+        - "{letter}=Measure:{letter}"
+        - "Shall {something} Justice {name} be elected {something2}=Retention:{name}"
+
+  - filename: ../omniballot/candlist-omni.tsv
+    file_type: candidate-master
+    contest_id_col: sequence
+    candidate_id_col: cand_id
+    candidate_name_col: title
+
+  - filename: contlist-sov.tsv
+    file_type: contest
+    contest_id_col:   contest_id_eds
+    contest_name_col: contest_full_name
+    question_pats:
+        - "State Proposition {number}=Proposition:{number}"
+        - "Local Measure {letter}=Measure:{letter}"
+        - "{something} Justice {word}=Retention:{word}"
+        - "{something} Juctice {word}=Retention:{word}"
+
+  - filename: candlist-eds.tsv
+    file_type: candidate
+    contest_id_col: contest_id
+    candidate_id_col: candidate_id
+    candidate_name_col: candidate_full_name

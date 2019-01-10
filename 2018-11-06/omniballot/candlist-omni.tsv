@@ -1,0 +1,137 @@
+sequence|cont_external_id|cand_seq|cand_id|external_id|title|party|designation|cand_type
+100|622|001|73971|5279|JOHN H. COX|Republican|Businessman / Taxpayer Advocate|default
+100|622|002|73972|5280|GAVIN NEWSOM|Democratic|Lieutenant Governor / Businessman|default
+105|623|001|73973|5281|ED HERNANDEZ|Democratic|State Senator / Businessman|default
+105|623|002|73974|5282|ELENI KOUNALAKIS|Democratic|Businesswoman / Economic Advisor|default
+110|626|001|73975|5105|ALEX PADILLA|Democratic|Secretary of State|default
+110|626|002|73976|5283|MARK P. MEUSER|Republican|Election Law Attorney|default
+115|627|001|73977|5110|KONSTANTINOS RODITIS|Republican|Businessman / CFO|default
+115|627|002|73978|5111|BETTY T. YEE|Democratic|California State Controller|default
+120|628|001|73979|5113|GREG CONLON|Republican|Businessman / CPA|default
+120|628|002|73980|5115|FIONA MA|Democratic|CPA / Taxpayer Representative|default
+125|624|001|73981|5095|STEVEN C BAILEY|Republican|Retired California Judge|default
+125|624|002|73982|5096|XAVIER BECERRA|Democratic|Appointed Attorney General of the State of California|default
+130|625|001|73983|5098|RICARDO LARA|Democratic|California Senator|default
+130|625|002|73984|5100|STEVE POIZNER|None|Businessman / Non-Profit Director|default
+135|621|001|73985|5278|MALIA COHEN|Democratic|President, San Francisco County Supervisors|default
+135|621|002|73986|5046|MARK BURNS|Republican|Realtor / Businessman|default
+140|629|001|73987|5285|DIANNE FEINSTEIN|Democratic|United States Senator|default
+140|629|002|73988|5127|KEVIN DE LEON|Democratic|California Senator|default
+145|476|001|74117|5123|LISA REMMER|Republican|Educator|default
+145|476|002|74118|5284|NANCY PELOSI|Democratic|Member of Congress|default
+150|477|001|74144|5124|BARBARA LEE|Democratic|United States Representative|default
+155|478|001|73989|5126|CRISTINA OSMEÑA|Republican|Solar Industry Executive|default
+155|478|002|73990|5125|JACKIE SPEIER|Democratic|Congresswoman|default
+160|474|001|74119|5050|DAVID CHIU|Democratic|Assemblymember|default
+160|474|002|74120|5051|ALEJANDRO FERNANDEZ|Democratic|Small Business Entrepreneur|default
+165|475|001|73991|5054|PHIL TING|Democratic|Assemblymember|default
+165|475|002|73992|5052|KEITH BOGDON|Republican|Biotech Marketing Consultant|default
+185|680|001|74050|5296|YES|||default
+185|680|002|74051|5297|NO|||default
+190|681|001|74052|5298|YES|||default
+190|681|002|74053|5299|NO|||default
+195|682|001|74054|5300|YES|||default
+195|682|002|74055|5301|NO|||default
+200|683|001|74056|5302|YES|||default
+200|683|002|74057|5303|NO|||default
+205|684|001|74058|5304|YES|||default
+205|684|002|74059|5305|NO|||default
+210|685|001|74060|5306|YES|||default
+210|685|002|74061|5307|NO|||default
+215|709|001|74062|5479|YES|||default
+215|709|002|74063|5480|NO|||default
+220|686|001|74064|5308|YES|||default
+220|686|002|74065|5309|NO|||default
+225|710|001|74066|5481|YES|||default
+225|710|002|74067|5482|NO|||default
+230|687|001|74068|5310|YES|||default
+230|687|002|74069|5311|NO|||default
+235|637|001|74070|5295|MARSHALL TUCK||Schools Improvement Director|default
+235|637|002|74071|5294|TONY K. THURMOND||Educator / State Legislator|default
+237|618|001|73993|5291|MONICA CHINCHILLA||Parent|default
+237|618|002|73994|5027|ALISON COLLINS||Educator / Parent Organizer|default
+237|618|003|73995|5035|JOSEPHINE ZHAO||Paraeducator / Mom|default
+237|618|004|73996|5033|MARTIN RAWLINGS-FEIN||Educator / Parent|default
+237|618|005|73997|5031|GABRIELA LÓPEZ||Public School Teacher|default
+237|618|006|73998|5287|LI MIAO LOVETT||Academic Counselor / Mother|default
+237|618|007|73999|5030|LEX LEIFHEIT||Parent / Public Servant|default
+237|618|008|74000|5028|ALIDA FISHER||Parent / Education Consultant|default
+237|618|009|74001|5286|PHILLIP MARCEL HOUSE|||default
+237|618|010|74002|5032|MICHELLE PARKER||Nonprofit Grantwriter / Parent|default
+237|618|011|74003|5288|DARRON A. PADILLA||Organization Development Consultant|default
+237|618|012|74004|5036|PAUL KANGAS||Doctor / Private Investigator|default
+237|618|013|74005|5290|CONNOR KRONE||Financial Literacy Educator|default
+237|618|014|74006|5292|PHIL KIM||Public School Educator|default
+237|618|015|74007|5293|JOHN TRASVIÑA||Law School Dean|default
+237|618|016|74008|5289|LENETTE THOMPSON||Mother / Firefighter|default
+237|618|017|74009|5037|FAAUUGA MOLIGA||Social Worker / Parent|default
+237|618|018|74010|5029|MIA SATYA||Case Manager / Author|default
+237|618|019|74011|5034|ROGER SINASOHN||Software Developer|default
+240|652|001|74072|5233|JOHN RIZZO||Incumbent|default
+240|652|002|74073|5234|BRIGITTE DAVILA||President, College Board|default
+240|652|003|74074|5276|VICTOR OLIVIERI||Educator / Nonprofit Director|default
+240|652|004|74075|5277|THEA SELBY||Incumbent|default
+245|619|001|74111|5252|EVA I. CHAO||Chief Financial Officer|default
+245|619|002|74112|5250|BRIAN J. LARKIN||Engineer / Transit Consultant|default
+245|619|003|74113|5247|JONATHAN LYENS||Budget Analyst|default
+245|619|004|74114|5251|JANICE LI||Director, Transportation Nonprofit|default
+245|619|005|74115|5248|MELANIE NUTTER||Transportation Policy Advisor|default
+245|619|006|74116|5249|WILLIAM WALKER||Driver / Student|default
+250|667|001|74076|5254|CARMEN CHU||City and County of San Francisco Assessor-Recorder|default
+250|667|002|74077|5253|PAUL BELLAR||Teacher / Property Appraiser|default
+265|668|001|74078|5255|JEFF ADACHI||Public Defender|default
+280|669|001|74127|5257|NICK JOSEFOWITZ||Clean Energy Entrepreneur|default
+280|669|002|74128|5258|JOHN DENNIS||Independent Businessman|default
+280|669|003|74129|5256|SCHUYLER HUDAK||Businesswoman / Entrepreneur / CEO|default
+280|669|004|74130|5259|CATHERINE STEFANI||Appointed Supervisor / Attorney|default
+285|670|001|74136|5262|JESSICA HO||Legislative Aide|default
+285|670|002|74137|5261|ADAM KIM||Project Manager|default
+285|670|003|74138|5266|TUAN NGUYEN||Consultant|default
+285|670|004|74139|5263|ARTHUR TOM||City Auditor|default
+285|670|005|74140|5267|TREVOR MCNEIL||Public School Teacher|default
+285|670|006|74141|5265|GORDON MAR||Nonprofit Director / Parent|default
+285|670|007|74142|5260|MIKE MURPHY||Educator|default
+285|670|008|74143|5264|LOU ANN BASSAN||Attorney / Teacher|default
+290|671|001|74131|5269|CHRISTINE JOHNSON||Housing Policy Educator|default
+290|671|002|74132|5268|MATT HANEY||School Board Member / Attorney|default
+290|671|003|74133|5400|SONJA TRAUSS||Housing Non-Profit Director|default
+295|632|001|74134|5215|LAWRENCE "STARK" DAGESSE||Theatrical Stage Technician|default
+295|632|002|74135|5214|RAFAEL MANDELMAN||City College Trustee / Attorney|default
+300|672|001|74121|5273|ASALE CHANDLER||Mother / Grandmother|default
+300|672|002|74122|5274|UZURI PEASE-GREENE||Community Builder|default
+300|672|003|74123|5270|TONY KELLY||Artist / Art Director|default
+300|672|004|74124|5275|SHAMANN WALTON||San Francisco Board of Education Commissioner|default
+300|672|005|74125|5272|THEO ELLINGTON||Human Rights Commissioner|default
+300|672|006|74126|5271|GLORIA BERRY||Mother|default
+305|314|001|74079|2173|YES|||default
+305|314|002|74080|2174|NO|||default
+310|104|001|74081|478|YES|||default
+310|104|002|74082|479|NO|||default
+315|105|001|74083|480|YES|||default
+315|105|002|74084|481|NO|||default
+320|106|001|74085|482|YES|||default
+320|106|002|74086|483|NO|||default
+325|107|001|74087|484|YES|||default
+325|107|002|74088|485|NO|||default
+330|108|001|74089|486|YES|||default
+330|108|002|74090|487|NO|||default
+335|486|001|74091|3522|YES|||default
+335|486|002|74092|3523|NO|||default
+340|691|001|74093|5392|YES|||default
+340|691|002|74094|5393|NO|||default
+350|692|001|74095|5394|YES|||default
+350|692|002|74096|5395|NO|||default
+355|693|001|74097|5396|YES|||default
+355|693|002|74098|5397|NO|||default
+360|694|001|74099|5398|YES|||default
+360|694|002|74100|5399|NO|||default
+365|498|001|74101|3559|YES|||default
+365|498|002|74102|3560|NO|||default
+370|499|001|74103|3561|YES|||default
+370|499|002|74104|3562|NO|||default
+375|511|001|74105|3604|YES|||default
+375|511|002|74106|3605|NO|||default
+380|512|001|74107|3606|YES|||default
+380|512|002|74108|3607|NO|||default
+385|513|001|74109|3608|YES|||default
+385|513|002|74110|3609|NO|||default

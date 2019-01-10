@@ -1,0 +1,6 @@
+contest_seq|contest_id|district_id|headings|ballot_title|contest_abbr|choice_names
+001|1801|0|MEASURES SUBMITTED TO THE VOTERS~CITY AND COUNTY PROPOSITIONS|A|Embarcadero Seawall Earthquake Safety Bond|Yes~No
+002|1802|0|MEASURES SUBMITTED TO THE VOTERS~CITY AND COUNTY PROPOSITIONS~CITY OF SAN FRANCISCO|B|City Privacy Guidelines|Yes~No
+003|1803|0|MEASURES SUBMITTED TO THE VOTERS~CITY AND COUNTY PROPOSITIONS~CITY OF SAN FRANCISCO|C|Additional Business Taxes to Fund Homeless Services|Yes~No
+004|1804|0|MEASURES SUBMITTED TO THE VOTERS~CITY AND COUNTY PROPOSITIONS~CITY OF SAN FRANCISCO|D|Additional Tax on Cannabis Businesses; Expanding the Businesses Subject to Business Taxes|Yes~No
+005|1805|0|MEASURES SUBMITTED TO THE VOTERS~CITY AND COUNTY PROPOSITIONS~CITY OF SAN FRANCISCO|E|Partial Allocation of Hotel Tax for Arts and Cultural Purposes|Yes~No

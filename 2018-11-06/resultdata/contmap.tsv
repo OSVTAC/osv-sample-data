@@ -1,0 +1,52 @@
+contest_id2	contest_id1	contest_name2	contest_name1
+001	100	Governor	GOVERNOR
+002	105	Lieutenant Governor	LIEUTENANT GOVERNOR
+003	110	Secretary of State	SECRETARY OF STATE
+004	115	State Controller	CONTROLLER
+005	120	State Treasurer	TREASURER
+006	125	Attorney General	ATTORNEY GENERAL
+007	130	Insurance Commissioner	INSURANCE COMMISSIONER
+008	135	Board of Equalization, District 2	BOARD OF EQUALIZATION MEMBER, DISTRICT 2
+009	140	U.S. Senator	UNITED STATES SENATE
+010	145	U.S. Representative, District 12	UNITED STATES REPRESENTATIVE~DISTRICT 12
+011	150	U.S. Representative, District 13	UNITED STATES REPRESENTATIVE~DISTRICT 13
+012	155	U.S. Representative, District 14	UNITED STATES REPRESENTATIVE~DISTRICT 14
+013	160	State Assembly, District 17	STATE ASSEMBLY MEMBER~DISTRICT 17
+014	165	State Assembly, District 19	STATE ASSEMBLY MEMBER~DISTRICT 19
+015	237	Member, Board of Education	MEMBER, BOARD OF EDUCATION
+016	185	Retention:CORRIGAN	Retention:CAROL A. CORRIGAN
+017	190	Retention:KRUGER	Retention:LEONDRA R. KRUGER
+018	195	Retention:HUMES	Retention:JAMES M. HUMES
+019	200	Retention:MARGULIES	Retention:SANDRA MARGULIES
+020	205	Retention:RICHMAN	Retention:JAMES A. RICHMAN
+021	210	Retention:MILLER	Retention:MARLA MILLER
+022	215	Retention:SIGGINS	Retention:PETER JOHN SIGGINS
+023	220	Retention:STREETER	Retention:JON B. STREETER
+024	225	Retention:TUCHER	Retention:ALISON M. TUCHER
+025	230	Retention:JONES	Retention:BARBARA JONES
+026	235	Superintendent of Public Instruction	SUPERINTENDENT OF PUBLIC INSTRUCTION
+027	240	Member, Community College Board	MEMBER, COMMUNITY COLLEGE BOARD
+028	245	BART Director, District 8	BART DIRECTOR~DISTRICT 8
+029	250	Assessor-Recorder	ASSESSOR-RECORDER
+032	265	Public Defender	PUBLIC DEFENDER
+035	280	Board of Supervisors, District 2	MEMBER, BOARD OF SUPERVISORS~DISTRICT 2
+036	285	Board of Supervisors, District 4	MEMBER, BOARD OF SUPERVISORS~DISTRICT 4
+037	290	Board of Supervisors, District 6	MEMBER, BOARD OF SUPERVISORS~DISTRICT 6
+038	295	Board of Supervisors, District 8	MEMBER, BOARD OF SUPERVISORS~DISTRICT 8
+039	300	Board of Supervisors, District 10	MEMBER, BOARD OF SUPERVISORS~DISTRICT 10
+040	305	Proposition:1	Proposition:1
+041	310	Proposition:2	Proposition:2
+042	315	Proposition:3	Proposition:3
+043	320	Proposition:4	Proposition:4
+044	325	Proposition:5	Proposition:5
+045	330	Proposition:6	Proposition:6
+046	335	Proposition:7	Proposition:7
+047	340	Proposition:8	Proposition:8
+048	350	Proposition:10	Proposition:10
+049	355	Proposition:11	Proposition:11
+050	360	Proposition:12	Proposition:12
+051	365	Measure:A	Measure:A
+052	370	Measure:B	Measure:B
+053	375	Measure:C	Measure:C
+054	380	Measure:D	Measure:D
+055	385	Measure:E	Measure:E

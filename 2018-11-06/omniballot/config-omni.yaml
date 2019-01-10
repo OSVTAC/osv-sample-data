@@ -1,0 +1,7 @@
+# Config for convomniballot.py
+# chops the first part of the sequence number used to move RCV to the end
+trim_sequence_prefix: 9
+
+# Patterns to match retention candidate names in retention contest question text
+retention_pats:
+    - Justice {candidate_name} be elected
