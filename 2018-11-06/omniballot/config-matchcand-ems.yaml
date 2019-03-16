@@ -1,0 +1,52 @@
+files:
+  - filename: ../ems/contlist-orig.tsv
+    file_type: contest-master
+    contest_id_col:   contest_id
+    contest_name_col: contest_abbr
+    question_pats:
+        - "{number}=Proposition:{number}"
+        - "{letter}=Measure:{letter}"
+        - "Shall {something} Justice {name} be elected {something2}=Retention:{name}"
+
+  - filename: ../ems/measlist-orig.tsv
+    file_type: contest-master
+    contest_id_col:   contest_id
+    contest_name_col: ballot_title
+    question_pats:
+        - "{number}=Proposition:{number}"
+        - "{letter}=Measure:{letter}"
+
+  - filename: contmap-fix.tsv
+    file_type: contest-master
+    contest_id_col:   contest_id1
+    contest_name_col: contest_name2
+    question_pats:
+        - "Proposition:{number}=Proposition:{number}"
+        - "Retention:{name}=Retention:{name}"
+
+  - filename: ../ems/candlist-orig.tsv
+    file_type: candidate-master
+    contest_id_col: contest_id
+    candidate_id_col: cand_id
+    candidate_name_col: cand_name
+
+  - filename: contlist-omni.tsv
+    file_type: contest
+    contest_id_col:   sequence
+    contest_name_col: title
+    contest_text_col: text
+    contest_type_col: type
+    skip_contest_types:
+        - text
+        - header
+    question_pats:
+        - "{number}=Proposition:{number}"
+        - "{letter}=Measure:{letter}"
+        - "Shall {something} Justice {name} be elected {something2}=Retention:{name}"
+
+  - filename: candlist-omni.tsv
+    file_type: candidate
+    contest_id_col: sequence
+    candidate_id_col: cand_id
+    candidate_name_col: title
+

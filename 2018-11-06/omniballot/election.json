@@ -88,7 +88,8 @@
         ],
         "contests": [
             {
-                "_id": "622",
+                "_id": "100",
+                "_id_ext": "622",
                 "_type": "office",
                 "header_id": "001",
                 "ballot_title": {
@@ -106,7 +107,8 @@
                 "number_elected": 1,
                 "choices": [
                     {
-                        "_id": "5279",
+                        "_id": "072",
+                        "_id_ext": "5279",
                         "ballot_title": {
                             "en": "JOHN H. COX",
                             "zh": "約翰 H. 考克斯"
@@ -125,7 +127,8 @@
                         }
                     },
                     {
-                        "_id": "5280",
+                        "_id": "073",
+                        "_id_ext": "5280",
                         "ballot_title": {
                             "en": "GAVIN NEWSOM",
                             "zh": "加文 ‧ 紐森"
@@ -147,7 +150,8 @@
                 "writein_lines": 0
             },
             {
-                "_id": "623",
+                "_id": "105",
+                "_id_ext": "623",
                 "_type": "office",
                 "header_id": "001",
                 "ballot_title": {
@@ -165,7 +169,8 @@
                 "number_elected": 1,
                 "choices": [
                     {
-                        "_id": "5281",
+                        "_id": "074",
+                        "_id_ext": "5281",
                         "ballot_title": {
                             "en": "ED HERNANDEZ",
                             "zh": "艾德 ‧ 艾爾南德斯"
@@ -184,7 +189,8 @@
                         }
                     },
                     {
-                        "_id": "5282",
+                        "_id": "075",
+                        "_id_ext": "5282",
                         "ballot_title": {
                             "en": "ELENI KOUNALAKIS",
                             "zh": "艾利尼 ‧ 庫那拉吉斯"
@@ -206,7 +212,8 @@
                 "writein_lines": 0
             },
             {
-                "_id": "626",
+                "_id": "110",
+                "_id_ext": "626",
                 "_type": "office",
                 "header_id": "001",
                 "ballot_title": {
@@ -224,7 +231,8 @@
                 "number_elected": 1,
                 "choices": [
                     {
-                        "_id": "5105",
+                        "_id": "076",
+                        "_id_ext": "5105",
                         "ballot_title": {
                             "en": "ALEX PADILLA",
                             "zh": "阿列克斯 ‧ 帕迪拉"
@@ -243,7 +251,8 @@
                         }
                     },
                     {
-                        "_id": "5283",
+                        "_id": "077",
+                        "_id_ext": "5283",
                         "ballot_title": {
                             "en": "MARK P. MEUSER",
                             "zh": "馬克 P. 莫瑟"
@@ -265,7 +274,8 @@
                 "writein_lines": 0
             },
             {
-                "_id": "627",
+                "_id": "115",
+                "_id_ext": "627",
                 "_type": "office",
                 "header_id": "001",
                 "ballot_title": {
@@ -283,7 +293,8 @@
                 "number_elected": 1,
                 "choices": [
                     {
-                        "_id": "5110",
+                        "_id": "078",
+                        "_id_ext": "5110",
                         "ballot_title": {
                             "en": "KONSTANTINOS RODITIS",
                             "zh": "康斯坦丁諾斯 ‧ 羅蒂提斯"
@@ -302,7 +313,8 @@
                         }
                     },
                     {
-                        "_id": "5111",
+                        "_id": "079",
+                        "_id_ext": "5111",
                         "ballot_title": {
                             "en": "BETTY T. YEE",
                             "zh": "余淑婷"
@@ -324,7 +336,8 @@
                 "writein_lines": 0
             },
             {
-                "_id": "628",
+                "_id": "120",
+                "_id_ext": "628",
                 "_type": "office",
                 "header_id": "001",
                 "ballot_title": {
@@ -342,7 +355,8 @@
                 "number_elected": 1,
                 "choices": [
                     {
-                        "_id": "5113",
+                        "_id": "080",
+                        "_id_ext": "5113",
                         "ballot_title": {
                             "en": "GREG CONLON",
                             "zh": "格雷格 ‧ 康隆"
@@ -361,7 +375,8 @@
                         }
                     },
                     {
-                        "_id": "5115",
+                        "_id": "081",
+                        "_id_ext": "5115",
                         "ballot_title": {
                             "en": "FIONA MA",
                             "zh": "馬世雲"
@@ -383,7 +398,8 @@
                 "writein_lines": 0
             },
             {
-                "_id": "624",
+                "_id": "125",
+                "_id_ext": "624",
                 "_type": "office",
                 "header_id": "001",
                 "ballot_title": {
@@ -401,7 +417,8 @@
                 "number_elected": 1,
                 "choices": [
                     {
-                        "_id": "5095",
+                        "_id": "082",
+                        "_id_ext": "5095",
                         "ballot_title": {
                             "en": "STEVEN C BAILEY",
                             "zh": "斯蒂芬 C 拜雷"
@@ -420,7 +437,8 @@
                         }
                     },
                     {
-                        "_id": "5096",
+                        "_id": "083",
+                        "_id_ext": "5096",
                         "ballot_title": {
                             "en": "XAVIER BECERRA",
                             "zh": "哈維 ‧ 貝西拉"
@@ -442,7 +460,8 @@
                 "writein_lines": 0
             },
             {
-                "_id": "625",
+                "_id": "130",
+                "_id_ext": "625",
                 "_type": "office",
                 "header_id": "001",
                 "ballot_title": {
@@ -460,7 +479,8 @@
                 "number_elected": 1,
                 "choices": [
                     {
-                        "_id": "5098",
+                        "_id": "084",
+                        "_id_ext": "5098",
                         "ballot_title": {
                             "en": "RICARDO LARA",
                             "zh": "理查多 ‧ 拉拉"
@@ -479,7 +499,8 @@
                         }
                     },
                     {
-                        "_id": "5100",
+                        "_id": "085",
+                        "_id_ext": "5100",
                         "ballot_title": {
                             "en": "STEVE POIZNER",
                             "zh": "史蒂夫 ‧ 波伊茲納"
@@ -501,7 +522,8 @@
                 "writein_lines": 0
             },
             {
-                "_id": "621",
+                "_id": "135",
+                "_id_ext": "621",
                 "_type": "office",
                 "header_id": "001",
                 "ballot_title": {
@@ -519,7 +541,8 @@
                 "number_elected": 1,
                 "choices": [
                     {
-                        "_id": "5278",
+                        "_id": "086",
+                        "_id_ext": "5278",
                         "ballot_title": {
                             "en": "MALIA COHEN",
                             "zh": "瑪利亞 ‧ 科恩"
@@ -538,7 +561,8 @@
                         }
                     },
                     {
-                        "_id": "5046",
+                        "_id": "087",
+                        "_id_ext": "5046",
                         "ballot_title": {
                             "en": "MARK BURNS",
                             "zh": "馬克 ‧ 伯恩斯"
@@ -560,7 +584,8 @@
                 "writein_lines": 0
             },
             {
-                "_id": "629",
+                "_id": "140",
+                "_id_ext": "629",
                 "_type": "office",
                 "header_id": "001",
                 "ballot_title": {
@@ -578,7 +603,8 @@
                 "number_elected": 1,
                 "choices": [
                     {
-                        "_id": "5285",
+                        "_id": "088",
+                        "_id_ext": "5285",
                         "ballot_title": {
                             "en": "DIANNE FEINSTEIN",
                             "zh": "黛安 ‧ 范士丹"
@@ -597,7 +623,8 @@
                         }
                     },
                     {
-                        "_id": "5127",
+                        "_id": "089",
+                        "_id_ext": "5127",
                         "ballot_title": {
                             "en": "KEVIN DE LEON",
                             "zh": "凱文 ‧ 德利昂"
@@ -619,7 +646,8 @@
                 "writein_lines": 0
             },
             {
-                "_id": "476",
+                "_id": "145",
+                "_id_ext": "476",
                 "_type": "office",
                 "header_id": "001",
                 "ballot_title": {
@@ -643,7 +671,8 @@
                 "number_elected": 1,
                 "choices": [
                     {
-                        "_id": "5123",
+                        "_id": "090",
+                        "_id_ext": "5123",
                         "ballot_title": {
                             "en": "LISA REMMER",
                             "zh": "慕凱玲"
@@ -662,7 +691,8 @@
                         }
                     },
                     {
-                        "_id": "5284",
+                        "_id": "091",
+                        "_id_ext": "5284",
                         "ballot_title": {
                             "en": "NANCY PELOSI",
                             "zh": "南希 ‧ 佩洛西"
@@ -684,7 +714,8 @@
                 "writein_lines": 0
             },
             {
-                "_id": "477",
+                "_id": "150",
+                "_id_ext": "477",
                 "_type": "office",
                 "header_id": "001",
                 "ballot_title": {
@@ -708,7 +739,8 @@
                 "number_elected": 1,
                 "choices": [
                     {
-                        "_id": "5124",
+                        "_id": "092",
+                        "_id_ext": "5124",
                         "ballot_title": {
                             "en": "BARBARA LEE"
                         },
@@ -723,12 +755,22 @@
                             "es": "Representante de Estados Unidos",
                             "tl": "Kinatawan ng Estados Unidos"
                         }
+                    },
+                    {
+                        "_id": "5128",
+                        "ballot_title": {
+                            "en": "LAURA WELLS"
+                        },
+                        "candidate_party": {
+                            "en": "Green"
+                        }
                     }
                 ],
                 "writein_lines": 0
             },
             {
-                "_id": "478",
+                "_id": "155",
+                "_id_ext": "478",
                 "_type": "office",
                 "header_id": "001",
                 "ballot_title": {
@@ -752,7 +794,8 @@
                 "number_elected": 1,
                 "choices": [
                     {
-                        "_id": "5126",
+                        "_id": "093",
+                        "_id_ext": "5126",
                         "ballot_title": {
                             "en": "CRISTINA OSMEÑA",
                             "zh": "克里斯蒂娜 ‧ 奧斯米納"
@@ -771,7 +814,8 @@
                         }
                     },
                     {
-                        "_id": "5125",
+                        "_id": "094",
+                        "_id_ext": "5125",
                         "ballot_title": {
                             "en": "JACKIE SPEIER",
                             "zh": "傑基 ‧ 斯佩爾"
@@ -793,7 +837,8 @@
                 "writein_lines": 0
             },
             {
-                "_id": "474",
+                "_id": "160",
+                "_id_ext": "474",
                 "_type": "office",
                 "header_id": "001",
                 "ballot_title": {
@@ -817,7 +862,8 @@
                 "number_elected": 1,
                 "choices": [
                     {
-                        "_id": "5050",
+                        "_id": "095",
+                        "_id_ext": "5050",
                         "ballot_title": {
                             "en": "DAVID CHIU",
                             "zh": "邱信福"
@@ -836,7 +882,8 @@
                         }
                     },
                     {
-                        "_id": "5051",
+                        "_id": "096",
+                        "_id_ext": "5051",
                         "ballot_title": {
                             "en": "ALEJANDRO FERNANDEZ",
                             "zh": "阿勒簡德羅 ‧ 費南德斯"
@@ -858,7 +905,8 @@
                 "writein_lines": 0
             },
             {
-                "_id": "475",
+                "_id": "165",
+                "_id_ext": "475",
                 "_type": "office",
                 "header_id": "001",
                 "ballot_title": {
@@ -882,7 +930,8 @@
                 "number_elected": 1,
                 "choices": [
                     {
-                        "_id": "5054",
+                        "_id": "097",
+                        "_id_ext": "5054",
                         "ballot_title": {
                             "en": "PHIL TING",
                             "zh": "丁右立"
@@ -901,7 +950,8 @@
                         }
                     },
                     {
-                        "_id": "5052",
+                        "_id": "098",
+                        "_id_ext": "5052",
                         "ballot_title": {
                             "en": "KEITH BOGDON",
                             "zh": "基思 ‧ 鮑格登"
@@ -923,7 +973,8 @@
                 "writein_lines": 0
             },
             {
-                "_id": "680",
+                "_id": "305",
+                "_id_ext": "680",
                 "_type": "retention",
                 "header_id": "001",
                 "ballot_title": {
@@ -941,6 +992,7 @@
                 "choices": [
                     {
                         "_id": "5296",
+                        "_id_ext": "5296",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -950,6 +1002,7 @@
                     },
                     {
                         "_id": "5297",
+                        "_id_ext": "5297",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -960,7 +1013,8 @@
                 "contest_candidate": "CAROL A. CORRIGAN"
             },
             {
-                "_id": "681",
+                "_id": "310",
+                "_id_ext": "681",
                 "_type": "retention",
                 "header_id": "001",
                 "ballot_title": {
@@ -978,6 +1032,7 @@
                 "choices": [
                     {
                         "_id": "5298",
+                        "_id_ext": "5298",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -987,6 +1042,7 @@
                     },
                     {
                         "_id": "5299",
+                        "_id_ext": "5299",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -997,7 +1053,8 @@
                 "contest_candidate": "LEONDRA R. KRUGER"
             },
             {
-                "_id": "682",
+                "_id": "315",
+                "_id_ext": "682",
                 "_type": "retention",
                 "header_id": "001",
                 "ballot_title": {
@@ -1015,6 +1072,7 @@
                 "choices": [
                     {
                         "_id": "5300",
+                        "_id_ext": "5300",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -1024,6 +1082,7 @@
                     },
                     {
                         "_id": "5301",
+                        "_id_ext": "5301",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -1034,7 +1093,8 @@
                 "contest_candidate": "JAMES M. HUMES"
             },
             {
-                "_id": "683",
+                "_id": "320",
+                "_id_ext": "683",
                 "_type": "retention",
                 "header_id": "001",
                 "ballot_title": {
@@ -1052,6 +1112,7 @@
                 "choices": [
                     {
                         "_id": "5302",
+                        "_id_ext": "5302",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -1061,6 +1122,7 @@
                     },
                     {
                         "_id": "5303",
+                        "_id_ext": "5303",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -1071,7 +1133,8 @@
                 "contest_candidate": "SANDRA MARGULIES"
             },
             {
-                "_id": "684",
+                "_id": "325",
+                "_id_ext": "684",
                 "_type": "retention",
                 "header_id": "001",
                 "ballot_title": {
@@ -1089,6 +1152,7 @@
                 "choices": [
                     {
                         "_id": "5304",
+                        "_id_ext": "5304",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -1098,6 +1162,7 @@
                     },
                     {
                         "_id": "5305",
+                        "_id_ext": "5305",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -1108,7 +1173,8 @@
                 "contest_candidate": "JAMES A. RICHMAN"
             },
             {
-                "_id": "685",
+                "_id": "330",
+                "_id_ext": "685",
                 "_type": "retention",
                 "header_id": "001",
                 "ballot_title": {
@@ -1126,6 +1192,7 @@
                 "choices": [
                     {
                         "_id": "5306",
+                        "_id_ext": "5306",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -1135,6 +1202,7 @@
                     },
                     {
                         "_id": "5307",
+                        "_id_ext": "5307",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -1145,7 +1213,8 @@
                 "contest_candidate": "MARLA MILLER"
             },
             {
-                "_id": "709",
+                "_id": "335",
+                "_id_ext": "709",
                 "_type": "retention",
                 "header_id": "001",
                 "ballot_title": {
@@ -1163,6 +1232,7 @@
                 "choices": [
                     {
                         "_id": "5479",
+                        "_id_ext": "5479",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -1172,6 +1242,7 @@
                     },
                     {
                         "_id": "5480",
+                        "_id_ext": "5480",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -1182,7 +1253,8 @@
                 "contest_candidate": "PETER JOHN SIGGINS"
             },
             {
-                "_id": "686",
+                "_id": "340",
+                "_id_ext": "686",
                 "_type": "retention",
                 "header_id": "001",
                 "ballot_title": {
@@ -1200,6 +1272,7 @@
                 "choices": [
                     {
                         "_id": "5308",
+                        "_id_ext": "5308",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -1209,6 +1282,7 @@
                     },
                     {
                         "_id": "5309",
+                        "_id_ext": "5309",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -1219,7 +1293,8 @@
                 "contest_candidate": "JON B. STREETER"
             },
             {
-                "_id": "710",
+                "_id": "345",
+                "_id_ext": "710",
                 "_type": "retention",
                 "header_id": "001",
                 "ballot_title": {
@@ -1237,6 +1312,7 @@
                 "choices": [
                     {
                         "_id": "5481",
+                        "_id_ext": "5481",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -1246,6 +1322,7 @@
                     },
                     {
                         "_id": "5482",
+                        "_id_ext": "5482",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -1256,7 +1333,8 @@
                 "contest_candidate": "ALISON M. TUCHER"
             },
             {
-                "_id": "687",
+                "_id": "350",
+                "_id_ext": "687",
                 "_type": "retention",
                 "header_id": "001",
                 "ballot_title": {
@@ -1274,6 +1352,7 @@
                 "choices": [
                     {
                         "_id": "5310",
+                        "_id_ext": "5310",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -1283,6 +1362,7 @@
                     },
                     {
                         "_id": "5311",
+                        "_id_ext": "5311",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -1293,7 +1373,8 @@
                 "contest_candidate": "BARBARA JONES"
             },
             {
-                "_id": "637",
+                "_id": "235",
+                "_id_ext": "637",
                 "_type": "office",
                 "header_id": "001",
                 "ballot_title": {
@@ -1311,7 +1392,8 @@
                 "number_elected": 1,
                 "choices": [
                     {
-                        "_id": "5295",
+                        "_id": "118",
+                        "_id_ext": "5295",
                         "ballot_title": {
                             "en": "MARSHALL TUCK",
                             "zh": "馬歇爾 ‧ 塔克"
@@ -1324,7 +1406,8 @@
                         }
                     },
                     {
-                        "_id": "5294",
+                        "_id": "119",
+                        "_id_ext": "5294",
                         "ballot_title": {
                             "en": "TONY K. THURMOND",
                             "zh": "托尼 K. 瑟蒙德"
@@ -1340,7 +1423,8 @@
                 "writein_lines": 1
             },
             {
-                "_id": "618",
+                "_id": "170",
+                "_id_ext": "618",
                 "_type": "office",
                 "header_id": "001",
                 "ballot_title": {
@@ -1358,7 +1442,8 @@
                 "number_elected": 3,
                 "choices": [
                     {
-                        "_id": "5291",
+                        "_id": "099",
+                        "_id_ext": "5291",
                         "ballot_title": {
                             "en": "MONICA CHINCHILLA",
                             "zh": "陳嘉澄"
@@ -1371,7 +1456,8 @@
                         }
                     },
                     {
-                        "_id": "5027",
+                        "_id": "100",
+                        "_id_ext": "5027",
                         "ballot_title": {
                             "en": "ALISON COLLINS",
                             "zh": "高勵思"
@@ -1384,7 +1470,8 @@
                         }
                     },
                     {
-                        "_id": "5035",
+                        "_id": "101",
+                        "_id_ext": "5035",
                         "ballot_title": {
                             "en": "JOSEPHINE ZHAO",
                             "zh": "招霞"
@@ -1397,7 +1484,8 @@
                         }
                     },
                     {
-                        "_id": "5033",
+                        "_id": "102",
+                        "_id_ext": "5033",
                         "ballot_title": {
                             "en": "MARTIN RAWLINGS-FEIN",
                             "zh": "馬文龍"
@@ -1410,7 +1498,8 @@
                         }
                     },
                     {
-                        "_id": "5031",
+                        "_id": "103",
+                        "_id_ext": "5031",
                         "ballot_title": {
                             "en": "GABRIELA LÓPEZ",
                             "zh": "盧佩思"
@@ -1423,7 +1512,8 @@
                         }
                     },
                     {
-                        "_id": "5287",
+                        "_id": "104",
+                        "_id_ext": "5287",
                         "ballot_title": {
                             "en": "LI MIAO LOVETT",
                             "zh": "苗麗娟"
@@ -1436,7 +1526,8 @@
                         }
                     },
                     {
-                        "_id": "5030",
+                        "_id": "105",
+                        "_id_ext": "5030",
                         "ballot_title": {
                             "en": "LEX LEIFHEIT",
                             "zh": "李智靈"
@@ -1449,7 +1540,8 @@
                         }
                     },
                     {
-                        "_id": "5028",
+                        "_id": "106",
+                        "_id_ext": "5028",
                         "ballot_title": {
                             "en": "ALIDA FISHER",
                             "zh": "阿莉達 斐義莎"
@@ -1462,14 +1554,16 @@
                         }
                     },
                     {
-                        "_id": "5286",
+                        "_id": "107",
+                        "_id_ext": "5286",
                         "ballot_title": {
                             "en": "PHILLIP MARCEL HOUSE",
                             "zh": "菲利普 ‧ 馬歇爾 ‧ 豪斯"
                         }
                     },
                     {
-                        "_id": "5032",
+                        "_id": "108",
+                        "_id_ext": "5032",
                         "ballot_title": {
                             "en": "MICHELLE PARKER",
                             "zh": "柏美思"
@@ -1482,7 +1576,8 @@
                         }
                     },
                     {
-                        "_id": "5288",
+                        "_id": "109",
+                        "_id_ext": "5288",
                         "ballot_title": {
                             "en": "DARRON A. PADILLA",
                             "zh": "達然 A. 帕狄拉"
@@ -1495,7 +1590,8 @@
                         }
                     },
                     {
-                        "_id": "5036",
+                        "_id": "110",
+                        "_id_ext": "5036",
                         "ballot_title": {
                             "en": "PAUL KANGAS",
                             "zh": "保羅 ‧ 坎戈斯"
@@ -1508,7 +1604,8 @@
                         }
                     },
                     {
-                        "_id": "5290",
+                        "_id": "111",
+                        "_id_ext": "5290",
                         "ballot_title": {
                             "en": "CONNOR KRONE",
                             "zh": "康纳 ‧ 克朗"
@@ -1521,7 +1618,8 @@
                         }
                     },
                     {
-                        "_id": "5292",
+                        "_id": "112",
+                        "_id_ext": "5292",
                         "ballot_title": {
                             "en": "PHIL KIM",
                             "zh": "菲爾金"
@@ -1534,7 +1632,8 @@
                         }
                     },
                     {
-                        "_id": "5293",
+                        "_id": "113",
+                        "_id_ext": "5293",
                         "ballot_title": {
                             "en": "JOHN TRASVIÑA",
                             "zh": "崔偉納"
@@ -1547,7 +1646,8 @@
                         }
                     },
                     {
-                        "_id": "5289",
+                        "_id": "114",
+                        "_id_ext": "5289",
                         "ballot_title": {
                             "en": "LENETTE THOMPSON",
                             "zh": "列耐特 ‧ 湯普遜"
@@ -1560,7 +1660,8 @@
                         }
                     },
                     {
-                        "_id": "5037",
+                        "_id": "115",
+                        "_id_ext": "5037",
                         "ballot_title": {
                             "en": "FAAUUGA MOLIGA",
                             "zh": "莫力加"
@@ -1573,7 +1674,8 @@
                         }
                     },
                     {
-                        "_id": "5029",
+                        "_id": "116",
+                        "_id_ext": "5029",
                         "ballot_title": {
                             "en": "MIA SATYA",
                             "zh": "石美亞"
@@ -1586,7 +1688,8 @@
                         }
                     },
                     {
-                        "_id": "5034",
+                        "_id": "117",
+                        "_id_ext": "5034",
                         "ballot_title": {
                             "en": "ROGER SINASOHN",
                             "zh": "羅傑 ‧ 西那森"
@@ -1602,7 +1705,8 @@
                 "writein_lines": 3
             },
             {
-                "_id": "652",
+                "_id": "240",
+                "_id_ext": "652",
                 "_type": "office",
                 "header_id": "001",
                 "ballot_title": {
@@ -1620,7 +1724,8 @@
                 "number_elected": 3,
                 "choices": [
                     {
-                        "_id": "5233",
+                        "_id": "120",
+                        "_id_ext": "5233",
                         "ballot_title": {
                             "en": "JOHN RIZZO",
                             "zh": "李梭"
@@ -1633,7 +1738,8 @@
                         }
                     },
                     {
-                        "_id": "5234",
+                        "_id": "121",
+                        "_id_ext": "5234",
                         "ballot_title": {
                             "en": "BRIGITTE DAVILA",
                             "zh": "布麗姬 ‧ 達維拉"
@@ -1646,7 +1752,8 @@
                         }
                     },
                     {
-                        "_id": "5276",
+                        "_id": "122",
+                        "_id_ext": "5276",
                         "ballot_title": {
                             "en": "VICTOR OLIVIERI",
                             "zh": "澳輝德"
@@ -1659,7 +1766,8 @@
                         }
                     },
                     {
-                        "_id": "5277",
+                        "_id": "123",
+                        "_id_ext": "5277",
                         "ballot_title": {
                             "en": "THEA SELBY",
                             "zh": "秀蘋"
@@ -1675,7 +1783,8 @@
                 "writein_lines": 3
             },
             {
-                "_id": "619",
+                "_id": "245",
+                "_id_ext": "619",
                 "_type": "office",
                 "header_id": "001",
                 "ballot_title": {
@@ -1699,7 +1808,8 @@
                 "number_elected": 1,
                 "choices": [
                     {
-                        "_id": "5252",
+                        "_id": "124",
+                        "_id_ext": "5252",
                         "ballot_title": {
                             "en": "EVA I. CHAO",
                             "zh": "趙怡華"
@@ -1712,7 +1822,8 @@
                         }
                     },
                     {
-                        "_id": "5250",
+                        "_id": "125",
+                        "_id_ext": "5250",
                         "ballot_title": {
                             "en": "BRIAN J. LARKIN",
                             "zh": "布萊恩 ‧ J ‧ 拉金"
@@ -1725,7 +1836,8 @@
                         }
                     },
                     {
-                        "_id": "5247",
+                        "_id": "126",
+                        "_id_ext": "5247",
                         "ballot_title": {
                             "en": "JONATHAN LYENS",
                             "zh": "喬納森 ‧ 萊昂"
@@ -1738,7 +1850,8 @@
                         }
                     },
                     {
-                        "_id": "5251",
+                        "_id": "127",
+                        "_id_ext": "5251",
                         "ballot_title": {
                             "en": "JANICE LI",
                             "zh": "李正元"
@@ -1751,7 +1864,8 @@
                         }
                     },
                     {
-                        "_id": "5248",
+                        "_id": "128",
+                        "_id_ext": "5248",
                         "ballot_title": {
                             "en": "MELANIE NUTTER",
                             "zh": "陸美蓮"
@@ -1764,7 +1878,8 @@
                         }
                     },
                     {
-                        "_id": "5249",
+                        "_id": "129",
+                        "_id_ext": "5249",
                         "ballot_title": {
                             "en": "WILLIAM WALKER",
                             "zh": "威廉 ‧ 沃克"
@@ -1780,7 +1895,8 @@
                 "writein_lines": 1
             },
             {
-                "_id": "667",
+                "_id": "250",
+                "_id_ext": "667",
                 "_type": "office",
                 "header_id": "247",
                 "ballot_title": {
@@ -1799,7 +1915,8 @@
                 "number_elected": 1,
                 "choices": [
                     {
-                        "_id": "5254",
+                        "_id": "130",
+                        "_id_ext": "5254",
                         "ballot_title": {
                             "en": "CARMEN CHU",
                             "zh": "朱嘉文"
@@ -1812,7 +1929,8 @@
                         }
                     },
                     {
-                        "_id": "5253",
+                        "_id": "131",
+                        "_id_ext": "5253",
                         "ballot_title": {
                             "en": "PAUL BELLAR",
                             "zh": "保羅 ‧ 貝拉"
@@ -1828,7 +1946,8 @@
                 "writein_lines": 1
             },
             {
-                "_id": "668",
+                "_id": "265",
+                "_id_ext": "668",
                 "_type": "office",
                 "header_id": "247",
                 "ballot_title": {
@@ -1847,7 +1966,8 @@
                 "number_elected": 1,
                 "choices": [
                     {
-                        "_id": "5255",
+                        "_id": "132",
+                        "_id_ext": "5255",
                         "ballot_title": {
                             "en": "JEFF ADACHI",
                             "zh": "賀大器"
@@ -1863,7 +1983,8 @@
                 "writein_lines": 1
             },
             {
-                "_id": "669",
+                "_id": "280",
+                "_id_ext": "669",
                 "_type": "office",
                 "header_id": "247",
                 "ballot_title": {
@@ -1888,7 +2009,8 @@
                 "number_elected": 1,
                 "choices": [
                     {
-                        "_id": "5257",
+                        "_id": "133",
+                        "_id_ext": "5257",
                         "ballot_title": {
                             "en": "NICK JOSEFOWITZ",
                             "zh": "喬偉寧"
@@ -1901,7 +2023,8 @@
                         }
                     },
                     {
-                        "_id": "5258",
+                        "_id": "134",
+                        "_id_ext": "5258",
                         "ballot_title": {
                             "en": "JOHN DENNIS",
                             "zh": "約翰 ‧ 丹尼斯"
@@ -1914,7 +2037,8 @@
                         }
                     },
                     {
-                        "_id": "5256",
+                        "_id": "135",
+                        "_id_ext": "5256",
                         "ballot_title": {
                             "en": "SCHUYLER HUDAK",
                             "zh": "舒依勒 ‧ 胡達克"
@@ -1927,7 +2051,8 @@
                         }
                     },
                     {
-                        "_id": "5259",
+                        "_id": "136",
+                        "_id_ext": "5259",
                         "ballot_title": {
                             "en": "CATHERINE STEFANI",
                             "zh": "司嘉怡"
@@ -1943,7 +2068,8 @@
                 "writein_lines": 1
             },
             {
-                "_id": "670",
+                "_id": "285",
+                "_id_ext": "670",
                 "_type": "office",
                 "header_id": "247",
                 "ballot_title": {
@@ -1968,7 +2094,8 @@
                 "number_elected": 1,
                 "choices": [
                     {
-                        "_id": "5262",
+                        "_id": "137",
+                        "_id_ext": "5262",
                         "ballot_title": {
                             "en": "JESSICA HO",
                             "zh": "何鍾靈"
@@ -1981,7 +2108,8 @@
                         }
                     },
                     {
-                        "_id": "5261",
+                        "_id": "138",
+                        "_id_ext": "5261",
                         "ballot_title": {
                             "en": "ADAM KIM",
                             "zh": "金賢圭"
@@ -1994,7 +2122,8 @@
                         }
                     },
                     {
-                        "_id": "5266",
+                        "_id": "139",
+                        "_id_ext": "5266",
                         "ballot_title": {
                             "en": "TUAN NGUYEN",
                             "zh": "阮途安"
@@ -2006,7 +2135,8 @@
                         }
                     },
                     {
-                        "_id": "5263",
+                        "_id": "140",
+                        "_id_ext": "5263",
                         "ballot_title": {
                             "en": "ARTHUR TOM",
                             "zh": "譚達仁"
@@ -2019,7 +2149,8 @@
                         }
                     },
                     {
-                        "_id": "5267",
+                        "_id": "141",
+                        "_id_ext": "5267",
                         "ballot_title": {
                             "en": "TREVOR MCNEIL",
                             "zh": "麥德偉"
@@ -2032,7 +2163,8 @@
                         }
                     },
                     {
-                        "_id": "5265",
+                        "_id": "142",
+                        "_id_ext": "5265",
                         "ballot_title": {
                             "en": "GORDON MAR",
                             "zh": "馬兆明"
@@ -2045,7 +2177,8 @@
                         }
                     },
                     {
-                        "_id": "5260",
+                        "_id": "143",
+                        "_id_ext": "5260",
                         "ballot_title": {
                             "en": "MIKE MURPHY",
                             "zh": "麥可飛"
@@ -2058,7 +2191,8 @@
                         }
                     },
                     {
-                        "_id": "5264",
+                        "_id": "144",
+                        "_id_ext": "5264",
                         "ballot_title": {
                             "en": "LOU ANN BASSAN",
                             "zh": "羅 ‧ 安 ‧ 巴山"
@@ -2074,7 +2208,8 @@
                 "writein_lines": 1
             },
             {
-                "_id": "671",
+                "_id": "290",
+                "_id_ext": "671",
                 "_type": "office",
                 "header_id": "247",
                 "ballot_title": {
@@ -2099,7 +2234,8 @@
                 "number_elected": 1,
                 "choices": [
                     {
-                        "_id": "5269",
+                        "_id": "145",
+                        "_id_ext": "5269",
                         "ballot_title": {
                             "en": "CHRISTINE JOHNSON",
                             "zh": "莊雅麗"
@@ -2112,7 +2248,8 @@
                         }
                     },
                     {
-                        "_id": "5268",
+                        "_id": "146",
+                        "_id_ext": "5268",
                         "ballot_title": {
                             "en": "MATT HANEY",
                             "zh": "楊馳馬"
@@ -2125,7 +2262,8 @@
                         }
                     },
                     {
-                        "_id": "5400",
+                        "_id": "147",
+                        "_id_ext": "5400",
                         "ballot_title": {
                             "en": "SONJA TRAUSS",
                             "zh": "杜秀雅"
@@ -2141,7 +2279,8 @@
                 "writein_lines": 1
             },
             {
-                "_id": "632",
+                "_id": "295",
+                "_id_ext": "632",
                 "_type": "office",
                 "header_id": "247",
                 "ballot_title": {
@@ -2166,7 +2305,8 @@
                 "number_elected": 1,
                 "choices": [
                     {
-                        "_id": "5215",
+                        "_id": "148",
+                        "_id_ext": "5215",
                         "ballot_title": {
                             "en": "LAWRENCE \"STARK\" DAGESSE",
                             "zh": "勞倫斯 ‧「史塔克」‧ 狄格斯"
@@ -2179,7 +2319,8 @@
                         }
                     },
                     {
-                        "_id": "5214",
+                        "_id": "149",
+                        "_id_ext": "5214",
                         "ballot_title": {
                             "en": "RAFAEL MANDELMAN",
                             "zh": "孟達文"
@@ -2195,7 +2336,8 @@
                 "writein_lines": 1
             },
             {
-                "_id": "672",
+                "_id": "300",
+                "_id_ext": "672",
                 "_type": "office",
                 "header_id": "247",
                 "ballot_title": {
@@ -2220,7 +2362,8 @@
                 "number_elected": 1,
                 "choices": [
                     {
-                        "_id": "5273",
+                        "_id": "150",
+                        "_id_ext": "5273",
                         "ballot_title": {
                             "en": "ASALE CHANDLER",
                             "zh": "阿薩爾 ‧ 錢德勒"
@@ -2233,7 +2376,8 @@
                         }
                     },
                     {
-                        "_id": "5274",
+                        "_id": "151",
+                        "_id_ext": "5274",
                         "ballot_title": {
                             "en": "UZURI PEASE-GREENE",
                             "zh": "余淑蓮"
@@ -2246,7 +2390,8 @@
                         }
                     },
                     {
-                        "_id": "5270",
+                        "_id": "152",
+                        "_id_ext": "5270",
                         "ballot_title": {
                             "en": "TONY KELLY",
                             "zh": "李凱禮"
@@ -2259,7 +2404,8 @@
                         }
                     },
                     {
-                        "_id": "5275",
+                        "_id": "153",
+                        "_id_ext": "5275",
                         "ballot_title": {
                             "en": "SHAMANN WALTON",
                             "zh": "華頌善"
@@ -2272,7 +2418,8 @@
                         }
                     },
                     {
-                        "_id": "5272",
+                        "_id": "154",
+                        "_id_ext": "5272",
                         "ballot_title": {
                             "en": "THEO ELLINGTON",
                             "zh": "艾霖敦"
@@ -2285,7 +2432,8 @@
                         }
                     },
                     {
-                        "_id": "5271",
+                        "_id": "155",
+                        "_id_ext": "5271",
                         "ballot_title": {
                             "en": "GLORIA BERRY",
                             "zh": "歌莉婭 ‧ 貝理"
@@ -2296,12 +2444,22 @@
                             "tl": "Ina",
                             "zh": "母親"
                         }
+                    },
+                    {
+                        "_id": "9901",
+                        "ballot_title": {
+                            "en": "NEO VEAVEA"
+                        },
+                        "ballot_designation": {
+                            "en": "Write-In"
+                        }
                     }
                 ],
                 "writein_lines": 1
             },
             {
-                "_id": "314",
+                "_id": "355",
+                "_id_ext": "314",
                 "_type": "measure",
                 "header_id": "303",
                 "ballot_title": {
@@ -2319,6 +2477,7 @@
                 "choices": [
                     {
                         "_id": "2173",
+                        "_id_ext": "2173",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -2328,6 +2487,7 @@
                     },
                     {
                         "_id": "2174",
+                        "_id_ext": "2174",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -2337,7 +2497,8 @@
                 ]
             },
             {
-                "_id": "104",
+                "_id": "360",
+                "_id_ext": "104",
                 "_type": "measure",
                 "header_id": "303",
                 "ballot_title": {
@@ -2354,6 +2515,7 @@
                 "choices": [
                     {
                         "_id": "478",
+                        "_id_ext": "478",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -2363,6 +2525,7 @@
                     },
                     {
                         "_id": "479",
+                        "_id_ext": "479",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -2372,7 +2535,8 @@
                 ]
             },
             {
-                "_id": "105",
+                "_id": "365",
+                "_id_ext": "105",
                 "_type": "measure",
                 "header_id": "303",
                 "ballot_title": {
@@ -2389,6 +2553,7 @@
                 "choices": [
                     {
                         "_id": "480",
+                        "_id_ext": "480",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -2398,6 +2563,7 @@
                     },
                     {
                         "_id": "481",
+                        "_id_ext": "481",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -2407,7 +2573,8 @@
                 ]
             },
             {
-                "_id": "106",
+                "_id": "370",
+                "_id_ext": "106",
                 "_type": "measure",
                 "header_id": "303",
                 "ballot_title": {
@@ -2424,6 +2591,7 @@
                 "choices": [
                     {
                         "_id": "482",
+                        "_id_ext": "482",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -2433,6 +2601,7 @@
                     },
                     {
                         "_id": "483",
+                        "_id_ext": "483",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -2442,7 +2611,8 @@
                 ]
             },
             {
-                "_id": "107",
+                "_id": "375",
+                "_id_ext": "107",
                 "_type": "measure",
                 "header_id": "303",
                 "ballot_title": {
@@ -2459,6 +2629,7 @@
                 "choices": [
                     {
                         "_id": "484",
+                        "_id_ext": "484",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -2468,6 +2639,7 @@
                     },
                     {
                         "_id": "485",
+                        "_id_ext": "485",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -2477,7 +2649,8 @@
                 ]
             },
             {
-                "_id": "108",
+                "_id": "380",
+                "_id_ext": "108",
                 "_type": "measure",
                 "header_id": "303",
                 "ballot_title": {
@@ -2494,6 +2667,7 @@
                 "choices": [
                     {
                         "_id": "486",
+                        "_id_ext": "486",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -2503,6 +2677,7 @@
                     },
                     {
                         "_id": "487",
+                        "_id_ext": "487",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -2512,7 +2687,8 @@
                 ]
             },
             {
-                "_id": "486",
+                "_id": "385",
+                "_id_ext": "486",
                 "_type": "measure",
                 "header_id": "303",
                 "ballot_title": {
@@ -2529,6 +2705,7 @@
                 "choices": [
                     {
                         "_id": "3522",
+                        "_id_ext": "3522",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -2538,6 +2715,7 @@
                     },
                     {
                         "_id": "3523",
+                        "_id_ext": "3523",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -2547,7 +2725,8 @@
                 ]
             },
             {
-                "_id": "691",
+                "_id": "390",
+                "_id_ext": "691",
                 "_type": "measure",
                 "header_id": "303",
                 "ballot_title": {
@@ -2564,6 +2743,7 @@
                 "choices": [
                     {
                         "_id": "5392",
+                        "_id_ext": "5392",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -2573,6 +2753,7 @@
                     },
                     {
                         "_id": "5393",
+                        "_id_ext": "5393",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -2582,7 +2763,8 @@
                 ]
             },
             {
-                "_id": "prop9",
+                "_id": "",
+                "_id_ext": "prop9",
                 "_type": "measure",
                 "header_id": "303",
                 "ballot_title": {
@@ -2599,7 +2781,8 @@
                 "choices": []
             },
             {
-                "_id": "692",
+                "_id": "395",
+                "_id_ext": "692",
                 "_type": "measure",
                 "header_id": "303",
                 "ballot_title": {
@@ -2616,6 +2799,7 @@
                 "choices": [
                     {
                         "_id": "5394",
+                        "_id_ext": "5394",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -2625,6 +2809,7 @@
                     },
                     {
                         "_id": "5395",
+                        "_id_ext": "5395",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -2634,7 +2819,8 @@
                 ]
             },
             {
-                "_id": "693",
+                "_id": "400",
+                "_id_ext": "693",
                 "_type": "measure",
                 "header_id": "303",
                 "ballot_title": {
@@ -2651,6 +2837,7 @@
                 "choices": [
                     {
                         "_id": "5396",
+                        "_id_ext": "5396",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -2660,6 +2847,7 @@
                     },
                     {
                         "_id": "5397",
+                        "_id_ext": "5397",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -2669,7 +2857,8 @@
                 ]
             },
             {
-                "_id": "694",
+                "_id": "405",
+                "_id_ext": "694",
                 "_type": "measure",
                 "header_id": "303",
                 "ballot_title": {
@@ -2686,6 +2875,7 @@
                 "choices": [
                     {
                         "_id": "5398",
+                        "_id_ext": "5398",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -2695,6 +2885,7 @@
                     },
                     {
                         "_id": "5399",
+                        "_id_ext": "5399",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -2704,7 +2895,8 @@
                 ]
             },
             {
-                "_id": "498",
+                "_id": "410",
+                "_id_ext": "498",
                 "_type": "measure",
                 "header_id": "363",
                 "ballot_title": {
@@ -2721,6 +2913,7 @@
                 "choices": [
                     {
                         "_id": "3559",
+                        "_id_ext": "3559",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -2730,6 +2923,7 @@
                     },
                     {
                         "_id": "3560",
+                        "_id_ext": "3560",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -2739,7 +2933,8 @@
                 ]
             },
             {
-                "_id": "499",
+                "_id": "415",
+                "_id_ext": "499",
                 "_type": "measure",
                 "header_id": "363",
                 "ballot_title": {
@@ -2756,6 +2951,7 @@
                 "choices": [
                     {
                         "_id": "3561",
+                        "_id_ext": "3561",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -2765,6 +2961,7 @@
                     },
                     {
                         "_id": "3562",
+                        "_id_ext": "3562",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -2774,7 +2971,8 @@
                 ]
             },
             {
-                "_id": "511",
+                "_id": "420",
+                "_id_ext": "511",
                 "_type": "measure",
                 "header_id": "363",
                 "ballot_title": {
@@ -2791,6 +2989,7 @@
                 "choices": [
                     {
                         "_id": "3604",
+                        "_id_ext": "3604",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -2800,6 +2999,7 @@
                     },
                     {
                         "_id": "3605",
+                        "_id_ext": "3605",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -2809,7 +3009,8 @@
                 ]
             },
             {
-                "_id": "512",
+                "_id": "425",
+                "_id_ext": "512",
                 "_type": "measure",
                 "header_id": "363",
                 "ballot_title": {
@@ -2826,6 +3027,7 @@
                 "choices": [
                     {
                         "_id": "3606",
+                        "_id_ext": "3606",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -2835,6 +3037,7 @@
                     },
                     {
                         "_id": "3607",
+                        "_id_ext": "3607",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -2844,7 +3047,8 @@
                 ]
             },
             {
-                "_id": "513",
+                "_id": "430",
+                "_id_ext": "513",
                 "_type": "measure",
                 "header_id": "363",
                 "ballot_title": {
@@ -2861,6 +3065,7 @@
                 "choices": [
                     {
                         "_id": "3608",
+                        "_id_ext": "3608",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -2870,6 +3075,7 @@
                     },
                     {
                         "_id": "3609",
+                        "_id_ext": "3609",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -6842,6 +7048,10 @@
             "heading": "Registered Voters"
         },
         {
+            "_id": "RSEli",
+            "heading": "Eligible Voters"
+        },
+        {
             "_id": "RSTrn",
             "heading": "Voter Turnout",
             "is_percent": true
@@ -6867,6 +7077,10 @@
             "heading": "Overvotes"
         },
         {
+            "_id": "RSSki",
+            "heading": "Skipped Votes"
+        },
+        {
             "_id": "RSExh",
             "heading": "Exhausted Ballots"
         }
@@ -6876,28 +7090,28 @@
             "_id": "EMS",
             "description": "Plurality voting, subtotal by Election Day/VBM",
             "is_rcv": false,
-            "result_stat_type_ids": "RSReg RSCst RSRej RSUnc RSOVR RSUnd RSTot",
+            "result_stat_type_ids": "RSEli RSReg RSCst RSRej RSUnc RSOVR RSUnd RSTot",
             "voting_group_ids": "TO ED MV"
         },
         {
             "_id": "EMSW",
             "description": "Plurality voting, subtotal by Election Day/VBM, with writeins",
             "is_rcv": false,
-            "result_stat_type_ids": "RSReg RSCst RSRej RSUnc RSOVR RSUnd RSTot RSWri",
+            "result_stat_type_ids": "RSEli RSReg RSCst RSRej RSUnc RSOVR RSUnd RSTot RSWri",
             "voting_group_ids": "TO ED MV"
         },
         {
             "_id": "EMR",
             "description": "RCV voting, subtotal by Election Day/VBM",
             "is_rcv": true,
-            "result_stat_type_ids": "RSReg RSCst RSRej RSUnc RSOVR RSUnd RSExh RSTot",
+            "result_stat_type_ids": "RSEli RSReg RSCst RSRej RSUnc RSOVR RSUnd RSExh RSTot",
             "voting_group_ids": "TO ED MV"
         },
         {
             "_id": "EMRW",
             "description": "RCV voting, subtotal by Election Day/VBM, with writeins",
             "is_rcv": true,
-            "result_stat_type_ids": "RSReg RSCst RSRej RSUnc RSOVR RSUnd RSExh RSTot RSWri",
+            "result_stat_type_ids": "RSEli RSReg RSCst RSRej RSUnc RSOVR RSUnd RSExh RSTot RSWri",
             "voting_group_ids": "TO ED MV"
         }
     ],
