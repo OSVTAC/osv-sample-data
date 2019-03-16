@@ -1,0 +1,152 @@
+CONTEST_ID	CONTEST_ORDER	CANDIDATE_ORDER	TOTAL	CANDIDATE_PARTY_ID	CANDIDATE_ID	VOTE_FOR	CONTEST_TYPE	CANDIDATE_TYPE	TOTAL_PRECINCTS	PROCESSED_DONE	PROCESSED_STARTED	IS_WRITEIN_CANDIDATE	CONTEST_FULL_NAME	CANDIDATE_FULL_NAME	CONTEST_TOTAL	undervote	overvote	IS_WINNER	cf_cand_class	IS_PRECINCT_LEVEL	PRECINCT_NAME	is_visible
+0	-100	1	127556		1	0	-2	0		604	0	0	Registration & Turnout	Election Day Reporting Turnout	500516	0	0	0	candidate	0	 	0
+0	-100	2	244905		2	0	-2	0		604	0	0	Registration & Turnout	VBM Reporting Turnout	500516	0	0	0	candidate	0	 	0
+1	1	1	49149	2	72	1	0	0	604	604	604	0	Governor	REP - JOHN H. COX	360987	11224	144	0	candidate	0	 	0
+1	1	2	311838	1	73	1	0	0	604	604	604	0	Governor	DEM - GAVIN NEWSOM	360987	11224	144	1	winner	0	 	0
+2	2	1	153594	1	74	1	0	0	604	604	604	0	Lieutenant Governor	DEM - ED HERNANDEZ	326131	45876	348	0	candidate	0	 	0
+2	2	2	172537	1	75	1	0	0	604	604	604	0	Lieutenant Governor	DEM - ELENI KOUNALAKIS	326131	45876	348	1	winner	0	 	0
+3	3	1	309025	1	76	1	0	0	604	604	604	0	Secretary of State	DEM - ALEX PADILLA	352533	19713	109	1	winner	0	 	0
+3	3	2	43508	2	77	1	0	0	604	604	604	0	Secretary of State	REP - MARK P. MEUSER	352533	19713	109	0	candidate	0	 	0
+4	4	1	42985	2	78	1	0	0	604	604	604	0	State Controller	REP - KONSTANTINOS RODITIS	354218	18052	85	0	candidate	0	 	0
+4	4	2	311233	1	79	1	0	0	604	604	604	0	State Controller	DEM - BETTY T. YEE	354218	18052	85	1	winner	0	 	0
+5	5	1	45661	2	80	1	0	0	604	604	604	0	State Treasurer	REP - GREG CONLON	352334	19923	98	0	candidate	0	 	0
+5	5	2	306673	1	81	1	0	0	604	604	604	0	State Treasurer	DEM - FIONA MA	352334	19923	98	1	winner	0	 	0
+6	6	1	47033	2	82	1	0	0	604	604	604	0	Attorney General	REP - STEVEN C BAILEY	352202	20059	94	0	candidate	0	 	0
+6	6	2	305169	1	83	1	0	0	604	604	604	0	Attorney General	DEM - XAVIER BECERRA	352202	20059	94	1	winner	0	 	0
+7	7	1	235037	1	84	1	0	0	604	604	604	0	Insurance Commissioner	DEM - RICARDO LARA	337317	34881	157	1	winner	0	 	0
+7	7	2	102280	3	85	1	0	0	604	604	604	0	Insurance Commissioner	NPP - STEVE POIZNER	337317	34881	157	0	candidate	0	 	0
+8	8	1	292659	1	86	1	0	0	604	604	604	0	Board of Equalization, District 2	DEM - MALIA COHEN	340376	31904	75	1	winner	0	 	0
+8	8	2	47717	2	87	1	0	0	604	604	604	0	Board of Equalization, District 2	REP - MARK BURNS	340376	31904	75	0	candidate	0	 	0
+9	9	1	225948	1	88	1	0	0	604	604	604	0	U.S. Senator	DEM - DIANNE FEINSTEIN	351765	20216	374	1	winner	0	 	0
+9	9	2	125817	1	89	1	0	0	604	604	604	0	U.S. Senator	DEM - KEVIN DE LEON	351765	20216	374	0	candidate	0	 	0
+10	10	1	41744	2	90	1	0	0	529	529	529	0	U.S. Representative, District 12	REP - LISA REMMER	316735	15211	107	0	candidate	0	 	0
+10	10	2	274991	1	91	1	0	0	529	529	529	0	U.S. Representative, District 12	DEM - NANCY PELOSI	316735	15211	107	1	winner	0	 	0
+11	11	1	0	1	92	1	0	0	1	1	1	0	U.S. Representative, District 13	DEM - BARBARA LEE	0	0	0		candidate	0	 	0
+11	11	2	0	45	156	1	0	0	1	1	1	0	U.S. Representative, District 13	GRN - LAURA WELLS	0	0	0		candidate	0	 	0
+12	12	1	6484	2	93	1	0	0	74	74	74	0	U.S. Representative, District 14	REP - CRISTINA OSMEÑA	38087	2207	8	0	candidate	0	 	0
+12	12	2	31603	1	94	1	0	0	74	74	74	0	U.S. Representative, District 14	DEM - JACKIE SPEIER	38087	2207	8	1	winner	0	 	0
+13	13	1	140270	1	95	1	0	0	353	353	353	0	State Assembly, District 17	DEM - DAVID CHIU	185665	28665	192	1	winner	0	 	0
+13	13	2	45395	1	96	1	0	0	353	353	353	0	State Assembly, District 17	DEM - ALEJANDRO FERNANDEZ	185665	28665	192	0	candidate	0	 	0
+14	14	1	125688	1	97	1	0	0	251	251	251	0	State Assembly, District 19	DEM - PHIL TING	148913	8883	37	1	winner	0	 	0
+14	14	2	23225	2	98	1	0	0	251	251	251	0	State Assembly, District 19	REP - KEITH BOGDON	148913	8883	37	0	candidate	0	 	0
+16	15	1	148049		4	1	4	4	604	604	604	0	Sup Ct. Assoc Justice CORRIGAN	Yes	239006	133112	237	1	winner	0	 	0
+16	15	2	90957		5	1	4	4	604	604	604	0	Sup Ct. Assoc Justice CORRIGAN	No	239006	133112	237	0	candidate	0	 	0
+17	16	1	205309		6	1	4	4	604	604	604	0	Sup Ct. Assoc Justice KRUGER	Yes	234596	137651	108	1	winner	0	 	0
+17	16	2	29287		7	1	4	4	604	604	604	0	Sup Ct. Assoc Justice KRUGER	No	234596	137651	108	0	candidate	0	 	0
+18	17	1	190948		8	1	4	4	604	604	604	0	COA Div 1 Presiding Justice HUMES	Yes	226243	145982	130	1	winner	0	 	0
+18	17	2	35295		9	1	4	4	604	604	604	0	COA Div 1 Presiding Justice HUMES	No	226243	145982	130	0	candidate	0	 	0
+19	18	1	159030		10	1	4	4	604	604	604	0	COA Div 1 Assoc Justice MARGULIES	Yes	228869	143372	114	1	winner	0	 	0
+19	18	2	69839		11	1	4	4	604	604	604	0	COA Div 1 Assoc Justice MARGULIES	No	228869	143372	114	0	candidate	0	 	0
+20	19	1	137573		12	1	4	4	604	604	604	0	COA Div 2 Assoc Justice RICHMAN	Yes	221634	150631	90	1	winner	0	 	0
+20	19	2	84061		13	1	4	4	604	604	604	0	COA Div 2 Assoc Justice RICHMAN	No	221634	150631	90	0	candidate	0	 	0
+21	20	1	156159		14	1	4	4	604	604	604	0	COA Div 2 Assoc Justice MILLER	Yes	224116	148071	168	1	winner	0	 	0
+21	20	2	67957		15	1	4	4	604	604	604	0	COA Div 2 Assoc Justice MILLER	No	224116	148071	168	0	candidate	0	 	0
+22	21	1	185557		16	1	4	4	604	604	604	0	COA Div 3 Presiding Justice SIGGINS	Yes	221581	150688	86	1	winner	0	 	0
+22	21	2	36024		17	1	4	4	604	604	604	0	COA Div 3 Presiding Justice SIGGINS	No	221581	150688	86	0	candidate	0	 	0
+23	22	1	185265		18	1	4	4	604	604	604	0	COA Div 4 Assoc Justice STREETER	Yes	220061	152205	89	1	winner	0	 	0
+23	22	2	34796		19	1	4	4	604	604	604	0	COA Div 4 Assoc Justice STREETER	No	220061	152205	89	0	candidate	0	 	0
+24	23	1	197715		20	1	4	4	604	604	604	0	COA Div 4 Assoc Juctice TUCHER	Yes	223373	148832	150	1	winner	0	 	0
+24	23	2	25658		21	1	4	4	604	604	604	0	COA Div 4 Assoc Juctice TUCHER	No	223373	148832	150	0	candidate	0	 	0
+25	24	1	199972		22	1	4	4	604	604	604	0	COA Div 5 Presiding Juctice JONES	Yes	224834	147472	49	1	winner	0	 	0
+25	24	2	24862		23	1	4	4	604	604	604	0	COA Div 5 Presiding Juctice JONES	No	224834	147472	49	0	candidate	0	 	0
+26	25	1	97669		118	1	0	0	604	604	604	0	Superintendent of Public Instruction	MARSHALL TUCK	290923	79925	1507	0	candidate	0	 	0
+26	25	2	191185		119	1	0	0	604	604	604	0	Superintendent of Public Instruction	TONY K. THURMOND	290923	79925	1507	1	winner	0	 	0
+26	25	3	2069		24	1	0	3	604	604	604	1	Superintendent of Public Instruction	WRITE-IN	290923	79925	1507	0	candidate	0	 	0
+15	26	1	34168		99	3	0	0	604	604	604	0	Member, Board of Education	MONICA CHINCHILLA	817161	281694	16026	0	candidate	0	 	0
+15	26	2	122778		100	3	0	0	604	604	604	0	Member, Board of Education	ALISON COLLINS	817161	281694	16026	1	winner	0	 	0
+15	26	3	27730		101	3	0	0	604	604	604	0	Member, Board of Education	JOSEPHINE ZHAO	817161	281694	16026	0	candidate	0	 	0
+15	26	4	12422		102	3	0	0	604	604	604	0	Member, Board of Education	MARTIN RAWLINGS-FEIN	817161	281694	16026	0	candidate	0	 	0
+15	26	5	112180		103	3	0	0	604	604	604	0	Member, Board of Education	GABRIELA LÓPEZ	817161	281694	16026	1	winner	0	 	0
+15	26	6	61379		104	3	0	0	604	604	604	0	Member, Board of Education	LI MIAO LOVETT	817161	281694	16026	0	candidate	0	 	0
+15	26	7	9592		105	3	0	0	604	604	604	0	Member, Board of Education	LEX LEIFHEIT	817161	281694	16026	0	candidate	0	 	0
+15	26	8	37701		106	3	0	0	604	604	604	0	Member, Board of Education	ALIDA FISHER	817161	281694	16026	0	candidate	0	 	0
+15	26	9	2489		107	3	0	0	604	604	604	0	Member, Board of Education	PHILLIP MARCEL HOUSE	817161	281694	16026	0	candidate	0	 	0
+15	26	10	65683		108	3	0	0	604	604	604	0	Member, Board of Education	MICHELLE PARKER	817161	281694	16026	0	candidate	0	 	0
+15	26	11	12934		109	3	0	0	604	604	604	0	Member, Board of Education	DARRON A. PADILLA	817161	281694	16026	0	candidate	0	 	0
+15	26	12	13945		110	3	0	0	604	604	604	0	Member, Board of Education	PAUL KANGAS	817161	281694	16026	0	candidate	0	 	0
+15	26	13	12238		111	3	0	0	604	604	604	0	Member, Board of Education	CONNOR KRONE	817161	281694	16026	0	candidate	0	 	0
+15	26	14	75948		112	3	0	0	604	604	604	0	Member, Board of Education	PHIL KIM	817161	281694	16026	0	candidate	0	 	0
+15	26	15	46572		113	3	0	0	604	604	604	0	Member, Board of Education	JOHN TRASVIÑA	817161	281694	16026	0	candidate	0	 	0
+15	26	16	30437		114	3	0	0	604	604	604	0	Member, Board of Education	LENETTE THOMPSON	817161	281694	16026	0	candidate	0	 	0
+15	26	17	107904		115	3	0	0	604	604	604	0	Member, Board of Education	FAAUUGA MOLIGA	817161	281694	16026	1	winner	0	 	0
+15	26	18	17517		116	3	0	0	604	604	604	0	Member, Board of Education	MIA SATYA	817161	281694	16026	0	candidate	0	 	0
+15	26	19	11996		117	3	0	0	604	604	604	0	Member, Board of Education	ROGER SINASOHN	817161	281694	16026	0	candidate	0	 	0
+15	26	20	1548		1	3	0	3	604	604	604	1	Member, Board of Education	WRITE-IN	817161	281694	16026	0	candidate	0	 	0
+27	27	1	151256		120	3	0	0	604	604	604	0	Member, Community College Board	JOHN RIZZO	627332	486976	2757	1	winner	0	 	0
+27	27	2	187617		121	3	0	0	604	604	604	0	Member, Community College Board	BRIGITTE DAVILA	627332	486976	2757	1	winner	0	 	0
+27	27	3	101258		122	3	0	0	604	604	604	0	Member, Community College Board	VICTOR OLIVIERI	627332	486976	2757	0	candidate	0	 	0
+27	27	4	184831		123	3	0	0	604	604	604	0	Member, Community College Board	THEA SELBY	627332	486976	2757	1	winner	0	 	0
+27	27	5	2370		25	3	0	3	604	604	604	1	Member, Community College Board	WRITE-IN	627332	486976	2757	0	candidate	0	 	0
+28	28	1	24494		124	1	0	0	266	266	266	0	BART Director, District 8	EVA I. CHAO	124705	39869	1610	0	candidate	0	 	0
+28	28	2	16511		125	1	0	0	266	266	266	0	BART Director, District 8	BRIAN J. LARKIN	124705	39869	1610	0	candidate	0	 	0
+28	28	3	14684		126	1	0	0	266	266	266	0	BART Director, District 8	JONATHAN LYENS	124705	39869	1610	0	candidate	0	 	0
+28	28	4	39967		127	1	0	0	266	266	266	0	BART Director, District 8	JANICE LI	124705	39869	1610	1	winner	0	 	0
+28	28	5	23645		128	1	0	0	266	266	266	0	BART Director, District 8	MELANIE NUTTER	124705	39869	1610	0	candidate	0	 	0
+28	28	6	5063		129	1	0	0	266	266	266	0	BART Director, District 8	WILLIAM WALKER	124705	39869	1610	0	candidate	0	 	0
+28	28	7	341		28	1	0	3	266	266	266	1	BART Director, District 8	WRITE-IN	124705	39869	1610	0	candidate	0	 	0
+29	29	1	234996		130	1	0	0	604	604	604	0	Assessor-Recorder	CARMEN CHU	315835	51950	411	1	winner	0	 	0
+29	29	2	79585		131	1	0	0	604	604	604	0	Assessor-Recorder	PAUL BELLAR	315835	51950	411	0	candidate	0	 	0
+29	29	3	1254		29	1	0	3	604	604	604	1	Assessor-Recorder	WRITE-IN	315835	51950	411	0	candidate	0	 	0
+32	30	1	286421		132	1	0	0	604	604	604	0	Public Defender	JEFF ADACHI	291090	77037	69	1	winner	0	 	0
+32	30	2	4669		32	1	0	3	604	604	604	1	Public Defender	WRITE-IN	291090	77037	69	0	candidate	0	 	0
+35	31	1	13592		133	1	0	0	62	62	62	0	Board of Supervisors, District 2	NICK JOSEFOWITZ	35266	4504	76	0	candidate	0	 	0
+35	31	2	3093		134	1	0	0	62	62	62	0	Board of Supervisors, District 2	JOHN DENNIS	35266	4504	76	0	candidate	0	 	0
+35	31	3	4123		135	1	0	0	62	62	62	0	Board of Supervisors, District 2	SCHUYLER HUDAK	35266	4504	76	0	candidate	0	 	0
+35	31	4	14365		136	1	0	0	62	62	62	0	Board of Supervisors, District 2	CATHERINE STEFANI	35266	4504	76	1	winner	0	 	0
+35	31	5	93		35	1	0	3	62	62	62	1	Board of Supervisors, District 2	WRITE-IN	35266	4504	76	0	candidate	0	 	0
+36	32	1	7421		137	1	0	0	48	48	48	0	Board of Supervisors, District 4	JESSICA HO	28384	2838	175	0	candidate	0	 	0
+36	32	2	511		138	1	0	0	48	48	48	0	Board of Supervisors, District 4	ADAM KIM	28384	2838	175	0	candidate	0	 	0
+36	32	3	848		139	1	0	0	48	48	48	0	Board of Supervisors, District 4	TUAN NGUYEN	28384	2838	175	0	candidate	0	 	0
+36	32	4	2435		140	1	0	0	48	48	48	0	Board of Supervisors, District 4	ARTHUR TOM	28384	2838	175	0	candidate	0	 	0
+36	32	5	3474		141	1	0	0	48	48	48	0	Board of Supervisors, District 4	TREVOR MCNEIL	28384	2838	175	0	candidate	0	 	0
+36	32	6	10283		142	1	0	0	48	48	48	0	Board of Supervisors, District 4	GORDON MAR	28384	2838	175	1	winner	0	 	0
+36	32	7	1176		143	1	0	0	48	48	48	0	Board of Supervisors, District 4	MIKE MURPHY	28384	2838	175	0	candidate	0	 	0
+36	32	8	2168		144	1	0	0	48	48	48	0	Board of Supervisors, District 4	LOU ANN BASSAN	28384	2838	175	0	candidate	0	 	0
+36	32	9	68		36	1	0	3	48	48	48	1	Board of Supervisors, District 4	WRITE-IN	28384	2838	175	0	candidate	0	 	0
+37	33	1	6227		145	1	0	0	48	48	48	0	Board of Supervisors, District 6	CHRISTINE JOHNSON	25304	3445	74	0	candidate	0	 	0
+37	33	2	14239		146	1	0	0	48	48	48	0	Board of Supervisors, District 6	MATT HANEY	25304	3445	74	1	winner	0	 	0
+37	33	3	4745		147	1	0	0	48	48	48	0	Board of Supervisors, District 6	SONJA TRAUSS	25304	3445	74	0	candidate	0	 	0
+37	33	4	93		37	1	0	3	48	48	48	1	Board of Supervisors, District 6	WRITE-IN	25304	3445	74	0	candidate	0	 	0
+38	34	1	3547		148	1	0	0	71	71	71	0	Board of Supervisors, District 8	LAWRENCE ''STARK'' DAGESSE	42039	5921	37	0	candidate	0	 	0
+38	34	2	38259		149	1	0	0	71	71	71	0	Board of Supervisors, District 8	RAFAEL MANDELMAN	42039	5921	37	1	winner	0	 	0
+38	34	3	233		38	1	0	3	71	71	71	1	Board of Supervisors, District 8	WRITE-IN	42039	5921	37	0	candidate	0	 	0
+39	35	1	799		150	1	0	0	53	53	53	0	Board of Supervisors, District 10	ASALE CHANDLER	23153	2929	152	0	candidate	0	 	0
+39	35	2	1302		151	1	0	0	53	53	53	0	Board of Supervisors, District 10	UZURI PEASE-GREENE	23153	2929	152	0	candidate	0	 	0
+39	35	3	5639		152	1	0	0	53	53	53	0	Board of Supervisors, District 10	TONY KELLY	23153	2929	152	0	candidate	0	 	0
+39	35	4	9545		153	1	0	0	53	53	53	0	Board of Supervisors, District 10	SHAMANN WALTON	23153	2929	152	1	winner	0	 	0
+39	35	5	4795		154	1	0	0	53	53	53	0	Board of Supervisors, District 10	THEO ELLINGTON	23153	2929	152	0	candidate	0	 	0
+39	35	6	954		155	1	0	0	53	53	53	0	Board of Supervisors, District 10	GLORIA BERRY	23153	2929	152	0	candidate	0	 	0
+39	35	7	89		39	1	0	3	53	53	53	1	Board of Supervisors, District 10	WRITE-IN	23153	2929	152	0	candidate	0	 	0
+39	35	8	30		157	1	0	9	53	53	53	0	Board of Supervisors, District 10	WRITE-IN NEO VEAVEA	23153	2929	152	0	candidate	0	 	0
+40	36	1	263468		40	1	4	4	604	604	604	0	State Proposition 1	Yes	352798	18562	161	1	winner	0	 	0
+40	36	2	89330		41	1	4	4	604	604	604	0	State Proposition 1	No	352798	18562	161	0	candidate	0	 	0
+41	37	1	281067		42	1	4	4	604	604	604	0	State Proposition 2	Yes	353196	18201	124	1	winner	0	 	0
+41	37	2	72129		43	1	4	4	604	604	604	0	State Proposition 2	No	353196	18201	124	0	candidate	0	 	0
+42	38	1	206911		44	1	4	4	604	604	604	0	State Proposition 3	Yes	344866	26376	279	1	winner	0	 	0
+42	38	2	137955		45	1	4	4	604	604	604	0	State Proposition 3	No	344866	26376	279	0	candidate	0	 	0
+43	39	1	252907		46	1	4	4	604	604	604	0	State Proposition 4	Yes	347288	23994	239	1	winner	0	 	0
+43	39	2	94381		47	1	4	4	604	604	604	0	State Proposition 4	No	347288	23994	239	0	candidate	0	 	0
+44	40	1	86045		48	1	4	4	604	604	604	0	State Proposition 5	Yes	345910	25317	294	0	candidate	0	 	0
+44	40	2	259865		49	1	4	4	604	604	604	0	State Proposition 5	No	345910	25317	294	1	winner	0	 	0
+45	41	1	59938		50	1	4	4	604	604	604	0	State Proposition 6	Yes	351313	19877	331	0	candidate	0	 	0
+45	41	2	291375		51	1	4	4	604	604	604	0	State Proposition 6	No	351313	19877	331	1	winner	0	 	0
+46	42	1	233268		52	1	4	4	604	604	604	0	State Proposition 7	Yes	347784	23623	114	1	winner	0	 	0
+46	42	2	114516		53	1	4	4	604	604	604	0	State Proposition 7	No	347784	23623	114	0	candidate	0	 	0
+47	43	1	202481		54	1	4	4	604	604	604	0	State Proposition 8	Yes	351867	20082	231	1	winner	0	 	0
+47	43	2	149386		55	1	4	4	604	604	604	0	State Proposition 8	No	351867	20082	231	0	candidate	0	 	0
+48	44	1	190681		56	1	4	4	604	604	604	0	State Proposition 10	Yes	360069	11887	224	1	winner	0	 	0
+48	44	2	169388		57	1	4	4	604	604	604	0	State Proposition 10	No	360069	11887	224	0	candidate	0	 	0
+49	45	1	135721		58	1	4	4	604	604	604	0	State Proposition 11	Yes	349878	22036	266	0	candidate	0	 	0
+49	45	2	214157		59	1	4	4	604	604	604	0	State Proposition 11	No	349878	22036	266	1	winner	0	 	0
+50	46	1	255876		60	1	4	4	604	604	604	0	State Proposition 12	Yes	353318	18694	168	1	winner	0	 	0
+50	46	2	97442		61	1	4	4	604	604	604	0	State Proposition 12	No	353318	18694	168	0	candidate	0	 	0
+51	47	1	287850		62	1	4	4	604	604	604	0	Local Measure A	Yes	348084	23806	290	1	winner	0	 	0
+51	47	2	60234		63	1	4	4	604	604	604	0	Local Measure A	No	348084	23806	290	0	candidate	0	 	0
+52	48	1	186547		64	1	4	4	604	604	604	0	Local Measure B	Yes	324041	47992	147	1	winner	0	 	0
+52	48	2	137494		65	1	4	4	604	604	604	0	Local Measure B	No	324041	47992	147	0	candidate	0	 	0
+53	49	1	215242		66	1	4	4	604	604	604	0	Local Measure C	Yes	350977	20921	282	1	winner	0	 	0
+53	49	2	135735		67	1	4	4	604	604	604	0	Local Measure C	No	350977	20921	282	0	candidate	0	 	0
+54	50	1	227024		68	1	4	4	604	604	604	0	Local Measure D	Yes	345722	26289	169	1	winner	0	 	0
+54	50	2	118698		69	1	4	4	604	604	604	0	Local Measure D	No	345722	26289	169	0	candidate	0	 	0
+55	51	1	258092		70	1	4	4	604	604	604	0	Local Measure E	Yes	343590	28440	150	1	winner	0	 	0
+55	51	2	85498		71	1	4	4	604	604	604	0	Local Measure E	No	343590	28440	150	0	candidate	0	 	0

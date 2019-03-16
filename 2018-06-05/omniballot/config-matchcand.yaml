@@ -1,0 +1,37 @@
+files:
+  - filename: ../resultdata/contlist-sov.tsv
+    file_type: contest-master
+    contest_id_col:   contest_id_sov
+    contest_name_col: contest_full_name
+    question_pats:
+        - "State Proposition {number}=Proposition:{number}"
+        - "Regional Measure {number}=Proposition:{number}"
+        - "Local Measure {letter}=Measure:{letter}"
+        - "{something} Justice {word}=Retention:{word}"
+        - "{something} Juctice {word}=Retention:{word}"
+
+  - filename: ../resultdata/candlist-sov.tsv
+    file_type: candidate-master
+    contest_id_col: contest_id
+    candidate_id_col: candidate_id
+    candidate_name_col: candidate_full_name
+
+  - filename: contlist-omni.tsv
+    file_type: contest
+    contest_id_col:   external_id
+    contest_name_col: title
+    contest_text_col: text
+    contest_type_col: type
+    skip_contest_types:
+        - text
+        - header
+    question_pats:
+        - "{number}=Proposition:{number}"
+        - "{letter}=Measure:{letter}"
+        - "Shall {something} Justice {name} be elected {something2}=Retention:{name}"
+
+  - filename: candlist-omni.tsv
+    file_type: candidate
+    contest_id_col: cont_external_id
+    candidate_id_col: external_id
+    candidate_name_col: title

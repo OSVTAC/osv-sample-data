@@ -1,0 +1,168 @@
+sequence	cont_external_id	cand_seq	cand_id	external_id	title	party	designation	cand_type
+010	553	010	27721	4862	JOHN H. COX	Republican	Businessman / Taxpayer Advocate	default
+010	553	020	27722	4877	AMANDA RENTERIA	Democratic	COO, Justice Department	default
+010	553	030	27723	4870	DELAINE EASTIN	Democratic	Educator / Youth Advocate	default
+010	553	040	27724	4879	JEFFREY EDWARD TAYLOR	None	Marketplace Minister	default
+010	553	050	27725	4880	KLEMENT TINAJ	Democratic	CEO / Educator / Artist	default
+010	553	060	27726	4867	HAKAN "HAWK" MIKADO	None	CEO / Business Owner	default
+010	553	070	27727	4874	ALBERT CAESAR MEZZETTI	Democratic	Retired Educator	default
+010	553	080	27728	4875	GAVIN NEWSOM	Democratic	Lieutenant Governor / Businessman	default
+010	553	090	27729	4882	ROBERT C. NEWMAN, II	Republican	Research Clinical Psychologist	default
+010	553	100	27703	4872	JOSH JONES	Green	Author	default
+010	553	110	27704	4861	J. BRIBIESCA	Democratic	Retired Medical Doctor	default
+010	553	120	27705	4859	GLORIA ESTELA LA RIVA	Peace and Freedom	Graphic Artist	default
+010	553	130	27706	4876	PETER Y LIU	Republican		default
+010	553	140	27707	4883	ANTONIO VILLARAIGOSA	Democratic	Public Policy Advisor	default
+010	553	150	27708	4865	YVONNE GIRARD	Republican	Judicial Assistant	default
+010	553	160	27709	4873	ROBERT DAVIDSON GRIFFIS	Democratic	Entrepreneur / Economist / Father	default
+010	553	170	27710	4864	SHUBHAM GOEL	None	Virtual Reality Manager	default
+010	553	180	27711	4860	TRAVIS ALLEN	Republican	California Assemblyman / Businessman	default
+010	553	190	27712	4858	AKINYEMI AGBEDE	Democratic	Mathematician	default
+010	553	200	27713	4881	JOHNNY WATTENBURG	None	Business Owner	default
+010	553	210	27714	4871	NICKOLAS WILDSTAR	Libertarian	Recording Artist	default
+010	553	220	27715	4869	DESMOND SILVEIRA	None	Senior Software Engineer	default
+010	553	230	27716	4878	MICHAEL SHELLENBERGER	Democratic	Environmental Organization Executive	default
+010	553	240	27717	4868	ZOLTAN ISTVAN	Libertarian	Entrepreneur / Transhumanist Lecturer	default
+010	553	250	27718	4857	CHRISTOPHER N. CARLSON	Green	Puppeteer / Musician	default
+010	553	260	27719	4863	THOMAS JEFFERSON CARES	Democratic	Blockchain Startup CEO	default
+010	553	270	27720	4866	JOHN CHIANG	Democratic	California State Treasurer	default
+020	554	010	27737	4890	ED HERNANDEZ	Democratic	State Senator / Businessman	default
+020	554	020	27738	4889	DAVID R. HERNANDEZ	Republican	Retired Business Owner	default
+020	554	030	27739	4893	LYDIA ORTEGA	Republican	Economist / Businesswoman / Educator	default
+020	554	040	27740	4892	GAYLE MCLAUGHLIN	None	Community Organizer / Educator	default
+020	554	050	27730	4884	JEFF BLEICH	Democratic	Attorney / Educator	default
+020	554	060	27731	4891	ELENI KOUNALAKIS	Democratic	Businesswoman / Economic Advisor	default
+020	554	070	27732	4887	CAMERON GHARABIKLOU	Democratic	Attorney	default
+020	554	080	27733	4886	TIM FERREIRA	Libertarian	Strategist / Programmer / Entrepreneur	default
+020	554	090	27734	4885	DAVID FENNELL	Republican	Entrepreneur	default
+020	554	100	27735	4894	DANNY THOMAS	None	Dentist / Dental Surgeon	default
+020	554	110	27736	4888	COLE HARRIS	Republican	Father / Entrepreneur / Businessman	default
+030	557	010	27743	4906	C.T. WEBER	Peace and Freedom	Retired Government Analyst	default
+030	557	020	27744	4905	ERIK RYDBERG	Green	Community Organizer	default
+030	557	030	27745	4904	RAUL RODRIGUEZ JR	Republican	Retired Warehousing Employee	default
+030	557	040	27746	4899	MICHAEL FEINSTEIN	Green	Electoral Reform Consultant	default
+030	557	050	27747	4901	RUBEN MAJOR	Democratic	Paramedic / Educator / Businessperson	default
+030	557	060	27748	4902	MARK P. MEUSER	Republican	Election Law Attorney	default
+030	557	070	27741	4903	ALEX PADILLA	Democratic	Secretary of State	default
+030	557	080	27742	4900	GAIL K. LIGHTFOOT	Libertarian	Retired Nurse	default
+040	558	010	27749	4908	KONSTANTINOS RODITIS	Republican	Entrepreneur	default
+040	558	020	27750	4907	MARY LOU FINLEY	Peace and Freedom	Retired Educator	default
+040	558	030	27751	4909	BETTY T. YEE	Democratic	California State Controller	default
+050	559	010	27755	4911	GREG CONLON	Republican	Businessman / CPA	default
+050	559	020	27756	4913	FIONA MA	Democratic	CPA / Taxpayer Representative	default
+050	559	030	27752	4914	VIVEK VISWANATHAN	Democratic	Governor's Office, Advisor	default
+050	559	040	27753	4912	JACK M. GUERRERO	Republican	CPA / Councilmember / Economist	default
+050	559	050	27754	4910	KEVIN AKIN	Peace and Freedom	Retired Steam Engineer	default
+060	555	010	27759	4898	XAVIER BECERRA	Democratic	Appointed Attorney General of the State of California	default
+060	555	020	27760	4896	ERIC EARLY	Republican	Attorney / Business Owner	default
+060	555	030	27757	4895	DAVE JONES	Democratic	California Insurance Commissioner	default
+060	555	040	27758	4897	STEVEN C BAILEY	Republican	Retired California Judge	default
+070	608	010	27763	4821	NATHALIE HRIZI	Peace and Freedom	Public School Teacher	default
+070	608	020	27764	4823	ASIF MAHMOOD	Democratic	Physician, Internal Medicine	default
+070	608	030	27761	4824	STEVE POIZNER	None	Businessman / Non-Profit Director	default
+070	608	040	27762	4822	RICARDO LARA	Democratic	California Senator	default
+080	607	010	27768	4819	MALIA COHEN	Democratic	Supervisor, City and County of San Francisco	default
+080	607	020	27765	4817	MARK BURNS	Republican	Realtor / Businessman	default
+080	607	030	27766	4820	CATHLEEN GALGIANI	Democratic	State Senator	default
+080	607	040	27767	4818	BARRY CHANG	Democratic	Councilmember / Business Owner	default
+090	605	010	27787	4833	COLLEEN SHEA FERNALD	None	Constitutional Solutions Advocate	default
+090	605	020	27788	4831	ADRIENNE NICOLE EDWARDS	Democratic	Community Advocate	default
+090	605	030	27789	4855	PAUL A TAYLOR	Republican	Small Business Owner	default
+090	605	040	27790	4856	DONNIE O. TURNER	Democratic	Retired USAF Sergeant	default
+090	605	050	27791	4839	PAT HARRIS	Democratic	Civil Rights Attorney	default
+090	605	060	27792	4840	ALISON HARTSON	Democratic	National Political Director	default
+090	605	070	27793	4838	JASON M. HANANIA	None	Attorney / Engineer	default
+090	605	080	27794	4841	DAVID HILDEBRAND	Democratic	Policy Analyst	default
+090	605	090	27795	4846	LEE OLSON	None	Aerospace Systems Engineer	default
+090	605	100	27796	4829	ROQUE "ROCKY" DE LA FUENTE	Republican	Businessman / Land Developer	default
+090	605	110	27797	4825	KEVIN DE LEON	Democratic	California Senator	default
+090	605	120	27798	4845	KEVIN MOTTUS	Republican	Wireless Safety Advocate	default
+090	605	130	27799	4844	DAVID MOORE	None	Special Education Teacher	default
+090	605	140	27800	4847	MARIO NABLIBA	Republican	Scientist	default
+090	605	150	27769	4852	GERALD PLUMMER	Democratic	Construction Project Manager	default
+090	605	160	27770	4848	TOM PALZER	Republican	Retired Urban Planner	default
+090	605	170	27771	4849	JOHN THOMPSON PARKER	Peace and Freedom		default
+090	605	180	27772	4851	DOUGLAS HOWARD PIERCE	Democratic	Missing Children's Advocate	default
+090	605	190	27773	4850	HERBERT G. PETERS	Democratic	Retired Aerospace Engineer	default
+090	605	200	27774	4830	JAMES P BRADLEY	Republican	Chief Financial Officer	default
+090	605	210	27775	4826	ARUN K. BHUMITRA	Republican	Teacher / Engineer / Businessman	default
+090	605	220	27776	4842	JERRY JOSEPH LAWS	Republican		default
+090	605	230	27777	4843	PATRICK LITTLE	Republican	Civil Rights Advocate	default
+090	605	240	27778	4835	TIM GILDERSLEEVE	None	Paratransit Operator	default
+090	605	250	27779	4836	MICHAEL FAHMY GIRGIS	None	Real Estate Broker	default
+090	605	260	27780	4837	DON J. GRUNDMANN	None	Doctor of Chiropractic	default
+090	605	270	27781	4834	RASH BIHARI GHOSH	None	Water Scientist / Professor	default
+090	605	280	27782	4854	LING LING SHI	None	Author	default
+090	605	290	27783	4827	JOHN "JACK" CREW	Republican	Bus Driver	default
+090	605	300	27784	4828	ERIN CRUZ	Republican	Published Author	default
+090	605	310	27785	4853	DERRICK MICHAEL REID	Libertarian	Retired Attorney	default
+090	605	320	27786	4832	DIANNE FEINSTEIN	Democratic	United States Senator	default
+100	444	010	27801	4805	NANCY PELOSI	Democratic	Member of Congress	default
+100	444	020	27802	4803	STEPHEN JAFFE	Democratic	Civil Rights Attorney	default
+100	444	030	27803	4801	SHAHID BUTTAR	Democratic	Lawyer / Advocate / Artist	default
+100	444	040	27804	4804	RYAN A. KHOJASTEH	Democratic	Immigrant Rights Commissioner	default
+100	444	050	27805	4800	MICHAEL GOLDSTEIN	None	Lawyer / Author	default
+100	444	060	27806	4806	LISA REMMER	Republican	Educator	default
+100	444	070	27807	4802	BARRY HERMANSON	Green	Retired Entrepreneur	default
+110	451	010	27808	4808	BARBARA LEE	Democratic	United States Representative	default
+120	445	010	27810	4811	CRISTINA OSMEÑA	Republican	Solar Industry Executive	default
+120	445	020	27809	4810	JACKIE SPEIER	Democratic	Congresswoman	default
+130	403	010	27811	4812	DAVID CHIU	Democratic	Assemblymember	default
+130	403	020	27812	4813	ALEJANDRO FERNANDEZ	Democratic	Small Business Entrepreneur	default
+140	404	010	27813	4816	PHIL TING	Democratic	Assemblymember	default
+140	404	020	27814	4814	KEITH BOGDON	Republican	Biotech Marketing Consultant	default
+140	404	030	27815	4815	DAVID ERNST	None	Liquid Democracy Advocate	default
+150	599	010	27816	3791	PHOENIX STREETS		City and County of San Francisco Public Defender's Office, Attorney	default
+150	599	020	27817	3792	ANDREW Y.S. CHENG		City & County of San Francisco Superior Court Judge	default
+160	443	010	27818	3793	CURTIS KARNOW		City and County of San Francisco Superior Court Judge	default
+160	443	020	27819	3794	MARIA EVANGELISTA		City and County of San Francisco Public Defender's Office, Attorney	default
+170	600	010	27821	3796	ELIZABETH ZAREH		City and County of San Francisco Assessment Appeals Board Commissioner / Attorney	default
+170	600	020	27822	3797	KWIXUAN H. MALOOF		City & County of San Francisco Public Defender's Office, Attorney	default
+170	600	030	27820	3795	CYNTHIA MING-MEI LEE		City and County of San Francisco Superior Court Judge	default
+180	601	010	27823	3799	NIKI JUDITH SOLIS		City & County of San Francisco Public Defender's Office, Attorney	default
+180	601	020	27824	3798	JEFFREY S. ROSS		City and County of San Francisco Superior Court Judge	default
+190	563	010	27827	3832	TONY K. THURMOND		Educator / State Legislator	default
+190	563	020	27828	3833	MARSHALL TUCK		Schools Improvement Director	default
+190	563	030	27825	3707	LILY (ESPINOZA) PLOSKI		Educational Administrator / Instructor	default
+190	563	040	27826	3706	STEVEN IRELAND		Parent	default
+200	598	010	27831	3786	MARK LENO		Small Businessperson	default
+200	598	020	27832	3788	JANE KIM		Supervisor	default
+200	598	030	27833	3785	RICHIE GREENBERG		Small Business Advisor	default
+200	598	040	27834	3787	ANGELA ALIOTO		Civil Rights Attorney	default
+200	598	050	27835	3790	AMY FARAH WEISS		Nonprofit Executive	default
+200	598	060	27836	3789	ELLEN LEE ZHOU		Family Social Worker	default
+200	598	070	27829	4969	MICHELLE BRAVO		Holistic Health Practitioner	default
+200	598	080	27830	4970	LONDON BREED		President, Board of Supervisors	default
+210	597	010	27837	3782	JEFF SHEEHY		Appointed San Francisco Supervisor	default
+210	597	020	27838	3784	LAWRENCE "STARK" DAGESSE		Theatrical Technician	default
+210	597	030	27839	3783	RAFAEL MANDELMAN		City College Trustee / Attorney	default
+220	446	010	27840	2725	YES			default
+220	446	020	27841	2726	NO			default
+230	584	010	27842	3761	YES			default
+230	584	020	27843	3762	NO			default
+240	585	010	27844	3763	YES			default
+240	585	020	27845	3764	NO			default
+250	586	010	27846	3765	YES			default
+250	586	020	27847	3766	NO			default
+260	587	010	27848	3767	YES			default
+260	587	020	27849	3768	NO			default
+270	617	010	27850	4971	YES			default
+270	617	020	27851	4972	NO			default
+280	372	010	27852	2297	YES			default
+280	372	020	27853	2298	NO			default
+290	373	010	27854	2299	YES			default
+290	373	020	27855	2300	NO			default
+300	374	010	27856	2301	YES			default
+300	374	020	27857	2302	NO			default
+310	375	010	27858	2303	YES			default
+310	375	020	27859	2304	NO			default
+320	448	010	27860	2834	YES			default
+320	448	020	27861	2835	NO			default
+330	376	010	27862	2305	YES			default
+330	376	020	27863	2306	NO			default
+340	594	010	27864	3776	YES			default
+340	594	020	27865	3777	NO			default
+350	595	010	27866	3778	YES			default
+350	595	020	27867	3779	NO			default
+360	596	010	27868	3780	YES			default
+360	596	020	27869	3781	NO			default
