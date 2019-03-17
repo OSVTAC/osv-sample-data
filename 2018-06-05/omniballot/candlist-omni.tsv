@@ -26,6 +26,11 @@ sequence	cont_external_id	cand_seq	cand_id	external_id	title	party	designation	c
 010	553	250	27718	4857	CHRISTOPHER N. CARLSON	Green	Puppeteer / Musician	default
 010	553	260	27719	4863	THOMAS JEFFERSON CARES	Democratic	Blockchain Startup CEO	default
 010	553	270	27720	4866	JOHN CHIANG	Democratic	California State Treasurer	default
+010	553	271	99001	9901	K. PEARCE		Write-In	writein
+010	553	272	99002	9902	VERONIKA FIMBRES		Write-In	writein
+010	553	273	99003	9903	ARMANDO M. ARREOLA		Write-In	writein
+010	553	274	99004	9904	ARMAN SOLTANI		Write-In	writein
+010	553	275	99005	9905	PETER CRAWFORD VALENTINO		Write-In	writein
 020	554	010	27737	4890	ED HERNANDEZ	Democratic	State Senator / Businessman	default
 020	554	020	27738	4889	DAVID R. HERNANDEZ	Republican	Retired Business Owner	default
 020	554	030	27739	4893	LYDIA ORTEGA	Republican	Economist / Businesswoman / Educator	default
@@ -37,6 +42,7 @@ sequence	cont_external_id	cand_seq	cand_id	external_id	title	party	designation	c
 020	554	090	27734	4885	DAVID FENNELL	Republican	Entrepreneur	default
 020	554	100	27735	4894	DANNY THOMAS	None	Dentist / Dental Surgeon	default
 020	554	110	27736	4888	COLE HARRIS	Republican	Father / Entrepreneur / Businessman	default
+020	554	111	99006	9906	MARJAN S. FARIBA		Write-In	writein
 030	557	010	27743	4906	C.T. WEBER	Peace and Freedom	Retired Government Analyst	default
 030	557	020	27744	4905	ERIK RYDBERG	Green	Community Organizer	default
 030	557	030	27745	4904	RAUL RODRIGUEZ JR	Republican	Retired Warehousing Employee	default
@@ -97,6 +103,9 @@ sequence	cont_external_id	cand_seq	cand_id	external_id	title	party	designation	c
 090	605	300	27784	4828	ERIN CRUZ	Republican	Published Author	default
 090	605	310	27785	4853	DERRICK MICHAEL REID	Libertarian	Retired Attorney	default
 090	605	320	27786	4832	DIANNE FEINSTEIN	Democratic	United States Senator	default
+090	605	321	99007	9907	SEELAM PRABHAKAR REDDY		Write-In	writein
+090	605	322	99008	9908	MICHAEL V. ZIESING		Write-In	writein
+090	605	323	99009	9909	URSULA M. SCHILLING		Write-In	writein
 100	444	010	27801	4805	NANCY PELOSI	Democratic	Member of Congress	default
 100	444	020	27802	4803	STEPHEN JAFFE	Democratic	Civil Rights Attorney	default
 100	444	030	27803	4801	SHAHID BUTTAR	Democratic	Lawyer / Advocate / Artist	default
@@ -125,6 +134,8 @@ sequence	cont_external_id	cand_seq	cand_id	external_id	title	party	designation	c
 190	563	020	27828	3833	MARSHALL TUCK		Schools Improvement Director	default
 190	563	030	27825	3707	LILY (ESPINOZA) PLOSKI		Educational Administrator / Instructor	default
 190	563	040	27826	3706	STEVEN IRELAND		Parent	default
+190	563	041	99010	9910	DOUGLAS I. VIGIL		Write-In	writein
+190	563	042	99011	9911	THOMAS L. WILLIAMS		Write-In	writein
 200	598	010	27831	3786	MARK LENO		Small Businessperson	default
 200	598	020	27832	3788	JANE KIM		Supervisor	default
 200	598	030	27833	3785	RICHIE GREENBERG		Small Business Advisor	default
@@ -133,6 +144,7 @@ sequence	cont_external_id	cand_seq	cand_id	external_id	title	party	designation	c
 200	598	060	27836	3789	ELLEN LEE ZHOU		Family Social Worker	default
 200	598	070	27829	4969	MICHELLE BRAVO		Holistic Health Practitioner	default
 200	598	080	27830	4970	LONDON BREED		President, Board of Supervisors	default
+200	598	081	99012	9912	ANTOINE R. ROGERS		Write-In	writein
 210	597	010	27837	3782	JEFF SHEEHY		Appointed San Francisco Supervisor	default
 210	597	020	27838	3784	LAWRENCE "STARK" DAGESSE		Theatrical Technician	default
 210	597	030	27839	3783	RAFAEL MANDELMAN		City College Trustee / Attorney	default
