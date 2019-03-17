@@ -5,6 +5,7 @@ trim_sequence_prefix: 9
 contest_map_file: contmap.tsv
 candidate_map_file: candmap.tsv
 
+# Number of digits in the bt subdirectory for ballot type number
 bt_digits: 2
 
 # Patterns to match retention candidate names in retention contest question text
