@@ -710,7 +710,8 @@
                         },
                         "ballot_designation": {
                             "en": "Write-In"
-                        }
+                        },
+                        "is_writein": true
                     },
                     {
                         "_id": "9902",
@@ -719,7 +720,8 @@
                         },
                         "ballot_designation": {
                             "en": "Write-In"
-                        }
+                        },
+                        "is_writein": true
                     },
                     {
                         "_id": "9903",
@@ -728,7 +730,8 @@
                         },
                         "ballot_designation": {
                             "en": "Write-In"
-                        }
+                        },
+                        "is_writein": true
                     },
                     {
                         "_id": "9904",
@@ -737,7 +740,8 @@
                         },
                         "ballot_designation": {
                             "en": "Write-In"
-                        }
+                        },
+                        "is_writein": true
                     },
                     {
                         "_id": "9905",
@@ -746,10 +750,12 @@
                         },
                         "ballot_designation": {
                             "en": "Write-In"
-                        }
+                        },
+                        "is_writein": true
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMSW"
             },
             {
                 "_id": "115",
@@ -997,10 +1003,12 @@
                         },
                         "ballot_designation": {
                             "en": "Write-In"
-                        }
+                        },
+                        "is_writein": true
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMSW"
             },
             {
                 "_id": "120",
@@ -1182,7 +1190,8 @@
                         }
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMSW"
             },
             {
                 "_id": "125",
@@ -1264,7 +1273,8 @@
                         }
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMSW"
             },
             {
                 "_id": "130",
@@ -1386,7 +1396,8 @@
                         }
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMSW"
             },
             {
                 "_id": "135",
@@ -1488,7 +1499,8 @@
                         }
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMSW"
             },
             {
                 "_id": "140",
@@ -1590,7 +1602,8 @@
                         }
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMSW"
             },
             {
                 "_id": "145",
@@ -1692,7 +1705,8 @@
                         }
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMSW"
             },
             {
                 "_id": "150",
@@ -2348,7 +2362,8 @@
                         },
                         "ballot_designation": {
                             "en": "Write-In"
-                        }
+                        },
+                        "is_writein": true
                     },
                     {
                         "_id": "9908",
@@ -2357,7 +2372,8 @@
                         },
                         "ballot_designation": {
                             "en": "Write-In"
-                        }
+                        },
+                        "is_writein": true
                     },
                     {
                         "_id": "9909",
@@ -2366,10 +2382,12 @@
                         },
                         "ballot_designation": {
                             "en": "Write-In"
-                        }
+                        },
+                        "is_writein": true
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMSW"
             },
             {
                 "_id": "155",
@@ -2537,7 +2555,8 @@
                         }
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMSW"
             },
             {
                 "_id": "160",
@@ -2583,7 +2602,8 @@
                         }
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMSW"
             },
             {
                 "_id": "165",
@@ -2651,7 +2671,8 @@
                         }
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMSW"
             },
             {
                 "_id": "170",
@@ -2719,7 +2740,8 @@
                         }
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMSW"
             },
             {
                 "_id": "175",
@@ -2807,7 +2829,8 @@
                         }
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMSW"
             },
             {
                 "_id": "180",
@@ -2857,7 +2880,8 @@
                         }
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMSW"
             },
             {
                 "_id": "185",
@@ -2907,7 +2931,8 @@
                         }
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMSW"
             },
             {
                 "_id": "190",
@@ -2971,7 +2996,8 @@
                         }
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMSW"
             },
             {
                 "_id": "195",
@@ -3021,7 +3047,8 @@
                         }
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMSW"
             },
             {
                 "_id": "200",
@@ -3105,7 +3132,8 @@
                         },
                         "ballot_designation": {
                             "en": "Write-In"
-                        }
+                        },
+                        "is_writein": true
                     },
                     {
                         "_id": "9911",
@@ -3114,10 +3142,12 @@
                         },
                         "ballot_designation": {
                             "en": "Write-In"
-                        }
+                        },
+                        "is_writein": true
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMSW"
             },
             {
                 "_id": "205",
@@ -3257,10 +3287,12 @@
                         },
                         "ballot_designation": {
                             "en": "Write-In"
-                        }
+                        },
+                        "is_writein": true
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMSW"
             },
             {
                 "_id": "210",
@@ -3324,7 +3356,8 @@
                         }
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMSW"
             },
             {
                 "_id": "215",
@@ -3360,7 +3393,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             },
             {
                 "_id": "220",
@@ -3396,7 +3430,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             },
             {
                 "_id": "225",
@@ -3432,7 +3467,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             },
             {
                 "_id": "230",
@@ -3468,7 +3504,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             },
             {
                 "_id": "235",
@@ -3504,7 +3541,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             },
             {
                 "_id": "240",
@@ -3540,7 +3578,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             },
             {
                 "_id": "245",
@@ -3576,7 +3615,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             },
             {
                 "_id": "250",
@@ -3612,7 +3652,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             },
             {
                 "_id": "255",
@@ -3648,7 +3689,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             },
             {
                 "_id": "260",
@@ -3684,7 +3726,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             },
             {
                 "_id": "265",
@@ -3720,7 +3763,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             },
             {
                 "_id": "270",
@@ -3756,7 +3800,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             },
             {
                 "_id": "275",
@@ -3792,7 +3837,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             },
             {
                 "_id": "280",
@@ -3828,7 +3874,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             },
             {
                 "_id": "285",
@@ -3864,7 +3911,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             }
         ]
     },
@@ -7872,28 +7920,42 @@
             "_id": "EMS",
             "description": "Plurality voting, subtotal by Election Day/VBM",
             "is_rcv": false,
-            "result_stat_type_ids": "RSEli RSReg RSCst RSRej RSUnc RSOvr RSUnd RSTot",
+            "result_stat_type_ids": "RSReg RSCst RSRej RSOvr RSUnd RSTot",
             "voting_group_ids": "TO ED MV"
         },
         {
             "_id": "EMSW",
             "description": "Plurality voting, subtotal by Election Day/VBM, with writeins",
             "is_rcv": false,
-            "result_stat_type_ids": "RSEli RSReg RSCst RSRej RSUnc RSOvr RSUnd RSTot RSWri",
+            "result_stat_type_ids": "RSReg RSCst RSRej RSOvr RSUnd RSTot RSWri",
             "voting_group_ids": "TO ED MV"
         },
         {
             "_id": "EMR",
             "description": "RCV voting, subtotal by Election Day/VBM",
             "is_rcv": true,
-            "result_stat_type_ids": "RSEli RSReg RSCst RSRej RSUnc RSOvr RSUnd RSExh RSTot",
+            "result_stat_type_ids": "RSReg RSCst RSRej RSOvr RSUnd RSExh RSTot",
             "voting_group_ids": "TO ED MV"
         },
         {
             "_id": "EMRW",
             "description": "RCV voting, subtotal by Election Day/VBM, with writeins",
             "is_rcv": true,
-            "result_stat_type_ids": "RSEli RSReg RSCst RSRej RSUnc RSOvr RSUnd RSExh RSTot RSWri",
+            "result_stat_type_ids": "RSReg RSCst RSRej RSOvr RSUnd RSExh RSTot RSWri",
+            "voting_group_ids": "TO ED MV"
+        },
+        {
+            "_id": "EMTE",
+            "description": "Turnout, subtotal by Election Day/VBM, with Eligible",
+            "is_rcv": true,
+            "result_stat_type_ids": "RSEli RSReg RSCst RSRej",
+            "voting_group_ids": "TO ED MV"
+        },
+        {
+            "_id": "EMT",
+            "description": "Turnout, subtotal by Election Day/VBM",
+            "is_rcv": true,
+            "result_stat_type_ids": "RSReg RSCst RSRej",
             "voting_group_ids": "TO ED MV"
         }
     ],

@@ -61,15 +61,6 @@
                 ]
             },
             {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            },
-            {
                 "_id": "RSOvr",
                 "heading": "Overvotes",
                 "results": [
@@ -158,15 +149,6 @@
                     "106",
                     "80",
                     "26"
-                ]
-            },
-            {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
                 ]
             },
             {
@@ -261,15 +243,6 @@
                 ]
             },
             {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            },
-            {
                 "_id": "RSOvr",
                 "heading": "Overvotes",
                 "results": [
@@ -358,15 +331,6 @@
                     "106",
                     "80",
                     "26"
-                ]
-            },
-            {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
                 ]
             },
             {
@@ -461,15 +425,6 @@
                 ]
             },
             {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            },
-            {
                 "_id": "RSOvr",
                 "heading": "Overvotes",
                 "results": [
@@ -558,15 +513,6 @@
                     "106",
                     "80",
                     "26"
-                ]
-            },
-            {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
                 ]
             },
             {
@@ -661,15 +607,6 @@
                 ]
             },
             {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            },
-            {
                 "_id": "RSOvr",
                 "heading": "Overvotes",
                 "results": [
@@ -758,15 +695,6 @@
                     "106",
                     "80",
                     "26"
-                ]
-            },
-            {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
                 ]
             },
             {
@@ -861,15 +789,6 @@
                 ]
             },
             {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            },
-            {
                 "_id": "RSOvr",
                 "heading": "Overvotes",
                 "results": [
@@ -958,15 +877,6 @@
                 ]
             },
             {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            },
-            {
                 "_id": "RSOvr",
                 "heading": "Overvotes",
                 "results": [
@@ -1046,15 +956,6 @@
             {
                 "_id": "RSRej",
                 "heading": "Ballots Rejected",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            },
-            {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
                 "results": [
                     "0",
                     "0",
@@ -1149,15 +1050,6 @@
                 ]
             },
             {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            },
-            {
                 "_id": "RSOvr",
                 "heading": "Overvotes",
                 "results": [
@@ -1249,15 +1141,6 @@
                 ]
             },
             {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            },
-            {
                 "_id": "RSOvr",
                 "heading": "Overvotes",
                 "results": [
@@ -1339,15 +1222,6 @@
                     "44",
                     "34",
                     "10"
-                ]
-            },
-            {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
                 ]
             },
             {
@@ -1595,15 +1469,6 @@
                 ]
             },
             {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            },
-            {
                 "_id": "RSOvr",
                 "heading": "Overvotes",
                 "results": [
@@ -1701,15 +1566,6 @@
                     "106",
                     "80",
                     "26"
-                ]
-            },
-            {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
                 ]
             },
             {
@@ -1828,15 +1684,6 @@
                     "106",
                     "80",
                     "26"
-                ]
-            },
-            {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
                 ]
             },
             {
@@ -1973,15 +1820,6 @@
                 ]
             },
             {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            },
-            {
                 "_id": "RSOvr",
                 "heading": "Overvotes",
                 "results": [
@@ -2082,15 +1920,6 @@
                 ]
             },
             {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            },
-            {
                 "_id": "RSOvr",
                 "heading": "Overvotes",
                 "results": [
@@ -2188,15 +2017,6 @@
                     "4265",
                     "933",
                     "3332"
-                ]
-            },
-            {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
                 ]
             },
             {
@@ -2317,15 +2137,6 @@
                     "494",
                     "100",
                     "394"
-                ]
-            },
-            {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
                 ]
             },
             {
@@ -2485,15 +2296,6 @@
                 ]
             },
             {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            },
-            {
                 "_id": "RSOvr",
                 "heading": "Overvotes",
                 "results": [
@@ -2605,15 +2407,6 @@
                 ]
             },
             {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            },
-            {
                 "_id": "RSOvr",
                 "heading": "Overvotes",
                 "results": [
@@ -2715,15 +2508,6 @@
                     "583",
                     "169",
                     "414"
-                ]
-            },
-            {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
                 ]
             },
             {
@@ -2876,15 +2660,6 @@
                 ]
             },
             {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            },
-            {
                 "_id": "RSOvr",
                 "heading": "Overvotes",
                 "results": [
@@ -2994,15 +2769,6 @@
                 ]
             },
             {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            },
-            {
                 "_id": "RSOvr",
                 "heading": "Overvotes",
                 "results": [
@@ -3091,15 +2857,6 @@
                     "106",
                     "80",
                     "26"
-                ]
-            },
-            {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
                 ]
             },
             {
@@ -3194,15 +2951,6 @@
                 ]
             },
             {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            },
-            {
                 "_id": "RSOvr",
                 "heading": "Overvotes",
                 "results": [
@@ -3291,15 +3039,6 @@
                     "106",
                     "80",
                     "26"
-                ]
-            },
-            {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
                 ]
             },
             {
@@ -3394,15 +3133,6 @@
                 ]
             },
             {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            },
-            {
                 "_id": "RSOvr",
                 "heading": "Overvotes",
                 "results": [
@@ -3491,15 +3221,6 @@
                     "106",
                     "80",
                     "26"
-                ]
-            },
-            {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
                 ]
             },
             {
@@ -3594,15 +3315,6 @@
                 ]
             },
             {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            },
-            {
                 "_id": "RSOvr",
                 "heading": "Overvotes",
                 "results": [
@@ -3691,15 +3403,6 @@
                     "106",
                     "80",
                     "26"
-                ]
-            },
-            {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
                 ]
             },
             {
@@ -3794,15 +3497,6 @@
                 ]
             },
             {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            },
-            {
                 "_id": "RSOvr",
                 "heading": "Overvotes",
                 "results": [
@@ -3891,15 +3585,6 @@
                     "106",
                     "80",
                     "26"
-                ]
-            },
-            {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
                 ]
             },
             {
@@ -3994,15 +3679,6 @@
                 ]
             },
             {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            },
-            {
                 "_id": "RSOvr",
                 "heading": "Overvotes",
                 "results": [
@@ -4091,15 +3767,6 @@
                     "940",
                     "135",
                     "805"
-                ]
-            },
-            {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
                 ]
             },
             {
@@ -4194,15 +3861,6 @@
                 ]
             },
             {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            },
-            {
                 "_id": "RSOvr",
                 "heading": "Overvotes",
                 "results": [
@@ -4291,15 +3949,6 @@
                     "940",
                     "135",
                     "805"
-                ]
-            },
-            {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
                 ]
             },
             {
@@ -4394,15 +4043,6 @@
                 ]
             },
             {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            },
-            {
                 "_id": "RSOvr",
                 "heading": "Overvotes",
                 "results": [
@@ -4491,15 +4131,6 @@
                     "940",
                     "135",
                     "805"
-                ]
-            },
-            {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
                 ]
             },
             {
@@ -4594,15 +4225,6 @@
                 ]
             },
             {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            },
-            {
                 "_id": "RSOvr",
                 "heading": "Overvotes",
                 "results": [
@@ -4691,15 +4313,6 @@
                     "281",
                     "68",
                     "213"
-                ]
-            },
-            {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
                 ]
             },
             {
@@ -4794,15 +4407,6 @@
                 ]
             },
             {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            },
-            {
                 "_id": "RSOvr",
                 "heading": "Overvotes",
                 "results": [
@@ -4891,15 +4495,6 @@
                     "281",
                     "68",
                     "213"
-                ]
-            },
-            {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
                 ]
             },
             {
@@ -4994,15 +4589,6 @@
                 ]
             },
             {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            },
-            {
                 "_id": "RSOvr",
                 "heading": "Overvotes",
                 "results": [
@@ -5091,15 +4677,6 @@
                     "281",
                     "68",
                     "213"
-                ]
-            },
-            {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
                 ]
             },
             {
@@ -5194,15 +4771,6 @@
                 ]
             },
             {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            },
-            {
                 "_id": "RSOvr",
                 "heading": "Overvotes",
                 "results": [
@@ -5291,15 +4859,6 @@
                     "281",
                     "68",
                     "213"
-                ]
-            },
-            {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
                 ]
             },
             {
@@ -5394,15 +4953,6 @@
                 ]
             },
             {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            },
-            {
                 "_id": "RSOvr",
                 "heading": "Overvotes",
                 "results": [
@@ -5491,15 +5041,6 @@
                     "281",
                     "68",
                     "213"
-                ]
-            },
-            {
-                "_id": "RSUnc",
-                "heading": "Ballots Uncounted",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
                 ]
             },
             {

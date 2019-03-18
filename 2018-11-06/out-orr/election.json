@@ -147,7 +147,8 @@
                         }
                     }
                 ],
-                "writein_lines": 0
+                "writeins_allowed": 0,
+                "result_style": "EMS"
             },
             {
                 "_id": "105",
@@ -209,7 +210,8 @@
                         }
                     }
                 ],
-                "writein_lines": 0
+                "writeins_allowed": 0,
+                "result_style": "EMS"
             },
             {
                 "_id": "110",
@@ -271,7 +273,8 @@
                         }
                     }
                 ],
-                "writein_lines": 0
+                "writeins_allowed": 0,
+                "result_style": "EMS"
             },
             {
                 "_id": "115",
@@ -333,7 +336,8 @@
                         }
                     }
                 ],
-                "writein_lines": 0
+                "writeins_allowed": 0,
+                "result_style": "EMS"
             },
             {
                 "_id": "120",
@@ -395,7 +399,8 @@
                         }
                     }
                 ],
-                "writein_lines": 0
+                "writeins_allowed": 0,
+                "result_style": "EMS"
             },
             {
                 "_id": "125",
@@ -457,7 +462,8 @@
                         }
                     }
                 ],
-                "writein_lines": 0
+                "writeins_allowed": 0,
+                "result_style": "EMS"
             },
             {
                 "_id": "130",
@@ -519,7 +525,8 @@
                         }
                     }
                 ],
-                "writein_lines": 0
+                "writeins_allowed": 0,
+                "result_style": "EMS"
             },
             {
                 "_id": "135",
@@ -581,7 +588,8 @@
                         }
                     }
                 ],
-                "writein_lines": 0
+                "writeins_allowed": 0,
+                "result_style": "EMS"
             },
             {
                 "_id": "140",
@@ -643,7 +651,8 @@
                         }
                     }
                 ],
-                "writein_lines": 0
+                "writeins_allowed": 0,
+                "result_style": "EMS"
             },
             {
                 "_id": "145",
@@ -711,7 +720,8 @@
                         }
                     }
                 ],
-                "writein_lines": 0
+                "writeins_allowed": 0,
+                "result_style": "EMS"
             },
             {
                 "_id": "150",
@@ -766,7 +776,8 @@
                         }
                     }
                 ],
-                "writein_lines": 0
+                "writeins_allowed": 0,
+                "result_style": "EMS"
             },
             {
                 "_id": "155",
@@ -834,7 +845,8 @@
                         }
                     }
                 ],
-                "writein_lines": 0
+                "writeins_allowed": 0,
+                "result_style": "EMS"
             },
             {
                 "_id": "160",
@@ -902,7 +914,8 @@
                         }
                     }
                 ],
-                "writein_lines": 0
+                "writeins_allowed": 0,
+                "result_style": "EMS"
             },
             {
                 "_id": "165",
@@ -970,7 +983,8 @@
                         }
                     }
                 ],
-                "writein_lines": 0
+                "writeins_allowed": 0,
+                "result_style": "EMS"
             },
             {
                 "_id": "305",
@@ -1420,7 +1434,8 @@
                         }
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMSW"
             },
             {
                 "_id": "170",
@@ -1702,7 +1717,8 @@
                         }
                     }
                 ],
-                "writein_lines": 3
+                "writeins_allowed": 3,
+                "result_style": "EMSW"
             },
             {
                 "_id": "240",
@@ -1780,7 +1796,8 @@
                         }
                     }
                 ],
-                "writein_lines": 3
+                "writeins_allowed": 3,
+                "result_style": "EMSW"
             },
             {
                 "_id": "245",
@@ -1892,7 +1909,8 @@
                         }
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMSW"
             },
             {
                 "_id": "250",
@@ -1943,7 +1961,8 @@
                         }
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMRW"
             },
             {
                 "_id": "265",
@@ -1980,7 +1999,8 @@
                         }
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMRW"
             },
             {
                 "_id": "280",
@@ -2065,7 +2085,8 @@
                         }
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMRW"
             },
             {
                 "_id": "285",
@@ -2205,7 +2226,8 @@
                         }
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMRW"
             },
             {
                 "_id": "290",
@@ -2276,7 +2298,8 @@
                         }
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMRW"
             },
             {
                 "_id": "295",
@@ -2333,7 +2356,8 @@
                         }
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMRW"
             },
             {
                 "_id": "300",
@@ -2452,10 +2476,12 @@
                         },
                         "ballot_designation": {
                             "en": "Write-In"
-                        }
+                        },
+                        "is_writein": true
                     }
                 ],
-                "writein_lines": 1
+                "writeins_allowed": 1,
+                "result_style": "EMRW"
             },
             {
                 "_id": "355",
@@ -2494,7 +2520,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             },
             {
                 "_id": "360",
@@ -2532,7 +2559,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             },
             {
                 "_id": "365",
@@ -2570,7 +2598,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             },
             {
                 "_id": "370",
@@ -2608,7 +2637,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             },
             {
                 "_id": "375",
@@ -2646,7 +2676,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             },
             {
                 "_id": "380",
@@ -2684,7 +2715,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             },
             {
                 "_id": "385",
@@ -2722,7 +2754,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             },
             {
                 "_id": "390",
@@ -2760,7 +2793,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             },
             {
                 "_id": "",
@@ -2816,7 +2850,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             },
             {
                 "_id": "400",
@@ -2854,7 +2889,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             },
             {
                 "_id": "405",
@@ -2892,7 +2928,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             },
             {
                 "_id": "410",
@@ -2930,7 +2967,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             },
             {
                 "_id": "415",
@@ -2968,7 +3006,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             },
             {
                 "_id": "420",
@@ -3006,7 +3045,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             },
             {
                 "_id": "425",
@@ -3044,7 +3084,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             },
             {
                 "_id": "430",
@@ -3082,7 +3123,8 @@
                             "zh": "反對"
                         }
                     }
-                ]
+                ],
+                "result_style": "EMS"
             }
         ]
     },
@@ -7090,28 +7132,42 @@
             "_id": "EMS",
             "description": "Plurality voting, subtotal by Election Day/VBM",
             "is_rcv": false,
-            "result_stat_type_ids": "RSEli RSReg RSCst RSRej RSUnc RSOvr RSUnd RSTot",
+            "result_stat_type_ids": "RSReg RSCst RSRej RSOvr RSUnd RSTot",
             "voting_group_ids": "TO ED MV"
         },
         {
             "_id": "EMSW",
             "description": "Plurality voting, subtotal by Election Day/VBM, with writeins",
             "is_rcv": false,
-            "result_stat_type_ids": "RSEli RSReg RSCst RSRej RSUnc RSOvr RSUnd RSTot RSWri",
+            "result_stat_type_ids": "RSReg RSCst RSRej RSOvr RSUnd RSTot RSWri",
             "voting_group_ids": "TO ED MV"
         },
         {
             "_id": "EMR",
             "description": "RCV voting, subtotal by Election Day/VBM",
             "is_rcv": true,
-            "result_stat_type_ids": "RSEli RSReg RSCst RSRej RSUnc RSOvr RSUnd RSExh RSTot",
+            "result_stat_type_ids": "RSReg RSCst RSRej RSOvr RSUnd RSExh RSTot",
             "voting_group_ids": "TO ED MV"
         },
         {
             "_id": "EMRW",
             "description": "RCV voting, subtotal by Election Day/VBM, with writeins",
             "is_rcv": true,
-            "result_stat_type_ids": "RSEli RSReg RSCst RSRej RSUnc RSOvr RSUnd RSExh RSTot RSWri",
+            "result_stat_type_ids": "RSReg RSCst RSRej RSOvr RSUnd RSExh RSTot RSWri",
+            "voting_group_ids": "TO ED MV"
+        },
+        {
+            "_id": "EMTE",
+            "description": "Turnout, subtotal by Election Day/VBM, with Eligible",
+            "is_rcv": true,
+            "result_stat_type_ids": "RSEli RSReg RSCst RSRej",
+            "voting_group_ids": "TO ED MV"
+        },
+        {
+            "_id": "EMT",
+            "description": "Turnout, subtotal by Election Day/VBM",
+            "is_rcv": true,
+            "result_stat_type_ids": "RSReg RSCst RSRej",
             "voting_group_ids": "TO ED MV"
         }
     ],
