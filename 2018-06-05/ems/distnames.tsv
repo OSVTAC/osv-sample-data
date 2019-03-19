@@ -1,1 +1,56 @@
-../../2018-11-06/ems/distnames.tsv
+District_Code	District_Name	District_Short_Name
+0	City and County of San Francisco	San Francisco County
+ASSM17	California State Assembly District 17	Assembly District 17
+ASSM19	California State Assembly District 19	Assembly District 19
+BART	San Francisco Bay Area Rapid Transit District	BART
+BART4	San Francisco Bay Area Rapid Transit District, District  4	BART District 4
+BART7	San Francisco Bay Area Rapid Transit District, District  7	BART District 7
+BART8	San Francisco Bay Area Rapid Transit District, District  8	BART District 8
+BART9	San Francisco Bay Area Rapid Transit District, District  9	BART District 9
+CITY1	City of San Francisco	San Francisco
+CONG12	California Congressional District 12	Congressional District 12
+CONG13	California Congressional District 13	Congressional District 13
+CONG14	California Congressional District 14	Congressional District 14
+EQUAL2	California State Board of Equalization District  2	State BoEq District 2
+MTC9	County of Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Sonoma and Solano	MTC Counties
+NEIG1	Neighborhood of Bayview/Hunters Point	Bayview/Hunters Point
+NEIG2	Neighborhood of Chinatown	Chinatown
+NEIG3	Neighborhood of Civic Center/Downtown	Civic Center/Downtown
+NEIG4	Neighborhood of Diamond Heights	Diamond Heights
+NEIG5	Neighborhood of Excelsior	Excelsior
+NEIG6	Neighborhood of Haight Ashbury	Haight Ashbury
+NEIG7	Neighborhood of Ingleside	Ingleside
+NEIG8	Neighborhood of Inner Sunset	Inner Sunset
+NEIG9	Neighborhood of Lake Merced	Lake Merced
+NEIG10	Neighborhood of Laurel Heights/Anza Vista	Laurel Heights/Anza Vista
+NEIG11	Neighborhood of Marina Pacific Heights	Marina Pacific Heights
+NEIG12	Neighborhood of Mission	Mission
+NEIG13	Neighborhood of Noe Valley	Noe Valley
+NEIG14	Neighborhood of North Bernal Heights	North Bernal Heights
+NEIG15	Neighborhood of North Embarcadero	North Embarcadero
+NEIG16	Neighborhood of Potrero Hill	Potrero Hill
+NEIG17	Neighborhood of Richmond	Richmond
+NEIG18	Neighborhood of Sea Cliff/Presidio Heights	Sea Cliff/Presidio Heights
+NEIG19	Neighborhood of South of Bernal Heights	South of Bernal Heights
+NEIG20	Neighborhood of South of Market	South of Market
+NEIG21	Neighborhood of Sunset	Sunset
+NEIG22	Neighborhood of Upper Market/Eureka Valley	Upper Market/Eureka Valley
+NEIG23	Neighborhood of Visitation Valley	Visitation Valley
+NEIG24	Neighborhood of West of Twin Peaks	West of Twin Peaks
+NEIG25	Neighborhood of Western Addition	Western Addition
+NEIG26	Neighborhood of Portola	Portola
+SBRA	San Francisco Bay Restoration Authority	SFBRA
+SEN11	California State Senate District 11	Senate District 11
+SUPV1	San Francisco County Supervisorial District  1	Supervisorial District 1
+SUPV2	San Francisco County Supervisorial District  2	Supervisorial District 2
+SUPV3	San Francisco County Supervisorial District  3	Supervisorial District 3
+SUPV4	San Francisco County Supervisorial District  4	Supervisorial District 4
+SUPV5	San Francisco County Supervisorial District  5	Supervisorial District 5
+SUPV6	San Francisco County Supervisorial District  6	Supervisorial District 6
+SUPV7	San Francisco County Supervisorial District  7	Supervisorial District 7
+SUPV8	San Francisco County Supervisorial District  8	Supervisorial District 8
+SUPV9	San Francisco County Supervisorial District  9	Supervisorial District 9
+SUPV10	San Francisco County Supervisorial District 10	Supervisorial District 10
+SUPV11	San Francisco County Supervisorial District 11	Supervisorial District 11
+appct1	California State Court of Appeal District  1	Appellate District 1
+state	State of California	California
