@@ -1024,7 +1024,8 @@
                         }
                     }
                 ],
-                "contest_candidate": "CAROL A. CORRIGAN"
+                "contest_candidate": "CAROL A. CORRIGAN",
+                "result_style": "EMS"
             },
             {
                 "_id": "310",
@@ -1064,7 +1065,8 @@
                         }
                     }
                 ],
-                "contest_candidate": "LEONDRA R. KRUGER"
+                "contest_candidate": "LEONDRA R. KRUGER",
+                "result_style": "EMS"
             },
             {
                 "_id": "315",
@@ -1104,7 +1106,8 @@
                         }
                     }
                 ],
-                "contest_candidate": "JAMES M. HUMES"
+                "contest_candidate": "JAMES M. HUMES",
+                "result_style": "EMS"
             },
             {
                 "_id": "320",
@@ -1144,7 +1147,8 @@
                         }
                     }
                 ],
-                "contest_candidate": "SANDRA MARGULIES"
+                "contest_candidate": "SANDRA MARGULIES",
+                "result_style": "EMS"
             },
             {
                 "_id": "325",
@@ -1184,7 +1188,8 @@
                         }
                     }
                 ],
-                "contest_candidate": "JAMES A. RICHMAN"
+                "contest_candidate": "JAMES A. RICHMAN",
+                "result_style": "EMS"
             },
             {
                 "_id": "330",
@@ -1224,7 +1229,8 @@
                         }
                     }
                 ],
-                "contest_candidate": "MARLA MILLER"
+                "contest_candidate": "MARLA MILLER",
+                "result_style": "EMS"
             },
             {
                 "_id": "335",
@@ -1264,7 +1270,8 @@
                         }
                     }
                 ],
-                "contest_candidate": "PETER JOHN SIGGINS"
+                "contest_candidate": "PETER JOHN SIGGINS",
+                "result_style": "EMS"
             },
             {
                 "_id": "340",
@@ -1304,7 +1311,8 @@
                         }
                     }
                 ],
-                "contest_candidate": "JON B. STREETER"
+                "contest_candidate": "JON B. STREETER",
+                "result_style": "EMS"
             },
             {
                 "_id": "345",
@@ -1344,7 +1352,8 @@
                         }
                     }
                 ],
-                "contest_candidate": "ALISON M. TUCHER"
+                "contest_candidate": "ALISON M. TUCHER",
+                "result_style": "EMS"
             },
             {
                 "_id": "350",
@@ -1384,7 +1393,8 @@
                         }
                     }
                 ],
-                "contest_candidate": "BARBARA JONES"
+                "contest_candidate": "BARBARA JONES",
+                "result_style": "EMS"
             },
             {
                 "_id": "235",
@@ -2795,24 +2805,6 @@
                     }
                 ],
                 "result_style": "EMS"
-            },
-            {
-                "_id": "",
-                "_id_ext": "prop9",
-                "_type": "measure",
-                "header_id": "303",
-                "ballot_title": {
-                    "en": "9",
-                    "es": "",
-                    "tl": ""
-                },
-                "question_text": {
-                    "en": "<div title=\"Page 5\"><p>Proposition 9 was removed from the ballot by order of the California Supreme Court. &nbsp; &nbsp;</p></div>",
-                    "es": "<div title=\"Page 5\"><p>La Proposici&oacute;n 9 se retir&oacute; de la boleta electoral por orden de la Corte Suprema de California.</p></div>",
-                    "tl": "<div title=\"Page 5\"><p>Inalis ang Proposisyon 9 sa balota ayon sa utos ng Korte Suprema ng California.</p></div>",
-                    "zh": "<div title=\"Page 5\"><p>由於California最高法院命令，提案9已在選票上移除。</p></div>"
-                },
-                "choices": []
             },
             {
                 "_id": "395",
