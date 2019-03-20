@@ -18,14 +18,12 @@
                 "_id": "001",
                 "classification": "Instructions",
                 "header_id": "",
-                "ballot_title": [
-                    {
-                        "en": "Voter-Nominated and Nonpartisan Offices.",
-                        "es": "Cargos Nominados por los Electores y Cargos No Partidarios.",
-                        "tl": "Mga Katungkulang Nominado ng Botante at mga Hindi Makapartido.",
-                        "zh": "選民提名職位和非黨派職位。"
-                    }
-                ],
+                "ballot_title": {
+                    "en": "Voter-Nominated and Nonpartisan Offices.",
+                    "es": "Cargos Nominados por los Electores y Cargos No Partidarios.",
+                    "tl": "Mga Katungkulang Nominado ng Botante at mga Hindi Makapartido.",
+                    "zh": "選民提名職位和非黨派職位。"
+                },
                 "heading_text": {
                     "en": "All voters, regardless of the party preference they disclosed upon registration, or refusal to disclose a party preference, may vote for any candidate for a voter-nominated or nonpartisan office. The party preference, if any, designated by a candidate for a voter-nominated office is selected by the candidate and is shown for the information of the voters only. It does not imply that the candidate is nominated or endorsed by the party or that the party approves of the candidate. The party preference, if any, of a candidate for a nonpartisan office does not appear on the ballot.",
                     "es": "Todos los electores, sin importar la preferencia por partido que hayan revelado al inscribirse, o su negativa de revelar una preferencia por partido, pueden votar por cualquier candidato a un cargo nominado por los electores o no partidario. La preferencia por partido, si la hubiera, designada por un candidato a un cargo nominado por los electores, es seleccionada por el candidato y se muestra solo para la informaci&oacute;n de los electores. No implica que el candidato est&eacute; nominado ni ratificado por el partido ni que el partido apruebe al candidato. La preferencia por partido, si la hubiera, de un candidato por un cargo no partidario, no aparece en la boleta electoral.",
@@ -37,53 +35,45 @@
                 "_id": "247",
                 "classification": "Office Category",
                 "header_id": "",
-                "ballot_title": [
-                    {
-                        "en": "CITY AND COUNTY",
-                        "es": "CIUDAD Y CONDADO",
-                        "tl": "LUNGSOD AT COUNTY",
-                        "zh": "市縣"
-                    }
-                ]
+                "ballot_title": {
+                    "en": "CITY AND COUNTY",
+                    "es": "CIUDAD Y CONDADO",
+                    "tl": "LUNGSOD AT COUNTY",
+                    "zh": "市縣"
+                }
             },
             {
                 "_id": "302",
                 "classification": "Office Category",
                 "header_id": "",
-                "ballot_title": [
-                    {
-                        "en": "MEASURES SUBMITTED TO THE VOTERS",
-                        "es": "INICIATIVAS DE LEY PRESENTADAS A LOS ELECTORES",
-                        "tl": "MGA PANUKALANG ISINUMITE SA MGA BOTANTE",
-                        "zh": "提交選民投票的提案"
-                    }
-                ]
+                "ballot_title": {
+                    "en": "MEASURES SUBMITTED TO THE VOTERS",
+                    "es": "INICIATIVAS DE LEY PRESENTADAS A LOS ELECTORES",
+                    "tl": "MGA PANUKALANG ISINUMITE SA MGA BOTANTE",
+                    "zh": "提交選民投票的提案"
+                }
             },
             {
                 "_id": "303",
                 "classification": "Office Category",
                 "header_id": "",
-                "ballot_title": [
-                    {
-                        "en": "STATE PROPOSITIONS",
-                        "es": "PROPOSICIONES ESTATALES",
-                        "tl": "MGA PROPOSISYON NG ESTADO",
-                        "zh": "州提案"
-                    }
-                ]
+                "ballot_title": {
+                    "en": "STATE PROPOSITIONS",
+                    "es": "PROPOSICIONES ESTATALES",
+                    "tl": "MGA PROPOSISYON NG ESTADO",
+                    "zh": "州提案"
+                }
             },
             {
                 "_id": "363",
                 "classification": "Office Category",
                 "header_id": "",
-                "ballot_title": [
-                    {
-                        "en": "CITY AND COUNTY PROPOSITIONS",
-                        "es": "PROPOSICIONES DE LA CIUDAD Y CONDADO",
-                        "tl": "MGA PROPOSISYON NG LUNGSOD AT COUNTY",
-                        "zh": "市縣提案"
-                    }
-                ]
+                "ballot_title": {
+                    "en": "CITY AND COUNTY PROPOSITIONS",
+                    "es": "PROPOSICIONES DE LA CIUDAD Y CONDADO",
+                    "tl": "MGA PROPOSISYON NG LUNGSOD AT COUNTY",
+                    "zh": "市縣提案"
+                }
             }
         ],
         "contests": [
