@@ -1,7 +1,9 @@
+default_district_id: 0
 files:
   - filename: ../ems/contlist-orig.tsv
     file_type: contest-master
     contest_id_col:   contest_id
+    district_id_col: district_id
     contest_name_col: contest_abbr
     question_pats:
         - "{number}=Proposition:{number}"
@@ -11,12 +13,13 @@ files:
   - filename: ../ems/measlist-orig.tsv
     file_type: contest-master
     contest_id_col:   contest_id
+    district_id_col: district_id
     contest_name_col: ballot_title
     question_pats:
         - "{number}=Proposition:{number}"
         - "{letter}=Measure:{letter}"
 
-  - filename: contmap-fix.tsv
+  - filename: contmap-fix.ems.tsv
     file_type: contest-master
     contest_id_col:   contest_id1
     contest_name_col: contest_name2
@@ -32,7 +35,7 @@ files:
 
   - filename: contlist-omni.tsv
     file_type: contest
-    contest_id_col:   sequence
+    contest_id_col:   external_id
     contest_name_col: title
     contest_text_col: text
     contest_type_col: type
@@ -46,7 +49,6 @@ files:
 
   - filename: candlist-omni.tsv
     file_type: candidate
-    contest_id_col: sequence
-    candidate_id_col: cand_id
+    contest_id_col: cont_external_id
+    candidate_id_col: external_id
     candidate_name_col: title
-

@@ -1,0 +1,21 @@
+contest_seq	contest_id	district_id	headings	ballot_title	contest_abbr	contest_party	vote_for	on_ballot
+001	1010	0	UNITED STATES SENATOR	United States Senator	United States Senator		1	Y
+002	1020	CONG12	UNITED STATES REPRESENTATIVE	US House of Representative, District 12	US House of Rep~District 12		1	Y
+003	1040	CONG14	UNITED STATES REPRESENTATIVE	US House of Representative, District 14	US House of Rep~District 14		1	Y
+004	1210	ASSM19	MEMBER OF THE STATE ASSEMBLY	Member, State Assembly, District 19	Member, State Assembly~District 19		1	Y
+005	1310	ASSM17	MEMBER OF THE STATE ASSEMBLY	Member, State Assembly, District 17	Member, State Assembly~District 17		1	Y
+006	2230	CITY1	JUDICIAL	Superior Court Judge, Seat 4	Superior Court Judge~Seat 4		1	Y
+007	2280	CITY1	JUDICIAL	Superior Court Judge, Seat 7	Superior Court Judge~Seat 7		1	Y
+008	2302	CITY1	JUDICIAL	Superior Court Judge, Seat 9	Superior Court Judge~Seat 9		1	Y
+009	2306	CITY1	JUDICIAL	Superior Court Judge, Seat 11	Superior Court Judge~Seat 11		1	Y
+010	4000	CITY1	STATE	Governor	Governor		1	Y
+011	4010	CITY1	STATE	Lieutenant Governor	Lieutenant Governor		1	Y
+012	4020	CITY1	STATE	Secretary of State	Secretary of State		1	Y
+013	4030	CITY1	STATE	Controller	Controller		1	Y
+014	4040	CITY1	STATE	Treasurer	Treasurer		1	Y
+015	4050	CITY1	STATE	Attorney General	Attorney General		1	Y
+016	4060	CITY1	STATE	Insurance Commissioner	Insurance Commissioner		1	Y
+017	4070	EQUAL2	STATE	Board of Equalization Member District 2	Board of Equalization Member District 2		1	Y
+018	4080	CITY1	STATE	Superintendent of Public Instruction	Superintendent of Public Instruction		1	Y
+019	5000	CITY1	SAN FRANCISCO COUNTY	Mayor	Mayor		1	Y
+020	5108	SUPV8	SAN FRANCISCO COUNTY	Board of Supervisors, District 8	Board of Supervisors~District 8		1	Y

@@ -19,11 +19,9 @@ sequence	type	contest_id	external_id	vote_for	title	text
 170	contest	11155	600	1	JUDGE OF THE SUPERIOR COURT, OFFICE NO. 9	
 180	contest	11156	601	1	JUDGE OF THE SUPERIOR COURT, OFFICE NO. 11	
 190	contest	11157	563	1	SUPERINTENDENT OF PUBLIC INSTRUCTION	
-198	header	11184	header-10		MAYOR~Vote your first, second, and third choices	You may rank up to three choices. To rank fewer than three candidates, leave any remaining choices blank.
-200	contest	11158	598	1	1. FIRST CHOICE	
+200	contest	11158	598	3	MAYOR~Vote your first, second, and third choices	You may rank up to three choices. To rank fewer than three candidates, leave any remaining choices blank.
 208	header	11203	header-12		MEMBER, BOARD OF SUPERVISORS	
-209	header	11204	header-13		DISTRICT 8~Vote your first, second, and third choices	You may rank up to three choices. To rank fewer than three candidates, leave any remaining choices blank.
-210	contest	11159	597	1	1. FIRST CHOICE	
+210	contest	11159	597	3	DISTRICT 8~Vote your first, second, and third choices	You may rank up to three choices. To rank fewer than three candidates, leave any remaining choices blank.
 217	header	11205	header-14		MEASURES SUBMITTED TO THE VOTERS	
 218	header	11206	header-15		STATE PROPOSITIONS	
 220	question	11160	446		68	<strong>AUTHORIZES BONDS FUNDING PARKS, NATURAL RESOURCES PROTECTION, CLIMATE ADAPTATION, WATER QUALITY AND SUPPLY, AND FLOOD PROTECTION.</strong> Authorizes $4 billion in general obligation bonds for: parks, natural resources protection, climate adaptation, water quality and supply, and flood protection. Fiscal Impact: Increased state bond repayment costs averaging $200 million annually over 40 years. Local government savings for natural resources-related projects, likely averaging several tens of millions of dollars annually over the next few decades.

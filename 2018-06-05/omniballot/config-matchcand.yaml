@@ -15,6 +15,7 @@ files:
     contest_id_col: contest_id
     candidate_id_col: candidate_id
     candidate_name_col: candidate_full_name
+    candidate_seq_col: candidate_order
 
   - filename: contlist-omni.tsv
     file_type: contest
