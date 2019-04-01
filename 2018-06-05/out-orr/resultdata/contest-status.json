@@ -2865,7 +2865,7 @@
             "PCT9902"
         ],
         "precincts_reporting": 604,
-        "rcv_rounds": 9,
+        "rcv_rounds": 8,
         "reporting_time": "2018-06-27 09:58:48",
         "result_stats": [
             {
@@ -2978,7 +2978,7 @@
             "PCT9901"
         ],
         "precincts_reporting": 71,
-        "rcv_rounds": 3,
+        "rcv_rounds": 2,
         "reporting_time": "2018-06-27 09:58:48",
         "result_stats": [
             {
