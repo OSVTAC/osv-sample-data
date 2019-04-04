@@ -1889,7 +1889,7 @@
             "PCT9902"
         ],
         "precincts_reporting": 0,
-        "rcv_rounds": 0,
+        "rcv_rounds": 1,
         "reporting_time": "2018-11-20 15:51:18",
         "result_stats": [
             {
@@ -1989,7 +1989,7 @@
             "PCT9902"
         ],
         "precincts_reporting": 0,
-        "rcv_rounds": 0,
+        "rcv_rounds": 1,
         "reporting_time": "2018-11-20 15:51:18",
         "result_stats": [
             {
@@ -2109,7 +2109,7 @@
         ],
         "no_voter_precincts": [],
         "precincts_reporting": 0,
-        "rcv_rounds": 0,
+        "rcv_rounds": 1,
         "reporting_time": "2018-11-20 15:51:18",
         "result_stats": [
             {
@@ -2265,7 +2265,7 @@
         ],
         "no_voter_precincts": [],
         "precincts_reporting": 0,
-        "rcv_rounds": 0,
+        "rcv_rounds": 1,
         "reporting_time": "2018-11-20 15:51:18",
         "result_stats": [
             {
@@ -2376,7 +2376,7 @@
         ],
         "no_voter_precincts": [],
         "precincts_reporting": 0,
-        "rcv_rounds": 0,
+        "rcv_rounds": 1,
         "reporting_time": "2018-11-20 15:51:18",
         "result_stats": [
             {
@@ -2480,7 +2480,7 @@
             "PCT9901"
         ],
         "precincts_reporting": 0,
-        "rcv_rounds": 0,
+        "rcv_rounds": 1,
         "reporting_time": "2018-11-20 15:51:18",
         "result_stats": [
             {
@@ -2629,7 +2629,7 @@
             "PCT9900"
         ],
         "precincts_reporting": 0,
-        "rcv_rounds": 0,
+        "rcv_rounds": 1,
         "reporting_time": "2018-11-20 15:51:18",
         "result_stats": [
             {
