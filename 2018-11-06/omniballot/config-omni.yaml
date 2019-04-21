@@ -11,3 +11,7 @@ bt_digits: 3
 # Patterns to match retention candidate names in retention contest question text
 retention_pats:
     - Justice {candidate_name} be elected
+
+approval_required:
+    '2/3':
+        - A

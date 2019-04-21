@@ -103,6 +103,7 @@
                             "en": "JOHN H. COX",
                             "zh": "約翰 H. 考克斯"
                         },
+                        "sequence": "001",
                         "candidate_party": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
@@ -123,6 +124,7 @@
                             "en": "GAVIN NEWSOM",
                             "zh": "加文 ‧ 紐森"
                         },
+                        "sequence": "002",
                         "candidate_party": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
@@ -167,6 +169,7 @@
                             "en": "ED HERNANDEZ",
                             "zh": "艾德 ‧ 艾爾南德斯"
                         },
+                        "sequence": "001",
                         "candidate_party": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
@@ -187,6 +190,7 @@
                             "en": "ELENI KOUNALAKIS",
                             "zh": "艾利尼 ‧ 庫那拉吉斯"
                         },
+                        "sequence": "002",
                         "candidate_party": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
@@ -231,6 +235,7 @@
                             "en": "ALEX PADILLA",
                             "zh": "阿列克斯 ‧ 帕迪拉"
                         },
+                        "sequence": "001",
                         "candidate_party": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
@@ -251,6 +256,7 @@
                             "en": "MARK P. MEUSER",
                             "zh": "馬克 P. 莫瑟"
                         },
+                        "sequence": "002",
                         "candidate_party": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
@@ -295,6 +301,7 @@
                             "en": "KONSTANTINOS RODITIS",
                             "zh": "康斯坦丁諾斯 ‧ 羅蒂提斯"
                         },
+                        "sequence": "001",
                         "candidate_party": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
@@ -315,6 +322,7 @@
                             "en": "BETTY T. YEE",
                             "zh": "余淑婷"
                         },
+                        "sequence": "002",
                         "candidate_party": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
@@ -359,6 +367,7 @@
                             "en": "GREG CONLON",
                             "zh": "格雷格 ‧ 康隆"
                         },
+                        "sequence": "001",
                         "candidate_party": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
@@ -379,6 +388,7 @@
                             "en": "FIONA MA",
                             "zh": "馬世雲"
                         },
+                        "sequence": "002",
                         "candidate_party": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
@@ -423,6 +433,7 @@
                             "en": "STEVEN C BAILEY",
                             "zh": "斯蒂芬 C 拜雷"
                         },
+                        "sequence": "001",
                         "candidate_party": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
@@ -443,6 +454,7 @@
                             "en": "XAVIER BECERRA",
                             "zh": "哈維 ‧ 貝西拉"
                         },
+                        "sequence": "002",
                         "candidate_party": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
@@ -487,6 +499,7 @@
                             "en": "RICARDO LARA",
                             "zh": "理查多 ‧ 拉拉"
                         },
+                        "sequence": "001",
                         "candidate_party": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
@@ -507,6 +520,7 @@
                             "en": "STEVE POIZNER",
                             "zh": "史蒂夫 ‧ 波伊茲納"
                         },
+                        "sequence": "002",
                         "candidate_party": {
                             "en": "Party Preference: None",
                             "es": "Preferencia por partido: Ninguno",
@@ -551,6 +565,7 @@
                             "en": "MALIA COHEN",
                             "zh": "瑪利亞 ‧ 科恩"
                         },
+                        "sequence": "001",
                         "candidate_party": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
@@ -571,6 +586,7 @@
                             "en": "MARK BURNS",
                             "zh": "馬克 ‧ 伯恩斯"
                         },
+                        "sequence": "002",
                         "candidate_party": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
@@ -615,6 +631,7 @@
                             "en": "DIANNE FEINSTEIN",
                             "zh": "黛安 ‧ 范士丹"
                         },
+                        "sequence": "001",
                         "candidate_party": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
@@ -635,6 +652,7 @@
                             "en": "KEVIN DE LEON",
                             "zh": "凱文 ‧ 德利昂"
                         },
+                        "sequence": "002",
                         "candidate_party": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
@@ -685,6 +703,7 @@
                             "en": "LISA REMMER",
                             "zh": "慕凱玲"
                         },
+                        "sequence": "001",
                         "candidate_party": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
@@ -705,6 +724,7 @@
                             "en": "NANCY PELOSI",
                             "zh": "南希 ‧ 佩洛西"
                         },
+                        "sequence": "002",
                         "candidate_party": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
@@ -754,6 +774,7 @@
                         "ballot_title": {
                             "en": "BARBARA LEE"
                         },
+                        "sequence": "001",
                         "candidate_party": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
@@ -812,6 +833,7 @@
                             "en": "CRISTINA OSMEÑA",
                             "zh": "克里斯蒂娜 ‧ 奧斯米納"
                         },
+                        "sequence": "001",
                         "candidate_party": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
@@ -832,6 +854,7 @@
                             "en": "JACKIE SPEIER",
                             "zh": "傑基 ‧ 斯佩爾"
                         },
+                        "sequence": "002",
                         "candidate_party": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
@@ -882,6 +905,7 @@
                             "en": "DAVID CHIU",
                             "zh": "邱信福"
                         },
+                        "sequence": "001",
                         "candidate_party": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
@@ -902,6 +926,7 @@
                             "en": "ALEJANDRO FERNANDEZ",
                             "zh": "阿勒簡德羅 ‧ 費南德斯"
                         },
+                        "sequence": "002",
                         "candidate_party": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
@@ -952,6 +977,7 @@
                             "en": "PHIL TING",
                             "zh": "丁右立"
                         },
+                        "sequence": "001",
                         "candidate_party": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
@@ -972,6 +998,7 @@
                             "en": "KEITH BOGDON",
                             "zh": "基思 ‧ 鮑格登"
                         },
+                        "sequence": "002",
                         "candidate_party": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
@@ -1007,6 +1034,7 @@
                     "tl": "Dapat bang iboto ang Kasamang Mahistrado na si CAROL A. CORRIGAN sa katungkulan para sa terminong itinakda ng batas?",
                     "zh": "是否應該依法定任期選任大法官卡羅爾 A. 科裡根為該官職？"
                 },
+                "approval_required": "Majority",
                 "choices": [
                     {
                         "_id": "5296",
@@ -1016,7 +1044,8 @@
                             "es": "SÍ",
                             "tl": "OO",
                             "zh": "贊成"
-                        }
+                        },
+                        "sequence": "001"
                     },
                     {
                         "_id": "5297",
@@ -1025,7 +1054,8 @@
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
-                        }
+                        },
+                        "sequence": "002"
                     }
                 ],
                 "contest_candidate": "CAROL A. CORRIGAN",
@@ -1049,6 +1079,7 @@
                     "tl": "Dapat bang iboto ang Kasamang Mahistrado na si LEONDRA R. KRUGER sa katungkulan para sa terminong itinakda ng batas?",
                     "zh": "是否應該依法定任期選任大法官利昂德拉 R. 克魯格為該官職？"
                 },
+                "approval_required": "Majority",
                 "choices": [
                     {
                         "_id": "5298",
@@ -1058,7 +1089,8 @@
                             "es": "SÍ",
                             "tl": "OO",
                             "zh": "贊成"
-                        }
+                        },
+                        "sequence": "001"
                     },
                     {
                         "_id": "5299",
@@ -1067,7 +1099,8 @@
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
-                        }
+                        },
+                        "sequence": "002"
                     }
                 ],
                 "contest_candidate": "LEONDRA R. KRUGER",
@@ -1091,6 +1124,7 @@
                     "tl": "Dapat bang iboto ang Namamatnugot na Mahistrado na si JAMES M. HUMES sa katungkulan para sa terminong itinakda ng batas?",
                     "zh": "是否應該依法定任期選任主審法官詹姆斯 M. 休姆斯為該官職？"
                 },
+                "approval_required": "Majority",
                 "choices": [
                     {
                         "_id": "5300",
@@ -1100,7 +1134,8 @@
                             "es": "SÍ",
                             "tl": "OO",
                             "zh": "贊成"
-                        }
+                        },
+                        "sequence": "001"
                     },
                     {
                         "_id": "5301",
@@ -1109,7 +1144,8 @@
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
-                        }
+                        },
+                        "sequence": "002"
                     }
                 ],
                 "contest_candidate": "JAMES M. HUMES",
@@ -1133,6 +1169,7 @@
                     "tl": "Dapat bang iboto ang Kasamang Mahistrado na si SANDRA MARGULIES sa katungkulan para sa terminong itinakda ng batas?",
                     "zh": "是否應該依法定任期選任大法官桑德拉 ‧ 馬古利斯為該官職？"
                 },
+                "approval_required": "Majority",
                 "choices": [
                     {
                         "_id": "5302",
@@ -1142,7 +1179,8 @@
                             "es": "SÍ",
                             "tl": "OO",
                             "zh": "贊成"
-                        }
+                        },
+                        "sequence": "001"
                     },
                     {
                         "_id": "5303",
@@ -1151,7 +1189,8 @@
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
-                        }
+                        },
+                        "sequence": "002"
                     }
                 ],
                 "contest_candidate": "SANDRA MARGULIES",
@@ -1175,6 +1214,7 @@
                     "tl": "Dapat bang iboto ang Kasamang Mahistrado na si JAMES A. RICHMAN sa katungkulan para sa terminong itinakda ng batas?",
                     "zh": "是否應該依法定任期選任大法官詹姆斯 A. 里奇曼為該官職？"
                 },
+                "approval_required": "Majority",
                 "choices": [
                     {
                         "_id": "5304",
@@ -1184,7 +1224,8 @@
                             "es": "SÍ",
                             "tl": "OO",
                             "zh": "贊成"
-                        }
+                        },
+                        "sequence": "001"
                     },
                     {
                         "_id": "5305",
@@ -1193,7 +1234,8 @@
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
-                        }
+                        },
+                        "sequence": "002"
                     }
                 ],
                 "contest_candidate": "JAMES A. RICHMAN",
@@ -1217,6 +1259,7 @@
                     "tl": "Dapat bang iboto ang Kasamang Mahistrado na si MARLA MILLER sa katungkulan para sa terminong itinakda ng batas?",
                     "zh": "是否應該依法定任期選任大法官馬拉 ‧ 米勒為該官職？"
                 },
+                "approval_required": "Majority",
                 "choices": [
                     {
                         "_id": "5306",
@@ -1226,7 +1269,8 @@
                             "es": "SÍ",
                             "tl": "OO",
                             "zh": "贊成"
-                        }
+                        },
+                        "sequence": "001"
                     },
                     {
                         "_id": "5307",
@@ -1235,7 +1279,8 @@
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
-                        }
+                        },
+                        "sequence": "002"
                     }
                 ],
                 "contest_candidate": "MARLA MILLER",
@@ -1259,6 +1304,7 @@
                     "tl": "Dapat bang iboto ang Namamatnugot na Mahistrado na si PETER JOHN SIGGINS sa katungkulan para sa terminong itinakda ng batas?",
                     "zh": "是否應該依法定任期選任主審法官彼得 ‧ 約翰 ‧ 希金斯為該官職？"
                 },
+                "approval_required": "Majority",
                 "choices": [
                     {
                         "_id": "5479",
@@ -1268,7 +1314,8 @@
                             "es": "SÍ",
                             "tl": "OO",
                             "zh": "贊成"
-                        }
+                        },
+                        "sequence": "001"
                     },
                     {
                         "_id": "5480",
@@ -1277,7 +1324,8 @@
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
-                        }
+                        },
+                        "sequence": "002"
                     }
                 ],
                 "contest_candidate": "PETER JOHN SIGGINS",
@@ -1301,6 +1349,7 @@
                     "tl": "Dapat bang iboto ang Kasamang Mahistrado na si JON B. STREETER sa katungkulan para sa terminong itinakda ng batas?",
                     "zh": "是否應該依法定任期選任大法官約恩 B. 斯特里特為該官職？"
                 },
+                "approval_required": "Majority",
                 "choices": [
                     {
                         "_id": "5308",
@@ -1310,7 +1359,8 @@
                             "es": "SÍ",
                             "tl": "OO",
                             "zh": "贊成"
-                        }
+                        },
+                        "sequence": "001"
                     },
                     {
                         "_id": "5309",
@@ -1319,7 +1369,8 @@
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
-                        }
+                        },
+                        "sequence": "002"
                     }
                 ],
                 "contest_candidate": "JON B. STREETER",
@@ -1343,6 +1394,7 @@
                     "tl": "Dapat bang iboto ang Kasamang Mahistrado na si ALISON M. TUCHER sa katungkulan para sa terminong itinakda ng batas?",
                     "zh": "是否應該依法定任期選任大法官艾莉森 M. 塔切爾為該官職？"
                 },
+                "approval_required": "Majority",
                 "choices": [
                     {
                         "_id": "5481",
@@ -1352,7 +1404,8 @@
                             "es": "SÍ",
                             "tl": "OO",
                             "zh": "贊成"
-                        }
+                        },
+                        "sequence": "001"
                     },
                     {
                         "_id": "5482",
@@ -1361,7 +1414,8 @@
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
-                        }
+                        },
+                        "sequence": "002"
                     }
                 ],
                 "contest_candidate": "ALISON M. TUCHER",
@@ -1385,6 +1439,7 @@
                     "tl": "Dapat bang iboto ang Namamatnugot na Mahistrado na si BARBARA JONES sa katungkulan para sa terminong itinakda ng batas?",
                     "zh": "是否應該依法定任期選任主審法官芭芭拉 ‧ 瓊斯為該官職？"
                 },
+                "approval_required": "Majority",
                 "choices": [
                     {
                         "_id": "5310",
@@ -1394,7 +1449,8 @@
                             "es": "SÍ",
                             "tl": "OO",
                             "zh": "贊成"
-                        }
+                        },
+                        "sequence": "001"
                     },
                     {
                         "_id": "5311",
@@ -1403,7 +1459,8 @@
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
-                        }
+                        },
+                        "sequence": "002"
                     }
                 ],
                 "contest_candidate": "BARBARA JONES",
@@ -1436,6 +1493,7 @@
                             "en": "MARSHALL TUCK",
                             "zh": "馬歇爾 ‧ 塔克"
                         },
+                        "sequence": "001",
                         "ballot_designation": {
                             "en": "Schools Improvement Director",
                             "es": "Director de Mejoras Escolares",
@@ -1450,6 +1508,7 @@
                             "en": "TONY K. THURMOND",
                             "zh": "托尼 K. 瑟蒙德"
                         },
+                        "sequence": "002",
                         "ballot_designation": {
                             "en": "Educator / State Legislator",
                             "es": "Educador / Legislador del Estado",
@@ -1488,6 +1547,7 @@
                             "en": "MONICA CHINCHILLA",
                             "zh": "陳嘉澄"
                         },
+                        "sequence": "001",
                         "ballot_designation": {
                             "en": "Parent",
                             "es": "Madre",
@@ -1502,6 +1562,7 @@
                             "en": "ALISON COLLINS",
                             "zh": "高勵思"
                         },
+                        "sequence": "002",
                         "ballot_designation": {
                             "en": "Educator / Parent Organizer",
                             "es": "Educadora / Organizadora de Padres",
@@ -1516,6 +1577,7 @@
                             "en": "JOSEPHINE ZHAO",
                             "zh": "招霞"
                         },
+                        "sequence": "003",
                         "ballot_designation": {
                             "en": "Paraeducator / Mom",
                             "es": "Paraeducadora / Mamá",
@@ -1530,6 +1592,7 @@
                             "en": "MARTIN RAWLINGS-FEIN",
                             "zh": "馬文龍"
                         },
+                        "sequence": "004",
                         "ballot_designation": {
                             "en": "Educator / Parent",
                             "es": "Educador / Padre",
@@ -1544,6 +1607,7 @@
                             "en": "GABRIELA LÓPEZ",
                             "zh": "盧佩思"
                         },
+                        "sequence": "005",
                         "ballot_designation": {
                             "en": "Public School Teacher",
                             "es": "Maestra de Escuela Pública",
@@ -1558,6 +1622,7 @@
                             "en": "LI MIAO LOVETT",
                             "zh": "苗麗娟"
                         },
+                        "sequence": "006",
                         "ballot_designation": {
                             "en": "Academic Counselor / Mother",
                             "es": "Consejera Académica / Madre",
@@ -1572,6 +1637,7 @@
                             "en": "LEX LEIFHEIT",
                             "zh": "李智靈"
                         },
+                        "sequence": "007",
                         "ballot_designation": {
                             "en": "Parent / Public Servant",
                             "es": "Madre / Servidora Pública",
@@ -1586,6 +1652,7 @@
                             "en": "ALIDA FISHER",
                             "zh": "阿莉達 斐義莎"
                         },
+                        "sequence": "008",
                         "ballot_designation": {
                             "en": "Parent / Education Consultant",
                             "es": "Madre / Consultora de Educación",
@@ -1599,7 +1666,8 @@
                         "ballot_title": {
                             "en": "PHILLIP MARCEL HOUSE",
                             "zh": "菲利普 ‧ 馬歇爾 ‧ 豪斯"
-                        }
+                        },
+                        "sequence": "009"
                     },
                     {
                         "_id": "108",
@@ -1608,6 +1676,7 @@
                             "en": "MICHELLE PARKER",
                             "zh": "柏美思"
                         },
+                        "sequence": "010",
                         "ballot_designation": {
                             "en": "Nonprofit Grantwriter / Parent",
                             "es": "Redactora de Solicitudes de Subsidios para Organizaciones sin Fines de Lucro / Madre",
@@ -1622,6 +1691,7 @@
                             "en": "DARRON A. PADILLA",
                             "zh": "達然 A. 帕狄拉"
                         },
+                        "sequence": "011",
                         "ballot_designation": {
                             "en": "Organization Development Consultant",
                             "es": "Consultor de Desarrollo de Organizaciones",
@@ -1636,6 +1706,7 @@
                             "en": "PAUL KANGAS",
                             "zh": "保羅 ‧ 坎戈斯"
                         },
+                        "sequence": "012",
                         "ballot_designation": {
                             "en": "Doctor / Private Investigator",
                             "es": "Doctor / Investigador Privado",
@@ -1650,6 +1721,7 @@
                             "en": "CONNOR KRONE",
                             "zh": "康纳 ‧ 克朗"
                         },
+                        "sequence": "013",
                         "ballot_designation": {
                             "en": "Financial Literacy Educator",
                             "es": "Educador de Conocimientos de Finanzas",
@@ -1664,6 +1736,7 @@
                             "en": "PHIL KIM",
                             "zh": "菲爾金"
                         },
+                        "sequence": "014",
                         "ballot_designation": {
                             "en": "Public School Educator",
                             "es": "Educador de Escuela Pública",
@@ -1678,6 +1751,7 @@
                             "en": "JOHN TRASVIÑA",
                             "zh": "崔偉納"
                         },
+                        "sequence": "015",
                         "ballot_designation": {
                             "en": "Law School Dean",
                             "es": "Decano de Facultad de Derecho",
@@ -1692,6 +1766,7 @@
                             "en": "LENETTE THOMPSON",
                             "zh": "列耐特 ‧ 湯普遜"
                         },
+                        "sequence": "016",
                         "ballot_designation": {
                             "en": "Mother / Firefighter",
                             "es": "Madre / Bombera",
@@ -1706,6 +1781,7 @@
                             "en": "FAAUUGA MOLIGA",
                             "zh": "莫力加"
                         },
+                        "sequence": "017",
                         "ballot_designation": {
                             "en": "Social Worker / Parent",
                             "es": "Trabajador Social / Padre",
@@ -1720,6 +1796,7 @@
                             "en": "MIA SATYA",
                             "zh": "石美亞"
                         },
+                        "sequence": "018",
                         "ballot_designation": {
                             "en": "Case Manager / Author",
                             "es": "Administradora de Caso / Autora",
@@ -1734,6 +1811,7 @@
                             "en": "ROGER SINASOHN",
                             "zh": "羅傑 ‧ 西那森"
                         },
+                        "sequence": "019",
                         "ballot_designation": {
                             "en": "Software Developer",
                             "es": "Desarrollador de Software",
@@ -1772,6 +1850,7 @@
                             "en": "JOHN RIZZO",
                             "zh": "李梭"
                         },
+                        "sequence": "001",
                         "ballot_designation": {
                             "en": "Incumbent",
                             "es": "Titular",
@@ -1786,6 +1865,7 @@
                             "en": "BRIGITTE DAVILA",
                             "zh": "布麗姬 ‧ 達維拉"
                         },
+                        "sequence": "002",
                         "ballot_designation": {
                             "en": "President, College Board",
                             "es": "Presidenta, Consejo de Colegio Universitario",
@@ -1800,6 +1880,7 @@
                             "en": "VICTOR OLIVIERI",
                             "zh": "澳輝德"
                         },
+                        "sequence": "003",
                         "ballot_designation": {
                             "en": "Educator / Nonprofit Director",
                             "es": "Educador / Director de Organización sin Fines de Lucro",
@@ -1814,6 +1895,7 @@
                             "en": "THEA SELBY",
                             "zh": "秀蘋"
                         },
+                        "sequence": "004",
                         "ballot_designation": {
                             "en": "Incumbent",
                             "es": "Titular",
@@ -1858,6 +1940,7 @@
                             "en": "EVA I. CHAO",
                             "zh": "趙怡華"
                         },
+                        "sequence": "001",
                         "ballot_designation": {
                             "en": "Chief Financial Officer",
                             "es": "Directora Financiera",
@@ -1872,6 +1955,7 @@
                             "en": "BRIAN J. LARKIN",
                             "zh": "布萊恩 ‧ J ‧ 拉金"
                         },
+                        "sequence": "002",
                         "ballot_designation": {
                             "en": "Engineer / Transit Consultant",
                             "es": "Ingeniero / Consultor de Transporte Público",
@@ -1886,6 +1970,7 @@
                             "en": "JONATHAN LYENS",
                             "zh": "喬納森 ‧ 萊昂"
                         },
+                        "sequence": "003",
                         "ballot_designation": {
                             "en": "Budget Analyst",
                             "es": "Analista Presupuestario",
@@ -1900,6 +1985,7 @@
                             "en": "JANICE LI",
                             "zh": "李正元"
                         },
+                        "sequence": "004",
                         "ballot_designation": {
                             "en": "Director, Transportation Nonprofit",
                             "es": "Directora, Organización de Transporte sin Fines de Lucro",
@@ -1914,6 +2000,7 @@
                             "en": "MELANIE NUTTER",
                             "zh": "陸美蓮"
                         },
+                        "sequence": "005",
                         "ballot_designation": {
                             "en": "Transportation Policy Advisor",
                             "es": "Asesora de Políticas de Transporte",
@@ -1928,6 +2015,7 @@
                             "en": "WILLIAM WALKER",
                             "zh": "威廉 ‧ 沃克"
                         },
+                        "sequence": "006",
                         "ballot_designation": {
                             "en": "Driver / Student",
                             "es": "Chofer / Estudiante",
@@ -1967,6 +2055,7 @@
                             "en": "CARMEN CHU",
                             "zh": "朱嘉文"
                         },
+                        "sequence": "001",
                         "ballot_designation": {
                             "en": "City and County of San Francisco Assessor-Recorder",
                             "es": "Tasadora-Registradora de la Ciudad y Condado de San Francisco",
@@ -1981,6 +2070,7 @@
                             "en": "PAUL BELLAR",
                             "zh": "保羅 ‧ 貝拉"
                         },
+                        "sequence": "002",
                         "ballot_designation": {
                             "en": "Teacher / Property Appraiser",
                             "es": "Maestro / Tasador de Propiedades",
@@ -2020,6 +2110,7 @@
                             "en": "JEFF ADACHI",
                             "zh": "賀大器"
                         },
+                        "sequence": "001",
                         "ballot_designation": {
                             "en": "Public Defender",
                             "es": "Defensor Público",
@@ -2065,6 +2156,7 @@
                             "en": "NICK JOSEFOWITZ",
                             "zh": "喬偉寧"
                         },
+                        "sequence": "001",
                         "ballot_designation": {
                             "en": "Clean Energy Entrepreneur",
                             "es": "Emprendedor de Energía Limpia",
@@ -2079,6 +2171,7 @@
                             "en": "JOHN DENNIS",
                             "zh": "約翰 ‧ 丹尼斯"
                         },
+                        "sequence": "002",
                         "ballot_designation": {
                             "en": "Independent Businessman",
                             "es": "Empresario Independiente",
@@ -2093,6 +2186,7 @@
                             "en": "SCHUYLER HUDAK",
                             "zh": "舒依勒 ‧ 胡達克"
                         },
+                        "sequence": "003",
                         "ballot_designation": {
                             "en": "Businesswoman / Entrepreneur / CEO",
                             "es": "Empresaria / Emprendedora / Directora Ejecutiva",
@@ -2107,6 +2201,7 @@
                             "en": "CATHERINE STEFANI",
                             "zh": "司嘉怡"
                         },
+                        "sequence": "004",
                         "ballot_designation": {
                             "en": "Appointed Supervisor / Attorney",
                             "es": "Supervisora Designada / Abogada",
@@ -2152,6 +2247,7 @@
                             "en": "JESSICA HO",
                             "zh": "何鍾靈"
                         },
+                        "sequence": "001",
                         "ballot_designation": {
                             "en": "Legislative Aide",
                             "es": "Asistente Legislativa",
@@ -2166,6 +2262,7 @@
                             "en": "ADAM KIM",
                             "zh": "金賢圭"
                         },
+                        "sequence": "002",
                         "ballot_designation": {
                             "en": "Project Manager",
                             "es": "Gerente de Proyecto",
@@ -2180,6 +2277,7 @@
                             "en": "TUAN NGUYEN",
                             "zh": "阮途安"
                         },
+                        "sequence": "003",
                         "ballot_designation": {
                             "en": "Consultant",
                             "es": "Consultor",
@@ -2193,6 +2291,7 @@
                             "en": "ARTHUR TOM",
                             "zh": "譚達仁"
                         },
+                        "sequence": "004",
                         "ballot_designation": {
                             "en": "City Auditor",
                             "es": "Auditor de la Ciudad",
@@ -2207,6 +2306,7 @@
                             "en": "TREVOR MCNEIL",
                             "zh": "麥德偉"
                         },
+                        "sequence": "005",
                         "ballot_designation": {
                             "en": "Public School Teacher",
                             "es": "Maestro de Escuela Pública",
@@ -2221,6 +2321,7 @@
                             "en": "GORDON MAR",
                             "zh": "馬兆明"
                         },
+                        "sequence": "006",
                         "ballot_designation": {
                             "en": "Nonprofit Director / Parent",
                             "es": "Director de Organización sin Fines de Lucro / Padre",
@@ -2235,6 +2336,7 @@
                             "en": "MIKE MURPHY",
                             "zh": "麥可飛"
                         },
+                        "sequence": "007",
                         "ballot_designation": {
                             "en": "Educator",
                             "es": "Educador",
@@ -2249,6 +2351,7 @@
                             "en": "LOU ANN BASSAN",
                             "zh": "羅 ‧ 安 ‧ 巴山"
                         },
+                        "sequence": "008",
                         "ballot_designation": {
                             "en": "Attorney / Teacher",
                             "es": "Abogada / Maestra",
@@ -2294,6 +2397,7 @@
                             "en": "CHRISTINE JOHNSON",
                             "zh": "莊雅麗"
                         },
+                        "sequence": "001",
                         "ballot_designation": {
                             "en": "Housing Policy Educator",
                             "es": "Educadora sobre Políticas de Vivienda",
@@ -2308,6 +2412,7 @@
                             "en": "MATT HANEY",
                             "zh": "楊馳馬"
                         },
+                        "sequence": "002",
                         "ballot_designation": {
                             "en": "School Board Member / Attorney",
                             "es": "Miembro del Consejo Escolar / Abogado",
@@ -2322,6 +2427,7 @@
                             "en": "SONJA TRAUSS",
                             "zh": "杜秀雅"
                         },
+                        "sequence": "003",
                         "ballot_designation": {
                             "en": "Housing Non-Profit Director",
                             "es": "Directora de Organización de Vivienda sin Fines de Lucro",
@@ -2367,6 +2473,7 @@
                             "en": "LAWRENCE \"STARK\" DAGESSE",
                             "zh": "勞倫斯 ‧「史塔克」‧ 狄格斯"
                         },
+                        "sequence": "001",
                         "ballot_designation": {
                             "en": "Theatrical Stage Technician",
                             "es": "Técnico de Escenarios Teatrales",
@@ -2381,6 +2488,7 @@
                             "en": "RAFAEL MANDELMAN",
                             "zh": "孟達文"
                         },
+                        "sequence": "002",
                         "ballot_designation": {
                             "en": "City College Trustee / Attorney",
                             "es": "Síndico de City College / Abogado",
@@ -2426,6 +2534,7 @@
                             "en": "ASALE CHANDLER",
                             "zh": "阿薩爾 ‧ 錢德勒"
                         },
+                        "sequence": "001",
                         "ballot_designation": {
                             "en": "Mother / Grandmother",
                             "es": "Madre / Abuela",
@@ -2440,6 +2549,7 @@
                             "en": "UZURI PEASE-GREENE",
                             "zh": "余淑蓮"
                         },
+                        "sequence": "002",
                         "ballot_designation": {
                             "en": "Community Builder",
                             "es": "Promotora Comunitaria",
@@ -2454,6 +2564,7 @@
                             "en": "TONY KELLY",
                             "zh": "李凱禮"
                         },
+                        "sequence": "003",
                         "ballot_designation": {
                             "en": "Artist / Art Director",
                             "es": "Artista / Director de Arte",
@@ -2468,6 +2579,7 @@
                             "en": "SHAMANN WALTON",
                             "zh": "華頌善"
                         },
+                        "sequence": "004",
                         "ballot_designation": {
                             "en": "San Francisco Board of Education Commissioner",
                             "es": "Comisionado del Consejo de Educación de San Francisco",
@@ -2482,6 +2594,7 @@
                             "en": "THEO ELLINGTON",
                             "zh": "艾霖敦"
                         },
+                        "sequence": "005",
                         "ballot_designation": {
                             "en": "Human Rights Commissioner",
                             "es": "Comisionado de Derechos Humanos",
@@ -2496,6 +2609,7 @@
                             "en": "GLORIA BERRY",
                             "zh": "歌莉婭 ‧ 貝理"
                         },
+                        "sequence": "006",
                         "ballot_designation": {
                             "en": "Mother",
                             "es": "Madre",
@@ -2535,6 +2649,7 @@
                     "tl": "<strong>NAGPAPAHINTULOT NG MGA BONO UPANG PONDOHAN ANG TINUKOY NA MGA PROGRAMANG TULONG SA PABAHAY. BATAS NG LEHISLATURA.&nbsp;</strong>Nagpapahintulot ng $4 na bilyon na mga pangkalahatang obligasyong bono para sa mga kasalukuyang abot-kayang programang pabahay para sa mga residenteng maliit ang kita, beterano, manggagawa sa bukid, mga bahay na manupakturado at naililipat, infill, at pabahay na nagpapahalaga sa pampublikong sasakyan. Epekto sa Pananalapi: Tumaas na mga gastusin ng estado sa pagbabayad sa mga bono na may average na humigit-kumulang na $170 milyon taun-taon sa loob ng susunod na 35 taon.",
                     "zh": "<strong>授權發行債券資助指定的住房援助計畫。州議會法規。</strong>授權為低收入居民、退伍軍人、農場工人、活動和移動房屋、內填房屋和交通導向住房提供40億美元的一般義務債券，用於現有的經濟適用住房計畫。財政影響：州政府的年度債券償還開支平均增加約1.7億美元，為期35年。"
                 },
+                "approval_required": "Majority",
                 "choices": [
                     {
                         "_id": "2173",
@@ -2544,7 +2659,8 @@
                             "es": "SÍ",
                             "tl": "OO",
                             "zh": "贊成"
-                        }
+                        },
+                        "sequence": "001"
                     },
                     {
                         "_id": "2174",
@@ -2553,7 +2669,8 @@
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
-                        }
+                        },
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
@@ -2575,6 +2692,7 @@
                     "tl": "<strong>NAGPAPAHINTULOT NG MGA BONO UPANG PONDOHAN ANG KASALUKUYANG PROGRAMANG PABAHAY PARA SA MGA TAONG MAY SAKIT SA ISIP [PROGRAM FOR INDIVIDUALS WITH MENTAL ILLNESS]. BATAS NG LEHISLATURA.</strong> Sinususugan ang Batas sa mga Serbisyo sa Kalusugan ng Isip [Mental Health Services Act] upang pondohan ang Programang Walang Lugar na Tulad ng Tahanan [No Place Like Home Program], na tumutustos sa pabahay para sa mga taong may sakit sa isip. Niraratipikahan ang kasalukuyang batas na nagtatatag ng Programang Walang Lugar na Tulad ng Tahanan [No Place Like Home Program]. Epekto sa Pananalapi: Nagpapahintulot sa estado na gumamit ng hanggang $140 milyon kada taon ng mga pondo ng county sa kalusugan ng isip upang bayaran ang hanggang $2 bilyon na mga bono. Ang mga bonong ito ay magpopondo sa pabahay para sa mga may sakit sa isip na walang bahay.",
                     "zh": "<strong>批准發行債券以資助面向患有精神疾病的個人的現有住房計畫。州議會法規。</strong>修訂精神健康服務法 (Mental Health Services Act)，以旨在向患有精神疾病的個人提供住房補助的無處勝家計畫 (No Place Like Home Program) 提供資金。正式批准旨在籌建無處勝家計畫的現行法律。財政影響：允許州政府每年劃撥高達1.4億美元的郡精神健康基金來償還高達20億美元的債券。此等債券將為無家可歸且患有精神疾病的個人提供住房資助。"
                 },
+                "approval_required": "Majority",
                 "choices": [
                     {
                         "_id": "478",
@@ -2584,7 +2702,8 @@
                             "es": "SÍ",
                             "tl": "OO",
                             "zh": "贊成"
-                        }
+                        },
+                        "sequence": "001"
                     },
                     {
                         "_id": "479",
@@ -2593,7 +2712,8 @@
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
-                        }
+                        },
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
@@ -2615,6 +2735,7 @@
                     "tl": "<strong>NAGPAPAHINTULOT NG MGA BONO UPANG PONDOHAN ANG MGA PROYEKTO PARA SA SUPLAY AT KALIDAD NG TUBIG, HIMPILAN NG TUBIG, ISDA, LIGAW NA BUHAY, PAGHAHATID NG TUBIG, AT KAKAYAHAN SA PAGPAPATULOY AT PAG-IIMBAK NG TUBIG SA LUPA. INISYATIBONG BATAS.&nbsp;</strong>Nagpapahintulot ng $8.877 bilyon na mga pangkalahatang obligasyong bono ng estado para sa iba&#39;t ibang proyektong impra-istruktura. Epekto sa Pananalapi: Tumaas na mga gastusin ng estado upang bayaran ang mga bono na may average na $430 milyon kada taon sa loob ng 40 taon. Mga ipon ng lokal na pamahalaan para sa mga proyektong may kaugnayan sa tubig, na malamang na may average na dalawang daang milyong dolyar taun-taon sa loob ng susunod na ilang dekada.",
                     "zh": "<strong>批准發行債券以資助供水和水質、流域、魚類、野生動物、輸水、地下水可持續性和儲存專案。動議法規。</strong>批准88.77億美元的州一般義務債券以開展各種基礎設施項目。財政影響：州政府的年度債券償還開支平均增加約4.3億美元，為期40年。在未來數十年，地方政府在水資源相關計畫方面，可能每年節省平均數億美元。"
                 },
+                "approval_required": "Majority",
                 "choices": [
                     {
                         "_id": "480",
@@ -2624,7 +2745,8 @@
                             "es": "SÍ",
                             "tl": "OO",
                             "zh": "贊成"
-                        }
+                        },
+                        "sequence": "001"
                     },
                     {
                         "_id": "481",
@@ -2633,7 +2755,8 @@
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
-                        }
+                        },
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
@@ -2655,6 +2778,7 @@
                     "tl": "<strong>NAGPAPAHINTULOT NG MGA BONONG NAGPOPONDO NG KONSTRUKSIYON SA MGA OSPITAL NA NAGKAKALOOB NG PANGANGALAGANG PANGKALUSUGAN NG MGA BATA. INISYATIBONG BATAS.</strong> Nagpapahintulot ng $1.5 bilyon na mga bono, upang bayaran mula sa Pangkalahatang Pondo ng estado, upang pondohan ang mga gawad para sa konstruksiyon, pagpapalawak, pagbabago ng yari, at paglalagay ng kasangkapan sa mga kuwalipikadong ospital ng mga bata. Epekto sa Pananalapi: Tumaas na mga gastusin ng estado sa pagbabayad sa mga bono na may average na humigit-kumulang na $80 milyon taun-taon sa loob ng susunod na 35 taon.",
                     "zh": "<strong>向提供兒童醫療保健的醫院授予債券融資建設權限。</strong><strong>動議法規</strong><strong>。</strong>批准發行15億美元債券用於資助合資格兒童醫院的建設、擴建、改造和裝備，此等債券透過州一般基金償還。財政影響：州政府的年度債券償還開支平均增加約8,000萬美元，為期35年。"
                 },
+                "approval_required": "Majority",
                 "choices": [
                     {
                         "_id": "482",
@@ -2664,7 +2788,8 @@
                             "es": "SÍ",
                             "tl": "OO",
                             "zh": "贊成"
-                        }
+                        },
+                        "sequence": "001"
                     },
                     {
                         "_id": "483",
@@ -2673,7 +2798,8 @@
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
-                        }
+                        },
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
@@ -2695,6 +2821,7 @@
                     "tl": "<strong>BINABAGO ANG MGA INIAATAS PARA SA PARTIKULAR NA MGA MAY-ARI NG ARI-ARIAN UPANG ILIPAT ANG BATAYAN SA BUWIS NG KANILANG ARI-ARIAN PATUNGO SA PAMALIT NA ARI-ARIAN. INISYATIBONG SUSOG SA SALIGANG-BATAS AT BATAS.</strong> Tinatanggal ang partikular na mga iniaatas sa paglipat para sa mga may-ari ng bahay na higit sa 55 taong gulang, may malubhang kapansanan na may-ari ng bahay, at ari-ariang kontaminado o nasira ng kalamidad. Epekto sa Pananalapi: Mawawalan sa umpisa ang mga paaralan at gayon din ang mga lokal na pamahalaan ng higit sa $100 milyon sa taunang mga buwis sa ari-arian, tataas sa humigit-kumulang na $1 bilyon kada taon. Katulad na pagtaas sa mga gastusin ng estado upang palitan ang mga nawala sa paaralan mula sa buwis sa ari-arian.",
                     "zh": "<strong>變更對某些房產所有者轉讓其房產稅基至重置房產的要求。憲法修正案和法規動議。</strong>取消對55歲以上房主、嚴重殘障房主以及受污染或遭災害損毀房產的某些轉移要求。財政影響：學校和地方政府每年將各自損失超過1億美元的年度房產稅，每年損失增加到10億美元左右。州政府須劃撥相應資金以填補學校房產稅損失。"
                 },
+                "approval_required": "Majority",
                 "choices": [
                     {
                         "_id": "484",
@@ -2704,7 +2831,8 @@
                             "es": "SÍ",
                             "tl": "OO",
                             "zh": "贊成"
-                        }
+                        },
+                        "sequence": "001"
                     },
                     {
                         "_id": "485",
@@ -2713,7 +2841,8 @@
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
-                        }
+                        },
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
@@ -2735,6 +2864,7 @@
                     "tl": "<strong>INAALIS ANG PARTIKULAR NA PAGPOPONDO SA PAGKUKUMPUNI NG DAAN AT TRANSPORTASYON. NAG-AATAS NA ANG PARTIKULAR NA MGA BUWIS SA GATONG AT MGA SINGIL SA SASAKYAN AY APROBAHAN NG MGA MANGHAHALAL. INISYATIBONG SUSOG SA SALIGANG-BATAS.&nbsp;</strong>Pinawawalang-bisa ang mga buwis at singil ng batas sa transportasyon ng 2017 na itinalaga para sa mga pagkukumpuni ng daan at pampublikong transportasyon. Epekto sa Pananalapi: Nabawasang patuloy na mga kita na $5.1 bilyon mula sa mga buwis ng estado sa gatong at sasakyan na pangunahing magbabayad sana para sa pagpapanatili at pagkukumpuni ng haywey at daan, gayon din sa mga programang paghahatid.",
                     "zh": "<strong>取消某些道路維修和運輸資金。要求選民批准某些燃料稅和車輛費用。憲法修正案動議。</strong>廢除2017年運輸法規定的道路維修和公共交通稅費及其他費用。財政影響： 州燃料和車輛稅帶來的持續收入減少51億美元，此等收入原本主要用於支付公路和道路維護和維修費用以及運輸計畫。"
                 },
+                "approval_required": "Majority",
                 "choices": [
                     {
                         "_id": "486",
@@ -2744,7 +2874,8 @@
                             "es": "SÍ",
                             "tl": "OO",
                             "zh": "贊成"
-                        }
+                        },
+                        "sequence": "001"
                     },
                     {
                         "_id": "487",
@@ -2753,7 +2884,8 @@
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
-                        }
+                        },
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
@@ -2775,6 +2907,7 @@
                     "tl": "<strong>PINASUSUNOD SA PEDERAL NA BATAS ANG ORAS NG MAS MAHUSAY NA PAGGAMIT NG LIWANAG NG ARAW NG CALIFORNIA. NAGPAPAHINTULOT SA LEHISLATURA NA PALITAN ANG PANAHON NG ORAS NG MAS MAHUSAY NA PAGGAMIT NG LIWANAG NG ARAW. BATAS NG LEHISLATURA.</strong> Nagbibigay sa Lehislatura ng kakayahang palitan ang panahon ng oras ng mas mahusay na paggamit ng liwanag ng araw sa pamamagitan ng dalawang-ikatlong boto, kung ang mga pagbabago ay kaayon ng pederal na batas. Epekto sa Pananalapi: Ang panukalang ito ay walang tuwirang epekto sa pananalapi dahil ang mga pagbabago sa oras ng mas mahusay na paggamit ng liwanag ng araw ay magiging depende sa mga aksyon sa hinaharap ng Lehislatura at posible ng pederal na pamahalaan.",
                     "zh": "<strong>符合聯邦法律對CALIFORNIA</strong><strong>夏令時的規定。允許州議會更改夏令時持續時間。州議會法規。</strong>如果更改符合聯邦法律，並且通過三分之二的投票，則州議會可以更改夏令時。財政影響：該議案不會產生直接的財政影響，因為夏令時的更改將取決於州議會和聯邦政府可能採取的未來的舉措。"
                 },
+                "approval_required": "Majority",
                 "choices": [
                     {
                         "_id": "3522",
@@ -2784,7 +2917,8 @@
                             "es": "SÍ",
                             "tl": "OO",
                             "zh": "贊成"
-                        }
+                        },
+                        "sequence": "001"
                     },
                     {
                         "_id": "3523",
@@ -2793,7 +2927,8 @@
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
-                        }
+                        },
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
@@ -2815,6 +2950,7 @@
                     "tl": "<strong>ISINASAILALIM SA PAGKONTROL ANG MGA HALAGANG SINISINGIL NG MGA KLINIKA NG DIYALISIS NG BATO NG PANLABAS NA PASYENTE PARA SA PAGGAMOT SA PAMAMAGITAN NG DIYALISIS. INISYATIBONG BATAS.</strong> Nag-aatas ng mga pagsasauli ng ibinayad at multa kung ang mga singil ay humigit sa limitasyon. Nag-aatas ng taunang pag-uulat sa estado. Nagbabawal sa mga klinika na tumangging gamutin ang mga pasyente batay sa pinagkukunan ng pagbabayad. Epekto sa Pananalapi: Kabuuang taunang epekto sa estado at mga lokal na pamahalaan na mula sa netong positibong epekto na nasa mababang sampu-sampung milyong dolyar hanggang sa netong negatibong epekto na nasa sampu-sampung milyong dolyar.",
                     "zh": "<strong>規範腎透析診所對透析治療的門診收費。動議法規。</strong> 如果收費超過限額，則要求退款和罰款。需要向州進行年度報告。禁止診所根據付款來源而拒絕治療患者。財政影響：對州和地方政府的總體年度影響，從數千萬美元的低位淨值正面效益到數千萬美元的淨值負面效益不等。"
                 },
+                "approval_required": "Majority",
                 "choices": [
                     {
                         "_id": "5392",
@@ -2824,7 +2960,8 @@
                             "es": "SÍ",
                             "tl": "OO",
                             "zh": "贊成"
-                        }
+                        },
+                        "sequence": "001"
                     },
                     {
                         "_id": "5393",
@@ -2833,7 +2970,8 @@
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
-                        }
+                        },
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
@@ -2855,6 +2993,7 @@
                     "tl": "<strong>NAGPAPALAWAK NG AWTORIDAD NG MGA LOKAL NA PAMAHALAAN UPANG MAGSABATAS NG PAGKONTROL NG RENTA SA ARI-ARIANG PANTAHANAN. INISYATIBONG BATAS.</strong> Pinawawalang-bisa ang batas ng estado na kasalukuyang tinatakdaan ang saklaw ng mga patakaran sa pagkontrol ng renta na maaaring ipataw ng mga lungsod at ibang mga lokal na huridiksiyon sa pantahanang ari-arian. Epekto sa Pananalapi: Posibleng netong pagbawas sa pang-estado at lokal na mga kita na sampu-sampung milyong dolyar kada taon sa pangmatagalan. Depende sa mga aksyon ng mga lokal na komunidad, ang mga mawawala sa kita ay maaaring mas mababa o mas mataas nang malaki.",
                     "zh": "<strong>擴大地方政府制定住宅物業租金管制法律的權限。動議法規</strong><strong>。</strong>廢除當前旨在限制城市及其他地方管轄區域的住宅房產租金管制政策之範圍的州法律。財政影響：長遠看來，每年州和地方收入可能淨減少數千萬美元。收入損失幅度可能更小或顯著擴大，視當地社區所採取的行動而定。"
                 },
+                "approval_required": "Majority",
                 "choices": [
                     {
                         "_id": "5394",
@@ -2864,7 +3003,8 @@
                             "es": "SÍ",
                             "tl": "OO",
                             "zh": "贊成"
-                        }
+                        },
+                        "sequence": "001"
                     },
                     {
                         "_id": "5395",
@@ -2873,7 +3013,8 @@
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
-                        }
+                        },
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
@@ -2895,6 +3036,7 @@
                     "tl": "<strong>NAG-AATAS SA MGA EMPLEYADO NG PRIBADONG SEKTOR NA AMBULANSIYANG PANG-EMERHENSIYA NA MANATILING MATATAWAGAN SA MGA&nbsp;</strong><strong>ORAS NG&nbsp;</strong><strong>PAHINGA SA TRABAHO. NAG-AALIS NG PARTIKULAR NA PANANAGUTAN NG TAGAPAG-EMPLEYO. INISYATIBONG BATAS.</strong> Ang batas na nagbibigay ng karapatan sa mga orasang empleyado na magkaroon ng mga oras ng pahinga nang hindi matatawagan ay hindi paiiralin sa mga empleyado ng pribadong-sektor na ambulansiya. Epekto sa Pananalapi: Malamang na benepisyo sa pananalapi ng mga lokal na pamahalaan (sa anyo ng mas mababang mga gastusin at mas mataas na mga kita), posibleng nasa sampu-sampung milyong dolyar bawat taon.",
                     "zh": "<strong>要求私營緊急救護車僱員在工作休息期間保持待命狀態。免除僱主的某些責任。動議法規。</strong> 法律規定小時工在休息時無需待命的規定，不適用於私營救護車僱員。財政影響： 可能（以降低成本並且增加收入的形式）為地方政府帶來每年可能達到數千萬美元的財政收益。"
                 },
+                "approval_required": "Majority",
                 "choices": [
                     {
                         "_id": "5396",
@@ -2904,7 +3046,8 @@
                             "es": "SÍ",
                             "tl": "OO",
                             "zh": "贊成"
-                        }
+                        },
+                        "sequence": "001"
                     },
                     {
                         "_id": "5397",
@@ -2913,7 +3056,8 @@
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
-                        }
+                        },
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
@@ -2935,6 +3079,7 @@
                     "tl": "<strong>NAGTATATAG NG MGA BAGONG PAMANTAYAN PARA SA PAGKULONG NG MGA TINUKOY NA PAMBUKID NA HAYOP, IPINAGBABAWAL ANG PAGBEBENTA NG MGA DI-SUMUSUNOD NA PRODUKTO. INISYATIBONG BATAS.</strong> Nagtatatag ng mga pinakamababang iniaatas para sa pagkulong ng mga partikular na pambukid na hayop. Nagbabawal ng pagbebenta ng mga produktong karne at itlog mula sa mga hayop na ikinulong sa di-sumusunod na paraan. Epekto sa Pananalapi: Posibleng pagbawas sa mga kita sa buwis sa kita ng estado mula sa mga negosyong pambukid, malamang na hindi hihigit sa ilang milyong dolyar taun-taon. Mga gastusin ng estado na hanggang $10 milyon taun-taon upang ipatupad ng panukala.",
                     "zh": "<strong>制定指定農場動物圈養限制條件之新標準；禁止銷售圈養條件不合規的動物製品。動議法規。</strong>明確某些農場動物的最低圈養要求。禁止銷售圈養模式不合規的動物的肉和蛋製品。財政影響：州獲得的農場業所得稅收入可能減少，每年損失可能不超過數百萬美元。州每年為實施此措施支出高達1000萬美元。"
                 },
+                "approval_required": "Majority",
                 "choices": [
                     {
                         "_id": "5398",
@@ -2944,7 +3089,8 @@
                             "es": "SÍ",
                             "tl": "OO",
                             "zh": "贊成"
-                        }
+                        },
+                        "sequence": "001"
                     },
                     {
                         "_id": "5399",
@@ -2953,7 +3099,8 @@
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
-                        }
+                        },
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
@@ -2975,6 +3122,7 @@
                     "tl": "EARTHQUAKE SAFETY BOND PARA SA SEAWALL NG SAN FRANCISCO, 2018. Upang maprotektahan ang aplaya, BART at Muni, mga gusali, makasaysayang daungan at kalye mula sa lindol, pagbaha, at pagtaas ng dagat sa pamamagitan ng: pagkukumpuni sa Seawall ng Embarcadero, na 100 taong gulang na; pagpapalakas sa Embarcadero; at pagpapatibay sa mga imprastrukturang pantransportasyon at pampublikong serbisyo sa koryente, gas at tubig na naglilingkod sa mga residente at negosyo, dapat bang maglabas ang lungsod ng $425,000,000 halaga ng mga bond (utang ng gobyerno), na tatagal nang hanggang sa 30 taon mula sa panahon ng paglalabas, may halaga ng buwis na $0.013/$100 ng natasang halaga ng ari-arian, at tinatayang taunang kita na hanggang $40,000,000, kung saan may pangangasiwa ng mga mamamayan at regular na pag-o-audit? Kasalukuyang polisiya ng Lungsod sa pamamahala ng utang ang pagpapanatiling mas mababa ang halaga ng buwis mula sa mga bond na general obligation (utang ng estado o lokal na gobyerno) kaysa sa halaga nito noong 2006, sa pamamagitan ng paglalabas ng mga bagong bond habang paparetiro na ang mas matatandang bond, at tumataas ang halaga ng pag-aaring nabubuwisan, bagamat posibleng mag-iba-iba ang pangkalahatang halaga ng buwis batay sa iba pang salik o dahilan. &nbsp;",
                     "zh": "<strong>2018</strong><strong>年三藩市海堤地震安全</strong><strong>債</strong><strong>券</strong>。通過修繕具有百年歷史的濱海大道（Embarcadero）海堤，強化濱海大道海濱區，並鞏固服務居民和企業的交通基建和公共設施，來保護海濱區、灣區捷運和Muni、建築物、古蹟碼頭和道路免受地震、洪水和海平面上升的侵襲。市府是否應發行４億2500萬元的債券，從發行日起為期至多30年，預估稅率為每100元物業估值0.013元，估計年度收入至多4000萬元，並受到公民監督及定期審計？市政府目前的債務管理政策是透過在舊公債清償時且稅基增長時發行新債券，以將用於償還市府一般義務債券的物業稅保持低於2006年稅率，雖然整體物業稅稅率可能因應其他因素而有不同。"
                 },
+                "approval_required": "2/3",
                 "choices": [
                     {
                         "_id": "3559",
@@ -2984,7 +3132,8 @@
                             "es": "SÍ",
                             "tl": "OO",
                             "zh": "贊成"
-                        }
+                        },
+                        "sequence": "001"
                     },
                     {
                         "_id": "3560",
@@ -2993,7 +3142,8 @@
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
-                        }
+                        },
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
@@ -3015,6 +3165,7 @@
                     "tl": "Dapat bang amyendahan ng Lungsod ang Tsarter upang magsama ng guidelines o panuntunang gabay para sa pagiging pribado ng impormasyon, at itakda sa City Administrator (Administrador ng Lungsod) na magpanukala ng ordinansa sa pagiging pribado ng impormasyon na naaayon sa mga gabay, sa Board of Supervisors (Lupon ng mga Superbisor)? &nbsp;",
                     "zh": "市府是否應修改市憲章，來包含隱私權準則並要求市府行政官向市參議會提出一項與這些準則一致的隱私權法令？"
                 },
+                "approval_required": "Majority",
                 "choices": [
                     {
                         "_id": "3561",
@@ -3024,7 +3175,8 @@
                             "es": "SÍ",
                             "tl": "OO",
                             "zh": "贊成"
-                        }
+                        },
+                        "sequence": "001"
                     },
                     {
                         "_id": "3562",
@@ -3033,7 +3185,8 @@
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
-                        }
+                        },
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
@@ -3055,6 +3208,7 @@
                     "tl": "Dapat bang magpataw ang Lungsod ng karagdagang buwis sa negosyo at lumikha ng nakatuong pondo para masuportahan ang mga serbisyo sa homeless na tao at pigilan ang kawalan ng tahanan, kasama na ang isang buwis na 0.175% hanggang 0.69% sa gross receipts (buwis sa kabuuang kita) na mahigit $50 milyong nakukuha ng negosyo sa San Francisco, at isa pang buwis na 1.5% sa ilang gastos sa payroll (pasahod) ng mga administratibong opisina sa San Francisco, at sa gayon, makokolekta ng tinatayang $250-300 milyon sa pinagsamang kita sa buwis taon-taon, at kung saan, walang petsa ng pagtatapos para sa mga buwis na ito?",
                     "zh": "市府是否應徵收額外營業稅，以成立一項專用基金來支持無家可歸者服務以及預防無家可歸，這些額外營業稅包括一項對企業在三藩市獲得超過5000萬元總收入徵收0.175%至0.69%的稅，以及另一項對某些行政辦公室在三藩市的薪資支出徵收1.5%的稅，兩項稅估計可帶來年度合計稅收2億5000萬至3億元，同時這些稅項並不設期限？"
                 },
+                "approval_required": "Majority",
                 "choices": [
                     {
                         "_id": "3604",
@@ -3064,7 +3218,8 @@
                             "es": "SÍ",
                             "tl": "OO",
                             "zh": "贊成"
-                        }
+                        },
+                        "sequence": "001"
                     },
                     {
                         "_id": "3605",
@@ -3073,7 +3228,8 @@
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
-                        }
+                        },
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
@@ -3095,6 +3251,7 @@
                     "tl": "Dapat bang magpataw ang Lungsod ng mga bagong buwis sa negosyo ng cannabis simula sa 2021, na may mga porsiyentong mula 1% hanggang 5% sa gross receipts sa negosyo ng cannabis sa San Francisco, kung saan puwedeng babaan ang mga porsiyentong ito ng Board of Supervisors, o taasan nang hanggang sa 7%; at dapat bang patawan ng Lungsod ang marami sa mga buwis sa negosyo nito sa negosyong mahigit sa $500,000 ang gross receipts sa San Francisco pero walang pisikal na presensiya rito; at sa gayon, makakokolekta ng tinatayang $2-4 milyon taon-taon sa pinagsamang mga kita sa buwis sa 2019 at 2020, at tinatayang $7-16 milyon taon-taon simula sa 2021, at kung saan walang petsa ng pagtatapos para sa mga bagong ipinapataw at ipinatutupad na buwis na ito?",
                     "zh": "市府是否應從2021年開始徵收新的大麻營業稅，對三藩市的大麻業界以總收入1%至5%的稅率徵稅，市參議會可降低這些稅率，也可將其提高至7%；同時市府是否應將多項營業稅加諸於在三藩市總收入超過50萬元，但並非以實體店舖方式在本地經營的商戶；這些舉措預估將在2019及2020年每年帶來200萬至400萬元合計稅收，自2021年開始預估帶來700萬至1600萬元年稅收，而且這些新徵收與加諸的稅並不設期限？"
                 },
+                "approval_required": "Majority",
                 "choices": [
                     {
                         "_id": "3606",
@@ -3104,7 +3261,8 @@
                             "es": "SÍ",
                             "tl": "OO",
                             "zh": "贊成"
-                        }
+                        },
+                        "sequence": "001"
                     },
                     {
                         "_id": "3607",
@@ -3113,7 +3271,8 @@
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
-                        }
+                        },
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
@@ -3135,6 +3294,7 @@
                     "tl": "Dapat bang mamahagi taon-taon ang Lungsod ng hanggang sa 1.5% ng kasalukuyang batayang buwis sa mga hotel para sa espesipikong paggamit sa sining at kultura, nang hindi tinataasan ang kasalukuyang buwis sa mga hotel?",
                     "zh": "市府是否應在不提高現有酒店稅的情況下，每年分配至多1.5%現行基本酒店稅用於特定藝術與文化用途？"
                 },
+                "approval_required": "Majority",
                 "choices": [
                     {
                         "_id": "3608",
@@ -3144,7 +3304,8 @@
                             "es": "SÍ",
                             "tl": "OO",
                             "zh": "贊成"
-                        }
+                        },
+                        "sequence": "001"
                     },
                     {
                         "_id": "3609",
@@ -3153,7 +3314,8 @@
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
-                        }
+                        },
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
