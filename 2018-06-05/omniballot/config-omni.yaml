@@ -11,3 +11,23 @@ bt_digits: 2
 # Patterns to match retention candidate names in retention contest question text
 retention_pats:
     - Justice {candidate_name} be elected
+
+#approval_required:
+#    '2/3':
+
+runoff:
+    2018-11-06:
+        top_2:
+            - GOVERNOR
+            - SECRETARY OF STATE
+            - CONTROLLER
+            - TREASURER
+            - ATTORNEY GENERAL
+            - INSURANCE COMMISSIONER
+            - BOARD OF EQUALIZATION
+            - SENATE
+            - UNITED STATES
+            - ASSEMBLY
+            - SUPERINTENDENT OF PUBLIC INSTRUCTION
+        non_majority:
+            - JUDGE OF THE SUPERIOR COURT
