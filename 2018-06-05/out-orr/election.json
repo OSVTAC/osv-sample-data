@@ -99,6 +99,7 @@
                     "tl": "GOBERNADOR",
                     "zh": "州長"
                 },
+                "name": "Governor",
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -736,6 +737,7 @@
                     "tl": "TENYENTE GOBERNADOR",
                     "zh": "副州長"
                 },
+                "name": "Lieutenant Governor",
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -1003,6 +1005,7 @@
                     "tl": "KALIHIM NG ESTADO",
                     "zh": "州務卿"
                 },
+                "name": "Secretary of State",
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -1197,6 +1200,7 @@
                     "tl": "KONTROLER",
                     "zh": "主計長"
                 },
+                "name": "State Controller",
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -1286,6 +1290,7 @@
                     "tl": "INGAT-YAMAN",
                     "zh": "財務部長"
                 },
+                "name": "State Treasurer",
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -1417,6 +1422,7 @@
                     "tl": "PANGKALAHATANG ABUGADO",
                     "zh": "司法部長"
                 },
+                "name": "Attorney General",
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -1527,6 +1533,7 @@
                     "tl": "KOMISYONADO NG SEGURO",
                     "zh": "保險部長"
                 },
+                "name": "Insurance Commissioner",
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -1637,6 +1644,7 @@
                     "tl": "MIYEMBRO NG LUPON NG TAGASINGIL NG BUWIS, DISTRITO 2",
                     "zh": "平稅局委員，第2區"
                 },
+                "name": "Board of Equalization, District 2",
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -1747,6 +1755,7 @@
                     "tl": "SENADO NG ESTADOS UNIDOS",
                     "zh": "美國參議院"
                 },
+                "name": "U.S. Senator",
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -2469,6 +2478,7 @@
                     "tl": "DISTRITO 12",
                     "zh": "第12選區"
                 },
+                "name": "U.S. Representative, District 12",
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -2648,6 +2658,7 @@
                     "tl": "DISTRITO 13",
                     "zh": "第13選區"
                 },
+                "name": "U.S. Representative, District 13",
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -2699,6 +2710,7 @@
                     "tl": "DISTRITO 14",
                     "zh": "第14選區"
                 },
+                "name": "U.S. Representative, District 14",
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -2773,6 +2785,7 @@
                     "tl": "DISTRITO 17",
                     "zh": "第17選區"
                 },
+                "name": "State Assembly, District 17",
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -2847,6 +2860,7 @@
                     "tl": "DISTRITO 19",
                     "zh": "第19選區"
                 },
+                "name": "State Assembly, District 19",
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -2936,6 +2950,7 @@
                     "tl": "HUKOM NG KORTE SUPERYOR, KATUNGKULAN BLG. 4",
                     "zh": "高等法院法官，第4席"
                 },
+                "name": "Superior Court Judge, Seat 4",
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -2992,6 +3007,7 @@
                     "tl": "HUKOM NG KORTE SUPERYOR, KATUNGKULAN BLG. 7",
                     "zh": "高等法院法官，第7席"
                 },
+                "name": "Superior Court Judge, Seat 7",
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -3048,6 +3064,7 @@
                     "tl": "HUKOM NG KORTE SUPERYOR, KATUNGKULAN BLG. 9",
                     "zh": "高等法院法官，第9席"
                 },
+                "name": "Superior Court Judge, Seat 9",
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -3119,6 +3136,7 @@
                     "tl": "HUKOM NG KORTE SUPERYOR, KATUNGKULAN BLG. 11",
                     "zh": "高等法院法官，第11席"
                 },
+                "name": "Superior Court Judge, Seat 11",
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -3175,6 +3193,7 @@
                     "tl": "SUPERINTENDENTE NG PAMPUBLIKONG PAGTUTURO",
                     "zh": "教育部長"
                 },
+                "name": "Superintendent of Public Instruction",
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -3287,6 +3306,7 @@
                     "tl": "Iboto ang inyong una, pangalawa, at pangatlong pinili",
                     "zh": "投選您的第一、第二和第三選擇"
                 },
+                "name": "Mayor",
                 "vote_for_msg": {
                     "en": "You may rank up to three choices. To rank fewer than three candidates, leave any remaining choices blank.",
                     "es": "Puede seleccionar un máximo de tres opciones por orden de preferencia. Para seleccionar por orden de preferencia a menos de tres candidatos, deje en blanco las opciones restantes.",
@@ -3448,6 +3468,7 @@
                     "tl": "Iboto ang inyong una, pangalawa, at pangatlong pinili",
                     "zh": "投選您的第一、第二和第三選擇"
                 },
+                "name": "Board of Supervisors, District 8",
                 "vote_for_msg": {
                     "en": "You may rank up to three choices. To rank fewer than three candidates, leave any remaining choices blank.",
                     "es": "Puede seleccionar un máximo de tres opciones por orden de preferencia. Para seleccionar por orden de preferencia a menos de tres candidatos, deje en blanco las opciones restantes.",
@@ -3515,6 +3536,7 @@
                 "ballot_title": {
                     "en": "68"
                 },
+                "name": "State Proposition 68",
                 "question_text": {
                     "en": "<strong>AUTHORIZES BONDS FUNDING PARKS, NATURAL RESOURCES PROTECTION, CLIMATE ADAPTATION, WATER QUALITY AND SUPPLY, AND FLOOD PROTECTION.</strong> Authorizes $4 billion in general obligation bonds for: parks, natural resources protection, climate adaptation, water quality and supply, and flood protection. Fiscal Impact: Increased state bond repayment costs averaging $200 million annually over 40 years. Local government savings for natural resources-related projects, likely averaging several tens of millions of dollars annually over the next few decades.",
                     "es": "<strong>AUTORIZA BONOS PARA LA FINANCIACIÓN DE PARQUES, PROTECCIÓN DE RECURSOS NATURALES, ADAPTACIÓN CLIMÁTICA, SUMINISTRO Y CALIDAD DEL AGUA, Y PROTECCIÓN CONTRA INUNDACIONES.</strong> Autoriza 4 mil millones de dólares en bonos de obligación general para lo siguiente: parques, protección de recursos naturales, adaptación climática, suministro y calidad del agua, y protección contra inundaciones. Impacto fiscal: el aumento promedio del costo del pago de los bonos estatales será de 200 millones de dólares por año durante 40 años. Es probable que, en promedio, los ahorros del gobierno local para proyectos relacionados con recursos naturales sean de varias decenas de millones de dólares por año durante las próximas décadas.",
@@ -3556,6 +3578,7 @@
                 "ballot_title": {
                     "en": "69"
                 },
+                "name": "State Proposition 69",
                 "question_text": {
                     "en": "<strong>REQUIRES THAT CERTAIN NEW TRANSPORTATION REVENUES BE USED FOR TRANSPORTATION PURPOSES. LEGISLATIVE CONSTITUTIONAL AMENDMENT.</strong> Requires that certain revenues generated by a 2017 transportation funding law be used only for transportation purposes and generally prohibits Legislature from diverting funds to other purposes. Fiscal Impact: No direct effect on the amount of state and local revenues or costs but could affect how some monies are spent.",
                     "es": "<strong>EXIGE QUE CIERTOS INGRESOS PÚBLICOS NUEVOS CORRESPONDIENTES AL TRANSPORTE SE UTILICEN PARA FINES RELACIONADOS CON ESTE SECTOR. ENMIENDA CONSTITUCIONAL LEGISLATIVA.</strong> Exige que ciertos ingresos públicos generados por una ley de financiación del transporte de 2017 se utilicen solo para fines relacionados con dicho sector y, en general, prohíbe que la legislatura desvíe fondos para cumplir otros propósitos. Impacto fiscal: no hay un efecto directo en las sumas de los ingresos públicos o costos locales o estatales, pero podría afectar la forma en que se gastan ciertas cantidades de dinero.",
@@ -3597,6 +3620,7 @@
                 "ballot_title": {
                     "en": "70"
                 },
+                "name": "State Proposition 70",
                 "question_text": {
                     "en": "<strong>REQUIRES LEGISLATIVE SUPERMAJORITY VOTE APPROVING USE OF CAP-AND-TRADE RESERVE FUND. LEGISLATIVE CONSTITUTIONAL AMENDMENT.</strong> Beginning in 2024, requires that cap-and-trade revenues accumulate in a reserve fund until the Legislature, by a two-thirds majority, authorizes use of the revenues. Fiscal Impact: Beginning in 2024, potential temporary increase in state sales tax revenue, ranging from none to a few hundred million dollars annually, and possible changes in how revenue from sale of greenhouse gas emission permits is spent.",
                     "es": "<strong>REQUIERE UN VOTO LEGISLATIVO MAYORITARIO PARA APROBAR EL USO DEL FONDO DE RESERVA DEL PROGRAMA CAP-AND-TRADE. ENMIENDA CONSTITUCIONAL LEGISLATIVA.</strong> Exige que, a partir del año 2024, los ingresos públicos provenientes del programa cap-and-trade se acumulen en un fondo de reserva hasta que la legislatura, por una mayoría de dos tercios, autorice el uso de los ingresos. Impacto fiscal: a partir del año 2024, posible aumento temporal de los ingresos provenientes del impuesto estatal a las ventas, que oscilaría de cero a unos cuantos cientos de millones de dólares por año. Además, posibles cambios en la forma de invertir los ingresos provenientes de la venta de permisos de emisión de gases de efecto invernadero.",
@@ -3638,6 +3662,7 @@
                 "ballot_title": {
                     "en": "71"
                 },
+                "name": "State Proposition 71",
                 "question_text": {
                     "en": "<strong>SETS EFFECTIVE DATE FOR BALLOT MEASURES. LEGISLATIVE CONSTITUTIONAL AMENDMENT. </strong>Provides that ballot measures approved by a majority of voters shall take effect five days after the Secretary of State certifies the results of the election. Fiscal Impact: Likely little or no effect on state and local finances.",
                     "es": "<strong>ESTABLECE LA FECHA DE ENTRADA EN VIGENCIA DE LAS INICIATIVAS DE LEY INCLUIDAS EN LAS BOLETAS. ENMIENDA CONSTITUCIONAL LEGISLATIVA.</strong> Establece que las iniciativas de ley incluidas en las boletas aprobadas por la mayoría de los votantes entrarán en vigencia cinco días después de que la Secretaría de Estado certifique los resultados de la elección. Impacto fiscal: probablemente, el efecto en las finanzas locales o estatales sea menor o nulo.",
@@ -3679,6 +3704,7 @@
                 "ballot_title": {
                     "en": "72"
                 },
+                "name": "State Proposition 72",
                 "question_text": {
                     "en": "<strong>PERMITS LEGISLATURE TO EXCLUDE NEWLY CONSTRUCTED RAIN-CAPTURE SYSTEMS FROM PROPERTY-TAX REASSESSMENT REQUIREMENT. LEGISLATIVE CONSTITUTIONAL AMENDMENT. </strong>Permits Legislature to allow construction of rain-capture systems, completed on or after January 1, 2019, without requiring property-tax reassessment. Fiscal Impact: Probably minor reduction in annual property tax revenues to local governments.",
                     "es": "<strong>PERMITE QUE LA LEGISLATURA EXIMA LOS SISTEMAS DE CAPTACIÓN DE AGUAS PLUVIALES RECIÉN CONSTRUIDOS DEL REQUISITO DE RETASACIÓN DEL IMPUESTO A LA PROPIEDAD. ENMIENDA CONSTITUCIONAL LEGISLATIVA.</strong> Permite que la legislatura autorice la construcción de sistemas de captación de aguas pluviales, que se completen el 1 de enero de 2019 o después de esa fecha, sin exigir la retasación del impuesto a la propiedad. Impacto fiscal: probablemente, una reducción menor en los ingresos anuales del impuesto a la propiedad para los gobiernos locales.",
@@ -3720,6 +3746,7 @@
                 "ballot_title": {
                     "en": "3"
                 },
+                "name": "Regional Measure 3",
                 "question_text": {
                     "en": "BAY AREA TRAFFIC RELIEF PLAN. Shall voters authorize a plan to reduce auto and truck traffic, relieve crowding on BART, unclog freeway bottlenecks, and improve bus, ferry, BART and commuter rail service as specified in the plan in this voter pamphlet, with a $1 toll increase effective in 2019, a $1 increase in 2022, and a $1 increase in 2025, on all Bay Area toll bridges except the Golden Gate Bridge, with independent oversight of all funds?",
                     "es": "PLAN PARA DISMINUIR EL TRÁFICO EN EL ÁREA DE LA BAHÍA. ¿Deben autorizar los votantes un plan para disminuir el tráfico de camiones y automóviles, disminuir el congestionamiento en BART, descongestionar los embotellamientos en las autopistas y mejorar los servicios de autobuses, transbordadores, BART y ferrovías suburbanas según lo especificado en el plan en este folleto para el votante, con un aumento de $1 efectivo en 2019, un aumento de $1 en 2022 y un aumento de $1 en 2025, en todos los puentes de peaje del Área de la Bahía, excepto el Puente Golden Gate, con una supervisión independiente de todos los fondos?",
@@ -3761,6 +3788,7 @@
                 "ballot_title": {
                     "en": "A"
                 },
+                "name": "Local Measure A",
                 "question_text": {
                     "en": "Shall the City authorize the San Francisco Public Utilities Commission to issue revenue bonds to build or improve the City’s clean power facilities, with approval by two-thirds of the Board of Supervisors, and prohibit the PUC from financing construction of power plants that generate electricity from fossil fuels or nuclear power?",
                     "es": "¿Debería la Ciudad autorizar a la Comisión de Servicios Públicos (PUC por sus iniciales en inglés) de San Francisco emitir bonos de ingresos para construir o mejorar instalaciones de energía limpia de la Ciudad con la aprobación de dos tercios del Consejo de Supervisores, y prohibir a la PUC financiar la construcción de plantas de energía que generen electricidad de combustibles fósiles o de energía nuclear?",
@@ -3802,6 +3830,7 @@
                 "ballot_title": {
                     "en": "B"
                 },
+                "name": "Local Measure B",
                 "question_text": {
                     "en": "Shall the City require appointed members of boards and commissions established by the Charter to forfeit their appointed seat when they file to run for state or local elective office?",
                     "es": "¿Debería la Ciudad exigir a los miembros designados de comisiones y consejos establecidos por la Carta Constitucional a renunciar a su nombramiento designado a la hora de inscribirse para postularse a un cargo electivo local o estatal?",
@@ -3843,6 +3872,7 @@
                 "ballot_title": {
                     "en": "C"
                 },
+                "name": "Local Measure C",
                 "question_text": {
                     "en": "Shall the City impose a new gross receipts tax of 1% on revenues a business receives from leasing warehouse space in San Francisco, and 3.5% on revenues a business receives from leasing some commercial spaces in San Francisco, to fund quality early care and education for young children and for other public purposes?",
                     "es": "¿Debería la Ciudad imponer un nuevo impuesto del 1% sobre los ingresos brutos que reciba una empresa por arrendar espacios para almacenamiento en San Francisco y del 3.5% sobre los ingresos que reciba una empresa por arrendar ciertos espacios comerciales en San Francisco para financiar un cuidado infantil y una educación temprana de buena calidad para niños pequeños, y para otros fines públicos?",
@@ -3884,6 +3914,7 @@
                 "ballot_title": {
                     "en": "D"
                 },
+                "name": "Local Measure D",
                 "question_text": {
                     "en": "Shall the City impose a new gross receipts tax of 1.7% on revenues a business receives from leasing some commercial spaces in San Francisco, to fund homeless services, housing for extremely low- to middle-income households and for other public purposes?",
                     "es": "¿Debería la Ciudad imponer un nuevo impuesto del 1.7% sobre los ingresos brutos que reciba una empresa por arrendar espacios comerciales en San Francisco para financiar servicios para personas sin hogar, viviendas para hogares con ingresos de extremadamente bajos a medianos, y para otros fines públicos?",
@@ -3925,6 +3956,7 @@
                 "ballot_title": {
                     "en": "E"
                 },
+                "name": "Local Measure E",
                 "question_text": {
                     "en": "Shall the City ordinance prohibiting the sale of flavored tobacco products in San Francisco take effect?",
                     "es": "¿Debería entrar en vigencia la ordenanza de la Ciudad que prohíbe la venta de productos de tabaco de sabores en San Francisco?",
@@ -3966,6 +3998,7 @@
                 "ballot_title": {
                     "en": "F"
                 },
+                "name": "Local Measure F",
                 "question_text": {
                     "en": "Shall the City establish, fund and run a program to provide legal representation for all residential tenants in San Francisco facing eviction?",
                     "es": "¿Debería la Ciudad establecer, financiar y administrar un programa que ofrezca representación jurídica a todos los inquilinos de residencias que enfrenten desalojo en San Francisco?",
@@ -4007,6 +4040,7 @@
                 "ballot_title": {
                     "en": "G"
                 },
+                "name": "Local Measure G",
                 "question_text": {
                     "en": "Shall the City collect an annual tax of $298 per parcel for investment in education, subject to certain exemptions including those for senior citizens?",
                     "es": "¿Debería la Ciudad cobrar un impuesto anual de $298 por parcela para la inversión en educación, sujeto a ciertas exenciones, entre ellas las referidas a personas de la tercera edad?",
@@ -4048,6 +4082,7 @@
                 "ballot_title": {
                     "en": "H"
                 },
+                "name": "Local Measure H",
                 "question_text": {
                     "en": "Shall the City set a policy for when police officers can use tasers and authorize the Police Department to purchase tasers for all officers, subject to specific conditions?",
                     "es": "¿Debería la Ciudad establecer una política sobre cuándo los agentes de policía pueden usar pistolas eléctricas, y autorizar al Departamento de Policía a adquirir pistolas eléctricas para todos los agentes, sujeto a condiciones específicas?",
@@ -4089,6 +4124,7 @@
                 "ballot_title": {
                     "en": "I"
                 },
+                "name": "Local Measure I",
                 "question_text": {
                     "en": "Shall the City adopt a policy not to encourage professional sports teams from other cities to move to San Francisco and to oppose any sports team ownership group attempting to avoid payment of an outstanding public debt?",
                     "es": "¿Debería la Ciudad adoptar una política de no alentar a que los equipos deportivos profesionales de otras ciudades se muden a San Francisco y oponerse a los grupos propietarios de equipos deportivos que estén tratando de evitar el pago de una deuda pública pendiente?",
