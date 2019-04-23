@@ -15,3 +15,8 @@ retention_pats:
 approval_required:
     '2/3':
         - A
+
+contest_name_corrections:
+    en:
+        - ^{letter}$=Local Measure {letter}
+        - ^{number}$=State Proposition {number}

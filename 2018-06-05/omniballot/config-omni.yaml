@@ -31,3 +31,17 @@ runoff:
             - SUPERINTENDENT OF PUBLIC INSTRUCTION
         non_majority:
             - JUDGE OF THE SUPERIOR COURT
+
+contest_name_corrections:
+    en:
+        - ^{letter}$=Local Measure {letter}
+        - ^{number}$=State Proposition {number}
+    es:
+        - ^{letter}$=Medida {letter}
+        - ^{number}$=Proposición {number}
+    tl:
+        - ^{letter}$=Sukatin {letter}
+        - ^{number}$=Proposisyon {number}
+    zh:
+        - ^{letter}$=测量{letter}
+        - ^{number}$=命题{number}

@@ -88,7 +88,12 @@
                     "tl": "GOBERNADOR",
                     "zh": "州長"
                 },
-                "name": "Governor",
+                "name": {
+                    "en": "Governor",
+                    "es": "Gobernador",
+                    "tl": "Gobernador",
+                    "zh": "州長"
+                },
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -155,7 +160,12 @@
                     "tl": "TENYENTE GOBERNADOR",
                     "zh": "副州長"
                 },
-                "name": "Lieutenant Governor",
+                "name": {
+                    "en": "Lieutenant Governor",
+                    "es": "Vicegobernador",
+                    "tl": "Tenyente Gobernador",
+                    "zh": "副州長"
+                },
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -222,7 +232,12 @@
                     "tl": "KALIHIM NG ESTADO",
                     "zh": "州務卿"
                 },
-                "name": "Secretary of State",
+                "name": {
+                    "en": "Secretary of State",
+                    "es": "Secretario De Estado",
+                    "tl": "Kalihim Ng Estado",
+                    "zh": "州務卿"
+                },
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -289,7 +304,12 @@
                     "tl": "KONTROLER",
                     "zh": "主計長"
                 },
-                "name": "State Controller",
+                "name": {
+                    "en": "Controller",
+                    "es": "Contralor",
+                    "tl": "Kontroler",
+                    "zh": "主計長"
+                },
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -356,7 +376,12 @@
                     "tl": "INGAT-YAMAN",
                     "zh": "財政部長"
                 },
-                "name": "State Treasurer",
+                "name": {
+                    "en": "Treasurer",
+                    "es": "Tesorero",
+                    "tl": "Ingat-Yaman",
+                    "zh": "財政部長"
+                },
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -423,7 +448,12 @@
                     "tl": "PANGKALAHATANG ABUGADO",
                     "zh": "司法部長"
                 },
-                "name": "Attorney General",
+                "name": {
+                    "en": "Attorney General",
+                    "es": "Procurador General",
+                    "tl": "Pangkalahatang Abugado",
+                    "zh": "司法部長"
+                },
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -490,7 +520,12 @@
                     "tl": "KOMISYONADO NG SEGURO",
                     "zh": "保險部長"
                 },
-                "name": "Insurance Commissioner",
+                "name": {
+                    "en": "Insurance Commissioner",
+                    "es": "Comisionado De Seguros",
+                    "tl": "Komisyonado Ng Seguro",
+                    "zh": "保險部長"
+                },
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -557,7 +592,12 @@
                     "tl": "MIYEMBRO NG LUPON NG TAGASINGIL NG BUWIS, DISTRITO 2",
                     "zh": "平稅局委員，第2區"
                 },
-                "name": "Board of Equalization, District 2",
+                "name": {
+                    "en": "Board of Equalization Member, District 2",
+                    "es": "Miembro De La Directiva De Impuestos Sobre Ventas, Uso Y Otros, Distrito 2",
+                    "tl": "Miyembro Ng Lupon Ng Tagasingil Ng Buwis, Distrito 2",
+                    "zh": "平稅局委員，第2區"
+                },
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -624,7 +664,12 @@
                     "tl": "SENADO NG ESTADOS UNIDOS",
                     "zh": "美國參議員"
                 },
-                "name": "U.S. Senator",
+                "name": {
+                    "en": "United States Senate",
+                    "es": "Senado De Estados Unidos",
+                    "tl": "Senado Ng Estados Unidos",
+                    "zh": "美國參議員"
+                },
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -691,13 +736,18 @@
                     "tl": "KINATAWAN NG ESTADOS UNIDOS",
                     "zh": "美國眾議員"
                 },
+                "name": {
+                    "en": "United States Representative District 12",
+                    "es": "Representante De Estados Unidos Distrito 12",
+                    "tl": "Kinatawan Ng Estados Unidos Distrito 12",
+                    "zh": "美國眾議員 第12選區"
+                },
                 "ballot_subtitle": {
                     "en": "DISTRICT 12",
                     "es": "DISTRITO 12",
                     "tl": "DISTRITO 12",
                     "zh": "第12選區"
                 },
-                "name": "U.S. Representative, District 12",
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -764,13 +814,18 @@
                     "tl": "KINATAWAN NG ESTADOS UNIDOS",
                     "zh": "美國眾議員"
                 },
+                "name": {
+                    "en": "United States Representative District 13",
+                    "es": "Representante De Estados Unidos Distrito 13",
+                    "tl": "Kinatawan Ng Estados Unidos Distrito 13",
+                    "zh": "美國眾議員 第13選區"
+                },
                 "ballot_subtitle": {
                     "en": "DISTRICT 13",
                     "es": "DISTRITO 13",
                     "tl": "DISTRITO 13",
                     "zh": "第13選區"
                 },
-                "name": "U.S. Representative, District 13",
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -823,13 +878,18 @@
                     "tl": "KINATAWAN NG ESTADOS UNIDOS",
                     "zh": "美國眾議員"
                 },
+                "name": {
+                    "en": "United States Representative District 14",
+                    "es": "Representante De Estados Unidos Distrito 14",
+                    "tl": "Kinatawan Ng Estados Unidos Distrito 14",
+                    "zh": "美國眾議員 第14選區"
+                },
                 "ballot_subtitle": {
                     "en": "DISTRICT 14",
                     "es": "DISTRITO 14",
                     "tl": "DISTRITO 14",
                     "zh": "第14選區"
                 },
-                "name": "U.S. Representative, District 14",
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -896,13 +956,18 @@
                     "tl": "MIYEMBRO NG ASEMBLEYA NG ESTADO",
                     "zh": "加州眾議員"
                 },
+                "name": {
+                    "en": "State Assembly Member District 17",
+                    "es": "Miembro De La Asamblea Del Estado Distrito 17",
+                    "tl": "Miyembro Ng Asembleya Ng Estado Distrito 17",
+                    "zh": "加州眾議員 第17選區"
+                },
                 "ballot_subtitle": {
                     "en": "DISTRICT 17",
                     "es": "DISTRITO 17",
                     "tl": "DISTRITO 17",
                     "zh": "第17選區"
                 },
-                "name": "State Assembly, District 17",
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -969,13 +1034,18 @@
                     "tl": "MIYEMBRO NG ASEMBLEYA NG ESTADO",
                     "zh": "加州眾議員"
                 },
+                "name": {
+                    "en": "State Assembly Member District 19",
+                    "es": "Miembro De La Asamblea Del Estado Distrito 19",
+                    "tl": "Miyembro Ng Asembleya Ng Estado Distrito 19",
+                    "zh": "加州眾議員 第19選區"
+                },
                 "ballot_subtitle": {
                     "en": "DISTRICT 19",
                     "es": "DISTRITO 19",
                     "tl": "DISTRITO 19",
                     "zh": "第19選區"
                 },
-                "name": "State Assembly, District 19",
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -1042,7 +1112,12 @@
                     "tl": "PARA SA KASAMANG MAHISTRADO NG KORTE SUPREMA",
                     "zh": "最高法院大法官"
                 },
-                "name": "Sup Ct. Assoc Justice CORRIGAN",
+                "name": {
+                    "en": "For Associate Justice of the Supreme Court, Carol A. Corrigan",
+                    "es": "Para Juez Asociada De La Corte Suprema, Carol A. Corrigan",
+                    "tl": "Para Sa Kasamang Mahistrado Ng Korte Suprema, Carol A. Corrigan",
+                    "zh": "最高法院大法官, Carol A. Corrigan"
+                },
                 "question_text": {
                     "en": "Shall Associate Justice CAROL A. CORRIGAN be elected to the office for the term provided by law?",
                     "es": "¿Debería la Juez Asociada CAROL A. CORRIGAN ser elegida al cargo durante el mandato previsto por la ley?",
@@ -1073,7 +1148,7 @@
                         "sequence": "002"
                     }
                 ],
-                "contest_candidate": "CAROL A. CORRIGAN",
+                "contest_candidate": "Carol A. Corrigan",
                 "voting_district": "0",
                 "result_style": "EMS"
             },
@@ -1088,7 +1163,12 @@
                     "tl": "PARA SA KASAMANG MAHISTRADO NG KORTE SUPREMA",
                     "zh": "最高法院大法官"
                 },
-                "name": "Sup Ct. Assoc Justice KRUGER",
+                "name": {
+                    "en": "For Associate Justice of the Supreme Court, Leondra R. Kruger",
+                    "es": "Para Juez Asociada De La Corte Suprema, Leondra R. Kruger",
+                    "tl": "Para Sa Kasamang Mahistrado Ng Korte Suprema, Leondra R. Kruger",
+                    "zh": "最高法院大法官, Leondra R. Kruger"
+                },
                 "question_text": {
                     "en": "Shall Associate Justice LEONDRA R. KRUGER be elected to the office for the term provided by law?",
                     "es": "¿Debería la Juez Asociada LEONDRA R. KRUGER ser elegida al cargo durante el mandato previsto por la ley?",
@@ -1119,7 +1199,7 @@
                         "sequence": "002"
                     }
                 ],
-                "contest_candidate": "LEONDRA R. KRUGER",
+                "contest_candidate": "Leondra R. Kruger",
                 "voting_district": "0",
                 "result_style": "EMS"
             },
@@ -1134,7 +1214,12 @@
                     "tl": "PARA SA NAMAMATNUGOT NA MAHISTRADO, KORTE NG PAG-APELA DISTRITO 1, DIBISYON 1",
                     "zh": "上訴法院主審法官 第1區，第1分區"
                 },
-                "name": "COA Div 1 Presiding Justice HUMES",
+                "name": {
+                    "en": "For Presiding Justice Court of Appeal District 1, Division 1, James M. Humes",
+                    "es": "Para Juez Presidente De La Corte De Apelación Distrito 1, División 1, James M. Humes",
+                    "tl": "Para Sa Namamatnugot Na Mahistrado, Korte Ng Pag-Apela Distrito 1, Dibisyon 1, James M. Humes",
+                    "zh": "上訴法院主審法官 第1區，第1分區, James M. Humes"
+                },
                 "question_text": {
                     "en": "Shall Presiding Justice JAMES M. HUMES be elected to the office for the term provided by law?",
                     "es": "¿Debería el Juez Presidente JAMES M. HUMES ser elegido al cargo durante el mandato previsto por la ley?",
@@ -1165,7 +1250,7 @@
                         "sequence": "002"
                     }
                 ],
-                "contest_candidate": "JAMES M. HUMES",
+                "contest_candidate": "James M. Humes",
                 "voting_district": "0",
                 "result_style": "EMS"
             },
@@ -1180,7 +1265,12 @@
                     "tl": "PARA SA KASAMANG MAHISTRADO, KORTE NG PAG-APELA DISTRITO 1, DIBISYON 1",
                     "zh": "上訴法院大法官 第1區，第1分區"
                 },
-                "name": "COA Div 1 Assoc Justice MARGULIES",
+                "name": {
+                    "en": "For Associate Justice Court of Appeal District 1, Division 1, Sandra Margulies",
+                    "es": "Para Juez Asociada De La Corte De Apelación Distrito 1, División 1, Sandra Margulies",
+                    "tl": "Para Sa Kasamang Mahistrado, Korte Ng Pag-Apela Distrito 1, Dibisyon 1, Sandra Margulies",
+                    "zh": "上訴法院大法官 第1區，第1分區, Sandra Margulies"
+                },
                 "question_text": {
                     "en": "Shall Associate Justice SANDRA MARGULIES be elected to the office for the term provided by law?",
                     "es": "¿Debería la Juez Asociada SANDRA MARGULIES ser elegida al cargo durante el mandato previsto por la ley?",
@@ -1211,7 +1301,7 @@
                         "sequence": "002"
                     }
                 ],
-                "contest_candidate": "SANDRA MARGULIES",
+                "contest_candidate": "Sandra Margulies",
                 "voting_district": "0",
                 "result_style": "EMS"
             },
@@ -1226,7 +1316,12 @@
                     "tl": "PARA SA KASAMANG MAHISTRADO, KORTE NG PAG-APELA DISTRITO 1, DIBISYON 2",
                     "zh": "上訴法院大法官 第1區，第2分區"
                 },
-                "name": "COA Div 2 Assoc Justice RICHMAN",
+                "name": {
+                    "en": "For Associate Justice Court of Appeal District 1, Division 2, James A. Richman",
+                    "es": "Para Juez Asociado De La Corte De Apelación Distrito 1, División 2, James A. Richman",
+                    "tl": "Para Sa Kasamang Mahistrado, Korte Ng Pag-Apela Distrito 1, Dibisyon 2, James A. Richman",
+                    "zh": "上訴法院大法官 第1區，第2分區, James A. Richman"
+                },
                 "question_text": {
                     "en": "Shall Associate Justice JAMES A. RICHMAN be elected to the office for the term provided by law?",
                     "es": "¿Debería el Juez Asociado JAMES A. RICHMAN ser elegido al cargo durante el mandato previsto por la ley?",
@@ -1257,7 +1352,7 @@
                         "sequence": "002"
                     }
                 ],
-                "contest_candidate": "JAMES A. RICHMAN",
+                "contest_candidate": "James A. Richman",
                 "voting_district": "0",
                 "result_style": "EMS"
             },
@@ -1272,7 +1367,12 @@
                     "tl": "PARA SA KASAMANG MAHISTRADO, KORTE NG PAG- APELA DISTRITO 1, DIBISYON 2",
                     "zh": "上訴法院大法官 第1區，第2分區"
                 },
-                "name": "COA Div 2 Assoc Justice MILLER",
+                "name": {
+                    "en": "For Associate Justice Court of Appeal District 1, Division 2, Marla Miller",
+                    "es": "Para Juez Asociada De La Corte De Apelación Distrito 1, División 2, Marla Miller",
+                    "tl": "Para Sa Kasamang Mahistrado, Korte Ng Pag- Apela Distrito 1, Dibisyon 2, Marla Miller",
+                    "zh": "上訴法院大法官 第1區，第2分區, Marla Miller"
+                },
                 "question_text": {
                     "en": "Shall Associate Justice MARLA MILLER be elected to the office for the term provided by law?",
                     "es": "<p>&iquest;Deber&iacute;a la Juez Asociada MARLA\nMILLER ser elegida al cargo durante el\nmandato previsto por la ley?</p>",
@@ -1303,7 +1403,7 @@
                         "sequence": "002"
                     }
                 ],
-                "contest_candidate": "MARLA MILLER",
+                "contest_candidate": "Marla Miller",
                 "voting_district": "0",
                 "result_style": "EMS"
             },
@@ -1318,7 +1418,12 @@
                     "tl": "PARA SA NAMAMATNUGOT NA MAHISTRADO, KORTE NG PAG-APELA DISTRITO 1, DIBISYON 3",
                     "zh": "上訴法院主審法官 第1區，第3分區"
                 },
-                "name": "COA Div 3 Presiding Justice SIGGINS",
+                "name": {
+                    "en": "For Presiding Justice Court of Appeal District 1, Division 3, Peter John Siggins",
+                    "es": "Para Juez Presidente De La Corte De Apelación Distrito 1, División 3, Peter John Siggins",
+                    "tl": "Para Sa Namamatnugot Na Mahistrado, Korte Ng Pag-Apela Distrito 1, Dibisyon 3, Peter John Siggins",
+                    "zh": "上訴法院主審法官 第1區，第3分區, Peter John Siggins"
+                },
                 "question_text": {
                     "en": "Shall Presiding Justice PETER JOHN SIGGINS be elected to the office for the term provided by law?",
                     "es": "¿Debería el Juez Presidente PETER JOHN SIGGINS ser elegido al cargo durante el mandato previsto por la ley?",
@@ -1349,7 +1454,7 @@
                         "sequence": "002"
                     }
                 ],
-                "contest_candidate": "PETER JOHN SIGGINS",
+                "contest_candidate": "Peter John Siggins",
                 "voting_district": "0",
                 "result_style": "EMS"
             },
@@ -1364,7 +1469,12 @@
                     "tl": "PARA SA KASAMANG MAHISTRADO, KORTE NG PAG-APELA DISTRITO 1, DIBISYON 4",
                     "zh": "上訴法院大法官 第1區，第4分區"
                 },
-                "name": "COA Div 4 Assoc Justice STREETER",
+                "name": {
+                    "en": "For Associate Justice Court of Appeal District 1, Division 4, Jon B. Streeter",
+                    "es": "Para Juez Asociado De La Corte De Apelación Distrito 1, División 4, Jon B. Streeter",
+                    "tl": "Para Sa Kasamang Mahistrado, Korte Ng Pag-Apela Distrito 1, Dibisyon 4, Jon B. Streeter",
+                    "zh": "上訴法院大法官 第1區，第4分區, Jon B. Streeter"
+                },
                 "question_text": {
                     "en": "Shall Associate Justice JON B. STREETER be elected to the office for the term provided by law?",
                     "es": "¿Debería el Juez Asociado JON B. STREETER ser elegido al cargo durante el mandato previsto por la ley?",
@@ -1395,7 +1505,7 @@
                         "sequence": "002"
                     }
                 ],
-                "contest_candidate": "JON B. STREETER",
+                "contest_candidate": "Jon B. Streeter",
                 "voting_district": "0",
                 "result_style": "EMS"
             },
@@ -1410,7 +1520,12 @@
                     "tl": "PARA SA KASAMANG MAHISTRADO, KORTE NG PAG-APELA DISTRITO 1, DIBISYON 4",
                     "zh": "上訴法院大法官 第1區，第4分區"
                 },
-                "name": "COA Div 4 Assoc Juctice TUCHER",
+                "name": {
+                    "en": "For Associate Justice Court of Appeal District 1, Division 4, Alison M. Tucher",
+                    "es": "Para Juez Asociada De La Corte De Apelación Distrito 1, División 4, Alison M. Tucher",
+                    "tl": "Para Sa Kasamang Mahistrado, Korte Ng Pag-Apela Distrito 1, Dibisyon 4, Alison M. Tucher",
+                    "zh": "上訴法院大法官 第1區，第4分區, Alison M. Tucher"
+                },
                 "question_text": {
                     "en": "Shall Associate Justice ALISON M. TUCHER be elected to the office for the term provided by law?",
                     "es": "¿Debería la Juez Asociada ALISON M. TUCHER ser elegida al cargo durante el mandato previsto por la ley?",
@@ -1441,7 +1556,7 @@
                         "sequence": "002"
                     }
                 ],
-                "contest_candidate": "ALISON M. TUCHER",
+                "contest_candidate": "Alison M. Tucher",
                 "voting_district": "0",
                 "result_style": "EMS"
             },
@@ -1456,7 +1571,12 @@
                     "tl": "PARA SA NAMAMATNUGOT NA MAHISTRADO, KORTE NG PAG-APELA DISTRITO 1, DIBISYON 5",
                     "zh": "上訴法院主審法官 第1區，第5分區"
                 },
-                "name": "COA Div 5 Presiding Juctice JONES",
+                "name": {
+                    "en": "For Presiding Justice Court of Appeal District 1, Division 5, Barbara Jones",
+                    "es": "Para Juez Presidenta De La Corte De Apelación Distrito 1, División 5, Barbara Jones",
+                    "tl": "Para Sa Namamatnugot Na Mahistrado, Korte Ng Pag-Apela Distrito 1, Dibisyon 5, Barbara Jones",
+                    "zh": "上訴法院主審法官 第1區，第5分區, Barbara Jones"
+                },
                 "question_text": {
                     "en": "Shall Presiding Justice BARBARA JONES be elected to the office for the term provided by law?",
                     "es": "¿Debería la Juez Presidenta BARBARA JONES ser elegida al cargo durante el mandato previsto por la ley?",
@@ -1487,7 +1607,7 @@
                         "sequence": "002"
                     }
                 ],
-                "contest_candidate": "BARBARA JONES",
+                "contest_candidate": "Barbara Jones",
                 "voting_district": "0",
                 "result_style": "EMS"
             },
@@ -1502,7 +1622,12 @@
                     "tl": "SUPERINTENDENTE NG PAMPUBLIKONG PAGTUTURO",
                     "zh": "教育部長"
                 },
-                "name": "Superintendent of Public Instruction",
+                "name": {
+                    "en": "Superintendent of Public Instruction",
+                    "es": "Superintendente De Instrucción Pública",
+                    "tl": "Superintendente Ng Pampublikong Pagtuturo",
+                    "zh": "教育部長"
+                },
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -1557,7 +1682,12 @@
                     "tl": "MIYEMBRO, LUPON NG EDUKASYON",
                     "zh": "教育委員會成員"
                 },
-                "name": "Member, Board of Education",
+                "name": {
+                    "en": "Member, Board of Education",
+                    "es": "Miembro, Consejo De Educación",
+                    "tl": "Miyembro, Lupon Ng Edukasyon",
+                    "zh": "教育委員會成員"
+                },
                 "vote_for_msg": {
                     "en": "Vote for no more than Three",
                     "es": "Vote por no más de tres",
@@ -1861,7 +1991,12 @@
                     "tl": "MIYEMBRO, LUPON NG KOLEHIYO NG KOMUNIDAD",
                     "zh": "社區大學董事會成員"
                 },
-                "name": "Member, Community College Board",
+                "name": {
+                    "en": "Member, Community College Board",
+                    "es": "Miembro, Consejo Del Colegio Comunitario",
+                    "tl": "Miyembro, Lupon Ng Kolehiyo Ng Komunidad",
+                    "zh": "社區大學董事會成員"
+                },
                 "vote_for_msg": {
                     "en": "Vote for no more than Three",
                     "es": "Vote por no más de tres",
@@ -1946,13 +2081,18 @@
                     "tl": "DIREKTOR NG BART",
                     "zh": "灣區捷運董事"
                 },
+                "name": {
+                    "en": "Bart Director District 8",
+                    "es": "Director De Bart Distrito 8",
+                    "tl": "Direktor Ng Bart Distrito 8",
+                    "zh": "灣區捷運董事 第8選區"
+                },
                 "ballot_subtitle": {
                     "en": "DISTRICT 8",
                     "es": "DISTRITO 8",
                     "tl": "DISTRITO 8",
                     "zh": "第8選區"
                 },
-                "name": "BART Director, District 8",
                 "vote_for_msg": {
                     "en": "Vote for One",
                     "es": "Vote por uno",
@@ -2067,7 +2207,12 @@
                     "tl": "TAGATASA-TAGATALA",
                     "zh": "估值官-記錄官"
                 },
-                "name": "Assessor-Recorder",
+                "name": {
+                    "en": "Assessor-Recorder",
+                    "es": "Tasador-Registrador",
+                    "tl": "Tagatasa-Tagatala",
+                    "zh": "估值官-記錄官"
+                },
                 "vote_for_msg": {
                     "en": "You may rank up to three choices. To rank fewer than three candidates, leave any remaining choices blank.",
                     "es": "Puede seleccionar un máximo de tres opciones por orden de preferencia. Para seleccionar por orden de preferencia a menos de tres candidatos, deje en blanco las opciones restantes.",
@@ -2123,7 +2268,12 @@
                     "tl": "PAMPUBLIKONG TAGAPAGTANGGOL",
                     "zh": "公共辯護律師"
                 },
-                "name": "Public Defender",
+                "name": {
+                    "en": "Public Defender",
+                    "es": "Defensor Público",
+                    "tl": "Pampublikong Tagapagtanggol",
+                    "zh": "公共辯護律師"
+                },
                 "vote_for_msg": {
                     "en": "You may rank up to three choices. To rank fewer than three candidates, leave any remaining choices blank.",
                     "es": "Puede seleccionar un máximo de tres opciones por orden de preferencia. Para seleccionar por orden de preferencia a menos de tres candidatos, deje en blanco las opciones restantes.",
@@ -2164,13 +2314,18 @@
                     "tl": "MIYEMBRO, LUPON NG MGA SUPERBISOR",
                     "zh": "市參議員"
                 },
+                "name": {
+                    "en": "Member, Board of Supervisors District 2",
+                    "es": "Miembro, Consejo De Supervisores Distrito 2",
+                    "tl": "Miyembro, Lupon Ng Mga Superbisor Distrito 2",
+                    "zh": "市參議員 第2選區"
+                },
                 "ballot_subtitle": {
                     "en": "DISTRICT 2",
                     "es": "DISTRITO 2",
                     "tl": "DISTRITO 2",
                     "zh": "第2選區"
                 },
-                "name": "Board of Supervisors, District 2",
                 "vote_for_msg": {
                     "en": "You may rank up to three choices. To rank fewer than three candidates, leave any remaining choices blank.",
                     "es": "Puede seleccionar un máximo de tres opciones por orden de preferencia. Para seleccionar por orden de preferencia a menos de tres candidatos, deje en blanco las opciones restantes.",
@@ -2256,13 +2411,18 @@
                     "tl": "MIYEMBRO, LUPON NG MGA SUPERBISOR",
                     "zh": "市參議員"
                 },
+                "name": {
+                    "en": "Member, Board of Supervisors District 4",
+                    "es": "Miembro, Consejo De Supervisores Distrito 4",
+                    "tl": "Miyembro, Lupon Ng Mga Superbisor Distrito 4",
+                    "zh": "市參議員 第4選區"
+                },
                 "ballot_subtitle": {
                     "en": "DISTRICT 4",
                     "es": "DISTRITO 4",
                     "tl": "DISTRITO 4",
                     "zh": "第4選區"
                 },
-                "name": "Board of Supervisors, District 4",
                 "vote_for_msg": {
                     "en": "You may rank up to three choices. To rank fewer than three candidates, leave any remaining choices blank.",
                     "es": "Puede seleccionar un máximo de tres opciones por orden de preferencia. Para seleccionar por orden de preferencia a menos de tres candidatos, deje en blanco las opciones restantes.",
@@ -2407,13 +2567,18 @@
                     "tl": "MIYEMBRO, LUPON NG MGA SUPERBISOR",
                     "zh": "市參議員"
                 },
+                "name": {
+                    "en": "Member, Board of Supervisors District 6",
+                    "es": "Miembro, Consejo De Supervisores Distrito 6",
+                    "tl": "Miyembro, Lupon Ng Mga Superbisor Distrito 6",
+                    "zh": "市參議員 第6選區"
+                },
                 "ballot_subtitle": {
                     "en": "DISTRICT 6",
                     "es": "DISTRITO 6",
                     "tl": "DISTRITO 6",
                     "zh": "第6選區"
                 },
-                "name": "Board of Supervisors, District 6",
                 "vote_for_msg": {
                     "en": "You may rank up to three choices. To rank fewer than three candidates, leave any remaining choices blank.",
                     "es": "Puede seleccionar un máximo de tres opciones por orden de preferencia. Para seleccionar por orden de preferencia a menos de tres candidatos, deje en blanco las opciones restantes.",
@@ -2484,13 +2649,18 @@
                     "tl": "MIYEMBRO, LUPON NG MGA SUPERBISOR",
                     "zh": "市參議員"
                 },
+                "name": {
+                    "en": "Member, Board of Supervisors District 8",
+                    "es": "Miembro, Consejo De Supervisores Distrito 8",
+                    "tl": "Miyembro, Lupon Ng Mga Superbisor Distrito 8",
+                    "zh": "市參議員 第8選區"
+                },
                 "ballot_subtitle": {
                     "en": "DISTRICT 8",
                     "es": "DISTRITO 8",
                     "tl": "DISTRITO 8",
                     "zh": "第8選區"
                 },
-                "name": "Board of Supervisors, District 8",
                 "vote_for_msg": {
                     "en": "You may rank up to three choices. To rank fewer than three candidates, leave any remaining choices blank.",
                     "es": "Puede seleccionar un máximo de tres opciones por orden de preferencia. Para seleccionar por orden de preferencia a menos de tres candidatos, deje en blanco las opciones restantes.",
@@ -2546,13 +2716,18 @@
                     "tl": "MIYEMBRO, LUPON NG MGA SUPERBISOR",
                     "zh": "市參議員"
                 },
+                "name": {
+                    "en": "Member, Board of Supervisors District 10",
+                    "es": "Miembro, Consejo De Supervisores Distrito 10",
+                    "tl": "Miyembro, Lupon Ng Mga Superbisor Distrito 10",
+                    "zh": "市參議員 第10選區"
+                },
                 "ballot_subtitle": {
                     "en": "DISTRICT 10",
                     "es": "DISTRITO 10",
                     "tl": "DISTRITO 10",
                     "zh": "第10選區"
                 },
-                "name": "Board of Supervisors, District 10",
                 "vote_for_msg": {
                     "en": "You may rank up to three choices. To rank fewer than three candidates, leave any remaining choices blank.",
                     "es": "Puede seleccionar un máximo de tres opciones por orden de preferencia. Para seleccionar por orden de preferencia a menos de tres candidatos, deje en blanco las opciones restantes.",
@@ -2678,7 +2853,12 @@
                     "tl": "1",
                     "zh": "1"
                 },
-                "name": "State Proposition 1",
+                "name": {
+                    "en": "Proposition 1",
+                    "es": "Proposición 1",
+                    "tl": "Proposisyon 1",
+                    "zh": "命题1"
+                },
                 "question_text": {
                     "en": "<strong>AUTHORIZES BONDS TO FUND SPECIFIED HOUSING ASSISTANCE PROGRAMS. LEGISLATIVE STATUTE.&nbsp;</strong>Authorizes $4 billion in general obligation bonds for existing affordable housing programs for low-income residents, veterans, farmworkers, manufactured and mobile homes, infill, and transit-oriented housing. Fiscal Impact: Increased state costs to repay bonds averaging about $170 million annually over the next 35 years.",
                     "es": "<strong>AUTORIZA BONOS PARA FINANCIAR PROGRAMAS DE ASISTENCIA DE VIVIENDAS ESPEC&Iacute;FICOS. &nbsp;ESTATUTO LEGISLATIVO. &nbsp;</strong>Autoriza 4 mil millones de d&oacute;lares en bonos de obligaci&oacute;n general para los programas de viviendas existentes asequibles para residentes de bajos ingresos, veteranos, granjeros, casas m&oacute;viles y prefabricadas, viviendas de relleno y viviendas orientadas al tr&aacute;nsito. &nbsp;Impacto fiscal: el aumento de los costos estatales para reembolsar bonos de 170 millones de d&oacute;lares en promedio anualmente durante los pr&oacute;ximos 35 a&ntilde;os.",
@@ -2722,7 +2902,12 @@
                     "es": "",
                     "tl": ""
                 },
-                "name": "State Proposition 2",
+                "name": {
+                    "en": "Proposition 2",
+                    "es": "Proposición 2",
+                    "tl": "Proposisyon 2",
+                    "zh": "命题2"
+                },
                 "question_text": {
                     "en": "<strong>AUTHORIZES BONDS TO FUND EXISTING HOUSING PROGRAM FOR INDIVIDUALS WITH MENTAL ILLNESS. LEGISLATIVE STATUTE.&nbsp;</strong>Amends Mental Health Services Act to fund No Place Like Home Program, which finances housing for individuals with mental illness. Ratifies existing law establishing the No Place Like Home Program. Fiscal Impact: Allows the state to use up to $140 million per year of county mental health funds to repay up to $2 billion in bonds. These bonds would fund housing for those with mental illness who are homeless.",
                     "es": "<strong>AUTORIZA BONOS PARA FINANCIAR EL PROGRAMA DE VIVIENDAS EXISTENTE PARA LAS PERSONAS CON ENFERMEDADES MENTALES. ESTATUTO LEGISLATIVO.</strong> Enmienda la Ley de Servicios de Salud Mental (Mental Health Services Act) para financiar el programa &ldquo;No hay lugar como el hogar&rdquo; (No Place Like Home Program), que subvenciona viviendas para personas con enfermedades mentales. &nbsp; Ratifica la legislaci&oacute;n existente que establece el programa No hay lugar como el hogar. &nbsp;Impacto fiscal: permite que el estado destine hasta 140 millones de d&oacute;lares por a&ntilde;o de los fondos de salud mental del condado para pagar hasta 2 mil millones de d&oacute;lares en bonos. Estos bonos financiar&iacute;an viviendas para las personas sin hogar con enfermedades mentales.",
@@ -2766,7 +2951,12 @@
                     "es": "",
                     "tl": ""
                 },
-                "name": "State Proposition 3",
+                "name": {
+                    "en": "Proposition 3",
+                    "es": "Proposición 3",
+                    "tl": "Proposisyon 3",
+                    "zh": "命题3"
+                },
                 "question_text": {
                     "en": "<strong>AUTHORIZES BONDS TO FUND PROJECTS FOR WATER SUPPLY AND QUALITY, WATERSHED, FISH, WILDLIFE, WATER CONVEYANCE, AND GROUNDWATER SUSTAINABILITY AND STORAGE. INITIATIVE STATUTE.&nbsp;</strong>Authorizes $8.877 billion in state general obligation bonds for various infrastructure projects. Fiscal Impact: Increased state costs to repay bonds averaging $430 million per year over 40 years. Local government savings for water-related projects, likely averaging a couple hundred million dollars annually over the next few decades.",
                     "es": "<strong>AUTORIZA BONOS PARA FINANCIAR PROYECTOS PARA EL SUMINISTRO Y CALIDAD DEL AGUA, CUENCAS, PECES, VIDA SILVESTRE, CONDUCCI&Oacute;N DE AGUA, AS&Iacute; COMO SOSTENIBILIDAD Y ALMACENAMIENTO DE AGUAS SUBTERR&Aacute;NEAS. &nbsp;LEY POR INICIATIVA. &nbsp;</strong>Autoriza 8.877 mil millones de d&oacute;lares en bonos de obligaci&oacute;n general estatal para varios proyectos de infraestructura. &nbsp;Impacto fiscal: el aumento de los costos estatales para pagar bonos de 430 millones de d&oacute;lares en promedio por a&ntilde;o durante 40 a&ntilde;os. Es probable que, en promedio, los ahorros del gobierno local para proyectos relacionados con el agua sean de varios cientos de millones de d&oacute;lares por a&ntilde;o durante las pr&oacute;ximas d&eacute;cadas.",
@@ -2810,7 +3000,12 @@
                     "es": "",
                     "tl": ""
                 },
-                "name": "State Proposition 4",
+                "name": {
+                    "en": "Proposition 4",
+                    "es": "Proposición 4",
+                    "tl": "Proposisyon 4",
+                    "zh": "命题4"
+                },
                 "question_text": {
                     "en": "<strong>AUTHORIZES BONDS FUNDING CONSTRUCTION AT HOSPITALS PROVIDING CHILDREN&rsquo;S HEALTH CARE. INITIATIVE STATUTE.&nbsp;</strong>Authorizes $1.5 billion in bonds, to be repaid from state&rsquo;s General Fund, to fund grants for construction, expansion, renovation, and equipping of qualifying children&rsquo;s hospitals. Fiscal Impact: Increased state costs to repay bonds averaging about $80 million annually over the next 35 years.",
                     "es": "<strong>AUTORIZA BONOS PARA FINANCIAR LA CONSTRUCCI&Oacute;N EN HOSPITALES QUE PROPORCIONEN ATENCI&Oacute;N M&Eacute;DICA INFANTIL. &nbsp;LEY POR INICIATIVA.</strong> Autoriza 1.5 mil millones de d&oacute;lares en bonos, que el Fondo General estatal debe reembolsar, con el fin de financiar subvenciones para la construcci&oacute;n, la expansi&oacute;n, la renovaci&oacute;n y el equipamiento de hospitales infantiles que re&uacute;nan los requisitos. &nbsp;Impacto fiscal: el aumento de los costos estatales para reembolsar bonos de 80 millones de d&oacute;lares en promedio anualmente durante los pr&oacute;ximos 35 a&ntilde;os.",
@@ -2854,7 +3049,12 @@
                     "es": "",
                     "tl": ""
                 },
-                "name": "State Proposition 5",
+                "name": {
+                    "en": "Proposition 5",
+                    "es": "Proposición 5",
+                    "tl": "Proposisyon 5",
+                    "zh": "命题5"
+                },
                 "question_text": {
                     "en": "<strong>CHANGES REQUIREMENTS FOR CERTAIN PROPERTY OWNERS TO TRANSFER THEIR PROPERTY TAX BASE TO REPLACEMENT PROPERTY. INITIATIVE CONSTITUTIONAL AMENDMENT AND STATUTE.&nbsp;</strong>Removes certain transfer requirements for homeowners over 55, severely disabled homeowners, and contaminated or disaster-destroyed property. Fiscal Impact: Schools and local governments each would lose over $100 million in annual property taxes early on, growing to about $1 billion per year. Similar increase in state costs to backfill school property tax losses.",
                     "es": "<strong>CAMBIA LOS REQUISITOS PARA QUE CIERTOS DUE&Ntilde;OS DE PROPIEDADES TRANSFIERAN SU BASE DE IMPUESTOS SOBRE LA PROPIEDAD A PROPIEDAD DE REEMPLAZO. &nbsp;ENMIENDA CONSTITUCIONAL Y LEY POR INICIATIVA.</strong> Elimina ciertos requisitos de transferencia para propietarios de viviendas mayores de 55 a&ntilde;os de edad, propietarios gravemente incapacitados y propiedad contaminada o afectada por un desastre natural. &nbsp;Impacto fiscal: las escuelas y los gobiernos locales perder&iacute;an desde un principio m&aacute;s de 100 millones de d&oacute;lares cada uno en impuestos anuales sobre la propiedad, cantidad que aumentar&iacute;a a aproximadamente 1 mil millones de d&oacute;lares por a&ntilde;o. El aumento ser&iacute;a similar en los costos estatales para cubrir las p&eacute;rdidas de impuestos sobre la propiedad de escuelas.",
@@ -2898,7 +3098,12 @@
                     "es": "",
                     "tl": ""
                 },
-                "name": "State Proposition 6",
+                "name": {
+                    "en": "Proposition 6",
+                    "es": "Proposición 6",
+                    "tl": "Proposisyon 6",
+                    "zh": "命题6"
+                },
                 "question_text": {
                     "en": "<strong>ELIMINATES CERTAIN ROAD REPAIR AND TRANSPORTATION FUNDING. REQUIRES CERTAIN FUEL TAXES AND VEHICLE FEES BE APPROVED BY THE ELECTORATE. INITIATIVE CONSTITUTIONAL AMENDMENT.&nbsp;</strong>Repeals a 2017 transportation law&rsquo;s taxes and fees designated for road repairs and public transportation. Fiscal Impact: Reduced ongoing revenues of $5.1 billion from state fuel and vehicle taxes that mainly would have paid for highway and road maintenance and repairs, as well as transit programs.",
                     "es": "<strong>ELIMINA CIERTO FINANCIAMIENTO PARA LA REPARACI&Oacute;N DE CAMINOS Y EL TRANSPORTE. &nbsp;REQUIERE LA APROBACI&Oacute;N POR PARTE DEL ELECTORADO DE CIERTOS IMPUESTOS SOBRE EL COMBUSTIBLE Y LAS TARIFAS VEHICULARES. &nbsp;ENMIENDA CONSTITUCIONAL POR INICIATIVA. &nbsp;</strong>Revoca los impuestos y tarifas de una ley de transporte de 2017 designados para las reparaciones de caminos y el transporte p&uacute;blico. &nbsp; Impacto fiscal: ingresos continuos reducidos de 5.1 mil millones de d&oacute;lares de impuestos estatales sobre el combustible y los veh&iacute;culos que hubieran pagado principalmente el mantenimiento y las reparaciones de caminos y autopistas, as&iacute; como los programas de tr&aacute;nsito.",
@@ -2942,7 +3147,12 @@
                     "es": "",
                     "tl": ""
                 },
-                "name": "State Proposition 7",
+                "name": {
+                    "en": "Proposition 7",
+                    "es": "Proposición 7",
+                    "tl": "Proposisyon 7",
+                    "zh": "命题7"
+                },
                 "question_text": {
                     "en": "<strong>CONFORMS CALIFORNIA DAYLIGHT SAVING TIME TO FEDERAL LAW. ALLOWS LEGISLATURE TO CHANGE DAYLIGHT SAVING TIME PERIOD. LEGISLATIVE STATUTE.&nbsp;</strong>Gives Legislature ability to change daylight saving time period by two-thirds vote, if changes are consistent with federal law. Fiscal Impact: This measure has no direct fiscal effect because changes to daylight saving time would depend on future actions by the Legislature and potentially the federal government.",
                     "es": "<strong>ATIENE EL HORARIO DE VERANO DE CALIFORNIA A LA LEY FEDERAL. &nbsp;PERMITE QUE LA LEGISLATURA CAMBIE EL PER&Iacute;ODO DEL HORARIO DE VERANO. &nbsp;ESTATUTO LEGISLATIVO.</strong> Otorga el poder a la legislatura de cambiar el per&iacute;odo del horario de verano con dos tercios de los votos, si los cambios cumplen la ley federal. &nbsp;Impacto fiscal: esta iniciativa de ley no tiene impacto fiscal directo, ya que los cambios al horario de verano podr&iacute;an depender de las medidas futuras de la legislatura y potencialmente del gobierno federal.",
@@ -2986,7 +3196,12 @@
                     "es": "",
                     "tl": ""
                 },
-                "name": "State Proposition 8",
+                "name": {
+                    "en": "Proposition 8",
+                    "es": "Proposición 8",
+                    "tl": "Proposisyon 8",
+                    "zh": "命题8"
+                },
                 "question_text": {
                     "en": "<strong>REGULATES AMOUNTS OUTPATIENT KIDNEY DIALYSIS CLINICS CHARGE FOR DIALYSIS TREATMENT. INITIATIVE STATUTE.&nbsp;</strong>Requires rebates and penalties if charges exceed limit. Requires annual reporting to the state. Prohibits clinics from refusing to treat patients based on payment source. Fiscal Impact: Overall annual effect on state and local governments ranging from net positive impact in the low tens of millions of dollars to net negative impact in the tens of millions of dollars.",
                     "es": "<strong>REGULA LOS MONTOS QUE LAS CL&Iacute;NICAS DE DI&Aacute;LISIS RENAL AMBULATORIAS COBRAN POR EL TRATAMIENTO DE DI&Aacute;LISIS. &nbsp;LEY POR INICIATIVA.</strong> Requiere reembolsos y sanciones si los cargos exceden el l&iacute;mite. &nbsp;Requiere que se hagan informes anuales al estado. &nbsp;Proh&iacute;be que las cl&iacute;nicas se reh&uacute;sen a tratar pacientes debido a su fuente de pago. &nbsp;Impacto fiscal: efecto anual general en los gobiernos estatales y locales que var&iacute;a desde un impacto neto positivo en algunas decenas de millones de d&oacute;lares hasta un impacto neto negativo en las decenas de millones de d&oacute;lares.",
@@ -3030,7 +3245,12 @@
                     "es": "",
                     "tl": ""
                 },
-                "name": "State Proposition 10",
+                "name": {
+                    "en": "Proposition 10",
+                    "es": "Proposición 10",
+                    "tl": "Proposisyon 10",
+                    "zh": "命题10"
+                },
                 "question_text": {
                     "en": "<strong>EXPANDS LOCAL GOVERNMENTS&rsquo; AUTHORITY TO ENACT RENT CONTROL&nbsp;</strong><strong>ON RESIDENTIAL PROPERTY. INITIATIVE STATUTE.&nbsp;</strong>Repeals state law that currently restricts the scope of rent-control policies that cities and other local jurisdictions may impose on residential property. Fiscal Impact: Potential net reduction in state and local revenues of tens of millions of dollars per year in the long term. Depending on actions by local communities, revenue losses could be less or considerably more.",
                     "es": "<strong>AMPL&Iacute;A LA AUTORIDAD DEL GOBIERNO LOCAL PARA ESTABLECER CONTROL SOBRE LA RENTA EN PROPIEDADES RESIDENCIALES. LEY POR INICIATIVA.</strong> Deroga la ley estatal que actualmente restringe el alcance de las pol&iacute;ticas de control sobre la renta que las ciudades y otras jurisdicciones locales pudieran imponer sobre propiedades residenciales. &nbsp;Impacto fiscal: posible reducci&oacute;n neta en ingresos estatales y locales de decenas de millones de d&oacute;lares al a&ntilde;o a largo plazo. Las p&eacute;rdidas de ingresos podr&iacute;an ser menores o considerablemente mayores dependiendo de las acciones de las comunidades locales.",
@@ -3074,7 +3294,12 @@
                     "es": "",
                     "tl": ""
                 },
-                "name": "State Proposition 11",
+                "name": {
+                    "en": "Proposition 11",
+                    "es": "Proposición 13",
+                    "tl": "Proposisyon 11",
+                    "zh": "命题11"
+                },
                 "question_text": {
                     "en": "<strong>REQUIRES PRIVATE-SECTOR EMERGENCY AMBULANCE EMPLOYEES TO REMAIN ON-CALL DURING WORK BREAKS. ELIMINATES CERTAIN EMPLOYER LIABILITY. INITIATIVE STATUTE.&nbsp;</strong>Law entitling hourly employees to breaks without being on-call would not apply to private-sector ambulance employees. Fiscal Impact: Likely fiscal benefit to local governments (in the form of lower costs and higher revenues), potentially in the tens of millions of dollars each year.",
                     "es": "<strong>REQUIERE QUE LOS EMPLEADOS DE AMBULANCIAS DE EMERGENCIAS DEL SECTOR PRIVADO EST&Eacute;N DE GUARDIA DURANTE LOS RECESOS LABORALES. ELIMINA UNA CIERTA RESPONSABILIDAD DEL EMPLEADOR. LEY POR INICIATIVA.</strong> La ley que permite que los empleados que trabajan por hora tomen un receso sin estar de guardia no aplicar&iacute;a a los empleados de ambulancias del sector privado. Impacto fiscal: probable beneficio fiscal para los gobiernos locales (en forma de bajos costos e ingresos m&aacute;s altos), potencialmente de decenas de millones de d&oacute;lares cada a&ntilde;o.",
@@ -3118,7 +3343,12 @@
                     "es": "",
                     "tl": ""
                 },
-                "name": "State Proposition 12",
+                "name": {
+                    "en": "Proposition 12",
+                    "es": "Proposición 12",
+                    "tl": "Proposisyon 12",
+                    "zh": "命题12"
+                },
                 "question_text": {
                     "en": "<strong>ESTABLISHES NEW STANDARDS FOR CONFINEMENT OF SPECIFIED FARM ANIMALS; BANS SALE OF NONCOMPLYING PRODUCTS. INITIATIVE STATUTE.&nbsp;</strong>Establishes minimum requirements for confining certain farm animals. Prohibits sales of meat and egg products from animals confined in noncomplying manner. Fiscal Impact: Potential decrease in state income tax revenues from farm businesses, likely not more than several million dollars annually. State costs up to $10 million annually to enforce the measure.",
                     "es": "<strong>ESTABLECE NUEVOS EST&Aacute;NDARES PARA EL CONFINAMIENTO DE ANIMALES DE GRANJA ESPEC&Iacute;FICOS; PROH&Iacute;BE LA VENTA DE PRODUCTOS QUE NO CUMPLEN LAS NORMAS. &nbsp;LEY POR INICIATIVA.</strong> Establece requisitos m&iacute;nimos para el confinamiento de ciertos animales de granja. &nbsp;Proh&iacute;be las ventas de productos &nbsp;de carne y derivados del huevo de animales confinados sin cumplir las normas. &nbsp; Impacto fiscal: posible disminuci&oacute;n de los ingresos del impuesto sobre la renta estatal de empresas agr&iacute;colas, probablemente no m&aacute;s de varios millones de d&oacute;lares anuales. Costos estatales de hasta 10 millones de d&oacute;lares anualmente para hacer cumplir la iniciativa de ley.",
@@ -3162,7 +3392,12 @@
                     "es": "",
                     "tl": ""
                 },
-                "name": "Local Measure A",
+                "name": {
+                    "en": "Measure A",
+                    "es": "Medida A",
+                    "tl": "Sukatin A",
+                    "zh": "测量A."
+                },
                 "question_text": {
                     "en": "SAN FRANCISCO SEAWALL EARTHQUAKE SAFETY BOND, 2018. To protect the waterfront, BART and Muni, buildings, historic piers, and roads from earthquakes, flooding and rising seas by: repairing the 100 year old Embarcadero Seawall; strengthening the Embarcadero; and fortifying transit infrastructure and utilities serving residents and businesses; shall the city issue $425,000,000 in bonds, with a duration up to 30 years from the time of issuance, an estimated tax rate of $0.013/$100 of assessed property value, and estimated annual revenues of up to $40,000,000, with citizen oversight and regular audits? The City&rsquo;s current debt management policy is to keep the property tax rate from City general obligation bonds below the 2006 rate by issuing new bonds as older ones are retired and the tax base grows, though the overall property tax rate may vary based on other factors.",
                     "es": "BONO PARA LA SEGURIDAD DEL MALEC&Oacute;N DE SAN FRANCISCO EN CASO DE TERREMOTOS, 2018. Con el fin de proteger la zona de los muelles, BART y Muni, los inmuebles, los muelles hist&oacute;ricos y las calles de terremotos, inundaciones y del aumento del nivel del mar al: reparar el Malec&oacute;n del Embarcadero que tiene 100 a&ntilde;os de antig&uuml;edad; reforzar el Embarcadero; y fortalecer la infraestructura de transporte p&uacute;blico y los servicios p&uacute;blicos que prestan servicio a residentes y empresas; &iquest;deber&iacute;a la ciudad emitir $425,000,000 en bonos, con una duraci&oacute;n de hasta 30 a&ntilde;os desde la fecha de emisi&oacute;n, una tasa impositiva aproximada de $0.013/$100 del valor tasado de las propiedades e ingresos anuales calculados de hasta $40,000,000, sujetos a la supervisi&oacute;n de los ciudadanos y a auditor&iacute;as peri&oacute;dicas? La pol&iacute;tica actual de administraci&oacute;n de deuda de la Ciudad es mantener la tasa del impuesto sobre la propiedad de los bonos de obligaci&oacute;n general de la Ciudad por debajo de la tasa de 2006 de manera que se emiten bonos nuevos a medida que se retiran los anteriores y que la base impositiva aumenta, aunque la tasa general del impuesto sobre la propiedad puede variar conforme a otros factores.",
@@ -3206,7 +3441,12 @@
                     "es": "",
                     "tl": ""
                 },
-                "name": "Local Measure B",
+                "name": {
+                    "en": "Measure B",
+                    "es": "Medida B",
+                    "tl": "Sukatin B",
+                    "zh": "测量B."
+                },
                 "question_text": {
                     "en": "Shall the City amend the Charter to include privacy guidelines and require the City Administrator to propose a privacy ordinance consistent with the guidelines to the Board of Supervisors?",
                     "es": "&iquest;Deber&iacute;a la Ciudad enmendar la Carta Constitucional para incluir pautas sobre privacidad y exigir que el Administrador de la Ciudad proponga al Consejo de Supervisores una ordenanza de privacidad congruente con las pautas?",
@@ -3250,7 +3490,12 @@
                     "es": "",
                     "tl": ""
                 },
-                "name": "Local Measure C",
+                "name": {
+                    "en": "Measure C",
+                    "es": "Medida C",
+                    "tl": "Sukatin C",
+                    "zh": "测量C."
+                },
                 "question_text": {
                     "en": "Shall the City impose additional business taxes to create a dedicated fund to support services for homeless people and prevent homelessness, including one tax of 0.175% to 0.69% on gross receipts over $50 million that a business receives in San Francisco, and another tax of 1.5% on certain administrative offices&rsquo; payroll expense in San Francisco, raising an estimated $250-300 million in combined tax revenues annually, and with no expiration date for these taxes?",
                     "es": "&iquest;Deber&iacute;a la Ciudad imponer impuestos empresariales adicionales con el fin de crear un fondo destinado a apoyar a los servicios para personas sin hogar y prevenir el sinhogarismo, lo cual incluir&iacute;a un impuesto del 0.175% al 0.69% sobre los ingresos brutos mayores de $50 millones que una empresa reciba en San Francisco, y otro impuesto del 1.5% sobre el gasto de n&oacute;mina de ciertas oficinas administrativas en San Francisco, con una recaudaci&oacute;n anual calculada en $250&ndash;300 millones en ingresos combinados de impuestos, y sin fecha de vencimiento para estos impuestos?",
@@ -3294,7 +3539,12 @@
                     "es": "",
                     "tl": ""
                 },
-                "name": "Local Measure D",
+                "name": {
+                    "en": "Measure D",
+                    "es": "Medida D",
+                    "tl": "Sukatin D",
+                    "zh": "测量D."
+                },
                 "question_text": {
                     "en": "Shall the City impose new cannabis business taxes beginning in 2021, at rates ranging from 1% to 5% on gross receipts of cannabis businesses in San Francisco, where the Board of Supervisors could decrease those rates, or increase them up to 7%; and shall the City apply many of its business taxes to businesses with over $500,000 in gross receipts in San Francisco that do not have a physical presence here; raising an estimated $2-4 million annually in combined tax revenues in 2019 and 2020, and an estimated $7-16 million annually beginning in 2021, and with no expiration date on these newly imposed and applied taxes?",
                     "es": "&iquest;Deber&iacute;a la Ciudad imponer nuevos impuestos empresariales a partir de 2021, con tasas de entre 1% y 5% sobre los ingresos brutos de las empresas de cannabis en San Francisco, sujeto a que el Consejo de Supervisores pueda reducir esas tasas o aumentarlas hasta el 7%; y deber&iacute;a la Ciudad aplicar muchos de sus impuestos empresariales a empresas con ingresos brutos que superan los $500,000 en San Francisco que no tienen una presencia f&iacute;sica aqu&iacute;; con una recaudaci&oacute;n calculada en $2&ndash;4 millones anuales en ingresos combinados de impuestos en 2019 y 2020, y un c&aacute;lculo de $7&ndash;16 millones anuales a partir de 2021, y sin fecha de vencimiento para estos nuevos impuestos que se est&aacute;n imponiendo y aplicando?",
@@ -3338,7 +3588,12 @@
                     "es": "",
                     "tl": ""
                 },
-                "name": "Local Measure E",
+                "name": {
+                    "en": "Measure E",
+                    "es": "Medida E",
+                    "tl": "Sukatin E",
+                    "zh": "测量E."
+                },
                 "question_text": {
                     "en": "Shall the City annually distribute up to 1.5% of the current base hotel tax for specific arts and cultural purposes, without increasing the existing hotel tax?",
                     "es": "&iquest;Deber&iacute;a la Ciudad distribuir anualmente hasta el 1.5% del actual impuesto hotelero base para fines art&iacute;sticos y culturales espec&iacute;ficos, sin aumentar el impuesto hotelero actual?",
