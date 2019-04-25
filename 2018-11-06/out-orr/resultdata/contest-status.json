@@ -1,50 +1,5 @@
 [
     {
-        "_id": "TURNOUT",
-        "no_voter_precincts": [],
-        "precincts_reporting": "604",
-        "reporting_time": "2018-11-20 15:51:18",
-        "result_stats": [
-            {
-                "_id": "RSEli",
-                "heading": "Eligible Voters",
-                "results": [
-                    "660296",
-                    "660296",
-                    "660296"
-                ]
-            },
-            {
-                "_id": "RSReg",
-                "heading": "Registered Voters",
-                "results": [
-                    "500516",
-                    "500516",
-                    "500516"
-                ]
-            },
-            {
-                "_id": "RSCst",
-                "heading": "Ballots Cast",
-                "results": [
-                    "372461",
-                    "127556",
-                    "244905"
-                ]
-            },
-            {
-                "_id": "RSRej",
-                "heading": "Ballots Challenged",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            }
-        ],
-        "total_precincts": "604"
-    },
-    {
         "_id": "100",
         "choices": [
             {
@@ -56,7 +11,7 @@
                     "33742"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "073",
@@ -67,7 +22,7 @@
                     "204048"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             }
         ],
         "no_voter_precincts": [
@@ -151,7 +106,7 @@
                     "97863"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "075",
@@ -162,7 +117,7 @@
                     "115689"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             }
         ],
         "no_voter_precincts": [
@@ -246,7 +201,7 @@
                     "201652"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "077",
@@ -257,7 +212,7 @@
                     "30209"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -341,7 +296,7 @@
                     "29062"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "079",
@@ -352,7 +307,7 @@
                     "204480"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             }
         ],
         "no_voter_precincts": [
@@ -436,7 +391,7 @@
                     "30798"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "081",
@@ -447,7 +402,7 @@
                     "201576"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             }
         ],
         "no_voter_precincts": [
@@ -531,7 +486,7 @@
                     "32402"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "083",
@@ -542,7 +497,7 @@
                     "199524"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             }
         ],
         "no_voter_precincts": [
@@ -626,7 +581,7 @@
                     "151577"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "085",
@@ -637,7 +592,7 @@
                     "70224"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -721,7 +676,7 @@
                     "191245"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "087",
@@ -732,7 +687,7 @@
                     "33316"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -816,7 +771,7 @@
                     "149966"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "089",
@@ -827,7 +782,7 @@
                     "81208"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -911,7 +866,7 @@
                     "28339"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "091",
@@ -922,7 +877,7 @@
                     "179916"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             }
         ],
         "no_voter_precincts": [
@@ -1093,7 +1048,7 @@
                     "4605"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "094",
@@ -1104,7 +1059,7 @@
                     "21349"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             }
         ],
         "no_voter_precincts": [
@@ -1184,7 +1139,7 @@
                     "95557"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "096",
@@ -1195,7 +1150,7 @@
                     "27418"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -1279,7 +1234,7 @@
                     "82952"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "098",
@@ -1290,7 +1245,7 @@
                     "15747"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [],
@@ -1367,7 +1322,7 @@
                     "23016"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "100",
@@ -1378,7 +1333,7 @@
                     "80954"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "101",
@@ -1389,7 +1344,7 @@
                     "20158"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "102",
@@ -1400,7 +1355,7 @@
                     "8512"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "103",
@@ -1411,7 +1366,7 @@
                     "70751"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "104",
@@ -1422,7 +1377,7 @@
                     "42526"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "105",
@@ -1433,7 +1388,7 @@
                     "6127"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "106",
@@ -1444,7 +1399,7 @@
                     "25172"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "107",
@@ -1455,7 +1410,7 @@
                     "1396"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "108",
@@ -1466,7 +1421,7 @@
                     "44640"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "109",
@@ -1477,7 +1432,7 @@
                     "6829"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "110",
@@ -1488,7 +1443,7 @@
                     "9040"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "111",
@@ -1499,7 +1454,7 @@
                     "8022"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "112",
@@ -1510,7 +1465,7 @@
                     "52091"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "113",
@@ -1521,7 +1476,7 @@
                     "33228"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "114",
@@ -1532,7 +1487,7 @@
                     "18779"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "115",
@@ -1543,7 +1498,7 @@
                     "70034"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "116",
@@ -1554,7 +1509,7 @@
                     "11529"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "117",
@@ -1565,7 +1520,7 @@
                     "7646"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -1658,7 +1613,7 @@
                     "64188"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "119",
@@ -1669,7 +1624,7 @@
                     "126062"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             }
         ],
         "no_voter_precincts": [
@@ -1762,7 +1717,7 @@
                     "100965"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "121",
@@ -1773,7 +1728,7 @@
                     "124565"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "122",
@@ -1784,7 +1739,7 @@
                     "68815"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "123",
@@ -1795,7 +1750,7 @@
                     "126029"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             }
         ],
         "no_voter_precincts": [
@@ -1888,7 +1843,7 @@
                     "16789"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "125",
@@ -1899,7 +1854,7 @@
                     "10676"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "126",
@@ -1910,7 +1865,7 @@
                     "10068"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "127",
@@ -1921,7 +1876,7 @@
                     "26904"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "128",
@@ -1932,7 +1887,7 @@
                     "16189"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "129",
@@ -1943,7 +1898,7 @@
                     "2836"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -2033,7 +1988,7 @@
                     "161938"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "131",
@@ -2044,7 +1999,7 @@
                     "48276"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -2146,7 +2101,7 @@
                     "190355"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             }
         ],
         "no_voter_precincts": [
@@ -2248,7 +2203,7 @@
                     "8857"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "134",
@@ -2259,7 +2214,7 @@
                     "2065"
                 ],
                 "success": false,
-                "winning_status": "rcv_eliminated"
+                "winning_status": "E"
             },
             {
                 "_id": "135",
@@ -2270,7 +2225,7 @@
                     "2630"
                 ],
                 "success": false,
-                "winning_status": "rcv_eliminated"
+                "winning_status": "E"
             },
             {
                 "_id": "136",
@@ -2281,7 +2236,7 @@
                     "9950"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             }
         ],
         "no_voter_precincts": [],
@@ -2376,7 +2331,7 @@
                     "5315"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "138",
@@ -2387,7 +2342,7 @@
                     "372"
                 ],
                 "success": false,
-                "winning_status": "rcv_eliminated"
+                "winning_status": "E"
             },
             {
                 "_id": "139",
@@ -2398,7 +2353,7 @@
                     "534"
                 ],
                 "success": false,
-                "winning_status": "rcv_eliminated"
+                "winning_status": "E"
             },
             {
                 "_id": "140",
@@ -2409,7 +2364,7 @@
                     "1745"
                 ],
                 "success": false,
-                "winning_status": "rcv_eliminated"
+                "winning_status": "E"
             },
             {
                 "_id": "141",
@@ -2420,7 +2375,7 @@
                     "2109"
                 ],
                 "success": false,
-                "winning_status": "rcv_eliminated"
+                "winning_status": "E"
             },
             {
                 "_id": "142",
@@ -2431,7 +2386,7 @@
                     "6611"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "143",
@@ -2442,7 +2397,7 @@
                     "758"
                 ],
                 "success": false,
-                "winning_status": "rcv_eliminated"
+                "winning_status": "E"
             },
             {
                 "_id": "144",
@@ -2453,7 +2408,7 @@
                     "1547"
                 ],
                 "success": false,
-                "winning_status": "rcv_eliminated"
+                "winning_status": "E"
             }
         ],
         "no_voter_precincts": [],
@@ -2548,7 +2503,7 @@
                     "4403"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "146",
@@ -2559,7 +2514,7 @@
                     "9997"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "147",
@@ -2570,7 +2525,7 @@
                     "3119"
                 ],
                 "success": false,
-                "winning_status": "rcv_eliminated"
+                "winning_status": "E"
             }
         ],
         "no_voter_precincts": [],
@@ -2665,7 +2620,7 @@
                     "2125"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "149",
@@ -2676,7 +2631,7 @@
                     "25857"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             }
         ],
         "no_voter_precincts": [
@@ -2773,7 +2728,7 @@
                     "466"
                 ],
                 "success": false,
-                "winning_status": "rcv_eliminated"
+                "winning_status": "E"
             },
             {
                 "_id": "151",
@@ -2784,7 +2739,7 @@
                     "949"
                 ],
                 "success": false,
-                "winning_status": "rcv_eliminated"
+                "winning_status": "E"
             },
             {
                 "_id": "152",
@@ -2795,7 +2750,7 @@
                     "3869"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "153",
@@ -2806,7 +2761,7 @@
                     "6620"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "154",
@@ -2817,7 +2772,7 @@
                     "3259"
                 ],
                 "success": false,
-                "winning_status": "rcv_eliminated"
+                "winning_status": "E"
             },
             {
                 "_id": "155",
@@ -2828,7 +2783,7 @@
                     "606"
                 ],
                 "success": false,
-                "winning_status": "rcv_eliminated"
+                "winning_status": "E"
             },
             {
                 "_id": "157",
@@ -2839,7 +2794,7 @@
                     "14"
                 ],
                 "success": false,
-                "winning_status": "rcv_eliminated"
+                "winning_status": "E"
             }
         ],
         "no_voter_precincts": [
@@ -2936,7 +2891,7 @@
                     "97116"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "005",
@@ -2947,7 +2902,7 @@
                     "59515"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -3032,7 +2987,7 @@
                     "136106"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "007",
@@ -3043,7 +2998,7 @@
                     "18005"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -3128,7 +3083,7 @@
                     "127163"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "009",
@@ -3139,7 +3094,7 @@
                     "21266"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -3224,7 +3179,7 @@
                     "105966"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "011",
@@ -3235,7 +3190,7 @@
                     "43674"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -3320,7 +3275,7 @@
                     "92393"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "013",
@@ -3331,7 +3286,7 @@
                     "52648"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -3416,7 +3371,7 @@
                     "104406"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "015",
@@ -3427,7 +3382,7 @@
                     "42371"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -3512,7 +3467,7 @@
                     "123285"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "017",
@@ -3523,7 +3478,7 @@
                     "22123"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -3608,7 +3563,7 @@
                     "123668"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "019",
@@ -3619,7 +3574,7 @@
                     "20785"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -3704,7 +3659,7 @@
                     "130585"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "021",
@@ -3715,7 +3670,7 @@
                     "15896"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -3800,7 +3755,7 @@
                     "131533"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "023",
@@ -3811,7 +3766,7 @@
                     "15797"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -3896,7 +3851,7 @@
                     "169314"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "041",
@@ -3907,7 +3862,7 @@
                     "62338"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -3992,7 +3947,7 @@
                     "181257"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "043",
@@ -4003,7 +3958,7 @@
                     "50685"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -4088,7 +4043,7 @@
                     "133737"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "045",
@@ -4099,7 +4054,7 @@
                     "92770"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -4184,7 +4139,7 @@
                     "163260"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "047",
@@ -4195,7 +4150,7 @@
                     "64901"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -4280,7 +4235,7 @@
                     "57667"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "049",
@@ -4291,7 +4246,7 @@
                     "170014"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             }
         ],
         "no_voter_precincts": [
@@ -4376,7 +4331,7 @@
                     "39488"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "051",
@@ -4387,7 +4342,7 @@
                     "191547"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             }
         ],
         "no_voter_precincts": [
@@ -4472,7 +4427,7 @@
                     "154815"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "053",
@@ -4483,7 +4438,7 @@
                     "73401"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -4568,7 +4523,7 @@
                     "130939"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "055",
@@ -4579,7 +4534,7 @@
                     "100275"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -4664,7 +4619,7 @@
                     "118840"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "057",
@@ -4675,7 +4630,7 @@
                     "118007"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -4760,7 +4715,7 @@
                     "93627"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             },
             {
                 "_id": "059",
@@ -4771,7 +4726,7 @@
                     "136415"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             }
         ],
         "no_voter_precincts": [
@@ -4856,7 +4811,7 @@
                     "165738"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "061",
@@ -4867,7 +4822,7 @@
                     "66510"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -4952,7 +4907,7 @@
                     "187954"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "063",
@@ -4963,7 +4918,7 @@
                     "41332"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -5048,7 +5003,7 @@
                     "121877"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "065",
@@ -5059,7 +5014,7 @@
                     "92087"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -5144,7 +5099,7 @@
                     "136509"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "067",
@@ -5155,7 +5110,7 @@
                     "94410"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -5240,7 +5195,7 @@
                     "150907"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "069",
@@ -5251,7 +5206,7 @@
                     "76732"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
@@ -5336,7 +5291,7 @@
                     "167689"
                 ],
                 "success": true,
-                "winning_status": "winning"
+                "winning_status": "W"
             },
             {
                 "_id": "071",
@@ -5347,7 +5302,7 @@
                     "58567"
                 ],
                 "success": false,
-                "winning_status": "not_winning"
+                "winning_status": "N"
             }
         ],
         "no_voter_precincts": [
