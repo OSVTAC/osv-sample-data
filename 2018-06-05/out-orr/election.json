@@ -677,7 +677,8 @@
                         }
                     },
                     {
-                        "_id": "9901",
+                        "_id": "189",
+                        "_id_ext": "9901",
                         "ballot_title": {
                             "en": "K. PEARCE"
                         },
@@ -687,7 +688,8 @@
                         "is_writein": true
                     },
                     {
-                        "_id": "9902",
+                        "_id": "190",
+                        "_id_ext": "9902",
                         "ballot_title": {
                             "en": "VERONIKA FIMBRES"
                         },
@@ -697,7 +699,8 @@
                         "is_writein": true
                     },
                     {
-                        "_id": "9903",
+                        "_id": "191",
+                        "_id_ext": "9903",
                         "ballot_title": {
                             "en": "ARMANDO M. ARREOLA"
                         },
@@ -707,7 +710,8 @@
                         "is_writein": true
                     },
                     {
-                        "_id": "9904",
+                        "_id": "192",
+                        "_id_ext": "9904",
                         "ballot_title": {
                             "en": "ARMAN SOLTANI"
                         },
@@ -717,7 +721,8 @@
                         "is_writein": true
                     },
                     {
-                        "_id": "9905",
+                        "_id": "193",
+                        "_id_ext": "9905",
                         "ballot_title": {
                             "en": "PETER CRAWFORD VALENTINO"
                         },
@@ -990,7 +995,8 @@
                         }
                     },
                     {
-                        "_id": "9906",
+                        "_id": "194",
+                        "_id_ext": "9906",
                         "ballot_title": {
                             "en": "MARJAN S. FARIBA"
                         },
@@ -2472,7 +2478,8 @@
                         }
                     },
                     {
-                        "_id": "9907",
+                        "_id": "195",
+                        "_id_ext": "9907",
                         "ballot_title": {
                             "en": "SEELAM PRABHAKAR REDDY"
                         },
@@ -2482,7 +2489,8 @@
                         "is_writein": true
                     },
                     {
-                        "_id": "9908",
+                        "_id": "196",
+                        "_id_ext": "9908",
                         "ballot_title": {
                             "en": "MICHAEL V. ZIESING"
                         },
@@ -2492,7 +2500,8 @@
                         "is_writein": true
                     },
                     {
-                        "_id": "9909",
+                        "_id": "197",
+                        "_id_ext": "9909",
                         "ballot_title": {
                             "en": "URSULA M. SCHILLING"
                         },
@@ -3360,7 +3369,8 @@
                         }
                     },
                     {
-                        "_id": "9910",
+                        "_id": "198",
+                        "_id_ext": "9910",
                         "ballot_title": {
                             "en": "DOUGLAS I. VIGIL"
                         },
@@ -3370,7 +3380,8 @@
                         "is_writein": true
                     },
                     {
-                        "_id": "9911",
+                        "_id": "199",
+                        "_id_ext": "9911",
                         "ballot_title": {
                             "en": "THOMAS L. WILLIAMS"
                         },
@@ -3537,7 +3548,8 @@
                         }
                     },
                     {
-                        "_id": "9912",
+                        "_id": "200",
+                        "_id_ext": "9912",
                         "ballot_title": {
                             "en": "ANTOINE R. ROGERS"
                         },
@@ -3656,7 +3668,7 @@
                 "approval_required": "Majority",
                 "choices": [
                     {
-                        "_id": "2725",
+                        "_id": "022",
                         "_id_ext": "2725",
                         "ballot_title": {
                             "en": "YES",
@@ -3664,17 +3676,17 @@
                             "tl": "OO",
                             "zh": "贊成"
                         },
-                        "sequence": "010"
+                        "sequence": "001"
                     },
                     {
-                        "_id": "2726",
+                        "_id": "023",
                         "_id_ext": "2726",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
                         },
-                        "sequence": "020"
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
@@ -3703,7 +3715,7 @@
                 "approval_required": "Majority",
                 "choices": [
                     {
-                        "_id": "3761",
+                        "_id": "024",
                         "_id_ext": "3761",
                         "ballot_title": {
                             "en": "YES",
@@ -3711,17 +3723,17 @@
                             "tl": "OO",
                             "zh": "贊成"
                         },
-                        "sequence": "010"
+                        "sequence": "001"
                     },
                     {
-                        "_id": "3762",
+                        "_id": "025",
                         "_id_ext": "3762",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
                         },
-                        "sequence": "020"
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
@@ -3750,7 +3762,7 @@
                 "approval_required": "Majority",
                 "choices": [
                     {
-                        "_id": "3763",
+                        "_id": "026",
                         "_id_ext": "3763",
                         "ballot_title": {
                             "en": "YES",
@@ -3758,17 +3770,17 @@
                             "tl": "OO",
                             "zh": "贊成"
                         },
-                        "sequence": "010"
+                        "sequence": "001"
                     },
                     {
-                        "_id": "3764",
+                        "_id": "027",
                         "_id_ext": "3764",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
                         },
-                        "sequence": "020"
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
@@ -3797,7 +3809,7 @@
                 "approval_required": "Majority",
                 "choices": [
                     {
-                        "_id": "3765",
+                        "_id": "028",
                         "_id_ext": "3765",
                         "ballot_title": {
                             "en": "YES",
@@ -3805,17 +3817,17 @@
                             "tl": "OO",
                             "zh": "贊成"
                         },
-                        "sequence": "010"
+                        "sequence": "001"
                     },
                     {
-                        "_id": "3766",
+                        "_id": "029",
                         "_id_ext": "3766",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
                         },
-                        "sequence": "020"
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
@@ -3844,7 +3856,7 @@
                 "approval_required": "Majority",
                 "choices": [
                     {
-                        "_id": "3767",
+                        "_id": "030",
                         "_id_ext": "3767",
                         "ballot_title": {
                             "en": "YES",
@@ -3852,17 +3864,17 @@
                             "tl": "OO",
                             "zh": "贊成"
                         },
-                        "sequence": "010"
+                        "sequence": "001"
                     },
                     {
-                        "_id": "3768",
+                        "_id": "031",
                         "_id_ext": "3768",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
                         },
-                        "sequence": "020"
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
@@ -3891,7 +3903,7 @@
                 "approval_required": "Majority",
                 "choices": [
                     {
-                        "_id": "4971",
+                        "_id": "032",
                         "_id_ext": "4971",
                         "ballot_title": {
                             "en": "YES",
@@ -3899,17 +3911,17 @@
                             "tl": "OO",
                             "zh": "贊成"
                         },
-                        "sequence": "010"
+                        "sequence": "001"
                     },
                     {
-                        "_id": "4972",
+                        "_id": "033",
                         "_id_ext": "4972",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
                         },
-                        "sequence": "020"
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
@@ -3938,7 +3950,7 @@
                 "approval_required": "Majority",
                 "choices": [
                     {
-                        "_id": "2297",
+                        "_id": "034",
                         "_id_ext": "2297",
                         "ballot_title": {
                             "en": "YES",
@@ -3946,17 +3958,17 @@
                             "tl": "OO",
                             "zh": "贊成"
                         },
-                        "sequence": "010"
+                        "sequence": "001"
                     },
                     {
-                        "_id": "2298",
+                        "_id": "035",
                         "_id_ext": "2298",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
                         },
-                        "sequence": "020"
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
@@ -3985,7 +3997,7 @@
                 "approval_required": "Majority",
                 "choices": [
                     {
-                        "_id": "2299",
+                        "_id": "036",
                         "_id_ext": "2299",
                         "ballot_title": {
                             "en": "YES",
@@ -3993,17 +4005,17 @@
                             "tl": "OO",
                             "zh": "贊成"
                         },
-                        "sequence": "010"
+                        "sequence": "001"
                     },
                     {
-                        "_id": "2300",
+                        "_id": "037",
                         "_id_ext": "2300",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
                         },
-                        "sequence": "020"
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
@@ -4032,7 +4044,7 @@
                 "approval_required": "Majority",
                 "choices": [
                     {
-                        "_id": "2301",
+                        "_id": "038",
                         "_id_ext": "2301",
                         "ballot_title": {
                             "en": "YES",
@@ -4040,17 +4052,17 @@
                             "tl": "OO",
                             "zh": "贊成"
                         },
-                        "sequence": "010"
+                        "sequence": "001"
                     },
                     {
-                        "_id": "2302",
+                        "_id": "039",
                         "_id_ext": "2302",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
                         },
-                        "sequence": "020"
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
@@ -4079,7 +4091,7 @@
                 "approval_required": "Majority",
                 "choices": [
                     {
-                        "_id": "2303",
+                        "_id": "040",
                         "_id_ext": "2303",
                         "ballot_title": {
                             "en": "YES",
@@ -4087,17 +4099,17 @@
                             "tl": "OO",
                             "zh": "贊成"
                         },
-                        "sequence": "010"
+                        "sequence": "001"
                     },
                     {
-                        "_id": "2304",
+                        "_id": "041",
                         "_id_ext": "2304",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
                         },
-                        "sequence": "020"
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
@@ -4126,7 +4138,7 @@
                 "approval_required": "Majority",
                 "choices": [
                     {
-                        "_id": "2834",
+                        "_id": "042",
                         "_id_ext": "2834",
                         "ballot_title": {
                             "en": "YES",
@@ -4134,17 +4146,17 @@
                             "tl": "OO",
                             "zh": "贊成"
                         },
-                        "sequence": "010"
+                        "sequence": "001"
                     },
                     {
-                        "_id": "2835",
+                        "_id": "043",
                         "_id_ext": "2835",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
                         },
-                        "sequence": "020"
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
@@ -4173,7 +4185,7 @@
                 "approval_required": "Majority",
                 "choices": [
                     {
-                        "_id": "2305",
+                        "_id": "044",
                         "_id_ext": "2305",
                         "ballot_title": {
                             "en": "YES",
@@ -4181,17 +4193,17 @@
                             "tl": "OO",
                             "zh": "贊成"
                         },
-                        "sequence": "010"
+                        "sequence": "001"
                     },
                     {
-                        "_id": "2306",
+                        "_id": "045",
                         "_id_ext": "2306",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
                         },
-                        "sequence": "020"
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
@@ -4220,7 +4232,7 @@
                 "approval_required": "Majority",
                 "choices": [
                     {
-                        "_id": "3776",
+                        "_id": "046",
                         "_id_ext": "3776",
                         "ballot_title": {
                             "en": "YES",
@@ -4228,17 +4240,17 @@
                             "tl": "OO",
                             "zh": "贊成"
                         },
-                        "sequence": "010"
+                        "sequence": "001"
                     },
                     {
-                        "_id": "3777",
+                        "_id": "047",
                         "_id_ext": "3777",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
                         },
-                        "sequence": "020"
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
@@ -4267,7 +4279,7 @@
                 "approval_required": "Majority",
                 "choices": [
                     {
-                        "_id": "3778",
+                        "_id": "048",
                         "_id_ext": "3778",
                         "ballot_title": {
                             "en": "YES",
@@ -4275,17 +4287,17 @@
                             "tl": "OO",
                             "zh": "贊成"
                         },
-                        "sequence": "010"
+                        "sequence": "001"
                     },
                     {
-                        "_id": "3779",
+                        "_id": "049",
                         "_id_ext": "3779",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
                         },
-                        "sequence": "020"
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
@@ -4314,7 +4326,7 @@
                 "approval_required": "Majority",
                 "choices": [
                     {
-                        "_id": "3780",
+                        "_id": "050",
                         "_id_ext": "3780",
                         "ballot_title": {
                             "en": "YES",
@@ -4322,22 +4334,39 @@
                             "tl": "OO",
                             "zh": "贊成"
                         },
-                        "sequence": "010"
+                        "sequence": "001"
                     },
                     {
-                        "_id": "3781",
+                        "_id": "051",
                         "_id_ext": "3781",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
                         },
-                        "sequence": "020"
+                        "sequence": "002"
                     }
                 ],
                 "voting_district": "0",
                 "result_style": "EMS"
             }
+        ],
+        "turnout": {
+            "_id": "TURNOUT",
+            "_type": "turnout",
+            "ballot_title": {
+                "en": "Registration and Turnout"
+            },
+            "voting_district": "0",
+            "result_style": "EMTE"
+        },
+        "no_voter_precincts": [
+            "1151",
+            "1154",
+            "7954",
+            "9900",
+            "9901",
+            "9902"
         ]
     },
     "languages": [
@@ -8335,14 +8364,6 @@
             "reporting_group_ids": ""
         }
     ],
-    "no_voter_precincts": [
-        "1151",
-        "1154",
-        "7954",
-        "9900",
-        "9901",
-        "9902"
-    ],
     "result_stat_types": [
         {
             "_id": "RSTot",
@@ -8426,14 +8447,14 @@
         {
             "_id": "EMTE",
             "description": "Turnout, subtotal by Election Day/VBM, with Eligible",
-            "is_rcv": true,
+            "is_rcv": false,
             "result_stat_type_ids": "RSEli RSReg RSCst RSRej",
             "voting_group_ids": "TO ED MV"
         },
         {
             "_id": "EMT",
             "description": "Turnout, subtotal by Election Day/VBM",
-            "is_rcv": true,
+            "is_rcv": false,
             "result_stat_type_ids": "RSReg RSCst RSRej",
             "voting_group_ids": "TO ED MV"
         }
