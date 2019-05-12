@@ -2830,6 +2830,7 @@
                     },
                     {
                         "_id": "157",
+                        "_id_ext": "9901",
                         "ballot_title": {
                             "en": "NEO VEAVEA"
                         },
@@ -3628,6 +3629,23 @@
                 "voting_district": "0",
                 "result_style": "EMS"
             }
+        ],
+        "turnout": {
+            "_id": "TURNOUT",
+            "_type": "turnout",
+            "ballot_title": {
+                "en": "Registration and Turnout"
+            },
+            "voting_district": "0",
+            "result_style": "EMTE"
+        },
+        "no_voter_precincts": [
+            "1151",
+            "1154",
+            "7954",
+            "9900",
+            "9901",
+            "9902"
         ]
     },
     "languages": [
@@ -7625,14 +7643,6 @@
             "reporting_group_ids": ""
         }
     ],
-    "no_voter_precincts": [
-        "1151",
-        "1154",
-        "7954",
-        "9900",
-        "9901",
-        "9902"
-    ],
     "result_stat_types": [
         {
             "_id": "RSTot",
@@ -7684,6 +7694,15 @@
             "heading": "Exhausted Ballots"
         }
     ],
+    "turnout": {
+        "_id": "TURNOUT",
+        "_type": "turnout",
+        "ballot_title": {
+            "en": "Registration and Turnout"
+        },
+        "voting_district": "0",
+        "result_style": "EMTE"
+    },
     "result_styles": [
         {
             "_id": "EMS",
@@ -7716,14 +7735,14 @@
         {
             "_id": "EMTE",
             "description": "Turnout, subtotal by Election Day/VBM, with Eligible",
-            "is_rcv": true,
+            "is_rcv": false,
             "result_stat_type_ids": "RSEli RSReg RSCst RSRej",
             "voting_group_ids": "TO ED MV"
         },
         {
             "_id": "EMT",
             "description": "Turnout, subtotal by Election Day/VBM",
-            "is_rcv": true,
+            "is_rcv": false,
             "result_stat_type_ids": "RSReg RSCst RSRej",
             "voting_group_ids": "TO ED MV"
         }
