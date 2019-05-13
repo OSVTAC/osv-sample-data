@@ -1,0 +1,5 @@
+TO-DO list for convomniballot:
+
+- For RCV, writeins is number ranked.
+
+-
