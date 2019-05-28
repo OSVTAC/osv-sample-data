@@ -32,6 +32,102 @@
                 }
             },
             {
+                "_id": "007",
+                "classification": "Office Category",
+                "header_id": "",
+                "ballot_title": {
+                    "en": "VOTER-NOMINATED OFFICES",
+                    "es": "CARGOS NOMINADOS POR LOS ELECTORES",
+                    "tl": "MGA KATUNGKULANG NOMINADO NG BOTANTE",
+                    "zh": "選民提名職位"
+                }
+            },
+            {
+                "_id": "008",
+                "classification": "Office Category",
+                "header_id": "",
+                "ballot_title": {
+                    "en": "STATE",
+                    "es": "ESTADO",
+                    "tl": "ESTADO",
+                    "zh": "州"
+                }
+            },
+            {
+                "_id": "088",
+                "classification": "Office Category",
+                "header_id": "",
+                "ballot_title": {
+                    "en": "FEDERAL",
+                    "tl": "PEDERAL",
+                    "zh": "聯邦"
+                }
+            },
+            {
+                "_id": "128",
+                "classification": "Office Category",
+                "header_id": "",
+                "ballot_title": {
+                    "en": "STATE",
+                    "es": "ESTADO",
+                    "tl": "ESTADO",
+                    "zh": "州"
+                }
+            },
+            {
+                "_id": "147",
+                "classification": "Office Category",
+                "header_id": "",
+                "ballot_title": {
+                    "en": "NONPARTISAN OFFICES",
+                    "es": "CARGOS NO PARTIDARIOS",
+                    "tl": "MGA KATUNGKULANG HINDI MAKAPARTIDO",
+                    "zh": "無黨派職位"
+                }
+            },
+            {
+                "_id": "148",
+                "classification": "Office Category",
+                "header_id": "",
+                "ballot_title": {
+                    "en": "CITY AND COUNTY",
+                    "es": "CIUDAD Y CONDADO",
+                    "tl": "LUNGSOD AT COUNTY",
+                    "zh": "市縣"
+                }
+            },
+            {
+                "_id": "149",
+                "classification": "Office Category",
+                "header_id": "",
+                "ballot_title": {
+                    "en": "JUDICIAL",
+                    "tl": "PANGHUKUMAN",
+                    "zh": "司法"
+                }
+            },
+            {
+                "_id": "187",
+                "classification": "Office Category",
+                "header_id": "",
+                "ballot_title": {
+                    "en": "SCHOOL",
+                    "es": "ESCUELA",
+                    "zh": "學校"
+                }
+            },
+            {
+                "_id": "197",
+                "classification": "Office Category",
+                "header_id": "",
+                "ballot_title": {
+                    "en": "CITY AND COUNTY",
+                    "es": "CIUDAD Y CONDADO",
+                    "tl": "LUNGSOD AT COUNTY",
+                    "zh": "市縣"
+                }
+            },
+            {
                 "_id": "208",
                 "classification": "Office Category",
                 "header_id": "",
@@ -92,7 +188,7 @@
                 "_id": "100",
                 "_id_ext": "553",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "008",
                 "ballot_title": {
                     "en": "GOVERNOR",
                     "es": "GOBERNADOR",
@@ -740,7 +836,7 @@
                 "_id": "115",
                 "_id_ext": "554",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "008",
                 "ballot_title": {
                     "en": "LIEUTENANT GOVERNOR",
                     "es": "VICEGOBERNADOR",
@@ -1014,7 +1110,7 @@
                 "_id": "120",
                 "_id_ext": "557",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "008",
                 "ballot_title": {
                     "en": "SECRETARY OF STATE",
                     "es": "SECRETARIO DE ESTADO",
@@ -1214,7 +1310,7 @@
                 "_id": "125",
                 "_id_ext": "558",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "008",
                 "ballot_title": {
                     "en": "CONTROLLER",
                     "es": "CONTRALOR",
@@ -1309,7 +1405,7 @@
                 "_id": "130",
                 "_id_ext": "559",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "008",
                 "ballot_title": {
                     "en": "TREASURER",
                     "es": "TESORERO",
@@ -1446,7 +1542,7 @@
                 "_id": "135",
                 "_id_ext": "555",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "008",
                 "ballot_title": {
                     "en": "ATTORNEY GENERAL",
                     "es": "PROCURADOR GENERAL",
@@ -1562,7 +1658,7 @@
                 "_id": "140",
                 "_id_ext": "608",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "008",
                 "ballot_title": {
                     "en": "INSURANCE COMMISSIONER",
                     "es": "COMISIONADO DE SEGUROS",
@@ -1678,7 +1774,7 @@
                 "_id": "145",
                 "_id_ext": "607",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "008",
                 "ballot_title": {
                     "en": "BOARD OF EQUALIZATION MEMBER, DISTRICT 2",
                     "es": "MIEMBRO DE LA DIRECTIVA DE IMPUESTOS SOBRE VENTAS, USO Y OTROS, DISTRITO 2",
@@ -1794,7 +1890,7 @@
                 "_id": "150",
                 "_id_ext": "605",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "088",
                 "ballot_title": {
                     "en": "UNITED STATES SENATE",
                     "es": "SENADO DE ESTADOS UNIDOS",
@@ -2761,7 +2857,7 @@
                 "_id": "165",
                 "_id_ext": "445",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "088",
                 "ballot_title": {
                     "en": "UNITED STATES REPRESENTATIVE",
                     "es": "REPRESENTANTE DE ESTADOS UNIDOS",
@@ -2921,7 +3017,7 @@
                 "_id": "175",
                 "_id_ext": "404",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "128",
                 "ballot_title": {
                     "en": "STATE ASSEMBLY MEMBER",
                     "es": "MIEMBRO DE LA ASAMBLEA DEL ESTADO",
@@ -3022,7 +3118,7 @@
                 "_id": "180",
                 "_id_ext": "599",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "149",
                 "ballot_title": {
                     "en": "JUDGE OF THE SUPERIOR COURT, OFFICE NO. 4",
                     "es": "JUEZ DEL TRIBUNAL SUPERIOR, OFICINA NÚM. 4",
@@ -3084,7 +3180,7 @@
                 "_id": "185",
                 "_id_ext": "443",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "149",
                 "ballot_title": {
                     "en": "JUDGE OF THE SUPERIOR COURT, OFFICE NO. 7",
                     "es": "JUEZ DEL TRIBUNAL SUPERIOR, OFICINA NÚM. 7",
@@ -3146,7 +3242,7 @@
                 "_id": "190",
                 "_id_ext": "600",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "149",
                 "ballot_title": {
                     "en": "JUDGE OF THE SUPERIOR COURT, OFFICE NO. 9",
                     "es": "JUEZ DEL TRIBUNAL SUPERIOR, OFICINA NÚM. 9",
@@ -3223,7 +3319,7 @@
                 "_id": "195",
                 "_id_ext": "601",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "149",
                 "ballot_title": {
                     "en": "JUDGE OF THE SUPERIOR COURT, OFFICE NO. 11",
                     "es": "JUEZ DEL TRIBUNAL SUPERIOR, OFICINA NÚM. 11",
@@ -3285,7 +3381,7 @@
                 "_id": "200",
                 "_id_ext": "563",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "187",
                 "ballot_title": {
                     "en": "SUPERINTENDENT OF PUBLIC INSTRUCTION",
                     "es": "SUPERINTENDENTE DE INSTRUCCIÓN PÚBLICA",
@@ -3399,7 +3495,7 @@
                 "_id": "205",
                 "_id_ext": "598",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "197",
                 "ballot_title": {
                     "en": "MAYOR",
                     "es": "ALCALDE",

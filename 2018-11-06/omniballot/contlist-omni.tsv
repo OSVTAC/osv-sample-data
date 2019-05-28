@@ -1,5 +1,7 @@
 sequence	type	contest_id	external_id	vote_for	title	text	approval_required
 001	text	57411	intro		Voter-Nominated and Nonpartisan Offices.	All voters, regardless of the party preference they disclosed upon registration, or refusal to disclose a party preference, may vote for any candidate for a voter-nominated or nonpartisan office. The party preference, if any, designated by a candidate for a voter-nominated office is selected by the candidate and is shown for the information of the voters only. It does not imply that the candidate is nominated or endorsed by the party or that the party approves of the candidate. The party preference, if any, of a candidate for a nonpartisan office does not appear on the ballot.	
+097	header	57399	header-1		VOTER-NOMINATED OFFICES		
+098	header	57400	header-2		STATE		
 100	contest	57325	622	1	GOVERNOR		
 105	contest	57326	623	1	LIEUTENANT GOVERNOR		
 110	contest	57327	626	1	SECRETARY OF STATE		
@@ -8,12 +10,16 @@ sequence	type	contest_id	external_id	vote_for	title	text	approval_required
 125	contest	57330	624	1	ATTORNEY GENERAL		
 130	contest	57331	625	1	INSURANCE COMMISSIONER		
 135	contest	57332	621	1	BOARD OF EQUALIZATION MEMBER, DISTRICT 2		
+138	header	57401	header-3		FEDERAL		
 140	contest	57333	629	1	UNITED STATES SENATE		
 145	contest	57370	476	1	UNITED STATES REPRESENTATIVE~DISTRICT 12		
 150	contest	57377	477	1	UNITED STATES REPRESENTATIVE~DISTRICT 13		
 155	contest	57334	478	1	UNITED STATES REPRESENTATIVE~DISTRICT 14		
+158	header	57402	header-4		STATE		
 160	contest	57371	474	1	STATE ASSEMBLY MEMBER~DISTRICT 17		
 165	contest	57335	475	1	STATE ASSEMBLY MEMBER~DISTRICT 19		
+182	header	57403	header-5		NONPARTISAN OFFICES		
+183	header	57404	header-6		JUDICIAL	<strong>Vote YES or NO for each office</strong>	
 185	retention	57339	680		FOR ASSOCIATE JUSTICE OF THE SUPREME COURT	Shall Associate Justice CAROL A. CORRIGAN be elected to the office for the term provided by law?	Majority
 190	retention	57340	681		FOR ASSOCIATE JUSTICE OF THE SUPREME COURT	Shall Associate Justice LEONDRA R. KRUGER be elected to the office for the term provided by law?	Majority
 195	retention	57341	682		FOR PRESIDING JUSTICE COURT OF APPEAL DISTRICT 1, DIVISION 1	Shall Presiding Justice JAMES M. HUMES be elected to the office for the term provided by law?	Majority
@@ -24,9 +30,11 @@ sequence	type	contest_id	external_id	vote_for	title	text	approval_required
 220	retention	57346	686		FOR ASSOCIATE JUSTICE COURT OF APPEAL DISTRICT 1, DIVISION 4	Shall Associate Justice JON B. STREETER be elected to the office for the term provided by law?	Majority
 225	retention	57347	710		FOR ASSOCIATE JUSTICE COURT OF APPEAL DISTRICT 1, DIVISION 4	Shall Associate Justice ALISON M. TUCHER be elected to the office for the term provided by law?	Majority
 230	retention	57348	687		FOR PRESIDING JUSTICE COURT OF APPEAL DISTRICT 1, DIVISION 5	Shall Presiding Justice BARBARA JONES be elected to the office for the term provided by law?	Majority
+233	header	57405	header-7		SCHOOL		
 235	contest	57349	637	1	SUPERINTENDENT OF PUBLIC INSTRUCTION		
 237	contest	57336	618	3	MEMBER, BOARD OF EDUCATION		
 240	contest	57350	652	3	MEMBER, COMMUNITY COLLEGE BOARD		
+243	header	57406	header-8		DISTRICT		
 245	contest	57369	619	1	BART DIRECTOR~DISTRICT 8		
 247	header	57412	header-13		CITY AND COUNTY		
 250	contest	57351	667	3	ASSESSOR-RECORDER	You may rank up to three choices. To rank fewer than three candidates, leave any remaining choices blank.	

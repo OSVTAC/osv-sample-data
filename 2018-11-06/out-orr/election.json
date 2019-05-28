@@ -32,6 +32,99 @@
                 }
             },
             {
+                "_id": "097",
+                "classification": "Office Category",
+                "header_id": "",
+                "ballot_title": {
+                    "en": "VOTER-NOMINATED OFFICES",
+                    "es": "CARGOS NOMINADOS POR LOS ELECTORES",
+                    "tl": "MGA KATUNGKULANG NOMINADO NG BOTANTE",
+                    "zh": "選民提名職位"
+                }
+            },
+            {
+                "_id": "098",
+                "classification": "Office Category",
+                "header_id": "",
+                "ballot_title": {
+                    "en": "STATE",
+                    "es": "ESTADO",
+                    "tl": "ESTADO",
+                    "zh": "州"
+                }
+            },
+            {
+                "_id": "138",
+                "classification": "Office Category",
+                "header_id": "",
+                "ballot_title": {
+                    "en": "FEDERAL",
+                    "tl": "PEDERAL",
+                    "zh": "聯邦"
+                }
+            },
+            {
+                "_id": "158",
+                "classification": "Office Category",
+                "header_id": "",
+                "ballot_title": {
+                    "en": "STATE",
+                    "es": "ESTADO",
+                    "tl": "ESTADO",
+                    "zh": "州"
+                }
+            },
+            {
+                "_id": "182",
+                "classification": "Office Category",
+                "header_id": "",
+                "ballot_title": {
+                    "en": "NONPARTISAN OFFICES",
+                    "es": "CARGOS NO PARTIDARIOS",
+                    "tl": "MGA KATUNGKULANG HINDI MAKAPARTIDO",
+                    "zh": "無黨派職位"
+                }
+            },
+            {
+                "_id": "183",
+                "classification": "Office Category",
+                "header_id": "",
+                "ballot_title": {
+                    "en": "JUDICIAL",
+                    "es": "",
+                    "tl": "PANGHUKUMAN",
+                    "zh": "司法"
+                },
+                "heading_text": {
+                    "en": "<strong>Vote YES or NO for each office</strong>",
+                    "es": "Vote S&Iacute; o NO por cada cargo",
+                    "tl": "Iboto ang OO o ang HINDI para sa bawat katungkulan",
+                    "zh": "為每位選擇「贊成」或「反對」"
+                }
+            },
+            {
+                "_id": "233",
+                "classification": "Office Category",
+                "header_id": "",
+                "ballot_title": {
+                    "en": "SCHOOL",
+                    "es": "ESCUELA",
+                    "tl": "PAARALAN",
+                    "zh": "學校"
+                }
+            },
+            {
+                "_id": "243",
+                "classification": "Office Category",
+                "header_id": "",
+                "ballot_title": {
+                    "en": "DISTRICT",
+                    "es": "DISTRITO",
+                    "tl": "DISTRITO",
+                    "zh": "選區"
+                }
+            },
+            {
                 "_id": "247",
                 "classification": "Office Category",
                 "header_id": "",
@@ -81,7 +174,7 @@
                 "_id": "100",
                 "_id_ext": "622",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "098",
                 "ballot_title": {
                     "en": "GOVERNOR",
                     "es": "GOBERNADOR",
@@ -153,7 +246,7 @@
                 "_id": "105",
                 "_id_ext": "623",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "098",
                 "ballot_title": {
                     "en": "LIEUTENANT GOVERNOR",
                     "es": "VICEGOBERNADOR",
@@ -225,7 +318,7 @@
                 "_id": "110",
                 "_id_ext": "626",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "098",
                 "ballot_title": {
                     "en": "SECRETARY OF STATE",
                     "es": "SECRETARIO DE ESTADO",
@@ -297,7 +390,7 @@
                 "_id": "115",
                 "_id_ext": "627",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "098",
                 "ballot_title": {
                     "en": "CONTROLLER",
                     "es": "CONTRALOR",
@@ -369,7 +462,7 @@
                 "_id": "120",
                 "_id_ext": "628",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "098",
                 "ballot_title": {
                     "en": "TREASURER",
                     "es": "TESORERO",
@@ -441,7 +534,7 @@
                 "_id": "125",
                 "_id_ext": "624",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "098",
                 "ballot_title": {
                     "en": "ATTORNEY GENERAL",
                     "es": "PROCURADOR GENERAL",
@@ -513,7 +606,7 @@
                 "_id": "130",
                 "_id_ext": "625",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "098",
                 "ballot_title": {
                     "en": "INSURANCE COMMISSIONER",
                     "es": "COMISIONADO DE SEGUROS",
@@ -585,7 +678,7 @@
                 "_id": "135",
                 "_id_ext": "621",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "098",
                 "ballot_title": {
                     "en": "BOARD OF EQUALIZATION MEMBER, DISTRICT 2",
                     "es": "MIEMBRO DE LA DIRECTIVA DE IMPUESTOS SOBRE VENTAS, USO Y OTROS, DISTRITO 2",
@@ -657,7 +750,7 @@
                 "_id": "140",
                 "_id_ext": "629",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "138",
                 "ballot_title": {
                     "en": "UNITED STATES SENATE",
                     "es": "SENADO DE ESTADOS UNIDOS",
@@ -729,7 +822,7 @@
                 "_id": "145",
                 "_id_ext": "476",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "138",
                 "ballot_title": {
                     "en": "UNITED STATES REPRESENTATIVE",
                     "es": "REPRESENTANTE DE ESTADOS UNIDOS",
@@ -807,7 +900,7 @@
                 "_id": "150",
                 "_id_ext": "477",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "138",
                 "ballot_title": {
                     "en": "UNITED STATES REPRESENTATIVE",
                     "es": "REPRESENTANTE DE ESTADOS UNIDOS",
@@ -872,7 +965,7 @@
                 "_id": "155",
                 "_id_ext": "478",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "138",
                 "ballot_title": {
                     "en": "UNITED STATES REPRESENTATIVE",
                     "es": "REPRESENTANTE DE ESTADOS UNIDOS",
@@ -950,7 +1043,7 @@
                 "_id": "160",
                 "_id_ext": "474",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "158",
                 "ballot_title": {
                     "en": "STATE ASSEMBLY MEMBER",
                     "es": "MIEMBRO DE LA ASAMBLEA DEL ESTADO",
@@ -1028,7 +1121,7 @@
                 "_id": "165",
                 "_id_ext": "475",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "158",
                 "ballot_title": {
                     "en": "STATE ASSEMBLY MEMBER",
                     "es": "MIEMBRO DE LA ASAMBLEA DEL ESTADO",
@@ -1106,7 +1199,7 @@
                 "_id": "305",
                 "_id_ext": "680",
                 "_type": "retention",
-                "header_id": "001",
+                "header_id": "183",
                 "ballot_title": {
                     "en": "FOR ASSOCIATE JUSTICE OF THE SUPREME COURT",
                     "es": "PARA JUEZ ASOCIADA DE LA CORTE SUPREMA",
@@ -1157,7 +1250,7 @@
                 "_id": "310",
                 "_id_ext": "681",
                 "_type": "retention",
-                "header_id": "001",
+                "header_id": "183",
                 "ballot_title": {
                     "en": "FOR ASSOCIATE JUSTICE OF THE SUPREME COURT",
                     "es": "PARA JUEZ ASOCIADA DE LA CORTE SUPREMA",
@@ -1208,7 +1301,7 @@
                 "_id": "315",
                 "_id_ext": "682",
                 "_type": "retention",
-                "header_id": "001",
+                "header_id": "183",
                 "ballot_title": {
                     "en": "FOR PRESIDING JUSTICE COURT OF APPEAL DISTRICT 1, DIVISION 1",
                     "es": "PARA JUEZ PRESIDENTE DE LA CORTE DE APELACIÓN DISTRITO 1, DIVISIÓN 1",
@@ -1259,7 +1352,7 @@
                 "_id": "320",
                 "_id_ext": "683",
                 "_type": "retention",
-                "header_id": "001",
+                "header_id": "183",
                 "ballot_title": {
                     "en": "FOR ASSOCIATE JUSTICE COURT OF APPEAL DISTRICT 1, DIVISION 1",
                     "es": "PARA JUEZ ASOCIADA DE LA CORTE DE APELACIÓN DISTRITO 1, DIVISIÓN 1",
@@ -1310,7 +1403,7 @@
                 "_id": "325",
                 "_id_ext": "684",
                 "_type": "retention",
-                "header_id": "001",
+                "header_id": "183",
                 "ballot_title": {
                     "en": "FOR ASSOCIATE JUSTICE COURT OF APPEAL DISTRICT 1, DIVISION 2",
                     "es": "PARA JUEZ ASOCIADO DE LA CORTE DE APELACIÓN DISTRITO 1, DIVISIÓN 2",
@@ -1361,7 +1454,7 @@
                 "_id": "330",
                 "_id_ext": "685",
                 "_type": "retention",
-                "header_id": "001",
+                "header_id": "183",
                 "ballot_title": {
                     "en": "FOR ASSOCIATE JUSTICE COURT OF APPEAL DISTRICT 1, DIVISION 2",
                     "es": "PARA JUEZ ASOCIADA DE LA CORTE DE APELACIÓN DISTRITO 1, DIVISIÓN 2",
@@ -1412,7 +1505,7 @@
                 "_id": "335",
                 "_id_ext": "709",
                 "_type": "retention",
-                "header_id": "001",
+                "header_id": "183",
                 "ballot_title": {
                     "en": "FOR PRESIDING JUSTICE COURT OF APPEAL DISTRICT 1, DIVISION 3",
                     "es": "PARA JUEZ PRESIDENTE DE LA CORTE DE APELACIÓN DISTRITO 1, DIVISIÓN 3",
@@ -1463,7 +1556,7 @@
                 "_id": "340",
                 "_id_ext": "686",
                 "_type": "retention",
-                "header_id": "001",
+                "header_id": "183",
                 "ballot_title": {
                     "en": "FOR ASSOCIATE JUSTICE COURT OF APPEAL DISTRICT 1, DIVISION 4",
                     "es": "PARA JUEZ ASOCIADO DE LA CORTE DE APELACIÓN DISTRITO 1, DIVISIÓN 4",
@@ -1514,7 +1607,7 @@
                 "_id": "345",
                 "_id_ext": "710",
                 "_type": "retention",
-                "header_id": "001",
+                "header_id": "183",
                 "ballot_title": {
                     "en": "FOR ASSOCIATE JUSTICE COURT OF APPEAL DISTRICT 1, DIVISION 4",
                     "es": "PARA JUEZ ASOCIADA DE LA CORTE DE APELACIÓN DISTRITO 1, DIVISIÓN 4",
@@ -1565,7 +1658,7 @@
                 "_id": "350",
                 "_id_ext": "687",
                 "_type": "retention",
-                "header_id": "001",
+                "header_id": "183",
                 "ballot_title": {
                     "en": "FOR PRESIDING JUSTICE COURT OF APPEAL DISTRICT 1, DIVISION 5",
                     "es": "PARA JUEZ PRESIDENTA DE LA CORTE DE APELACIÓN DISTRITO 1, DIVISIÓN 5",
@@ -1616,7 +1709,7 @@
                 "_id": "235",
                 "_id_ext": "637",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "233",
                 "ballot_title": {
                     "en": "SUPERINTENDENT OF PUBLIC INSTRUCTION",
                     "es": "SUPERINTENDENTE DE INSTRUCCIÓN PÚBLICA",
@@ -1676,7 +1769,7 @@
                 "_id": "170",
                 "_id_ext": "618",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "233",
                 "ballot_title": {
                     "en": "MEMBER, BOARD OF EDUCATION",
                     "es": "MIEMBRO, CONSEJO DE EDUCACIÓN",
@@ -1985,7 +2078,7 @@
                 "_id": "240",
                 "_id_ext": "652",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "233",
                 "ballot_title": {
                     "en": "MEMBER, COMMUNITY COLLEGE BOARD",
                     "es": "MIEMBRO, CONSEJO DEL COLEGIO COMUNITARIO",
@@ -2075,7 +2168,7 @@
                 "_id": "245",
                 "_id_ext": "619",
                 "_type": "office",
-                "header_id": "001",
+                "header_id": "243",
                 "ballot_title": {
                     "en": "BART DIRECTOR",
                     "es": "DIRECTOR DE BART",
@@ -7694,15 +7787,6 @@
             "heading": "Exhausted Ballots"
         }
     ],
-    "turnout": {
-        "_id": "TURNOUT",
-        "_type": "turnout",
-        "ballot_title": {
-            "en": "Registration and Turnout"
-        },
-        "voting_district": "0",
-        "result_style": "EMTE"
-    },
     "result_styles": [
         {
             "_id": "EMS",
