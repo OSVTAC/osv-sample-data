@@ -1,0 +1,35 @@
+sequence	cont_external_id	cand_seq	cand_id	external_id	title	party	designation	cand_type
+010	334	010	136317	2	WILMA PANG		Retired Music Professor	default
+010	334	020	136318	3	ROBERT L. JORDAN, JR.		Preacher	default
+010	334	030	136319	4	PAUL YBARRA ROBERTSON		Small Business Owner	default
+010	334	040	136320	5	ELLEN LEE ZHOU		Behavioral Health Clinician	default
+010	334	050	136321	6	LONDON N. BREED		Mayor of San Francisco	default
+010	334	060	136316	1	JOEL VENTRESCA		Retired Airport Analyst	default
+021	91e909f7-cfae-4478-952a-dd0ff37dd9ce	080	136322	8	RYAN LAM		Political Journalist	default
+021	91e909f7-cfae-4478-952a-dd0ff37dd9ce	090	136323	9	DEAN PRESTON		Nonprofit Housing Attorney	default
+021	91e909f7-cfae-4478-952a-dd0ff37dd9ce	100	136324	10	NOMVULA O'MEARA		Film Producer	default
+021	91e909f7-cfae-4478-952a-dd0ff37dd9ce	110	136325	11	VALLIE BROWN		District 5 Supervisor, Appointed	default
+041	aa114170-bb7f-477a-ac90-f5b343adcd1a	010	136326	13	DENNIS J. HERRERA		City Attorney	default
+051	e56eaea1-da96-41f9-8d4b-a3f1733480bd	010	136330	18	CHESA BOUDIN		Deputy Public Defender	default
+051	e56eaea1-da96-41f9-8d4b-a3f1733480bd	020	136327	15	SUZY LOFTUS		Legal Counsel	default
+051	e56eaea1-da96-41f9-8d4b-a3f1733480bd	030	136328	16	LEIF DAUTCH		Deputy Attorney General	default
+051	e56eaea1-da96-41f9-8d4b-a3f1733480bd	040	136329	17	NANCY TUNG		Deputy District Attorney	default
+061	479e7108-5b99-4821-966a-b78eabcfc581	010	136331	20	MANOHAR "MANO" RAJU		Appointed Public Defender	default
+071	f0f07583-b641-47d3-9b9f-1c51dc824513	010	136332	22	PAUL MIYAMOTO		Chief Deputy Sheriff	default
+081	1c0b6535-0a11-4c7e-9075-233f0a5fc211	010	136333	24	JOSÉ CISNEROS		San Francisco Treasurer	default
+100	361	010	136335	27	KIRSTEN STROBEL		Director, Arts Nonprofit	default
+100	361	020	136336	28	ROBERT K. COLEMAN		Editor / Artist	default
+100	361	030	136334	26	JENNY LAM		Appointed Member, Board of Education	default
+110	351	010	136337	30	IVY LEE		Appointed City College Trustee	default
+130	342	320	136338	32	YES			default
+130	342	330	136339	33	NO			default
+140	343	320	136338	32	YES			default
+140	343	330	136339	33	NO			default
+150	344	320	136338	32	YES			default
+150	344	330	136339	33	NO			default
+160	345	320	136338	32	YES			default
+160	345	330	136339	33	NO			default
+170	346	320	136338	32	YES			default
+170	346	330	136339	33	NO			default
+180	354	320	136338	32	YES			default
+180	354	330	136339	33	NO			default

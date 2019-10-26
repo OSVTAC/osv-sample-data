@@ -1,0 +1,27 @@
+# Config for convomniballot.py
+# chops the first part of the sequence number used to move RCV to the end
+#trim_sequence_prefix: 9
+
+#contest_map_file: contmap.tsv
+#candidate_map_file: candmap.tsv
+
+# The district ID for all voters in this election:
+election_voting_district: 0
+# The result_style code for turnout giving voting_group_ids and result_stat_type_ids
+turnout_result_style: EMTE
+
+# Number of digits in the bt subdirectory for ballot type number
+bt_digits: 3
+
+# Patterns to match retention candidate names in retention contest question text
+retention_pats:
+    - Justice {candidate_name} be elected
+
+approval_required:
+    '2/3':
+        - A
+
+contest_name_corrections:
+    en:
+        - ^{letter}$=Local Measure {letter}
+        - ^{number}$=State Proposition {number}

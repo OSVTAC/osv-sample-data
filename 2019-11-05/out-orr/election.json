@@ -1,0 +1,5209 @@
+{
+    "election": {
+        "election_date": "2019-11-05",
+        "election_area": {
+            "en": "City and County of San Francisco",
+            "es": "Ciudad y Condado de San Francisco",
+            "tl": "Lungsod at County ng San Francisco",
+            "zh": "舊金山市"
+        },
+        "ballot_title": {
+            "en": "Consolidated Municipal Election",
+            "es": "Elecciones Municipales Consolidadas",
+            "tl": "Pinagsamang Pangmunisipal na Eleksyon",
+            "zh": "聯合市政選舉"
+        },
+        "headers": [
+            {
+                "_id": "000",
+                "classification": "Office Category",
+                "header_id": "",
+                "ballot_title": {
+                    "en": "CITY AND COUNTY",
+                    "es": "CIUDAD Y CONDADO",
+                    "tl": "LUNGSOD AT COUNTY",
+                    "zh": "市縣"
+                }
+            },
+            {
+                "_id": "099",
+                "classification": "Office Category",
+                "header_id": "",
+                "ballot_title": {
+                    "en": "SCHOOL",
+                    "es": "ESCOLAR",
+                    "tl": "PAARALAN",
+                    "zh": "學校"
+                }
+            },
+            {
+                "_id": "128",
+                "classification": "Office Category",
+                "header_id": "",
+                "ballot_title": {
+                    "en": "MEASURES SUBMITTED TO THE VOTERS",
+                    "es": "INICIATIVAS DE LEY PRESENTADAS A LOS ELECTORES",
+                    "tl": "MGA PANUKALANG ISINUMITE SA MGA BOTANTE",
+                    "zh": "提交選民投票的提案"
+                }
+            },
+            {
+                "_id": "129",
+                "classification": "Office Category",
+                "header_id": "",
+                "ballot_title": {
+                    "en": "CITY AND COUNTY PROPOSITIONS",
+                    "es": "PROPUESTAS DE LA CIUDAD Y EL CONDADO",
+                    "tl": "MGA PROPOSISYON NG LUNGSOD AT COUNTY",
+                    "zh": "市縣提案"
+                }
+            }
+        ],
+        "contests": [
+            {
+                "_id": "334",
+                "_id_ext": "334",
+                "_type": "office",
+                "header_id": "000",
+                "ballot_title": {
+                    "en": "MAYOR",
+                    "es": "ALCALDE",
+                    "tl": "PUNONG-BAYAN",
+                    "zh": "市長"
+                },
+                "name": {
+                    "en": "Mayor",
+                    "es": "Alcalde",
+                    "tl": "Punong-Bayan",
+                    "zh": "市長"
+                },
+                "vote_for_msg": {
+                    "en": "Rank up to 6 candidates",
+                    "es": "Seleccione hasta 6 candidatos.",
+                    "tl": "Bigyan ng ranggo ang hanggang 6 kandidato",
+                    "zh": "最多可排序六個選擇"
+                },
+                "max_ranked": "6",
+                "number_elected": 1,
+                "choices": [
+                    {
+                        "_id": "2",
+                        "_id_ext": "2",
+                        "ballot_title": {
+                            "en": "WILMA PANG",
+                            "zh": "WILMA PANG 彭德慧"
+                        },
+                        "sequence": "010",
+                        "ballot_designation": {
+                            "en": "Retired Music Professor",
+                            "es": "Profesora de Música Jubilada",
+                            "tl": "Retiradong Propesor ng Musika",
+                            "zh": "退休音樂教授"
+                        }
+                    },
+                    {
+                        "_id": "3",
+                        "_id_ext": "3",
+                        "ballot_title": {
+                            "en": "ROBERT L. JORDAN, JR.",
+                            "es": "",
+                            "tl": "",
+                            "zh": "ROBERT L. JORDAN, JR.  小羅伯特 ‧ L ‧ 喬丹"
+                        },
+                        "sequence": "020",
+                        "ballot_designation": {
+                            "en": "Preacher",
+                            "es": "Predicador",
+                            "tl": "Pastor",
+                            "zh": "傳教士"
+                        }
+                    },
+                    {
+                        "_id": "4",
+                        "_id_ext": "4",
+                        "ballot_title": {
+                            "en": "PAUL YBARRA ROBERTSON",
+                            "zh": "PAUL YBARRA ROBERTSON 保羅 ‧ 伊巴拉 ‧ 羅伯森"
+                        },
+                        "sequence": "030",
+                        "ballot_designation": {
+                            "en": "Small Business Owner",
+                            "es": "Dueño de Pequeña Empresa",
+                            "tl": "May-ari ng Maliit na Negosyo",
+                            "zh": "小企業業主"
+                        }
+                    },
+                    {
+                        "_id": "5",
+                        "_id_ext": "5",
+                        "ballot_title": {
+                            "en": "ELLEN LEE ZHOU",
+                            "zh": "ELLEN LEE ZHOU 李愛晨"
+                        },
+                        "sequence": "040",
+                        "ballot_designation": {
+                            "en": "Behavioral Health Clinician",
+                            "es": "Consejera Clínica de Salud Conductual",
+                            "tl": "Clinician para sa Kalusugan ng Isip",
+                            "zh": "行為健康臨床治療師"
+                        }
+                    },
+                    {
+                        "_id": "6",
+                        "_id_ext": "6",
+                        "ballot_title": {
+                            "en": "LONDON N. BREED",
+                            "zh": "LONDON N. BREED 倫敦 ‧ 布里德"
+                        },
+                        "sequence": "050",
+                        "ballot_designation": {
+                            "en": "Mayor of San Francisco",
+                            "es": "Alcaldesa de San Francisco",
+                            "tl": "Mayor (Punong-bayan) ng San Francisco",
+                            "zh": "三藩市市長"
+                        }
+                    },
+                    {
+                        "_id": "1",
+                        "_id_ext": "1",
+                        "ballot_title": {
+                            "en": "JOEL VENTRESCA",
+                            "zh": "JOEL VENTRESCA 喬爾 ‧ 范崔斯卡"
+                        },
+                        "sequence": "060",
+                        "ballot_designation": {
+                            "en": "Retired Airport Analyst",
+                            "es": "Analista de Aeropuerto Jubilado",
+                            "tl": "Retiradong Tagapagsuri ng mga Paliparan",
+                            "zh": "退休機場分析師"
+                        }
+                    }
+                ],
+                "writeins_allowed": 1,
+                "result_style": "EMRW"
+            },
+            {
+                "_id": "91e909f7-cfae-4478-952a-dd0ff37dd9ce",
+                "_id_ext": "91e909f7-cfae-4478-952a-dd0ff37dd9ce",
+                "_type": "office",
+                "header_id": "",
+                "ballot_title": {
+                    "en": "MEMBER, BOARD OF SUPERVISORS, DISTRICT 5",
+                    "es": "MIEMBRO, CONSEJO DE SUPERVISORES, DISTRITO 5",
+                    "tl": "MIYEMBRO, LUPON NG MGA SUPERBISOR, DISTRITO 5",
+                    "zh": "市議員，第5選區"
+                },
+                "name": {
+                    "en": "Member, Board of Supervisors, District 5",
+                    "es": "Miembro, Consejo De Supervisores, Distrito 5",
+                    "tl": "Miyembro, Lupon Ng Mga Superbisor, Distrito 5",
+                    "zh": "市議員，第5選區"
+                },
+                "vote_for_msg": {
+                    "en": "Rank up to 4 candidates",
+                    "es": "Seleccione hasta 4 candidatos.",
+                    "tl": "Bigyan ng ranggo ang hanggang 4 kandidato",
+                    "zh": "最多可排序四個選擇"
+                },
+                "max_ranked": "4",
+                "number_elected": 1,
+                "choices": [
+                    {
+                        "_id": "8",
+                        "_id_ext": "8",
+                        "ballot_title": {
+                            "en": "RYAN LAM",
+                            "zh": "RYAN LAM 林朗禧"
+                        },
+                        "sequence": "080",
+                        "ballot_designation": {
+                            "en": "Political Journalist",
+                            "es": "Periodista Político",
+                            "tl": "Peryodistang Politikal",
+                            "zh": "政治記者"
+                        }
+                    },
+                    {
+                        "_id": "9",
+                        "_id_ext": "9",
+                        "ballot_title": {
+                            "en": "DEAN PRESTON",
+                            "zh": "DEAN PRESTON 迪恩 ‧ 普瑞斯頓"
+                        },
+                        "sequence": "090",
+                        "ballot_designation": {
+                            "en": "Nonprofit Housing Attorney",
+                            "es": "Abogado de Organizaciones sin Fines de Lucro para la Vivienda",
+                            "tl": "Abugado para sa Pabahay na Nonprofit",
+                            "zh": "非營利房屋律師"
+                        }
+                    },
+                    {
+                        "_id": "10",
+                        "_id_ext": "10",
+                        "ballot_title": {
+                            "en": "NOMVULA O'MEARA",
+                            "zh": "NOMVULA O'MEARA 諾姆烏拉 ‧ 歐米拉"
+                        },
+                        "sequence": "100",
+                        "ballot_designation": {
+                            "en": "Film Producer",
+                            "es": "Productora de Películas",
+                            "tl": "Producer ng Pelikula",
+                            "zh": "影片製作人"
+                        }
+                    },
+                    {
+                        "_id": "11",
+                        "_id_ext": "11",
+                        "ballot_title": {
+                            "en": "VALLIE BROWN",
+                            "zh": "VALLIE BROWN 浦慧理"
+                        },
+                        "sequence": "110",
+                        "ballot_designation": {
+                            "en": "District 5 Supervisor, Appointed",
+                            "es": "Supervisora del Distrito 5, Designada",
+                            "tl": "Superbisor ng Distrito 5, Itinalaga",
+                            "zh": "委任第5選區市議員"
+                        }
+                    }
+                ],
+                "writeins_allowed": 1,
+                "result_style": "EMRW"
+            },
+            {
+                "_id": "aa114170-bb7f-477a-ac90-f5b343adcd1a",
+                "_id_ext": "aa114170-bb7f-477a-ac90-f5b343adcd1a",
+                "_type": "office",
+                "header_id": "000",
+                "ballot_title": {
+                    "en": "CITY ATTORNEY",
+                    "es": "ABOGADO DE LA CIUDAD",
+                    "tl": "ABUGADO NG LUNGSOD",
+                    "zh": "市府律師"
+                },
+                "name": {
+                    "en": "City Attorney",
+                    "es": "Abogado De La Ciudad",
+                    "tl": "Abugado Ng Lungsod",
+                    "zh": "市府律師"
+                },
+                "vote_for_msg": {
+                    "en": "Rank up to 3 candidates",
+                    "es": "Seleccione hasta 3 candidatos.",
+                    "tl": "Bigyan ng ranggo ang hanggang 3 kandidato",
+                    "zh": "最多可排序三個選擇"
+                },
+                "max_ranked": "3",
+                "number_elected": 1,
+                "choices": [
+                    {
+                        "_id": "13",
+                        "_id_ext": "13",
+                        "ballot_title": {
+                            "en": "DENNIS J. HERRERA",
+                            "zh": "DENNIS J. HERRERA 丹尼斯 ‧ J ‧ 赫雷拉"
+                        },
+                        "sequence": "010",
+                        "ballot_designation": {
+                            "en": "City Attorney",
+                            "es": "Abogado de la Ciudad",
+                            "tl": "Abugado ng Lungsod",
+                            "zh": "市府律師"
+                        }
+                    }
+                ],
+                "writeins_allowed": 2,
+                "result_style": "EMRW"
+            },
+            {
+                "_id": "e56eaea1-da96-41f9-8d4b-a3f1733480bd",
+                "_id_ext": "e56eaea1-da96-41f9-8d4b-a3f1733480bd",
+                "_type": "office",
+                "header_id": "000",
+                "ballot_title": {
+                    "en": "DISTRICT ATTORNEY",
+                    "es": "FISCAL DE DISTRITO",
+                    "tl": "ABUGADO NG DISTRITO",
+                    "zh": "地方檢察官"
+                },
+                "name": {
+                    "en": "District Attorney",
+                    "es": "Fiscal De Distrito",
+                    "tl": "Abugado Ng Distrito",
+                    "zh": "地方檢察官"
+                },
+                "vote_for_msg": {
+                    "en": "Rank up to 4 candidates",
+                    "es": "Seleccione hasta 4 candidatos.",
+                    "tl": "Bigyan ng ranggo ang hanggang 4 kandidato",
+                    "zh": "最多可排序四個選擇"
+                },
+                "max_ranked": "4",
+                "number_elected": 1,
+                "choices": [
+                    {
+                        "_id": "18",
+                        "_id_ext": "18",
+                        "ballot_title": {
+                            "en": "CHESA BOUDIN",
+                            "zh": "CHESA BOUDIN 博徹思"
+                        },
+                        "sequence": "010",
+                        "ballot_designation": {
+                            "en": "Deputy Public Defender",
+                            "es": "Defensor Público Adjunto",
+                            "tl": "Katuwang na Pampublikong Tagapagtanggol",
+                            "zh": "副公共辯護律師"
+                        }
+                    },
+                    {
+                        "_id": "15",
+                        "_id_ext": "15",
+                        "ballot_title": {
+                            "en": "SUZY LOFTUS",
+                            "zh": "SUZY LOFTUS 樂素詩"
+                        },
+                        "sequence": "020",
+                        "ballot_designation": {
+                            "en": "Legal Counsel",
+                            "es": "Asesora Legal",
+                            "tl": "Abugado",
+                            "zh": "法律顧問"
+                        }
+                    },
+                    {
+                        "_id": "16",
+                        "_id_ext": "16",
+                        "ballot_title": {
+                            "en": "LEIF DAUTCH",
+                            "zh": "LEIF DAUTCH 李多福"
+                        },
+                        "sequence": "030",
+                        "ballot_designation": {
+                            "en": "Deputy Attorney General",
+                            "es": "Fiscal General Adjunto",
+                            "tl": "Katuwang na Pangkalahatang Abugado",
+                            "zh": "副總檢察長"
+                        }
+                    },
+                    {
+                        "_id": "17",
+                        "_id_ext": "17",
+                        "ballot_title": {
+                            "en": "NANCY TUNG",
+                            "zh": "NANCY TUNG 湯曉慧"
+                        },
+                        "sequence": "040",
+                        "ballot_designation": {
+                            "en": "Deputy District Attorney",
+                            "es": "Fiscal de Distrito Adjunta",
+                            "tl": "Katuwang na Abugado ng Distrito",
+                            "zh": "副地方檢察官"
+                        }
+                    }
+                ],
+                "writeins_allowed": 1,
+                "result_style": "EMRW"
+            },
+            {
+                "_id": "479e7108-5b99-4821-966a-b78eabcfc581",
+                "_id_ext": "479e7108-5b99-4821-966a-b78eabcfc581",
+                "_type": "office",
+                "header_id": "000",
+                "ballot_title": {
+                    "en": "PUBLIC DEFENDER",
+                    "es": "DEFENSOR PÚBLICO",
+                    "tl": "PAMPUBLIKONG TAGAPAGTANGGOL",
+                    "zh": "公共辯護律師"
+                },
+                "name": {
+                    "en": "Public Defender",
+                    "es": "Defensor Público",
+                    "tl": "Pampublikong Tagapagtanggol",
+                    "zh": "公共辯護律師"
+                },
+                "vote_for_msg": {
+                    "en": "Rank up to 3 candidates",
+                    "es": "Seleccione hasta 3 candidatos.",
+                    "tl": "Bigyan ng ranggo ang hanggang 3 kandidato",
+                    "zh": "最多可排序三個選擇"
+                },
+                "max_ranked": "3",
+                "number_elected": 1,
+                "choices": [
+                    {
+                        "_id": "20",
+                        "_id_ext": "20",
+                        "ballot_title": {
+                            "en": "MANOHAR \"MANO\" RAJU",
+                            "zh": "MANOHAR \"MANO\" RAJU 力儲文"
+                        },
+                        "sequence": "010",
+                        "ballot_designation": {
+                            "en": "Appointed Public Defender",
+                            "es": "Defensor Público Designado",
+                            "tl": "Itinalagang Pampublikong Tagapagtanggol",
+                            "zh": "委任公共辯護律師"
+                        }
+                    }
+                ],
+                "writeins_allowed": 2,
+                "result_style": "EMRW"
+            },
+            {
+                "_id": "f0f07583-b641-47d3-9b9f-1c51dc824513",
+                "_id_ext": "f0f07583-b641-47d3-9b9f-1c51dc824513",
+                "_type": "office",
+                "header_id": "000",
+                "ballot_title": {
+                    "en": "SHERIFF",
+                    "es": "ALGUACIL",
+                    "tl": "",
+                    "zh": "縣警長"
+                },
+                "name": {
+                    "en": "Sheriff",
+                    "es": "Alguacil",
+                    "tl": "",
+                    "zh": "縣警長"
+                },
+                "vote_for_msg": {
+                    "en": "Rank up to 3 candidates",
+                    "es": "Seleccione hasta 3 candidatos.",
+                    "tl": "Bigyan ng ranggo ang hanggang 3 kandidato",
+                    "zh": "最多可排序三個選擇"
+                },
+                "max_ranked": "3",
+                "number_elected": 1,
+                "choices": [
+                    {
+                        "_id": "22",
+                        "_id_ext": "22",
+                        "ballot_title": {
+                            "en": "PAUL MIYAMOTO",
+                            "zh": "PAUL MIYAMOTO 保羅 ‧ 宮本"
+                        },
+                        "sequence": "010",
+                        "ballot_designation": {
+                            "en": "Chief Deputy Sheriff",
+                            "es": "Alguacil en Jefe Adjunto",
+                            "tl": "Pinuno ng mga Katuwang na Sheriff",
+                            "zh": "首席縣警官"
+                        }
+                    }
+                ],
+                "writeins_allowed": 2,
+                "result_style": "EMRW"
+            },
+            {
+                "_id": "1c0b6535-0a11-4c7e-9075-233f0a5fc211",
+                "_id_ext": "1c0b6535-0a11-4c7e-9075-233f0a5fc211",
+                "_type": "office",
+                "header_id": "000",
+                "ballot_title": {
+                    "en": "TREASURER",
+                    "es": "TESORERO",
+                    "tl": "TESORERO",
+                    "zh": "財政官"
+                },
+                "name": {
+                    "en": "Treasurer",
+                    "es": "Tesorero",
+                    "tl": "Tesorero",
+                    "zh": "財政官"
+                },
+                "vote_for_msg": {
+                    "en": "Rank up to 3 candidates",
+                    "es": "Seleccione hasta 3 candidatos.",
+                    "tl": "Bigyan ng ranggo ang hanggang 3 kandidato",
+                    "zh": "最多可排序三個選擇"
+                },
+                "max_ranked": "3",
+                "number_elected": 1,
+                "choices": [
+                    {
+                        "_id": "24",
+                        "_id_ext": "24",
+                        "ballot_title": {
+                            "en": "JOSÉ CISNEROS",
+                            "zh": "JOSÉ CISNEROS 何世豪"
+                        },
+                        "sequence": "010",
+                        "ballot_designation": {
+                            "en": "San Francisco Treasurer",
+                            "es": "Tesorero de San Francisco",
+                            "tl": "Tesorero ng San Francisco",
+                            "zh": "三藩市財政官"
+                        }
+                    }
+                ],
+                "writeins_allowed": 2,
+                "result_style": "EMRW"
+            },
+            {
+                "_id": "361",
+                "_id_ext": "361",
+                "_type": "office",
+                "header_id": "099",
+                "ballot_title": {
+                    "en": "MEMBER, BOARD OF EDUCATION",
+                    "es": "MIEMBRO, CONSEJO DE EDUCACIÓN",
+                    "tl": "MIYEMBRO, LUPON NG EDUKASYON",
+                    "zh": "教育委員會成員"
+                },
+                "name": {
+                    "en": "Member, Board of Education",
+                    "es": "Miembro, Consejo De Educación",
+                    "tl": "Miyembro, Lupon Ng Edukasyon",
+                    "zh": "教育委員會成員"
+                },
+                "vote_for_msg": {
+                    "en": "Vote for One",
+                    "es": "Vote por uno",
+                    "tl": "Bumoto ng Isa",
+                    "zh": "選一人"
+                },
+                "number_elected": 1,
+                "choices": [
+                    {
+                        "_id": "27",
+                        "_id_ext": "27",
+                        "ballot_title": {
+                            "en": "KIRSTEN STROBEL",
+                            "zh": "KIRSTEN STROBEL 思嘉慧"
+                        },
+                        "sequence": "010",
+                        "ballot_designation": {
+                            "en": "Director, Arts Nonprofit",
+                            "es": "Directora, Organización sin Fines de Lucro para las Artes",
+                            "tl": "Direktor, Nonprofit para sa Sining",
+                            "zh": "非營利藝術機構主任"
+                        }
+                    },
+                    {
+                        "_id": "28",
+                        "_id_ext": "28",
+                        "ballot_title": {
+                            "en": "ROBERT K. COLEMAN",
+                            "zh": "ROBERT K. COLEMAN 羅伯特 ‧ K ‧ 柯曼"
+                        },
+                        "sequence": "020",
+                        "ballot_designation": {
+                            "en": "Editor / Artist",
+                            "es": "Editor / Artista",
+                            "tl": "Editor / Artista",
+                            "zh": "編輯 / 藝術家"
+                        }
+                    },
+                    {
+                        "_id": "26",
+                        "_id_ext": "26",
+                        "ballot_title": {
+                            "en": "JENNY LAM",
+                            "zh": "JENNY LAM 林謙悅"
+                        },
+                        "sequence": "030",
+                        "ballot_designation": {
+                            "en": "Appointed Member, Board of Education",
+                            "es": "Miembro Designada, Consejo de Educación",
+                            "tl": "Itinalagang Miyembro, Lupon ng Edukasyon",
+                            "zh": "委任教育委員會委員"
+                        }
+                    }
+                ],
+                "writeins_allowed": 1,
+                "result_style": "EMSW"
+            },
+            {
+                "_id": "351",
+                "_id_ext": "351",
+                "_type": "office",
+                "header_id": "099",
+                "ballot_title": {
+                    "en": "MEMBER, COMMUNITY COLLEGE BOARD",
+                    "es": "MIEMBRO, CONSEJO DEL COLEGIO COMUNITARIO",
+                    "tl": "MIYEMBRO, LUPON NG KOLEHIYO NG KOMUNIDAD",
+                    "zh": "社區大學董事會成員"
+                },
+                "name": {
+                    "en": "Member, Community College Board",
+                    "es": "Miembro, Consejo Del Colegio Comunitario",
+                    "tl": "Miyembro, Lupon Ng Kolehiyo Ng Komunidad",
+                    "zh": "社區大學董事會成員"
+                },
+                "vote_for_msg": {
+                    "en": "Vote for One",
+                    "es": "Vote por uno",
+                    "tl": "Bumoto ng Isa",
+                    "zh": "選一人"
+                },
+                "number_elected": 1,
+                "choices": [
+                    {
+                        "_id": "30",
+                        "_id_ext": "30",
+                        "ballot_title": {
+                            "en": "IVY LEE",
+                            "zh": "IVY LEE 李康儀"
+                        },
+                        "sequence": "010",
+                        "ballot_designation": {
+                            "en": "Appointed City College Trustee",
+                            "es": "Síndica Designada de City College",
+                            "tl": "Itinalagang Trustee ng City College",
+                            "zh": "委任市立大學董事"
+                        }
+                    }
+                ],
+                "writeins_allowed": 1,
+                "result_style": "EMSW"
+            },
+            {
+                "_id": "342",
+                "_id_ext": "342",
+                "_type": "measure",
+                "header_id": "129",
+                "ballot_title": {
+                    "en": "A",
+                    "es": "",
+                    "tl": ""
+                },
+                "name": {
+                    "en": "Local Measure A",
+                    "es": "A",
+                    "tl": "A",
+                    "zh": "A"
+                },
+                "question_text": {
+                    "en": "SAN FRANCISCO AFFORDABLE HOUSING BONDS. To finance the construction, development, acquisition, and preservation of housing affordable to extremely-low, low and middle-income households through programs that will prioritize vulnerable populations such as San Francisco&rsquo;s working families, veterans, seniors, and persons with disabilities; to assist in the acquisition, rehabilitation, and preservation of existing affordable housing to prevent the displacement of residents; to repair and reconstruct distressed and dilapidated public housing developments and their underlying infrastructure; to assist the City&rsquo;s middle-income residents or workers in obtaining affordable rental or home ownership opportunities including down payment assistance and support for new construction of affordable housing for San Francisco Unified School District and City College of San Francisco employees; and to pay related costs; shall the City and County of San Francisco issue $600,000,000 in general obligation bonds with a duration of up to 30 years from the time of issuance, an estimated average tax rate of $0.019/$100 of assessed property value, and projected average annual revenues of $50,000,000, subject to independent citizen oversight and regular audits?",
+                    "es": "BONOS PARA VIVIENDAS A PRECIOS ASEQUIBLES EN SAN FRANCISCO. Con el fin de financiar la construcci&oacute;n, urbanizaci&oacute;n, adquisici&oacute;n y conservaci&oacute;n de viviendas a precios asequibles para hogares con ingresos sumamente bajos, bajos y medianos mediante programas que dar&aacute;n prioridad a grupos vulnerables como las familias trabajadoras, los veteranos, las personas de la tercera edad y las personas con discapacidades de San Francisco; con el prop&oacute;sito de ayudar en la adquisici&oacute;n, rehabilitaci&oacute;n y conservaci&oacute;n de viviendas existentes a precios asequibles para evitar el desplazamiento de los residentes; para reparar y reconstruir complejos de viviendas p&uacute;blicas viejos y ruinosos, as&iacute; como su infraestructura; para asistir a los habitantes con ingresos medianos o a los trabajadores de la Ciudad a obtener oportunidades de alquiler a precios asequibles o de tener casa propia, lo cual incluye la asistencia con la cuota inicial y el apoyo a la nueva construcci&oacute;n de viviendas a precios asequibles para los empleados del Distrito Escolar Unificado de San Francisco y del City College de San Francisco; y para pagar los costos relacionados; &iquest;deber&iacute;a la Ciudad y Condado de San Francisco emitir $600,000,000 en bonos de obligaci&oacute;n general con una duraci&oacute;n de hasta 30 a&ntilde;os a partir de la fecha de emisi&oacute;n, una tasa promedio de impuesto estimada en $0.019/$100 del valor tasado de la propiedad y una proyecci&oacute;n de ingresos anuales promedio de $50,000,000, sujeto a la supervisi&oacute;n ciudadana independiente y a auditor&iacute;as regulares?",
+                    "tl": "MGA BOND O UTANG NG GOBYERNO NG SAN FRANCISCO PARA SA ABOT-KAYANG PABAHAY. Upang magkaroon ng pera sa konstruksiyon, pagpapaunlad, pagmamay-ari, at preserbasyon ng pabahay na abot-kaya para sa mga kabahayan na lubhang mababa, mababa at panggitna ang kita sa pamamagitan ng mga programang magbibigay ng prayoridad sa bulnerableng mga populasyon tulad ng nagtatrabahong mga pamilya, beterano, matatanda, at indibidwal na may kapansanan ng San Francisco; upang makatulong sa pagmamay-ari, rehabilitasyon, at preserbasyon ng naririyan nang abot-kayang pabahay, at sa gayon, mapigilan ang pagkawala ng tirahan ng mga residente; upang makumpuni at muling maipatayo ang distressed o lumang-luma na, at sira-sira nang mga development sa pampublikong pabahay, at ang pundasyong imprastruktura ng mga ito; upang makatulong sa panggitna ang kita na mga residente o manggagawa ng Lungsod sa pagkakaroon nila ng oportunidad para sa abot-kayang pag-upa o pagmamay-ari ng tahanan, kasama na ang tulong sa downpayment o paunang bayad, at suporta sa bagong konstruksiyon ng abot-kayang pabahay para sa mga empleyado ng San Francisco Unified School District (Pinag-isang Distritong Pampaaralan ng San Francisco) at City College of San Francisco (Kolehiyo ng Lungsod ng San Francisco); at upang mabayaran ang kaugnay na mga gastusin; dapat bang maglabas ng $600,000,000 na bond na general obligation (utang ng estado o lokal na gobyerno) na tatagal nang hanggang sa 30 taon mula sa panahon ng paglalabas nito, may tinatayang karaniwang halaga ng buwis na $0.019/$100 ng natasang halaga ng ari-arian, at may inaasahan na karaniwang taunang kita na $50,000,000, kung saan mapaiilalim ito sa independiyenteng pangangasiwa ng mga mamamayan at regular na pag-o-audit?",
+                    "zh": "三藩市可負擔房屋債券。為了通過優先服務三藩市工薪家庭、退伍軍人、老年人及殘障者等弱勢人群的計劃來資助極低收入、低收入和中等收入家庭可負擔的房屋之建造、開發、收購與維護；為了協助對現有可負擔房屋的收購、修復和保留以防止居民流離失所；為了修繕和重建殘破老舊的公共房舍及其基礎設施；為了協助本市中等收入居民或工作者獲得可負擔的租賃或自有住宅的機會，包括補助首期以及支持為三藩市聯合校區和三藩市市立大學僱員新建可負擔房屋；以及為了支付相關費用；三藩市市縣是否應發行6億元一般義務債券，從發行日起為期至多30年，預估平均稅率為每100元物業估值0.019元，預計平均年度收入5,000萬元，並受到獨立公民監督及定期審計？"
+                },
+                "approval_required": "2/3",
+                "choices": [
+                    {
+                        "_id": "32",
+                        "_id_ext": "32",
+                        "ballot_title": {
+                            "en": "YES",
+                            "es": "SÍ",
+                            "tl": "OO",
+                            "zh": "贊成"
+                        },
+                        "sequence": "320"
+                    },
+                    {
+                        "_id": "33",
+                        "_id_ext": "33",
+                        "ballot_title": {
+                            "en": "NO",
+                            "tl": "HINDI",
+                            "zh": "反對"
+                        },
+                        "sequence": "330"
+                    }
+                ],
+                "result_style": "EMS"
+            },
+            {
+                "_id": "343",
+                "_id_ext": "343",
+                "_type": "measure",
+                "header_id": "129",
+                "ballot_title": {
+                    "en": "B",
+                    "es": "",
+                    "tl": ""
+                },
+                "name": {
+                    "en": "Local Measure B",
+                    "es": "B",
+                    "tl": "B",
+                    "zh": "B"
+                },
+                "question_text": {
+                    "en": "Shall the City amend the Charter to change the name of the Department of Aging and Adult Services to the Department of Disability and Aging Services; to change the name of the Aging and Adult Services Commission to the Disability and Aging Services Commission; and to add new qualifications for three of the seven seats on this Commission?",
+                    "es": "&iquest;Deber&iacute;a la Ciudad enmendar la Carta Constitucional para cambiar el nombre del Departamento de Servicios para Adultos y Adultos Mayores a Departamento de Servicios para Adultos Mayores y Personas con Discapacidad; para cambiar el nombre de la Comisi&oacute;n de Servicios para Adultos y Adultos Mayores a Comisi&oacute;n de Servicios para Adultos Mayores y Personas con Discapacidad; y agregar nuevos requisitos para tres de los siete puestos en la Comisi&oacute;n?",
+                    "tl": "Dapat bang amyendahan ng Lungsod ang Tsarter nito upang mabago ang pangalan ng Department of Aging and Adult Services (Departamento ng mga Serbisyo sa Pagtanda at Nasa Sapat na Gulang) tungo sa Department of Disability and Aging Services (Departamento ng mga Serbisyo para sa Kapansanan at sa Pagtanda); upang mabago ang pangalan ng Aging and Adult Services Commission (Komisyon ng mga Serbisyo sa Pagtanda at Nasa Sapat na Gulang) tungo sa Disability and Aging Services Commission (Komisyon ng mga Serbisyo para sa Kapansanan at sa Pagtanda); at upang magdagdag ng mga bagong kuwalipikasyon para sa tatlo sa pitong posisyon sa Komisyong ito?",
+                    "zh": "市府是否應修改市憲章，將老年與成年人服務部的名稱更改為殘障與老年服務部；將老年與成年人服務委員會的名稱更改為殘障與老年服務委員會；並對此委員會七個席位中的三席增加新的資格要求？"
+                },
+                "approval_required": "Majority",
+                "choices": [
+                    {
+                        "_id": "32",
+                        "_id_ext": "32",
+                        "ballot_title": {
+                            "en": "YES",
+                            "es": "SÍ",
+                            "tl": "OO",
+                            "zh": "贊成"
+                        },
+                        "sequence": "320"
+                    },
+                    {
+                        "_id": "33",
+                        "_id_ext": "33",
+                        "ballot_title": {
+                            "en": "NO",
+                            "tl": "HINDI",
+                            "zh": "反對"
+                        },
+                        "sequence": "330"
+                    }
+                ],
+                "result_style": "EMS"
+            },
+            {
+                "_id": "344",
+                "_id_ext": "344",
+                "_type": "measure",
+                "header_id": "129",
+                "ballot_title": {
+                    "en": "C",
+                    "es": "",
+                    "tl": ""
+                },
+                "name": {
+                    "en": "Local Measure C",
+                    "es": "C",
+                    "tl": "C",
+                    "zh": "C"
+                },
+                "question_text": {
+                    "en": "Shall the City overturn the law passed by the Board of Supervisors suspending the sale of electronic cigarettes until they receive FDA authorization, and adopt new regulations on the sale, manufacture, distribution and advertising of electronic cigarettes in San Francisco?",
+                    "es": "&iquest;Deber&iacute;a la Ciudad anular la ley aprobada por el Consejo de Supervisores que suspende la venta de cigarrillos electr&oacute;nicos hasta que obtengan la autorizaci&oacute;n de la FDA, y adoptar nuevos reglamentos para la venta, manufactura, distribuci&oacute;n y publicidad de cigarrillos electr&oacute;nicos en San Francisco?",
+                    "tl": "Dapat bang ipawalang-bisa ng Lungsod ang batas na ipinasa ng Board of Supervisors (Lupon ng mga Superbisor) na pinahihinto ang pagbebenta ng elektronikong sigarilyo hanggang sa makatanggap ang mga ito ng awtorisasyon ng FDA, at magpatibay ng mga bagong regulasyon ukol sa pagbebenta, pagmamanupaktura, at pamamahagi ng elektronikong sigarilyo, at sa paggawa ng adbertisment ukol sa mga ito, sa San Francisco?",
+                    "zh": "市府是否應推翻市議會通過的暫停銷售電子煙直至其獲得美國食品與藥物管理局批准的法令，並採納新規定以規範電子煙在三藩市的售賣、製造、分銷和廣告？"
+                },
+                "approval_required": "Majority",
+                "choices": [
+                    {
+                        "_id": "32",
+                        "_id_ext": "32",
+                        "ballot_title": {
+                            "en": "YES",
+                            "es": "SÍ",
+                            "tl": "OO",
+                            "zh": "贊成"
+                        },
+                        "sequence": "320"
+                    },
+                    {
+                        "_id": "33",
+                        "_id_ext": "33",
+                        "ballot_title": {
+                            "en": "NO",
+                            "tl": "HINDI",
+                            "zh": "反對"
+                        },
+                        "sequence": "330"
+                    }
+                ],
+                "result_style": "EMS"
+            },
+            {
+                "_id": "345",
+                "_id_ext": "345",
+                "_type": "measure",
+                "header_id": "129",
+                "ballot_title": {
+                    "en": "D",
+                    "es": "",
+                    "tl": ""
+                },
+                "name": {
+                    "en": "Local Measure D",
+                    "es": "D",
+                    "tl": "D",
+                    "zh": "D"
+                },
+                "question_text": {
+                    "en": "Shall the City impose a 1.5% business tax on shared rides and a 3.25% business tax on private rides for fares charged by commercial ride-share and driverless-vehicle companies until November 5, 2045, raising an estimated $30-35 million annually, to fund improvements in Muni service and bicycle and pedestrian safety?",
+                    "es": "&iquest;Deber&iacute;a la Ciudad imponer un impuesto empresarial del 1.5% a las tarifas de viajes compartidos y un impuesto empresarial del 3.25% a las tarifas de viajes particulares cobradas por empresas de viajes compartidos y de veh&iacute;culos sin conductor hasta el 5 de noviembre de 2045, con una recaudaci&oacute;n calculada de $30-35 millones anuales, para financiar mejoras al servicio de Muni y mejoras para la seguridad de los ciclistas y peatones?",
+                    "tl": "Dapat bang magpataw ang Lungsod ng 1.5% buwis sa negosyo sa shared rides (tulad halimbawa ng Uber o Lyft) at ng 3.25% buwis sa negosyo sa mga pribadong pagsakay para sa pamasaheng sinisingil ng komersiyal na kompanyang ride-share at kompanya ng mga driverless-vehicle (sasakyang walang nagmamaneho), hanggang sa Nobyembre 5, 2045, na hahantong sa pagkakaroon ng tinatayang $30-35 milyon taon-taon, upang mapondohan ang mga pagpapahusay sa serbisyo ng Muni at kaligtasan ng mga bisikleta at naglalakad?",
+                    "zh": "市府是否應對商業共乘以及無人駕駛車公司所收取的車費徵收一項1.5% 共乘營業稅以及一項3.25% 私乘營業稅，直到2045年11月5日為止，預估每年可增加3,000至3,500萬元的收入，用以資助Muni服務以及自行車和行人安全的改善工作？"
+                },
+                "approval_required": "Majority",
+                "choices": [
+                    {
+                        "_id": "32",
+                        "_id_ext": "32",
+                        "ballot_title": {
+                            "en": "YES",
+                            "es": "SÍ",
+                            "tl": "OO",
+                            "zh": "贊成"
+                        },
+                        "sequence": "320"
+                    },
+                    {
+                        "_id": "33",
+                        "_id_ext": "33",
+                        "ballot_title": {
+                            "en": "NO",
+                            "tl": "HINDI",
+                            "zh": "反對"
+                        },
+                        "sequence": "330"
+                    }
+                ],
+                "result_style": "EMS"
+            },
+            {
+                "_id": "346",
+                "_id_ext": "346",
+                "_type": "measure",
+                "header_id": "129",
+                "ballot_title": {
+                    "en": "E",
+                    "es": "",
+                    "tl": ""
+                },
+                "name": {
+                    "en": "Local Measure E",
+                    "es": "E",
+                    "tl": "E",
+                    "zh": "E"
+                },
+                "question_text": {
+                    "en": "Shall the City amend the Planning Code to allow 100% Affordable Housing Projects and Educator Housing Projects in public zoning districts and to expedite approval of these projects?",
+                    "es": "&iquest;Deber&iacute;a la Ciudad enmendar el C&oacute;digo de Planificaci&oacute;n para permitir Proyectos con un 100% de Viviendas a Precios Asequibles y Proyectos de Viviendas para Educadores en distritos con zonificaci&oacute;n p&uacute;blica, y para acelerar la aprobaci&oacute;n de estos proyectos?",
+                    "tl": "Dapat bang amyendahan ng Lungsod ang Planning Code (Kodigo sa Pagpaplano) upang mapahintulutan ang 100% Mga Proyekto para sa Abot-Kayang Pabahay at Mga Proyektong Pabahay para sa mga Edukador sa mga public zoning district (sona sa distrito na para sa mga pampublikong pasilidad), at pabilisin ang pag-apruba sa mga proyektong ito?",
+                    "zh": "市府是否應修改規劃法，允許於公共用地分區興建100%可負擔房屋和教育工作者房屋並加速批准這些項目？"
+                },
+                "approval_required": "Majority",
+                "choices": [
+                    {
+                        "_id": "32",
+                        "_id_ext": "32",
+                        "ballot_title": {
+                            "en": "YES",
+                            "es": "SÍ",
+                            "tl": "OO",
+                            "zh": "贊成"
+                        },
+                        "sequence": "320"
+                    },
+                    {
+                        "_id": "33",
+                        "_id_ext": "33",
+                        "ballot_title": {
+                            "en": "NO",
+                            "tl": "HINDI",
+                            "zh": "反對"
+                        },
+                        "sequence": "330"
+                    }
+                ],
+                "result_style": "EMS"
+            },
+            {
+                "_id": "354",
+                "_id_ext": "354",
+                "_type": "measure",
+                "header_id": "129",
+                "ballot_title": {
+                    "en": "F",
+                    "es": "",
+                    "tl": ""
+                },
+                "name": {
+                    "en": "Local Measure F",
+                    "es": "F",
+                    "tl": "F",
+                    "zh": "F"
+                },
+                "question_text": {
+                    "en": "Shall the City establish new restrictions on campaign contributions to local elected officials and candidates, and apply new disclaimer requirements to campaign advertisements?",
+                    "es": "&iquest;Deber&iacute;a la Ciudad establecer nuevas restricciones a las contribuciones de campa&ntilde;a para funcionarios electos y candidatos locales, y aplicar nuevos requisitos de exenci&oacute;n de responsabilidad a los anuncios publicitarios de campa&ntilde;a?",
+                    "tl": "Dapat bang magtakda ang Lungsod ng mga bagong restriksiyon sa mga kontribusyon sa kampanya ng lokal na inihahalal na opisyal at kandidato, at ipatupad ang bagong mga itinatakda sa disclaimer o pagtatatuwa na nasa adbertisment sa kampanya?",
+                    "zh": "市府是否應對捐給地方民選官員和候選人的競選捐款設立新限制，並且對競選廣告作出新的免責聲明要求？"
+                },
+                "approval_required": "Majority",
+                "choices": [
+                    {
+                        "_id": "32",
+                        "_id_ext": "32",
+                        "ballot_title": {
+                            "en": "YES",
+                            "es": "SÍ",
+                            "tl": "OO",
+                            "zh": "贊成"
+                        },
+                        "sequence": "320"
+                    },
+                    {
+                        "_id": "33",
+                        "_id_ext": "33",
+                        "ballot_title": {
+                            "en": "NO",
+                            "tl": "HINDI",
+                            "zh": "反對"
+                        },
+                        "sequence": "330"
+                    }
+                ],
+                "result_style": "EMS"
+            }
+        ],
+        "turnout": {
+            "_id": "TURNOUT",
+            "_type": "turnout",
+            "ballot_title": {
+                "en": "Registration and Turnout"
+            },
+            "voting_district": "0",
+            "result_style": "EMTE"
+        },
+        "no_voter_precincts": [
+            "1151",
+            "1154",
+            "7954",
+            "9900",
+            "9901",
+            "9902"
+        ]
+    },
+    "languages": [
+        "en",
+        "es",
+        "tl",
+        "zh"
+    ],
+    "areas": [
+        {
+            "_id": "ALLPCTS",
+            "classification": "All",
+            "name": "All Precincts",
+            "short_name": "All Precincts"
+        },
+        {
+            "_id": "PCT1101",
+            "classification": "Precinct",
+            "name": "Precinct 1101",
+            "short_name": "Precinct 1101"
+        },
+        {
+            "_id": "PCT1102",
+            "classification": "Precinct",
+            "name": "Precinct 1102",
+            "short_name": "Precinct 1102"
+        },
+        {
+            "_id": "PCT1103",
+            "classification": "Precinct",
+            "name": "Precinct 1103",
+            "short_name": "Precinct 1103"
+        },
+        {
+            "_id": "PCT1104",
+            "classification": "Precinct",
+            "name": "Precinct 1104/1105",
+            "short_name": "Precinct 1104/1105"
+        },
+        {
+            "_id": "PCT1106",
+            "classification": "Precinct",
+            "name": "Precinct 1106",
+            "short_name": "Precinct 1106"
+        },
+        {
+            "_id": "PCT1107",
+            "classification": "Precinct",
+            "name": "Precinct 1107",
+            "short_name": "Precinct 1107"
+        },
+        {
+            "_id": "PCT1108",
+            "classification": "Precinct",
+            "name": "Precinct 1108",
+            "short_name": "Precinct 1108"
+        },
+        {
+            "_id": "PCT1109",
+            "classification": "Precinct",
+            "name": "Precinct 1109",
+            "short_name": "Precinct 1109"
+        },
+        {
+            "_id": "PCT1111",
+            "classification": "Precinct",
+            "name": "Precinct 1111",
+            "short_name": "Precinct 1111"
+        },
+        {
+            "_id": "PCT1112",
+            "classification": "Precinct",
+            "name": "Precinct 1112",
+            "short_name": "Precinct 1112"
+        },
+        {
+            "_id": "PCT1113",
+            "classification": "Precinct",
+            "name": "Precinct 1113",
+            "short_name": "Precinct 1113"
+        },
+        {
+            "_id": "PCT1114",
+            "classification": "Precinct",
+            "name": "Precinct 1114",
+            "short_name": "Precinct 1114"
+        },
+        {
+            "_id": "PCT1115",
+            "classification": "Precinct",
+            "name": "Precinct 1115",
+            "short_name": "Precinct 1115"
+        },
+        {
+            "_id": "PCT1116",
+            "classification": "Precinct",
+            "name": "Precinct 1116",
+            "short_name": "Precinct 1116"
+        },
+        {
+            "_id": "PCT1117",
+            "classification": "Precinct",
+            "name": "Precinct 1117",
+            "short_name": "Precinct 1117"
+        },
+        {
+            "_id": "PCT1118",
+            "classification": "Precinct",
+            "name": "Precinct 1118",
+            "short_name": "Precinct 1118"
+        },
+        {
+            "_id": "PCT1119",
+            "classification": "Precinct",
+            "name": "Precinct 1119",
+            "short_name": "Precinct 1119"
+        },
+        {
+            "_id": "PCT1121",
+            "classification": "Precinct",
+            "name": "Precinct 1121",
+            "short_name": "Precinct 1121"
+        },
+        {
+            "_id": "PCT1122",
+            "classification": "Precinct",
+            "name": "Precinct 1122",
+            "short_name": "Precinct 1122"
+        },
+        {
+            "_id": "PCT1123",
+            "classification": "Precinct",
+            "name": "Precinct 1123",
+            "short_name": "Precinct 1123"
+        },
+        {
+            "_id": "PCT1124",
+            "classification": "Precinct",
+            "name": "Precinct 1124",
+            "short_name": "Precinct 1124"
+        },
+        {
+            "_id": "PCT1125",
+            "classification": "Precinct",
+            "name": "Precinct 1125",
+            "short_name": "Precinct 1125"
+        },
+        {
+            "_id": "PCT1126",
+            "classification": "Precinct",
+            "name": "Precinct 1126",
+            "short_name": "Precinct 1126"
+        },
+        {
+            "_id": "PCT1127",
+            "classification": "Precinct",
+            "name": "Precinct 1127",
+            "short_name": "Precinct 1127"
+        },
+        {
+            "_id": "PCT1128",
+            "classification": "Precinct",
+            "name": "Precinct 1128",
+            "short_name": "Precinct 1128"
+        },
+        {
+            "_id": "PCT1129",
+            "classification": "Precinct",
+            "name": "Precinct 1129",
+            "short_name": "Precinct 1129"
+        },
+        {
+            "_id": "PCT1131",
+            "classification": "Precinct",
+            "name": "Precinct 1131",
+            "short_name": "Precinct 1131"
+        },
+        {
+            "_id": "PCT1132",
+            "classification": "Precinct",
+            "name": "Precinct 1132",
+            "short_name": "Precinct 1132"
+        },
+        {
+            "_id": "PCT1133",
+            "classification": "Precinct",
+            "name": "Precinct 1133",
+            "short_name": "Precinct 1133"
+        },
+        {
+            "_id": "PCT1134",
+            "classification": "Precinct",
+            "name": "Precinct 1134",
+            "short_name": "Precinct 1134"
+        },
+        {
+            "_id": "PCT1135",
+            "classification": "Precinct",
+            "name": "Precinct 1135",
+            "short_name": "Precinct 1135"
+        },
+        {
+            "_id": "PCT1136",
+            "classification": "Precinct",
+            "name": "Precinct 1136",
+            "short_name": "Precinct 1136"
+        },
+        {
+            "_id": "PCT1141",
+            "classification": "Precinct",
+            "name": "Precinct 1141",
+            "short_name": "Precinct 1141"
+        },
+        {
+            "_id": "PCT1142",
+            "classification": "Precinct",
+            "name": "Precinct 1142",
+            "short_name": "Precinct 1142"
+        },
+        {
+            "_id": "PCT1143",
+            "classification": "Precinct",
+            "name": "Precinct 1143",
+            "short_name": "Precinct 1143"
+        },
+        {
+            "_id": "PCT1144",
+            "classification": "Precinct",
+            "name": "Precinct 1144",
+            "short_name": "Precinct 1144"
+        },
+        {
+            "_id": "PCT1145",
+            "classification": "Precinct",
+            "name": "Precinct 1145",
+            "short_name": "Precinct 1145"
+        },
+        {
+            "_id": "PCT1146",
+            "classification": "Precinct",
+            "name": "Precinct 1146",
+            "short_name": "Precinct 1146"
+        },
+        {
+            "_id": "PCT1147",
+            "classification": "Precinct",
+            "name": "Precinct 1147",
+            "short_name": "Precinct 1147"
+        },
+        {
+            "_id": "PCT1148",
+            "classification": "Precinct",
+            "name": "Precinct 1148",
+            "short_name": "Precinct 1148"
+        },
+        {
+            "_id": "PCT1149",
+            "classification": "Precinct",
+            "name": "Precinct 1149",
+            "short_name": "Precinct 1149"
+        },
+        {
+            "_id": "PCT1151",
+            "classification": "Precinct",
+            "name": "Precinct 1151 MB",
+            "short_name": "Precinct 1151 MB",
+            "is_vbm": true,
+            "has_no_voters": true
+        },
+        {
+            "_id": "PCT1152",
+            "classification": "Precinct",
+            "name": "Precinct 1152",
+            "short_name": "Precinct 1152"
+        },
+        {
+            "_id": "PCT1153",
+            "classification": "Precinct",
+            "name": "Precinct 1153",
+            "short_name": "Precinct 1153"
+        },
+        {
+            "_id": "PCT1154",
+            "classification": "Precinct",
+            "name": "Precinct 1154 MB",
+            "short_name": "Precinct 1154 MB",
+            "is_vbm": true,
+            "has_no_voters": true
+        },
+        {
+            "_id": "PCT7001",
+            "classification": "Precinct",
+            "name": "Precinct 7001",
+            "short_name": "Precinct 7001"
+        },
+        {
+            "_id": "PCT7002",
+            "classification": "Precinct",
+            "name": "Precinct 7002",
+            "short_name": "Precinct 7002"
+        },
+        {
+            "_id": "PCT7003",
+            "classification": "Precinct",
+            "name": "Precinct 7003",
+            "short_name": "Precinct 7003"
+        },
+        {
+            "_id": "PCT7004",
+            "classification": "Precinct",
+            "name": "Precinct 7004",
+            "short_name": "Precinct 7004"
+        },
+        {
+            "_id": "PCT7005",
+            "classification": "Precinct",
+            "name": "Precinct 7005",
+            "short_name": "Precinct 7005"
+        },
+        {
+            "_id": "PCT7006",
+            "classification": "Precinct",
+            "name": "Precinct 7006",
+            "short_name": "Precinct 7006"
+        },
+        {
+            "_id": "PCT7007",
+            "classification": "Precinct",
+            "name": "Precinct 7007",
+            "short_name": "Precinct 7007"
+        },
+        {
+            "_id": "PCT7008",
+            "classification": "Precinct",
+            "name": "Precinct 7008",
+            "short_name": "Precinct 7008"
+        },
+        {
+            "_id": "PCT7009",
+            "classification": "Precinct",
+            "name": "Precinct 7009",
+            "short_name": "Precinct 7009"
+        },
+        {
+            "_id": "PCT7011",
+            "classification": "Precinct",
+            "name": "Precinct 7011",
+            "short_name": "Precinct 7011"
+        },
+        {
+            "_id": "PCT7012",
+            "classification": "Precinct",
+            "name": "Precinct 7012",
+            "short_name": "Precinct 7012"
+        },
+        {
+            "_id": "PCT7013",
+            "classification": "Precinct",
+            "name": "Precinct 7013",
+            "short_name": "Precinct 7013"
+        },
+        {
+            "_id": "PCT7014",
+            "classification": "Precinct",
+            "name": "Precinct 7014",
+            "short_name": "Precinct 7014"
+        },
+        {
+            "_id": "PCT7015",
+            "classification": "Precinct",
+            "name": "Precinct 7015 MB",
+            "short_name": "Precinct 7015 MB",
+            "is_vbm": true
+        },
+        {
+            "_id": "PCT7016",
+            "classification": "Precinct",
+            "name": "Precinct 7016",
+            "short_name": "Precinct 7016"
+        },
+        {
+            "_id": "PCT7017",
+            "classification": "Precinct",
+            "name": "Precinct 7017",
+            "short_name": "Precinct 7017"
+        },
+        {
+            "_id": "PCT7018",
+            "classification": "Precinct",
+            "name": "Precinct 7018",
+            "short_name": "Precinct 7018"
+        },
+        {
+            "_id": "PCT7019",
+            "classification": "Precinct",
+            "name": "Precinct 7019",
+            "short_name": "Precinct 7019"
+        },
+        {
+            "_id": "PCT7021",
+            "classification": "Precinct",
+            "name": "Precinct 7021",
+            "short_name": "Precinct 7021"
+        },
+        {
+            "_id": "PCT7022",
+            "classification": "Precinct",
+            "name": "Precinct 7022",
+            "short_name": "Precinct 7022"
+        },
+        {
+            "_id": "PCT7023",
+            "classification": "Precinct",
+            "name": "Precinct 7023",
+            "short_name": "Precinct 7023"
+        },
+        {
+            "_id": "PCT7024",
+            "classification": "Precinct",
+            "name": "Precinct 7024",
+            "short_name": "Precinct 7024"
+        },
+        {
+            "_id": "PCT7025",
+            "classification": "Precinct",
+            "name": "Precinct 7025",
+            "short_name": "Precinct 7025"
+        },
+        {
+            "_id": "PCT7026",
+            "classification": "Precinct",
+            "name": "Precinct 7026",
+            "short_name": "Precinct 7026"
+        },
+        {
+            "_id": "PCT7027",
+            "classification": "Precinct",
+            "name": "Precinct 7027",
+            "short_name": "Precinct 7027"
+        },
+        {
+            "_id": "PCT7028",
+            "classification": "Precinct",
+            "name": "Precinct 7028",
+            "short_name": "Precinct 7028"
+        },
+        {
+            "_id": "PCT7029",
+            "classification": "Precinct",
+            "name": "Precinct 7029",
+            "short_name": "Precinct 7029"
+        },
+        {
+            "_id": "PCT7030",
+            "classification": "Precinct",
+            "name": "Precinct 7030",
+            "short_name": "Precinct 7030"
+        },
+        {
+            "_id": "PCT7031",
+            "classification": "Precinct",
+            "name": "Precinct 7031",
+            "short_name": "Precinct 7031"
+        },
+        {
+            "_id": "PCT7032",
+            "classification": "Precinct",
+            "name": "Precinct 7032",
+            "short_name": "Precinct 7032"
+        },
+        {
+            "_id": "PCT7033",
+            "classification": "Precinct",
+            "name": "Precinct 7033",
+            "short_name": "Precinct 7033"
+        },
+        {
+            "_id": "PCT7034",
+            "classification": "Precinct",
+            "name": "Precinct 7034",
+            "short_name": "Precinct 7034"
+        },
+        {
+            "_id": "PCT7035",
+            "classification": "Precinct",
+            "name": "Precinct 7035",
+            "short_name": "Precinct 7035"
+        },
+        {
+            "_id": "PCT7036",
+            "classification": "Precinct",
+            "name": "Precinct 7036",
+            "short_name": "Precinct 7036"
+        },
+        {
+            "_id": "PCT7037",
+            "classification": "Precinct",
+            "name": "Precinct 7037",
+            "short_name": "Precinct 7037"
+        },
+        {
+            "_id": "PCT7038",
+            "classification": "Precinct",
+            "name": "Precinct 7038",
+            "short_name": "Precinct 7038"
+        },
+        {
+            "_id": "PCT7039",
+            "classification": "Precinct",
+            "name": "Precinct 7039",
+            "short_name": "Precinct 7039"
+        },
+        {
+            "_id": "PCT7041",
+            "classification": "Precinct",
+            "name": "Precinct 7041 MB",
+            "short_name": "Precinct 7041 MB",
+            "is_vbm": true
+        },
+        {
+            "_id": "PCT7042",
+            "classification": "Precinct",
+            "name": "Precinct 7042",
+            "short_name": "Precinct 7042"
+        },
+        {
+            "_id": "PCT7043",
+            "classification": "Precinct",
+            "name": "Precinct 7043",
+            "short_name": "Precinct 7043"
+        },
+        {
+            "_id": "PCT7044",
+            "classification": "Precinct",
+            "name": "Precinct 7044",
+            "short_name": "Precinct 7044"
+        },
+        {
+            "_id": "PCT7045",
+            "classification": "Precinct",
+            "name": "Precinct 7045",
+            "short_name": "Precinct 7045"
+        },
+        {
+            "_id": "PCT7046",
+            "classification": "Precinct",
+            "name": "Precinct 7046",
+            "short_name": "Precinct 7046"
+        },
+        {
+            "_id": "PCT7047",
+            "classification": "Precinct",
+            "name": "Precinct 7047",
+            "short_name": "Precinct 7047"
+        },
+        {
+            "_id": "PCT7048",
+            "classification": "Precinct",
+            "name": "Precinct 7048",
+            "short_name": "Precinct 7048"
+        },
+        {
+            "_id": "PCT7049",
+            "classification": "Precinct",
+            "name": "Precinct 7049",
+            "short_name": "Precinct 7049"
+        },
+        {
+            "_id": "PCT7051",
+            "classification": "Precinct",
+            "name": "Precinct 7051",
+            "short_name": "Precinct 7051"
+        },
+        {
+            "_id": "PCT7052",
+            "classification": "Precinct",
+            "name": "Precinct 7052",
+            "short_name": "Precinct 7052"
+        },
+        {
+            "_id": "PCT7053",
+            "classification": "Precinct",
+            "name": "Precinct 7053",
+            "short_name": "Precinct 7053"
+        },
+        {
+            "_id": "PCT7054",
+            "classification": "Precinct",
+            "name": "Precinct 7054",
+            "short_name": "Precinct 7054"
+        },
+        {
+            "_id": "PCT7055",
+            "classification": "Precinct",
+            "name": "Precinct 7055",
+            "short_name": "Precinct 7055"
+        },
+        {
+            "_id": "PCT7101",
+            "classification": "Precinct",
+            "name": "Precinct 7101 MB",
+            "short_name": "Precinct 7101 MB",
+            "is_vbm": true
+        },
+        {
+            "_id": "PCT7201",
+            "classification": "Precinct",
+            "name": "Precinct 7201",
+            "short_name": "Precinct 7201"
+        },
+        {
+            "_id": "PCT7202",
+            "classification": "Precinct",
+            "name": "Precinct 7202",
+            "short_name": "Precinct 7202"
+        },
+        {
+            "_id": "PCT7203",
+            "classification": "Precinct",
+            "name": "Precinct 7203",
+            "short_name": "Precinct 7203"
+        },
+        {
+            "_id": "PCT7204",
+            "classification": "Precinct",
+            "name": "Precinct 7204",
+            "short_name": "Precinct 7204"
+        },
+        {
+            "_id": "PCT7205",
+            "classification": "Precinct",
+            "name": "Precinct 7205",
+            "short_name": "Precinct 7205"
+        },
+        {
+            "_id": "PCT7206",
+            "classification": "Precinct",
+            "name": "Precinct 7206",
+            "short_name": "Precinct 7206"
+        },
+        {
+            "_id": "PCT7207",
+            "classification": "Precinct",
+            "name": "Precinct 7207",
+            "short_name": "Precinct 7207"
+        },
+        {
+            "_id": "PCT7208",
+            "classification": "Precinct",
+            "name": "Precinct 7208",
+            "short_name": "Precinct 7208"
+        },
+        {
+            "_id": "PCT7209",
+            "classification": "Precinct",
+            "name": "Precinct 7209",
+            "short_name": "Precinct 7209"
+        },
+        {
+            "_id": "PCT7301",
+            "classification": "Precinct",
+            "name": "Precinct 7301",
+            "short_name": "Precinct 7301"
+        },
+        {
+            "_id": "PCT7302",
+            "classification": "Precinct",
+            "name": "Precinct 7302",
+            "short_name": "Precinct 7302"
+        },
+        {
+            "_id": "PCT7303",
+            "classification": "Precinct",
+            "name": "Precinct 7303",
+            "short_name": "Precinct 7303"
+        },
+        {
+            "_id": "PCT7304",
+            "classification": "Precinct",
+            "name": "Precinct 7304",
+            "short_name": "Precinct 7304"
+        },
+        {
+            "_id": "PCT7305",
+            "classification": "Precinct",
+            "name": "Precinct 7305",
+            "short_name": "Precinct 7305"
+        },
+        {
+            "_id": "PCT7306",
+            "classification": "Precinct",
+            "name": "Precinct 7306",
+            "short_name": "Precinct 7306"
+        },
+        {
+            "_id": "PCT7307",
+            "classification": "Precinct",
+            "name": "Precinct 7307",
+            "short_name": "Precinct 7307"
+        },
+        {
+            "_id": "PCT7308",
+            "classification": "Precinct",
+            "name": "Precinct 7308",
+            "short_name": "Precinct 7308"
+        },
+        {
+            "_id": "PCT7309",
+            "classification": "Precinct",
+            "name": "Precinct 7309",
+            "short_name": "Precinct 7309"
+        },
+        {
+            "_id": "PCT7311",
+            "classification": "Precinct",
+            "name": "Precinct 7311",
+            "short_name": "Precinct 7311"
+        },
+        {
+            "_id": "PCT7312",
+            "classification": "Precinct",
+            "name": "Precinct 7312",
+            "short_name": "Precinct 7312"
+        },
+        {
+            "_id": "PCT7313",
+            "classification": "Precinct",
+            "name": "Precinct 7313",
+            "short_name": "Precinct 7313"
+        },
+        {
+            "_id": "PCT7314",
+            "classification": "Precinct",
+            "name": "Precinct 7314",
+            "short_name": "Precinct 7314"
+        },
+        {
+            "_id": "PCT7315",
+            "classification": "Precinct",
+            "name": "Precinct 7315",
+            "short_name": "Precinct 7315"
+        },
+        {
+            "_id": "PCT7316",
+            "classification": "Precinct",
+            "name": "Precinct 7316",
+            "short_name": "Precinct 7316"
+        },
+        {
+            "_id": "PCT7317",
+            "classification": "Precinct",
+            "name": "Precinct 7317",
+            "short_name": "Precinct 7317"
+        },
+        {
+            "_id": "PCT7318",
+            "classification": "Precinct",
+            "name": "Precinct 7318",
+            "short_name": "Precinct 7318"
+        },
+        {
+            "_id": "PCT7319",
+            "classification": "Precinct",
+            "name": "Precinct 7319",
+            "short_name": "Precinct 7319"
+        },
+        {
+            "_id": "PCT7321",
+            "classification": "Precinct",
+            "name": "Precinct 7321",
+            "short_name": "Precinct 7321"
+        },
+        {
+            "_id": "PCT7322",
+            "classification": "Precinct",
+            "name": "Precinct 7322",
+            "short_name": "Precinct 7322"
+        },
+        {
+            "_id": "PCT7323",
+            "classification": "Precinct",
+            "name": "Precinct 7323",
+            "short_name": "Precinct 7323"
+        },
+        {
+            "_id": "PCT7324",
+            "classification": "Precinct",
+            "name": "Precinct 7324",
+            "short_name": "Precinct 7324"
+        },
+        {
+            "_id": "PCT7325",
+            "classification": "Precinct",
+            "name": "Precinct 7325",
+            "short_name": "Precinct 7325"
+        },
+        {
+            "_id": "PCT7326",
+            "classification": "Precinct",
+            "name": "Precinct 7326",
+            "short_name": "Precinct 7326"
+        },
+        {
+            "_id": "PCT7327",
+            "classification": "Precinct",
+            "name": "Precinct 7327",
+            "short_name": "Precinct 7327"
+        },
+        {
+            "_id": "PCT7328",
+            "classification": "Precinct",
+            "name": "Precinct 7328",
+            "short_name": "Precinct 7328"
+        },
+        {
+            "_id": "PCT7329",
+            "classification": "Precinct",
+            "name": "Precinct 7329",
+            "short_name": "Precinct 7329"
+        },
+        {
+            "_id": "PCT7331",
+            "classification": "Precinct",
+            "name": "Precinct 7331",
+            "short_name": "Precinct 7331"
+        },
+        {
+            "_id": "PCT7332",
+            "classification": "Precinct",
+            "name": "Precinct 7332",
+            "short_name": "Precinct 7332"
+        },
+        {
+            "_id": "PCT7333",
+            "classification": "Precinct",
+            "name": "Precinct 7333",
+            "short_name": "Precinct 7333"
+        },
+        {
+            "_id": "PCT7334",
+            "classification": "Precinct",
+            "name": "Precinct 7334",
+            "short_name": "Precinct 7334"
+        },
+        {
+            "_id": "PCT7335",
+            "classification": "Precinct",
+            "name": "Precinct 7335",
+            "short_name": "Precinct 7335"
+        },
+        {
+            "_id": "PCT7336",
+            "classification": "Precinct",
+            "name": "Precinct 7336",
+            "short_name": "Precinct 7336"
+        },
+        {
+            "_id": "PCT7337",
+            "classification": "Precinct",
+            "name": "Precinct 7337",
+            "short_name": "Precinct 7337"
+        },
+        {
+            "_id": "PCT7338",
+            "classification": "Precinct",
+            "name": "Precinct 7338",
+            "short_name": "Precinct 7338"
+        },
+        {
+            "_id": "PCT7339",
+            "classification": "Precinct",
+            "name": "Precinct 7339",
+            "short_name": "Precinct 7339"
+        },
+        {
+            "_id": "PCT7341",
+            "classification": "Precinct",
+            "name": "Precinct 7341",
+            "short_name": "Precinct 7341"
+        },
+        {
+            "_id": "PCT7342",
+            "classification": "Precinct",
+            "name": "Precinct 7342",
+            "short_name": "Precinct 7342"
+        },
+        {
+            "_id": "PCT7343",
+            "classification": "Precinct",
+            "name": "Precinct 7343",
+            "short_name": "Precinct 7343"
+        },
+        {
+            "_id": "PCT7344",
+            "classification": "Precinct",
+            "name": "Precinct 7344",
+            "short_name": "Precinct 7344"
+        },
+        {
+            "_id": "PCT7345",
+            "classification": "Precinct",
+            "name": "Precinct 7345",
+            "short_name": "Precinct 7345"
+        },
+        {
+            "_id": "PCT7346",
+            "classification": "Precinct",
+            "name": "Precinct 7346",
+            "short_name": "Precinct 7346"
+        },
+        {
+            "_id": "PCT7347",
+            "classification": "Precinct",
+            "name": "Precinct 7347",
+            "short_name": "Precinct 7347"
+        },
+        {
+            "_id": "PCT7348",
+            "classification": "Precinct",
+            "name": "Precinct 7348",
+            "short_name": "Precinct 7348"
+        },
+        {
+            "_id": "PCT7349",
+            "classification": "Precinct",
+            "name": "Precinct 7349",
+            "short_name": "Precinct 7349"
+        },
+        {
+            "_id": "PCT7501",
+            "classification": "Precinct",
+            "name": "Precinct 7501",
+            "short_name": "Precinct 7501"
+        },
+        {
+            "_id": "PCT7502",
+            "classification": "Precinct",
+            "name": "Precinct 7502",
+            "short_name": "Precinct 7502"
+        },
+        {
+            "_id": "PCT7503",
+            "classification": "Precinct",
+            "name": "Precinct 7503",
+            "short_name": "Precinct 7503"
+        },
+        {
+            "_id": "PCT7504",
+            "classification": "Precinct",
+            "name": "Precinct 7504",
+            "short_name": "Precinct 7504"
+        },
+        {
+            "_id": "PCT7505",
+            "classification": "Precinct",
+            "name": "Precinct 7505",
+            "short_name": "Precinct 7505"
+        },
+        {
+            "_id": "PCT7506",
+            "classification": "Precinct",
+            "name": "Precinct 7506",
+            "short_name": "Precinct 7506"
+        },
+        {
+            "_id": "PCT7507",
+            "classification": "Precinct",
+            "name": "Precinct 7507",
+            "short_name": "Precinct 7507"
+        },
+        {
+            "_id": "PCT7508",
+            "classification": "Precinct",
+            "name": "Precinct 7508",
+            "short_name": "Precinct 7508"
+        },
+        {
+            "_id": "PCT7509",
+            "classification": "Precinct",
+            "name": "Precinct 7509/7511",
+            "short_name": "Precinct 7509/7511"
+        },
+        {
+            "_id": "PCT7512",
+            "classification": "Precinct",
+            "name": "Precinct 7512",
+            "short_name": "Precinct 7512"
+        },
+        {
+            "_id": "PCT7513",
+            "classification": "Precinct",
+            "name": "Precinct 7513",
+            "short_name": "Precinct 7513"
+        },
+        {
+            "_id": "PCT7514",
+            "classification": "Precinct",
+            "name": "Precinct 7514",
+            "short_name": "Precinct 7514"
+        },
+        {
+            "_id": "PCT7515",
+            "classification": "Precinct",
+            "name": "Precinct 7515",
+            "short_name": "Precinct 7515"
+        },
+        {
+            "_id": "PCT7516",
+            "classification": "Precinct",
+            "name": "Precinct 7516",
+            "short_name": "Precinct 7516"
+        },
+        {
+            "_id": "PCT7517",
+            "classification": "Precinct",
+            "name": "Precinct 7517",
+            "short_name": "Precinct 7517"
+        },
+        {
+            "_id": "PCT7518",
+            "classification": "Precinct",
+            "name": "Precinct 7518",
+            "short_name": "Precinct 7518"
+        },
+        {
+            "_id": "PCT7519",
+            "classification": "Precinct",
+            "name": "Precinct 7519",
+            "short_name": "Precinct 7519"
+        },
+        {
+            "_id": "PCT7521",
+            "classification": "Precinct",
+            "name": "Precinct 7521",
+            "short_name": "Precinct 7521"
+        },
+        {
+            "_id": "PCT7522",
+            "classification": "Precinct",
+            "name": "Precinct 7522",
+            "short_name": "Precinct 7522"
+        },
+        {
+            "_id": "PCT7523",
+            "classification": "Precinct",
+            "name": "Precinct 7523",
+            "short_name": "Precinct 7523"
+        },
+        {
+            "_id": "PCT7524",
+            "classification": "Precinct",
+            "name": "Precinct 7524",
+            "short_name": "Precinct 7524"
+        },
+        {
+            "_id": "PCT7525",
+            "classification": "Precinct",
+            "name": "Precinct 7525",
+            "short_name": "Precinct 7525"
+        },
+        {
+            "_id": "PCT7526",
+            "classification": "Precinct",
+            "name": "Precinct 7526",
+            "short_name": "Precinct 7526"
+        },
+        {
+            "_id": "PCT7527",
+            "classification": "Precinct",
+            "name": "Precinct 7527/7528",
+            "short_name": "Precinct 7527/7528"
+        },
+        {
+            "_id": "PCT7529",
+            "classification": "Precinct",
+            "name": "Precinct 7529",
+            "short_name": "Precinct 7529"
+        },
+        {
+            "_id": "PCT7531",
+            "classification": "Precinct",
+            "name": "Precinct 7531",
+            "short_name": "Precinct 7531"
+        },
+        {
+            "_id": "PCT7532",
+            "classification": "Precinct",
+            "name": "Precinct 7532",
+            "short_name": "Precinct 7532"
+        },
+        {
+            "_id": "PCT7533",
+            "classification": "Precinct",
+            "name": "Precinct 7533",
+            "short_name": "Precinct 7533"
+        },
+        {
+            "_id": "PCT7534",
+            "classification": "Precinct",
+            "name": "Precinct 7534",
+            "short_name": "Precinct 7534"
+        },
+        {
+            "_id": "PCT7535",
+            "classification": "Precinct",
+            "name": "Precinct 7535",
+            "short_name": "Precinct 7535"
+        },
+        {
+            "_id": "PCT7536",
+            "classification": "Precinct",
+            "name": "Precinct 7536",
+            "short_name": "Precinct 7536"
+        },
+        {
+            "_id": "PCT7537",
+            "classification": "Precinct",
+            "name": "Precinct 7537",
+            "short_name": "Precinct 7537"
+        },
+        {
+            "_id": "PCT7538",
+            "classification": "Precinct",
+            "name": "Precinct 7538",
+            "short_name": "Precinct 7538"
+        },
+        {
+            "_id": "PCT7539",
+            "classification": "Precinct",
+            "name": "Precinct 7539",
+            "short_name": "Precinct 7539"
+        },
+        {
+            "_id": "PCT7541",
+            "classification": "Precinct",
+            "name": "Precinct 7541",
+            "short_name": "Precinct 7541"
+        },
+        {
+            "_id": "PCT7542",
+            "classification": "Precinct",
+            "name": "Precinct 7542",
+            "short_name": "Precinct 7542"
+        },
+        {
+            "_id": "PCT7543",
+            "classification": "Precinct",
+            "name": "Precinct 7543",
+            "short_name": "Precinct 7543"
+        },
+        {
+            "_id": "PCT7544",
+            "classification": "Precinct",
+            "name": "Precinct 7544",
+            "short_name": "Precinct 7544"
+        },
+        {
+            "_id": "PCT7545",
+            "classification": "Precinct",
+            "name": "Precinct 7545",
+            "short_name": "Precinct 7545"
+        },
+        {
+            "_id": "PCT7546",
+            "classification": "Precinct",
+            "name": "Precinct 7546",
+            "short_name": "Precinct 7546"
+        },
+        {
+            "_id": "PCT7547",
+            "classification": "Precinct",
+            "name": "Precinct 7547",
+            "short_name": "Precinct 7547"
+        },
+        {
+            "_id": "PCT7548",
+            "classification": "Precinct",
+            "name": "Precinct 7548",
+            "short_name": "Precinct 7548"
+        },
+        {
+            "_id": "PCT7549",
+            "classification": "Precinct",
+            "name": "Precinct 7549",
+            "short_name": "Precinct 7549"
+        },
+        {
+            "_id": "PCT7551",
+            "classification": "Precinct",
+            "name": "Precinct 7551",
+            "short_name": "Precinct 7551"
+        },
+        {
+            "_id": "PCT7552",
+            "classification": "Precinct",
+            "name": "Precinct 7552",
+            "short_name": "Precinct 7552"
+        },
+        {
+            "_id": "PCT7553",
+            "classification": "Precinct",
+            "name": "Precinct 7553 MB",
+            "short_name": "Precinct 7553 MB",
+            "is_vbm": true
+        },
+        {
+            "_id": "PCT7554",
+            "classification": "Precinct",
+            "name": "Precinct 7554",
+            "short_name": "Precinct 7554"
+        },
+        {
+            "_id": "PCT7555",
+            "classification": "Precinct",
+            "name": "Precinct 7555",
+            "short_name": "Precinct 7555"
+        },
+        {
+            "_id": "PCT7556",
+            "classification": "Precinct",
+            "name": "Precinct 7556/7557",
+            "short_name": "Precinct 7556/7557"
+        },
+        {
+            "_id": "PCT7601",
+            "classification": "Precinct",
+            "name": "Precinct 7601",
+            "short_name": "Precinct 7601"
+        },
+        {
+            "_id": "PCT7602",
+            "classification": "Precinct",
+            "name": "Precinct 7602",
+            "short_name": "Precinct 7602"
+        },
+        {
+            "_id": "PCT7603",
+            "classification": "Precinct",
+            "name": "Precinct 7603",
+            "short_name": "Precinct 7603"
+        },
+        {
+            "_id": "PCT7604",
+            "classification": "Precinct",
+            "name": "Precinct 7604",
+            "short_name": "Precinct 7604"
+        },
+        {
+            "_id": "PCT7605",
+            "classification": "Precinct",
+            "name": "Precinct 7605",
+            "short_name": "Precinct 7605"
+        },
+        {
+            "_id": "PCT7606",
+            "classification": "Precinct",
+            "name": "Precinct 7606",
+            "short_name": "Precinct 7606"
+        },
+        {
+            "_id": "PCT7607",
+            "classification": "Precinct",
+            "name": "Precinct 7607",
+            "short_name": "Precinct 7607"
+        },
+        {
+            "_id": "PCT7608",
+            "classification": "Precinct",
+            "name": "Precinct 7608",
+            "short_name": "Precinct 7608"
+        },
+        {
+            "_id": "PCT7609",
+            "classification": "Precinct",
+            "name": "Precinct 7609",
+            "short_name": "Precinct 7609"
+        },
+        {
+            "_id": "PCT7611",
+            "classification": "Precinct",
+            "name": "Precinct 7611",
+            "short_name": "Precinct 7611"
+        },
+        {
+            "_id": "PCT7612",
+            "classification": "Precinct",
+            "name": "Precinct 7612",
+            "short_name": "Precinct 7612"
+        },
+        {
+            "_id": "PCT7613",
+            "classification": "Precinct",
+            "name": "Precinct 7613",
+            "short_name": "Precinct 7613"
+        },
+        {
+            "_id": "PCT7614",
+            "classification": "Precinct",
+            "name": "Precinct 7614",
+            "short_name": "Precinct 7614"
+        },
+        {
+            "_id": "PCT7615",
+            "classification": "Precinct",
+            "name": "Precinct 7615",
+            "short_name": "Precinct 7615"
+        },
+        {
+            "_id": "PCT7616",
+            "classification": "Precinct",
+            "name": "Precinct 7616",
+            "short_name": "Precinct 7616"
+        },
+        {
+            "_id": "PCT7617",
+            "classification": "Precinct",
+            "name": "Precinct 7617",
+            "short_name": "Precinct 7617"
+        },
+        {
+            "_id": "PCT7618",
+            "classification": "Precinct",
+            "name": "Precinct 7618",
+            "short_name": "Precinct 7618"
+        },
+        {
+            "_id": "PCT7619",
+            "classification": "Precinct",
+            "name": "Precinct 7619",
+            "short_name": "Precinct 7619"
+        },
+        {
+            "_id": "PCT7621",
+            "classification": "Precinct",
+            "name": "Precinct 7621",
+            "short_name": "Precinct 7621"
+        },
+        {
+            "_id": "PCT7622",
+            "classification": "Precinct",
+            "name": "Precinct 7622",
+            "short_name": "Precinct 7622"
+        },
+        {
+            "_id": "PCT7623",
+            "classification": "Precinct",
+            "name": "Precinct 7623",
+            "short_name": "Precinct 7623"
+        },
+        {
+            "_id": "PCT7624",
+            "classification": "Precinct",
+            "name": "Precinct 7624",
+            "short_name": "Precinct 7624"
+        },
+        {
+            "_id": "PCT7625",
+            "classification": "Precinct",
+            "name": "Precinct 7625",
+            "short_name": "Precinct 7625"
+        },
+        {
+            "_id": "PCT7626",
+            "classification": "Precinct",
+            "name": "Precinct 7626",
+            "short_name": "Precinct 7626"
+        },
+        {
+            "_id": "PCT7627",
+            "classification": "Precinct",
+            "name": "Precinct 7627",
+            "short_name": "Precinct 7627"
+        },
+        {
+            "_id": "PCT7628",
+            "classification": "Precinct",
+            "name": "Precinct 7628",
+            "short_name": "Precinct 7628"
+        },
+        {
+            "_id": "PCT7629",
+            "classification": "Precinct",
+            "name": "Precinct 7629",
+            "short_name": "Precinct 7629"
+        },
+        {
+            "_id": "PCT7631",
+            "classification": "Precinct",
+            "name": "Precinct 7631",
+            "short_name": "Precinct 7631"
+        },
+        {
+            "_id": "PCT7632",
+            "classification": "Precinct",
+            "name": "Precinct 7632",
+            "short_name": "Precinct 7632"
+        },
+        {
+            "_id": "PCT7633",
+            "classification": "Precinct",
+            "name": "Precinct 7633",
+            "short_name": "Precinct 7633"
+        },
+        {
+            "_id": "PCT7634",
+            "classification": "Precinct",
+            "name": "Precinct 7634",
+            "short_name": "Precinct 7634"
+        },
+        {
+            "_id": "PCT7635",
+            "classification": "Precinct",
+            "name": "Precinct 7635",
+            "short_name": "Precinct 7635"
+        },
+        {
+            "_id": "PCT7636",
+            "classification": "Precinct",
+            "name": "Precinct 7636",
+            "short_name": "Precinct 7636"
+        },
+        {
+            "_id": "PCT7637",
+            "classification": "Precinct",
+            "name": "Precinct 7637",
+            "short_name": "Precinct 7637"
+        },
+        {
+            "_id": "PCT7638",
+            "classification": "Precinct",
+            "name": "Precinct 7638",
+            "short_name": "Precinct 7638"
+        },
+        {
+            "_id": "PCT7639",
+            "classification": "Precinct",
+            "name": "Precinct 7639",
+            "short_name": "Precinct 7639"
+        },
+        {
+            "_id": "PCT7641",
+            "classification": "Precinct",
+            "name": "Precinct 7641",
+            "short_name": "Precinct 7641"
+        },
+        {
+            "_id": "PCT7642",
+            "classification": "Precinct",
+            "name": "Precinct 7642",
+            "short_name": "Precinct 7642"
+        },
+        {
+            "_id": "PCT7643",
+            "classification": "Precinct",
+            "name": "Precinct 7643",
+            "short_name": "Precinct 7643"
+        },
+        {
+            "_id": "PCT7644",
+            "classification": "Precinct",
+            "name": "Precinct 7644",
+            "short_name": "Precinct 7644"
+        },
+        {
+            "_id": "PCT7645",
+            "classification": "Precinct",
+            "name": "Precinct 7645",
+            "short_name": "Precinct 7645"
+        },
+        {
+            "_id": "PCT7646",
+            "classification": "Precinct",
+            "name": "Precinct 7646",
+            "short_name": "Precinct 7646"
+        },
+        {
+            "_id": "PCT7647",
+            "classification": "Precinct",
+            "name": "Precinct 7647",
+            "short_name": "Precinct 7647"
+        },
+        {
+            "_id": "PCT7648",
+            "classification": "Precinct",
+            "name": "Precinct 7648 MB",
+            "short_name": "Precinct 7648 MB",
+            "is_vbm": true
+        },
+        {
+            "_id": "PCT7649",
+            "classification": "Precinct",
+            "name": "Precinct 7649",
+            "short_name": "Precinct 7649"
+        },
+        {
+            "_id": "PCT7651",
+            "classification": "Precinct",
+            "name": "Precinct 7651",
+            "short_name": "Precinct 7651"
+        },
+        {
+            "_id": "PCT7652",
+            "classification": "Precinct",
+            "name": "Precinct 7652",
+            "short_name": "Precinct 7652"
+        },
+        {
+            "_id": "PCT7653",
+            "classification": "Precinct",
+            "name": "Precinct 7653",
+            "short_name": "Precinct 7653"
+        },
+        {
+            "_id": "PCT7701",
+            "classification": "Precinct",
+            "name": "Precinct 7701",
+            "short_name": "Precinct 7701"
+        },
+        {
+            "_id": "PCT7702",
+            "classification": "Precinct",
+            "name": "Precinct 7702",
+            "short_name": "Precinct 7702"
+        },
+        {
+            "_id": "PCT7703",
+            "classification": "Precinct",
+            "name": "Precinct 7703 MB",
+            "short_name": "Precinct 7703 MB",
+            "is_vbm": true
+        },
+        {
+            "_id": "PCT7704",
+            "classification": "Precinct",
+            "name": "Precinct 7704",
+            "short_name": "Precinct 7704"
+        },
+        {
+            "_id": "PCT7705",
+            "classification": "Precinct",
+            "name": "Precinct 7705",
+            "short_name": "Precinct 7705"
+        },
+        {
+            "_id": "PCT7706",
+            "classification": "Precinct",
+            "name": "Precinct 7706",
+            "short_name": "Precinct 7706"
+        },
+        {
+            "_id": "PCT7707",
+            "classification": "Precinct",
+            "name": "Precinct 7707",
+            "short_name": "Precinct 7707"
+        },
+        {
+            "_id": "PCT7708",
+            "classification": "Precinct",
+            "name": "Precinct 7708",
+            "short_name": "Precinct 7708"
+        },
+        {
+            "_id": "PCT7709",
+            "classification": "Precinct",
+            "name": "Precinct 7709",
+            "short_name": "Precinct 7709"
+        },
+        {
+            "_id": "PCT7711",
+            "classification": "Precinct",
+            "name": "Precinct 7711",
+            "short_name": "Precinct 7711"
+        },
+        {
+            "_id": "PCT7712",
+            "classification": "Precinct",
+            "name": "Precinct 7712",
+            "short_name": "Precinct 7712"
+        },
+        {
+            "_id": "PCT7801",
+            "classification": "Precinct",
+            "name": "Precinct 7801",
+            "short_name": "Precinct 7801"
+        },
+        {
+            "_id": "PCT7802",
+            "classification": "Precinct",
+            "name": "Precinct 7802",
+            "short_name": "Precinct 7802"
+        },
+        {
+            "_id": "PCT7803",
+            "classification": "Precinct",
+            "name": "Precinct 7803",
+            "short_name": "Precinct 7803"
+        },
+        {
+            "_id": "PCT7804",
+            "classification": "Precinct",
+            "name": "Precinct 7804",
+            "short_name": "Precinct 7804"
+        },
+        {
+            "_id": "PCT7805",
+            "classification": "Precinct",
+            "name": "Precinct 7805",
+            "short_name": "Precinct 7805"
+        },
+        {
+            "_id": "PCT7806",
+            "classification": "Precinct",
+            "name": "Precinct 7806",
+            "short_name": "Precinct 7806"
+        },
+        {
+            "_id": "PCT7807",
+            "classification": "Precinct",
+            "name": "Precinct 7807",
+            "short_name": "Precinct 7807"
+        },
+        {
+            "_id": "PCT7808",
+            "classification": "Precinct",
+            "name": "Precinct 7808",
+            "short_name": "Precinct 7808"
+        },
+        {
+            "_id": "PCT7809",
+            "classification": "Precinct",
+            "name": "Precinct 7809",
+            "short_name": "Precinct 7809"
+        },
+        {
+            "_id": "PCT7811",
+            "classification": "Precinct",
+            "name": "Precinct 7811",
+            "short_name": "Precinct 7811"
+        },
+        {
+            "_id": "PCT7812",
+            "classification": "Precinct",
+            "name": "Precinct 7812",
+            "short_name": "Precinct 7812"
+        },
+        {
+            "_id": "PCT7813",
+            "classification": "Precinct",
+            "name": "Precinct 7813",
+            "short_name": "Precinct 7813"
+        },
+        {
+            "_id": "PCT7814",
+            "classification": "Precinct",
+            "name": "Precinct 7814",
+            "short_name": "Precinct 7814"
+        },
+        {
+            "_id": "PCT7815",
+            "classification": "Precinct",
+            "name": "Precinct 7815",
+            "short_name": "Precinct 7815"
+        },
+        {
+            "_id": "PCT7816",
+            "classification": "Precinct",
+            "name": "Precinct 7816",
+            "short_name": "Precinct 7816"
+        },
+        {
+            "_id": "PCT7817",
+            "classification": "Precinct",
+            "name": "Precinct 7817",
+            "short_name": "Precinct 7817"
+        },
+        {
+            "_id": "PCT7818",
+            "classification": "Precinct",
+            "name": "Precinct 7818",
+            "short_name": "Precinct 7818"
+        },
+        {
+            "_id": "PCT7819",
+            "classification": "Precinct",
+            "name": "Precinct 7819",
+            "short_name": "Precinct 7819"
+        },
+        {
+            "_id": "PCT7821",
+            "classification": "Precinct",
+            "name": "Precinct 7821",
+            "short_name": "Precinct 7821"
+        },
+        {
+            "_id": "PCT7822",
+            "classification": "Precinct",
+            "name": "Precinct 7822",
+            "short_name": "Precinct 7822"
+        },
+        {
+            "_id": "PCT7823",
+            "classification": "Precinct",
+            "name": "Precinct 7823",
+            "short_name": "Precinct 7823"
+        },
+        {
+            "_id": "PCT7824",
+            "classification": "Precinct",
+            "name": "Precinct 7824",
+            "short_name": "Precinct 7824"
+        },
+        {
+            "_id": "PCT7825",
+            "classification": "Precinct",
+            "name": "Precinct 7825",
+            "short_name": "Precinct 7825"
+        },
+        {
+            "_id": "PCT7826",
+            "classification": "Precinct",
+            "name": "Precinct 7826",
+            "short_name": "Precinct 7826"
+        },
+        {
+            "_id": "PCT7827",
+            "classification": "Precinct",
+            "name": "Precinct 7827",
+            "short_name": "Precinct 7827"
+        },
+        {
+            "_id": "PCT7828",
+            "classification": "Precinct",
+            "name": "Precinct 7828",
+            "short_name": "Precinct 7828"
+        },
+        {
+            "_id": "PCT7829",
+            "classification": "Precinct",
+            "name": "Precinct 7829",
+            "short_name": "Precinct 7829"
+        },
+        {
+            "_id": "PCT7831",
+            "classification": "Precinct",
+            "name": "Precinct 7831",
+            "short_name": "Precinct 7831"
+        },
+        {
+            "_id": "PCT7832",
+            "classification": "Precinct",
+            "name": "Precinct 7832",
+            "short_name": "Precinct 7832"
+        },
+        {
+            "_id": "PCT7833",
+            "classification": "Precinct",
+            "name": "Precinct 7833",
+            "short_name": "Precinct 7833"
+        },
+        {
+            "_id": "PCT7834",
+            "classification": "Precinct",
+            "name": "Precinct 7834",
+            "short_name": "Precinct 7834"
+        },
+        {
+            "_id": "PCT7835",
+            "classification": "Precinct",
+            "name": "Precinct 7835",
+            "short_name": "Precinct 7835"
+        },
+        {
+            "_id": "PCT7836",
+            "classification": "Precinct",
+            "name": "Precinct 7836",
+            "short_name": "Precinct 7836"
+        },
+        {
+            "_id": "PCT7837",
+            "classification": "Precinct",
+            "name": "Precinct 7837",
+            "short_name": "Precinct 7837"
+        },
+        {
+            "_id": "PCT7838",
+            "classification": "Precinct",
+            "name": "Precinct 7838",
+            "short_name": "Precinct 7838"
+        },
+        {
+            "_id": "PCT7839",
+            "classification": "Precinct",
+            "name": "Precinct 7839",
+            "short_name": "Precinct 7839"
+        },
+        {
+            "_id": "PCT7841",
+            "classification": "Precinct",
+            "name": "Precinct 7841",
+            "short_name": "Precinct 7841"
+        },
+        {
+            "_id": "PCT7842",
+            "classification": "Precinct",
+            "name": "Precinct 7842",
+            "short_name": "Precinct 7842"
+        },
+        {
+            "_id": "PCT7843",
+            "classification": "Precinct",
+            "name": "Precinct 7843",
+            "short_name": "Precinct 7843"
+        },
+        {
+            "_id": "PCT7844",
+            "classification": "Precinct",
+            "name": "Precinct 7844",
+            "short_name": "Precinct 7844"
+        },
+        {
+            "_id": "PCT7845",
+            "classification": "Precinct",
+            "name": "Precinct 7845",
+            "short_name": "Precinct 7845"
+        },
+        {
+            "_id": "PCT7846",
+            "classification": "Precinct",
+            "name": "Precinct 7846",
+            "short_name": "Precinct 7846"
+        },
+        {
+            "_id": "PCT7847",
+            "classification": "Precinct",
+            "name": "Precinct 7847",
+            "short_name": "Precinct 7847"
+        },
+        {
+            "_id": "PCT7848",
+            "classification": "Precinct",
+            "name": "Precinct 7848",
+            "short_name": "Precinct 7848"
+        },
+        {
+            "_id": "PCT7849",
+            "classification": "Precinct",
+            "name": "Precinct 7849",
+            "short_name": "Precinct 7849"
+        },
+        {
+            "_id": "PCT7851",
+            "classification": "Precinct",
+            "name": "Precinct 7851",
+            "short_name": "Precinct 7851"
+        },
+        {
+            "_id": "PCT7852",
+            "classification": "Precinct",
+            "name": "Precinct 7852",
+            "short_name": "Precinct 7852"
+        },
+        {
+            "_id": "PCT7853",
+            "classification": "Precinct",
+            "name": "Precinct 7853",
+            "short_name": "Precinct 7853"
+        },
+        {
+            "_id": "PCT7854",
+            "classification": "Precinct",
+            "name": "Precinct 7854",
+            "short_name": "Precinct 7854"
+        },
+        {
+            "_id": "PCT7855",
+            "classification": "Precinct",
+            "name": "Precinct 7855",
+            "short_name": "Precinct 7855"
+        },
+        {
+            "_id": "PCT7856",
+            "classification": "Precinct",
+            "name": "Precinct 7856",
+            "short_name": "Precinct 7856"
+        },
+        {
+            "_id": "PCT7857",
+            "classification": "Precinct",
+            "name": "Precinct 7857",
+            "short_name": "Precinct 7857"
+        },
+        {
+            "_id": "PCT7858",
+            "classification": "Precinct",
+            "name": "Precinct 7858",
+            "short_name": "Precinct 7858"
+        },
+        {
+            "_id": "PCT7859",
+            "classification": "Precinct",
+            "name": "Precinct 7859",
+            "short_name": "Precinct 7859"
+        },
+        {
+            "_id": "PCT7861",
+            "classification": "Precinct",
+            "name": "Precinct 7861",
+            "short_name": "Precinct 7861"
+        },
+        {
+            "_id": "PCT7862",
+            "classification": "Precinct",
+            "name": "Precinct 7862",
+            "short_name": "Precinct 7862"
+        },
+        {
+            "_id": "PCT7863",
+            "classification": "Precinct",
+            "name": "Precinct 7863",
+            "short_name": "Precinct 7863"
+        },
+        {
+            "_id": "PCT7864",
+            "classification": "Precinct",
+            "name": "Precinct 7864",
+            "short_name": "Precinct 7864"
+        },
+        {
+            "_id": "PCT7865",
+            "classification": "Precinct",
+            "name": "Precinct 7865",
+            "short_name": "Precinct 7865"
+        },
+        {
+            "_id": "PCT7866",
+            "classification": "Precinct",
+            "name": "Precinct 7866",
+            "short_name": "Precinct 7866"
+        },
+        {
+            "_id": "PCT7867",
+            "classification": "Precinct",
+            "name": "Precinct 7867",
+            "short_name": "Precinct 7867"
+        },
+        {
+            "_id": "PCT7868",
+            "classification": "Precinct",
+            "name": "Precinct 7868",
+            "short_name": "Precinct 7868"
+        },
+        {
+            "_id": "PCT7869",
+            "classification": "Precinct",
+            "name": "Precinct 7869",
+            "short_name": "Precinct 7869"
+        },
+        {
+            "_id": "PCT7871",
+            "classification": "Precinct",
+            "name": "Precinct 7871",
+            "short_name": "Precinct 7871"
+        },
+        {
+            "_id": "PCT7872",
+            "classification": "Precinct",
+            "name": "Precinct 7872",
+            "short_name": "Precinct 7872"
+        },
+        {
+            "_id": "PCT7873",
+            "classification": "Precinct",
+            "name": "Precinct 7873",
+            "short_name": "Precinct 7873"
+        },
+        {
+            "_id": "PCT7874",
+            "classification": "Precinct",
+            "name": "Precinct 7874",
+            "short_name": "Precinct 7874"
+        },
+        {
+            "_id": "PCT7875",
+            "classification": "Precinct",
+            "name": "Precinct 7875",
+            "short_name": "Precinct 7875"
+        },
+        {
+            "_id": "PCT7876",
+            "classification": "Precinct",
+            "name": "Precinct 7876",
+            "short_name": "Precinct 7876"
+        },
+        {
+            "_id": "PCT7901",
+            "classification": "Precinct",
+            "name": "Precinct 7901",
+            "short_name": "Precinct 7901"
+        },
+        {
+            "_id": "PCT7902",
+            "classification": "Precinct",
+            "name": "Precinct 7902",
+            "short_name": "Precinct 7902"
+        },
+        {
+            "_id": "PCT7903",
+            "classification": "Precinct",
+            "name": "Precinct 7903",
+            "short_name": "Precinct 7903"
+        },
+        {
+            "_id": "PCT7904",
+            "classification": "Precinct",
+            "name": "Precinct 7904",
+            "short_name": "Precinct 7904"
+        },
+        {
+            "_id": "PCT7905",
+            "classification": "Precinct",
+            "name": "Precinct 7905",
+            "short_name": "Precinct 7905"
+        },
+        {
+            "_id": "PCT7906",
+            "classification": "Precinct",
+            "name": "Precinct 7906",
+            "short_name": "Precinct 7906"
+        },
+        {
+            "_id": "PCT7907",
+            "classification": "Precinct",
+            "name": "Precinct 7907",
+            "short_name": "Precinct 7907"
+        },
+        {
+            "_id": "PCT7908",
+            "classification": "Precinct",
+            "name": "Precinct 7908",
+            "short_name": "Precinct 7908"
+        },
+        {
+            "_id": "PCT7909",
+            "classification": "Precinct",
+            "name": "Precinct 7909",
+            "short_name": "Precinct 7909"
+        },
+        {
+            "_id": "PCT7911",
+            "classification": "Precinct",
+            "name": "Precinct 7911",
+            "short_name": "Precinct 7911"
+        },
+        {
+            "_id": "PCT7912",
+            "classification": "Precinct",
+            "name": "Precinct 7912",
+            "short_name": "Precinct 7912"
+        },
+        {
+            "_id": "PCT7913",
+            "classification": "Precinct",
+            "name": "Precinct 7913",
+            "short_name": "Precinct 7913"
+        },
+        {
+            "_id": "PCT7914",
+            "classification": "Precinct",
+            "name": "Precinct 7914",
+            "short_name": "Precinct 7914"
+        },
+        {
+            "_id": "PCT7915",
+            "classification": "Precinct",
+            "name": "Precinct 7915",
+            "short_name": "Precinct 7915"
+        },
+        {
+            "_id": "PCT7916",
+            "classification": "Precinct",
+            "name": "Precinct 7916",
+            "short_name": "Precinct 7916"
+        },
+        {
+            "_id": "PCT7917",
+            "classification": "Precinct",
+            "name": "Precinct 7917",
+            "short_name": "Precinct 7917"
+        },
+        {
+            "_id": "PCT7918",
+            "classification": "Precinct",
+            "name": "Precinct 7918",
+            "short_name": "Precinct 7918"
+        },
+        {
+            "_id": "PCT7919",
+            "classification": "Precinct",
+            "name": "Precinct 7919",
+            "short_name": "Precinct 7919"
+        },
+        {
+            "_id": "PCT7921",
+            "classification": "Precinct",
+            "name": "Precinct 7921",
+            "short_name": "Precinct 7921"
+        },
+        {
+            "_id": "PCT7922",
+            "classification": "Precinct",
+            "name": "Precinct 7922",
+            "short_name": "Precinct 7922"
+        },
+        {
+            "_id": "PCT7923",
+            "classification": "Precinct",
+            "name": "Precinct 7923",
+            "short_name": "Precinct 7923"
+        },
+        {
+            "_id": "PCT7924",
+            "classification": "Precinct",
+            "name": "Precinct 7924",
+            "short_name": "Precinct 7924"
+        },
+        {
+            "_id": "PCT7925",
+            "classification": "Precinct",
+            "name": "Precinct 7925",
+            "short_name": "Precinct 7925"
+        },
+        {
+            "_id": "PCT7926",
+            "classification": "Precinct",
+            "name": "Precinct 7926",
+            "short_name": "Precinct 7926"
+        },
+        {
+            "_id": "PCT7927",
+            "classification": "Precinct",
+            "name": "Precinct 7927",
+            "short_name": "Precinct 7927"
+        },
+        {
+            "_id": "PCT7928",
+            "classification": "Precinct",
+            "name": "Precinct 7928",
+            "short_name": "Precinct 7928"
+        },
+        {
+            "_id": "PCT7929",
+            "classification": "Precinct",
+            "name": "Precinct 7929",
+            "short_name": "Precinct 7929"
+        },
+        {
+            "_id": "PCT7931",
+            "classification": "Precinct",
+            "name": "Precinct 7931",
+            "short_name": "Precinct 7931"
+        },
+        {
+            "_id": "PCT7932",
+            "classification": "Precinct",
+            "name": "Precinct 7932",
+            "short_name": "Precinct 7932"
+        },
+        {
+            "_id": "PCT7933",
+            "classification": "Precinct",
+            "name": "Precinct 7933 MB",
+            "short_name": "Precinct 7933 MB",
+            "is_vbm": true
+        },
+        {
+            "_id": "PCT7934",
+            "classification": "Precinct",
+            "name": "Precinct 7934",
+            "short_name": "Precinct 7934"
+        },
+        {
+            "_id": "PCT7935",
+            "classification": "Precinct",
+            "name": "Precinct 7935",
+            "short_name": "Precinct 7935"
+        },
+        {
+            "_id": "PCT7936",
+            "classification": "Precinct",
+            "name": "Precinct 7936",
+            "short_name": "Precinct 7936"
+        },
+        {
+            "_id": "PCT7937",
+            "classification": "Precinct",
+            "name": "Precinct 7937",
+            "short_name": "Precinct 7937"
+        },
+        {
+            "_id": "PCT7938",
+            "classification": "Precinct",
+            "name": "Precinct 7938",
+            "short_name": "Precinct 7938"
+        },
+        {
+            "_id": "PCT7939",
+            "classification": "Precinct",
+            "name": "Precinct 7939",
+            "short_name": "Precinct 7939"
+        },
+        {
+            "_id": "PCT7941",
+            "classification": "Precinct",
+            "name": "Precinct 7941",
+            "short_name": "Precinct 7941"
+        },
+        {
+            "_id": "PCT7942",
+            "classification": "Precinct",
+            "name": "Precinct 7942",
+            "short_name": "Precinct 7942"
+        },
+        {
+            "_id": "PCT7943",
+            "classification": "Precinct",
+            "name": "Precinct 7943",
+            "short_name": "Precinct 7943"
+        },
+        {
+            "_id": "PCT7944",
+            "classification": "Precinct",
+            "name": "Precinct 7944",
+            "short_name": "Precinct 7944"
+        },
+        {
+            "_id": "PCT7945",
+            "classification": "Precinct",
+            "name": "Precinct 7945",
+            "short_name": "Precinct 7945"
+        },
+        {
+            "_id": "PCT7946",
+            "classification": "Precinct",
+            "name": "Precinct 7946",
+            "short_name": "Precinct 7946"
+        },
+        {
+            "_id": "PCT7947",
+            "classification": "Precinct",
+            "name": "Precinct 7947",
+            "short_name": "Precinct 7947"
+        },
+        {
+            "_id": "PCT7948",
+            "classification": "Precinct",
+            "name": "Precinct 7948",
+            "short_name": "Precinct 7948"
+        },
+        {
+            "_id": "PCT7949",
+            "classification": "Precinct",
+            "name": "Precinct 7949",
+            "short_name": "Precinct 7949"
+        },
+        {
+            "_id": "PCT7951",
+            "classification": "Precinct",
+            "name": "Precinct 7951",
+            "short_name": "Precinct 7951"
+        },
+        {
+            "_id": "PCT7952",
+            "classification": "Precinct",
+            "name": "Precinct 7952",
+            "short_name": "Precinct 7952"
+        },
+        {
+            "_id": "PCT7953",
+            "classification": "Precinct",
+            "name": "Precinct 7953",
+            "short_name": "Precinct 7953"
+        },
+        {
+            "_id": "PCT7954",
+            "classification": "Precinct",
+            "name": "Precinct 7954 MB",
+            "short_name": "Precinct 7954 MB",
+            "is_vbm": true,
+            "has_no_voters": true
+        },
+        {
+            "_id": "PCT7955",
+            "classification": "Precinct",
+            "name": "Precinct 7955",
+            "short_name": "Precinct 7955"
+        },
+        {
+            "_id": "PCT7956",
+            "classification": "Precinct",
+            "name": "Precinct 7956",
+            "short_name": "Precinct 7956"
+        },
+        {
+            "_id": "PCT7957",
+            "classification": "Precinct",
+            "name": "Precinct 7957",
+            "short_name": "Precinct 7957"
+        },
+        {
+            "_id": "PCT7958",
+            "classification": "Precinct",
+            "name": "Precinct 7958 MB",
+            "short_name": "Precinct 7958 MB",
+            "is_vbm": true
+        },
+        {
+            "_id": "PCT7959",
+            "classification": "Precinct",
+            "name": "Precinct 7959",
+            "short_name": "Precinct 7959"
+        },
+        {
+            "_id": "PCT9001",
+            "classification": "Precinct",
+            "name": "Precinct 9001 MB",
+            "short_name": "Precinct 9001 MB",
+            "is_vbm": true
+        },
+        {
+            "_id": "PCT9101",
+            "classification": "Precinct",
+            "name": "Precinct 9101",
+            "short_name": "Precinct 9101"
+        },
+        {
+            "_id": "PCT9102",
+            "classification": "Precinct",
+            "name": "Precinct 9102",
+            "short_name": "Precinct 9102"
+        },
+        {
+            "_id": "PCT9103",
+            "classification": "Precinct",
+            "name": "Precinct 9103",
+            "short_name": "Precinct 9103"
+        },
+        {
+            "_id": "PCT9104",
+            "classification": "Precinct",
+            "name": "Precinct 9104",
+            "short_name": "Precinct 9104"
+        },
+        {
+            "_id": "PCT9105",
+            "classification": "Precinct",
+            "name": "Precinct 9105",
+            "short_name": "Precinct 9105"
+        },
+        {
+            "_id": "PCT9106",
+            "classification": "Precinct",
+            "name": "Precinct 9106",
+            "short_name": "Precinct 9106"
+        },
+        {
+            "_id": "PCT9107",
+            "classification": "Precinct",
+            "name": "Precinct 9107",
+            "short_name": "Precinct 9107"
+        },
+        {
+            "_id": "PCT9108",
+            "classification": "Precinct",
+            "name": "Precinct 9108",
+            "short_name": "Precinct 9108"
+        },
+        {
+            "_id": "PCT9109",
+            "classification": "Precinct",
+            "name": "Precinct 9109",
+            "short_name": "Precinct 9109"
+        },
+        {
+            "_id": "PCT9111",
+            "classification": "Precinct",
+            "name": "Precinct 9111",
+            "short_name": "Precinct 9111"
+        },
+        {
+            "_id": "PCT9112",
+            "classification": "Precinct",
+            "name": "Precinct 9112",
+            "short_name": "Precinct 9112"
+        },
+        {
+            "_id": "PCT9113",
+            "classification": "Precinct",
+            "name": "Precinct 9113",
+            "short_name": "Precinct 9113"
+        },
+        {
+            "_id": "PCT9114",
+            "classification": "Precinct",
+            "name": "Precinct 9114",
+            "short_name": "Precinct 9114"
+        },
+        {
+            "_id": "PCT9115",
+            "classification": "Precinct",
+            "name": "Precinct 9115",
+            "short_name": "Precinct 9115"
+        },
+        {
+            "_id": "PCT9116",
+            "classification": "Precinct",
+            "name": "Precinct 9116",
+            "short_name": "Precinct 9116"
+        },
+        {
+            "_id": "PCT9117",
+            "classification": "Precinct",
+            "name": "Precinct 9117",
+            "short_name": "Precinct 9117"
+        },
+        {
+            "_id": "PCT9118",
+            "classification": "Precinct",
+            "name": "Precinct 9118",
+            "short_name": "Precinct 9118"
+        },
+        {
+            "_id": "PCT9119",
+            "classification": "Precinct",
+            "name": "Precinct 9119",
+            "short_name": "Precinct 9119"
+        },
+        {
+            "_id": "PCT9121",
+            "classification": "Precinct",
+            "name": "Precinct 9121",
+            "short_name": "Precinct 9121"
+        },
+        {
+            "_id": "PCT9122",
+            "classification": "Precinct",
+            "name": "Precinct 9122",
+            "short_name": "Precinct 9122"
+        },
+        {
+            "_id": "PCT9123",
+            "classification": "Precinct",
+            "name": "Precinct 9123",
+            "short_name": "Precinct 9123"
+        },
+        {
+            "_id": "PCT9124",
+            "classification": "Precinct",
+            "name": "Precinct 9124",
+            "short_name": "Precinct 9124"
+        },
+        {
+            "_id": "PCT9125",
+            "classification": "Precinct",
+            "name": "Precinct 9125",
+            "short_name": "Precinct 9125"
+        },
+        {
+            "_id": "PCT9126",
+            "classification": "Precinct",
+            "name": "Precinct 9126",
+            "short_name": "Precinct 9126"
+        },
+        {
+            "_id": "PCT9127",
+            "classification": "Precinct",
+            "name": "Precinct 9127",
+            "short_name": "Precinct 9127"
+        },
+        {
+            "_id": "PCT9128",
+            "classification": "Precinct",
+            "name": "Precinct 9128",
+            "short_name": "Precinct 9128"
+        },
+        {
+            "_id": "PCT9129",
+            "classification": "Precinct",
+            "name": "Precinct 9129",
+            "short_name": "Precinct 9129"
+        },
+        {
+            "_id": "PCT9131",
+            "classification": "Precinct",
+            "name": "Precinct 9131",
+            "short_name": "Precinct 9131"
+        },
+        {
+            "_id": "PCT9132",
+            "classification": "Precinct",
+            "name": "Precinct 9132",
+            "short_name": "Precinct 9132"
+        },
+        {
+            "_id": "PCT9133",
+            "classification": "Precinct",
+            "name": "Precinct 9133",
+            "short_name": "Precinct 9133"
+        },
+        {
+            "_id": "PCT9134",
+            "classification": "Precinct",
+            "name": "Precinct 9134",
+            "short_name": "Precinct 9134"
+        },
+        {
+            "_id": "PCT9135",
+            "classification": "Precinct",
+            "name": "Precinct 9135",
+            "short_name": "Precinct 9135"
+        },
+        {
+            "_id": "PCT9136",
+            "classification": "Precinct",
+            "name": "Precinct 9136",
+            "short_name": "Precinct 9136"
+        },
+        {
+            "_id": "PCT9137",
+            "classification": "Precinct",
+            "name": "Precinct 9137",
+            "short_name": "Precinct 9137"
+        },
+        {
+            "_id": "PCT9138",
+            "classification": "Precinct",
+            "name": "Precinct 9138",
+            "short_name": "Precinct 9138"
+        },
+        {
+            "_id": "PCT9139",
+            "classification": "Precinct",
+            "name": "Precinct 9139",
+            "short_name": "Precinct 9139"
+        },
+        {
+            "_id": "PCT9141",
+            "classification": "Precinct",
+            "name": "Precinct 9141",
+            "short_name": "Precinct 9141"
+        },
+        {
+            "_id": "PCT9142",
+            "classification": "Precinct",
+            "name": "Precinct 9142",
+            "short_name": "Precinct 9142"
+        },
+        {
+            "_id": "PCT9143",
+            "classification": "Precinct",
+            "name": "Precinct 9143",
+            "short_name": "Precinct 9143"
+        },
+        {
+            "_id": "PCT9144",
+            "classification": "Precinct",
+            "name": "Precinct 9144",
+            "short_name": "Precinct 9144"
+        },
+        {
+            "_id": "PCT9145",
+            "classification": "Precinct",
+            "name": "Precinct 9145",
+            "short_name": "Precinct 9145"
+        },
+        {
+            "_id": "PCT9146",
+            "classification": "Precinct",
+            "name": "Precinct 9146",
+            "short_name": "Precinct 9146"
+        },
+        {
+            "_id": "PCT9147",
+            "classification": "Precinct",
+            "name": "Precinct 9147",
+            "short_name": "Precinct 9147"
+        },
+        {
+            "_id": "PCT9148",
+            "classification": "Precinct",
+            "name": "Precinct 9148",
+            "short_name": "Precinct 9148"
+        },
+        {
+            "_id": "PCT9149",
+            "classification": "Precinct",
+            "name": "Precinct 9149",
+            "short_name": "Precinct 9149"
+        },
+        {
+            "_id": "PCT9151",
+            "classification": "Precinct",
+            "name": "Precinct 9151",
+            "short_name": "Precinct 9151"
+        },
+        {
+            "_id": "PCT9152",
+            "classification": "Precinct",
+            "name": "Precinct 9152",
+            "short_name": "Precinct 9152"
+        },
+        {
+            "_id": "PCT9201",
+            "classification": "Precinct",
+            "name": "Precinct 9201",
+            "short_name": "Precinct 9201"
+        },
+        {
+            "_id": "PCT9202",
+            "classification": "Precinct",
+            "name": "Precinct 9202",
+            "short_name": "Precinct 9202"
+        },
+        {
+            "_id": "PCT9203",
+            "classification": "Precinct",
+            "name": "Precinct 9203",
+            "short_name": "Precinct 9203"
+        },
+        {
+            "_id": "PCT9204",
+            "classification": "Precinct",
+            "name": "Precinct 9204",
+            "short_name": "Precinct 9204"
+        },
+        {
+            "_id": "PCT9205",
+            "classification": "Precinct",
+            "name": "Precinct 9205",
+            "short_name": "Precinct 9205"
+        },
+        {
+            "_id": "PCT9206",
+            "classification": "Precinct",
+            "name": "Precinct 9206",
+            "short_name": "Precinct 9206"
+        },
+        {
+            "_id": "PCT9207",
+            "classification": "Precinct",
+            "name": "Precinct 9207",
+            "short_name": "Precinct 9207"
+        },
+        {
+            "_id": "PCT9208",
+            "classification": "Precinct",
+            "name": "Precinct 9208",
+            "short_name": "Precinct 9208"
+        },
+        {
+            "_id": "PCT9209",
+            "classification": "Precinct",
+            "name": "Precinct 9209",
+            "short_name": "Precinct 9209"
+        },
+        {
+            "_id": "PCT9211",
+            "classification": "Precinct",
+            "name": "Precinct 9211",
+            "short_name": "Precinct 9211"
+        },
+        {
+            "_id": "PCT9212",
+            "classification": "Precinct",
+            "name": "Precinct 9212",
+            "short_name": "Precinct 9212"
+        },
+        {
+            "_id": "PCT9213",
+            "classification": "Precinct",
+            "name": "Precinct 9213",
+            "short_name": "Precinct 9213"
+        },
+        {
+            "_id": "PCT9214",
+            "classification": "Precinct",
+            "name": "Precinct 9214",
+            "short_name": "Precinct 9214"
+        },
+        {
+            "_id": "PCT9215",
+            "classification": "Precinct",
+            "name": "Precinct 9215",
+            "short_name": "Precinct 9215"
+        },
+        {
+            "_id": "PCT9216",
+            "classification": "Precinct",
+            "name": "Precinct 9216",
+            "short_name": "Precinct 9216"
+        },
+        {
+            "_id": "PCT9217",
+            "classification": "Precinct",
+            "name": "Precinct 9217",
+            "short_name": "Precinct 9217"
+        },
+        {
+            "_id": "PCT9218",
+            "classification": "Precinct",
+            "name": "Precinct 9218",
+            "short_name": "Precinct 9218"
+        },
+        {
+            "_id": "PCT9219",
+            "classification": "Precinct",
+            "name": "Precinct 9219",
+            "short_name": "Precinct 9219"
+        },
+        {
+            "_id": "PCT9221",
+            "classification": "Precinct",
+            "name": "Precinct 9221",
+            "short_name": "Precinct 9221"
+        },
+        {
+            "_id": "PCT9222",
+            "classification": "Precinct",
+            "name": "Precinct 9222",
+            "short_name": "Precinct 9222"
+        },
+        {
+            "_id": "PCT9223",
+            "classification": "Precinct",
+            "name": "Precinct 9223",
+            "short_name": "Precinct 9223"
+        },
+        {
+            "_id": "PCT9224",
+            "classification": "Precinct",
+            "name": "Precinct 9224",
+            "short_name": "Precinct 9224"
+        },
+        {
+            "_id": "PCT9225",
+            "classification": "Precinct",
+            "name": "Precinct 9225",
+            "short_name": "Precinct 9225"
+        },
+        {
+            "_id": "PCT9226",
+            "classification": "Precinct",
+            "name": "Precinct 9226",
+            "short_name": "Precinct 9226"
+        },
+        {
+            "_id": "PCT9227",
+            "classification": "Precinct",
+            "name": "Precinct 9227",
+            "short_name": "Precinct 9227"
+        },
+        {
+            "_id": "PCT9228",
+            "classification": "Precinct",
+            "name": "Precinct 9228",
+            "short_name": "Precinct 9228"
+        },
+        {
+            "_id": "PCT9229",
+            "classification": "Precinct",
+            "name": "Precinct 9229",
+            "short_name": "Precinct 9229"
+        },
+        {
+            "_id": "PCT9231",
+            "classification": "Precinct",
+            "name": "Precinct 9231",
+            "short_name": "Precinct 9231"
+        },
+        {
+            "_id": "PCT9232",
+            "classification": "Precinct",
+            "name": "Precinct 9232",
+            "short_name": "Precinct 9232"
+        },
+        {
+            "_id": "PCT9233",
+            "classification": "Precinct",
+            "name": "Precinct 9233",
+            "short_name": "Precinct 9233"
+        },
+        {
+            "_id": "PCT9234",
+            "classification": "Precinct",
+            "name": "Precinct 9234",
+            "short_name": "Precinct 9234"
+        },
+        {
+            "_id": "PCT9235",
+            "classification": "Precinct",
+            "name": "Precinct 9235",
+            "short_name": "Precinct 9235"
+        },
+        {
+            "_id": "PCT9236",
+            "classification": "Precinct",
+            "name": "Precinct 9236",
+            "short_name": "Precinct 9236"
+        },
+        {
+            "_id": "PCT9237",
+            "classification": "Precinct",
+            "name": "Precinct 9237",
+            "short_name": "Precinct 9237"
+        },
+        {
+            "_id": "PCT9238",
+            "classification": "Precinct",
+            "name": "Precinct 9238",
+            "short_name": "Precinct 9238"
+        },
+        {
+            "_id": "PCT9239",
+            "classification": "Precinct",
+            "name": "Precinct 9239",
+            "short_name": "Precinct 9239"
+        },
+        {
+            "_id": "PCT9241",
+            "classification": "Precinct",
+            "name": "Precinct 9241",
+            "short_name": "Precinct 9241"
+        },
+        {
+            "_id": "PCT9242",
+            "classification": "Precinct",
+            "name": "Precinct 9242",
+            "short_name": "Precinct 9242"
+        },
+        {
+            "_id": "PCT9243",
+            "classification": "Precinct",
+            "name": "Precinct 9243",
+            "short_name": "Precinct 9243"
+        },
+        {
+            "_id": "PCT9244",
+            "classification": "Precinct",
+            "name": "Precinct 9244",
+            "short_name": "Precinct 9244"
+        },
+        {
+            "_id": "PCT9245",
+            "classification": "Precinct",
+            "name": "Precinct 9245",
+            "short_name": "Precinct 9245"
+        },
+        {
+            "_id": "PCT9246",
+            "classification": "Precinct",
+            "name": "Precinct 9246",
+            "short_name": "Precinct 9246"
+        },
+        {
+            "_id": "PCT9247",
+            "classification": "Precinct",
+            "name": "Precinct 9247",
+            "short_name": "Precinct 9247"
+        },
+        {
+            "_id": "PCT9248",
+            "classification": "Precinct",
+            "name": "Precinct 9248",
+            "short_name": "Precinct 9248"
+        },
+        {
+            "_id": "PCT9249",
+            "classification": "Precinct",
+            "name": "Precinct 9249",
+            "short_name": "Precinct 9249"
+        },
+        {
+            "_id": "PCT9251",
+            "classification": "Precinct",
+            "name": "Precinct 9251",
+            "short_name": "Precinct 9251"
+        },
+        {
+            "_id": "PCT9252",
+            "classification": "Precinct",
+            "name": "Precinct 9252",
+            "short_name": "Precinct 9252"
+        },
+        {
+            "_id": "PCT9253",
+            "classification": "Precinct",
+            "name": "Precinct 9253",
+            "short_name": "Precinct 9253"
+        },
+        {
+            "_id": "PCT9254",
+            "classification": "Precinct",
+            "name": "Precinct 9254",
+            "short_name": "Precinct 9254"
+        },
+        {
+            "_id": "PCT9255",
+            "classification": "Precinct",
+            "name": "Precinct 9255",
+            "short_name": "Precinct 9255"
+        },
+        {
+            "_id": "PCT9256",
+            "classification": "Precinct",
+            "name": "Precinct 9256",
+            "short_name": "Precinct 9256"
+        },
+        {
+            "_id": "PCT9257",
+            "classification": "Precinct",
+            "name": "Precinct 9257 MB",
+            "short_name": "Precinct 9257 MB",
+            "is_vbm": true
+        },
+        {
+            "_id": "PCT9258",
+            "classification": "Precinct",
+            "name": "Precinct 9258",
+            "short_name": "Precinct 9258"
+        },
+        {
+            "_id": "PCT9401",
+            "classification": "Precinct",
+            "name": "Precinct 9401",
+            "short_name": "Precinct 9401"
+        },
+        {
+            "_id": "PCT9402",
+            "classification": "Precinct",
+            "name": "Precinct 9402",
+            "short_name": "Precinct 9402"
+        },
+        {
+            "_id": "PCT9403",
+            "classification": "Precinct",
+            "name": "Precinct 9403",
+            "short_name": "Precinct 9403"
+        },
+        {
+            "_id": "PCT9404",
+            "classification": "Precinct",
+            "name": "Precinct 9404",
+            "short_name": "Precinct 9404"
+        },
+        {
+            "_id": "PCT9405",
+            "classification": "Precinct",
+            "name": "Precinct 9405",
+            "short_name": "Precinct 9405"
+        },
+        {
+            "_id": "PCT9406",
+            "classification": "Precinct",
+            "name": "Precinct 9406",
+            "short_name": "Precinct 9406"
+        },
+        {
+            "_id": "PCT9407",
+            "classification": "Precinct",
+            "name": "Precinct 9407",
+            "short_name": "Precinct 9407"
+        },
+        {
+            "_id": "PCT9408",
+            "classification": "Precinct",
+            "name": "Precinct 9408",
+            "short_name": "Precinct 9408"
+        },
+        {
+            "_id": "PCT9409",
+            "classification": "Precinct",
+            "name": "Precinct 9409",
+            "short_name": "Precinct 9409"
+        },
+        {
+            "_id": "PCT9411",
+            "classification": "Precinct",
+            "name": "Precinct 9411",
+            "short_name": "Precinct 9411"
+        },
+        {
+            "_id": "PCT9412",
+            "classification": "Precinct",
+            "name": "Precinct 9412",
+            "short_name": "Precinct 9412"
+        },
+        {
+            "_id": "PCT9413",
+            "classification": "Precinct",
+            "name": "Precinct 9413",
+            "short_name": "Precinct 9413"
+        },
+        {
+            "_id": "PCT9414",
+            "classification": "Precinct",
+            "name": "Precinct 9414",
+            "short_name": "Precinct 9414"
+        },
+        {
+            "_id": "PCT9415",
+            "classification": "Precinct",
+            "name": "Precinct 9415",
+            "short_name": "Precinct 9415"
+        },
+        {
+            "_id": "PCT9416",
+            "classification": "Precinct",
+            "name": "Precinct 9416",
+            "short_name": "Precinct 9416"
+        },
+        {
+            "_id": "PCT9417",
+            "classification": "Precinct",
+            "name": "Precinct 9417",
+            "short_name": "Precinct 9417"
+        },
+        {
+            "_id": "PCT9418",
+            "classification": "Precinct",
+            "name": "Precinct 9418",
+            "short_name": "Precinct 9418"
+        },
+        {
+            "_id": "PCT9419",
+            "classification": "Precinct",
+            "name": "Precinct 9419",
+            "short_name": "Precinct 9419"
+        },
+        {
+            "_id": "PCT9421",
+            "classification": "Precinct",
+            "name": "Precinct 9421",
+            "short_name": "Precinct 9421"
+        },
+        {
+            "_id": "PCT9422",
+            "classification": "Precinct",
+            "name": "Precinct 9422",
+            "short_name": "Precinct 9422"
+        },
+        {
+            "_id": "PCT9423",
+            "classification": "Precinct",
+            "name": "Precinct 9423",
+            "short_name": "Precinct 9423"
+        },
+        {
+            "_id": "PCT9424",
+            "classification": "Precinct",
+            "name": "Precinct 9424",
+            "short_name": "Precinct 9424"
+        },
+        {
+            "_id": "PCT9425",
+            "classification": "Precinct",
+            "name": "Precinct 9425",
+            "short_name": "Precinct 9425"
+        },
+        {
+            "_id": "PCT9426",
+            "classification": "Precinct",
+            "name": "Precinct 9426",
+            "short_name": "Precinct 9426"
+        },
+        {
+            "_id": "PCT9427",
+            "classification": "Precinct",
+            "name": "Precinct 9427",
+            "short_name": "Precinct 9427"
+        },
+        {
+            "_id": "PCT9428",
+            "classification": "Precinct",
+            "name": "Precinct 9428",
+            "short_name": "Precinct 9428"
+        },
+        {
+            "_id": "PCT9429",
+            "classification": "Precinct",
+            "name": "Precinct 9429",
+            "short_name": "Precinct 9429"
+        },
+        {
+            "_id": "PCT9431",
+            "classification": "Precinct",
+            "name": "Precinct 9431",
+            "short_name": "Precinct 9431"
+        },
+        {
+            "_id": "PCT9432",
+            "classification": "Precinct",
+            "name": "Precinct 9432",
+            "short_name": "Precinct 9432"
+        },
+        {
+            "_id": "PCT9433",
+            "classification": "Precinct",
+            "name": "Precinct 9433",
+            "short_name": "Precinct 9433"
+        },
+        {
+            "_id": "PCT9434",
+            "classification": "Precinct",
+            "name": "Precinct 9434",
+            "short_name": "Precinct 9434"
+        },
+        {
+            "_id": "PCT9435",
+            "classification": "Precinct",
+            "name": "Precinct 9435",
+            "short_name": "Precinct 9435"
+        },
+        {
+            "_id": "PCT9436",
+            "classification": "Precinct",
+            "name": "Precinct 9436",
+            "short_name": "Precinct 9436"
+        },
+        {
+            "_id": "PCT9437",
+            "classification": "Precinct",
+            "name": "Precinct 9437",
+            "short_name": "Precinct 9437"
+        },
+        {
+            "_id": "PCT9438",
+            "classification": "Precinct",
+            "name": "Precinct 9438",
+            "short_name": "Precinct 9438"
+        },
+        {
+            "_id": "PCT9439",
+            "classification": "Precinct",
+            "name": "Precinct 9439",
+            "short_name": "Precinct 9439"
+        },
+        {
+            "_id": "PCT9441",
+            "classification": "Precinct",
+            "name": "Precinct 9441",
+            "short_name": "Precinct 9441"
+        },
+        {
+            "_id": "PCT9442",
+            "classification": "Precinct",
+            "name": "Precinct 9442",
+            "short_name": "Precinct 9442"
+        },
+        {
+            "_id": "PCT9443",
+            "classification": "Precinct",
+            "name": "Precinct 9443",
+            "short_name": "Precinct 9443"
+        },
+        {
+            "_id": "PCT9444",
+            "classification": "Precinct",
+            "name": "Precinct 9444",
+            "short_name": "Precinct 9444"
+        },
+        {
+            "_id": "PCT9445",
+            "classification": "Precinct",
+            "name": "Precinct 9445",
+            "short_name": "Precinct 9445"
+        },
+        {
+            "_id": "PCT9446",
+            "classification": "Precinct",
+            "name": "Precinct 9446",
+            "short_name": "Precinct 9446"
+        },
+        {
+            "_id": "PCT9447",
+            "classification": "Precinct",
+            "name": "Precinct 9447",
+            "short_name": "Precinct 9447"
+        },
+        {
+            "_id": "PCT9448",
+            "classification": "Precinct",
+            "name": "Precinct 9448",
+            "short_name": "Precinct 9448"
+        },
+        {
+            "_id": "PCT9449",
+            "classification": "Precinct",
+            "name": "Precinct 9449",
+            "short_name": "Precinct 9449"
+        },
+        {
+            "_id": "PCT9451",
+            "classification": "Precinct",
+            "name": "Precinct 9451",
+            "short_name": "Precinct 9451"
+        },
+        {
+            "_id": "PCT9452",
+            "classification": "Precinct",
+            "name": "Precinct 9452",
+            "short_name": "Precinct 9452"
+        },
+        {
+            "_id": "PCT9453",
+            "classification": "Precinct",
+            "name": "Precinct 9453",
+            "short_name": "Precinct 9453"
+        },
+        {
+            "_id": "PCT9501",
+            "classification": "Precinct",
+            "name": "Precinct 9501 MB",
+            "short_name": "Precinct 9501 MB",
+            "is_vbm": true
+        },
+        {
+            "_id": "PCT9502",
+            "classification": "Precinct",
+            "name": "Precinct 9502 MB",
+            "short_name": "Precinct 9502 MB",
+            "is_vbm": true
+        },
+        {
+            "_id": "PCT9503",
+            "classification": "Precinct",
+            "name": "Precinct 9503/9504",
+            "short_name": "Precinct 9503/9504"
+        },
+        {
+            "_id": "PCT9505",
+            "classification": "Precinct",
+            "name": "Precinct 9505",
+            "short_name": "Precinct 9505"
+        },
+        {
+            "_id": "PCT9506",
+            "classification": "Precinct",
+            "name": "Precinct 9506",
+            "short_name": "Precinct 9506"
+        },
+        {
+            "_id": "PCT9507",
+            "classification": "Precinct",
+            "name": "Precinct 9507",
+            "short_name": "Precinct 9507"
+        },
+        {
+            "_id": "PCT9508",
+            "classification": "Precinct",
+            "name": "Precinct 9508",
+            "short_name": "Precinct 9508"
+        },
+        {
+            "_id": "PCT9509",
+            "classification": "Precinct",
+            "name": "Precinct 9509",
+            "short_name": "Precinct 9509"
+        },
+        {
+            "_id": "PCT9511",
+            "classification": "Precinct",
+            "name": "Precinct 9511",
+            "short_name": "Precinct 9511"
+        },
+        {
+            "_id": "PCT9512",
+            "classification": "Precinct",
+            "name": "Precinct 9512",
+            "short_name": "Precinct 9512"
+        },
+        {
+            "_id": "PCT9513",
+            "classification": "Precinct",
+            "name": "Precinct 9513",
+            "short_name": "Precinct 9513"
+        },
+        {
+            "_id": "PCT9514",
+            "classification": "Precinct",
+            "name": "Precinct 9514/9522",
+            "short_name": "Precinct 9514/9522"
+        },
+        {
+            "_id": "PCT9515",
+            "classification": "Precinct",
+            "name": "Precinct 9515",
+            "short_name": "Precinct 9515"
+        },
+        {
+            "_id": "PCT9516",
+            "classification": "Precinct",
+            "name": "Precinct 9516",
+            "short_name": "Precinct 9516"
+        },
+        {
+            "_id": "PCT9517",
+            "classification": "Precinct",
+            "name": "Precinct 9517",
+            "short_name": "Precinct 9517"
+        },
+        {
+            "_id": "PCT9518",
+            "classification": "Precinct",
+            "name": "Precinct 9518",
+            "short_name": "Precinct 9518"
+        },
+        {
+            "_id": "PCT9519",
+            "classification": "Precinct",
+            "name": "Precinct 9519",
+            "short_name": "Precinct 9519"
+        },
+        {
+            "_id": "PCT9521",
+            "classification": "Precinct",
+            "name": "Precinct 9521",
+            "short_name": "Precinct 9521"
+        },
+        {
+            "_id": "PCT9701",
+            "classification": "Precinct",
+            "name": "Precinct 9701",
+            "short_name": "Precinct 9701"
+        },
+        {
+            "_id": "PCT9702",
+            "classification": "Precinct",
+            "name": "Precinct 9702",
+            "short_name": "Precinct 9702"
+        },
+        {
+            "_id": "PCT9703",
+            "classification": "Precinct",
+            "name": "Precinct 9703",
+            "short_name": "Precinct 9703"
+        },
+        {
+            "_id": "PCT9704",
+            "classification": "Precinct",
+            "name": "Precinct 9704",
+            "short_name": "Precinct 9704"
+        },
+        {
+            "_id": "PCT9705",
+            "classification": "Precinct",
+            "name": "Precinct 9705",
+            "short_name": "Precinct 9705"
+        },
+        {
+            "_id": "PCT9706",
+            "classification": "Precinct",
+            "name": "Precinct 9706 MB",
+            "short_name": "Precinct 9706 MB",
+            "is_vbm": true
+        },
+        {
+            "_id": "PCT9707",
+            "classification": "Precinct",
+            "name": "Precinct 9707",
+            "short_name": "Precinct 9707"
+        },
+        {
+            "_id": "PCT9708",
+            "classification": "Precinct",
+            "name": "Precinct 9708",
+            "short_name": "Precinct 9708"
+        },
+        {
+            "_id": "PCT9709",
+            "classification": "Precinct",
+            "name": "Precinct 9709",
+            "short_name": "Precinct 9709"
+        },
+        {
+            "_id": "PCT9711",
+            "classification": "Precinct",
+            "name": "Precinct 9711",
+            "short_name": "Precinct 9711"
+        },
+        {
+            "_id": "PCT9712",
+            "classification": "Precinct",
+            "name": "Precinct 9712",
+            "short_name": "Precinct 9712"
+        },
+        {
+            "_id": "PCT9713",
+            "classification": "Precinct",
+            "name": "Precinct 9713",
+            "short_name": "Precinct 9713"
+        },
+        {
+            "_id": "PCT9714",
+            "classification": "Precinct",
+            "name": "Precinct 9714",
+            "short_name": "Precinct 9714"
+        },
+        {
+            "_id": "PCT9715",
+            "classification": "Precinct",
+            "name": "Precinct 9715",
+            "short_name": "Precinct 9715"
+        },
+        {
+            "_id": "PCT9716",
+            "classification": "Precinct",
+            "name": "Precinct 9716",
+            "short_name": "Precinct 9716"
+        },
+        {
+            "_id": "PCT9717",
+            "classification": "Precinct",
+            "name": "Precinct 9717",
+            "short_name": "Precinct 9717"
+        },
+        {
+            "_id": "PCT9718",
+            "classification": "Precinct",
+            "name": "Precinct 9718",
+            "short_name": "Precinct 9718"
+        },
+        {
+            "_id": "PCT9719",
+            "classification": "Precinct",
+            "name": "Precinct 9719",
+            "short_name": "Precinct 9719"
+        },
+        {
+            "_id": "PCT9721",
+            "classification": "Precinct",
+            "name": "Precinct 9721",
+            "short_name": "Precinct 9721"
+        },
+        {
+            "_id": "PCT9722",
+            "classification": "Precinct",
+            "name": "Precinct 9722",
+            "short_name": "Precinct 9722"
+        },
+        {
+            "_id": "PCT9723",
+            "classification": "Precinct",
+            "name": "Precinct 9723",
+            "short_name": "Precinct 9723"
+        },
+        {
+            "_id": "PCT9724",
+            "classification": "Precinct",
+            "name": "Precinct 9724",
+            "short_name": "Precinct 9724"
+        },
+        {
+            "_id": "PCT9725",
+            "classification": "Precinct",
+            "name": "Precinct 9725",
+            "short_name": "Precinct 9725"
+        },
+        {
+            "_id": "PCT9726",
+            "classification": "Precinct",
+            "name": "Precinct 9726",
+            "short_name": "Precinct 9726"
+        },
+        {
+            "_id": "PCT9727",
+            "classification": "Precinct",
+            "name": "Precinct 9727",
+            "short_name": "Precinct 9727"
+        },
+        {
+            "_id": "PCT9728",
+            "classification": "Precinct",
+            "name": "Precinct 9728",
+            "short_name": "Precinct 9728"
+        },
+        {
+            "_id": "PCT9729",
+            "classification": "Precinct",
+            "name": "Precinct 9729",
+            "short_name": "Precinct 9729"
+        },
+        {
+            "_id": "PCT9731",
+            "classification": "Precinct",
+            "name": "Precinct 9731",
+            "short_name": "Precinct 9731"
+        },
+        {
+            "_id": "PCT9732",
+            "classification": "Precinct",
+            "name": "Precinct 9732 MB",
+            "short_name": "Precinct 9732 MB",
+            "is_vbm": true
+        },
+        {
+            "_id": "PCT9733",
+            "classification": "Precinct",
+            "name": "Precinct 9733 MB",
+            "short_name": "Precinct 9733 MB",
+            "is_vbm": true
+        },
+        {
+            "_id": "PCT9734",
+            "classification": "Precinct",
+            "name": "Precinct 9734",
+            "short_name": "Precinct 9734"
+        },
+        {
+            "_id": "PCT9735",
+            "classification": "Precinct",
+            "name": "Precinct 9735",
+            "short_name": "Precinct 9735"
+        },
+        {
+            "_id": "PCT9736",
+            "classification": "Precinct",
+            "name": "Precinct 9736",
+            "short_name": "Precinct 9736"
+        },
+        {
+            "_id": "PCT9737",
+            "classification": "Precinct",
+            "name": "Precinct 9737",
+            "short_name": "Precinct 9737"
+        },
+        {
+            "_id": "PCT9738",
+            "classification": "Precinct",
+            "name": "Precinct 9738",
+            "short_name": "Precinct 9738"
+        },
+        {
+            "_id": "PCT9739",
+            "classification": "Precinct",
+            "name": "Precinct 9739",
+            "short_name": "Precinct 9739"
+        },
+        {
+            "_id": "PCT9741",
+            "classification": "Precinct",
+            "name": "Precinct 9741",
+            "short_name": "Precinct 9741"
+        },
+        {
+            "_id": "PCT9742",
+            "classification": "Precinct",
+            "name": "Precinct 9742",
+            "short_name": "Precinct 9742"
+        },
+        {
+            "_id": "PCT9743",
+            "classification": "Precinct",
+            "name": "Precinct 9743",
+            "short_name": "Precinct 9743"
+        },
+        {
+            "_id": "PCT9744",
+            "classification": "Precinct",
+            "name": "Precinct 9744",
+            "short_name": "Precinct 9744"
+        },
+        {
+            "_id": "PCT9745",
+            "classification": "Precinct",
+            "name": "Precinct 9745",
+            "short_name": "Precinct 9745"
+        },
+        {
+            "_id": "PCT9746",
+            "classification": "Precinct",
+            "name": "Precinct 9746",
+            "short_name": "Precinct 9746"
+        },
+        {
+            "_id": "PCT9747",
+            "classification": "Precinct",
+            "name": "Precinct 9747",
+            "short_name": "Precinct 9747"
+        },
+        {
+            "_id": "PCT9748",
+            "classification": "Precinct",
+            "name": "Precinct 9748",
+            "short_name": "Precinct 9748"
+        },
+        {
+            "_id": "PCT9749",
+            "classification": "Precinct",
+            "name": "Precinct 9749",
+            "short_name": "Precinct 9749"
+        },
+        {
+            "_id": "PCT9751",
+            "classification": "Precinct",
+            "name": "Precinct 9751",
+            "short_name": "Precinct 9751"
+        },
+        {
+            "_id": "PCT9752",
+            "classification": "Precinct",
+            "name": "Precinct 9752",
+            "short_name": "Precinct 9752"
+        },
+        {
+            "_id": "PCT9753",
+            "classification": "Precinct",
+            "name": "Precinct 9753",
+            "short_name": "Precinct 9753"
+        },
+        {
+            "_id": "PCT9754",
+            "classification": "Precinct",
+            "name": "Precinct 9754",
+            "short_name": "Precinct 9754"
+        },
+        {
+            "_id": "PCT9755",
+            "classification": "Precinct",
+            "name": "Precinct 9755",
+            "short_name": "Precinct 9755"
+        },
+        {
+            "_id": "PCT9756",
+            "classification": "Precinct",
+            "name": "Precinct 9756",
+            "short_name": "Precinct 9756"
+        },
+        {
+            "_id": "PCT9801",
+            "classification": "Precinct",
+            "name": "Precinct 9801",
+            "short_name": "Precinct 9801"
+        },
+        {
+            "_id": "PCT9900",
+            "classification": "Precinct",
+            "name": "Precinct 9900 MB",
+            "short_name": "Precinct 9900 MB",
+            "is_vbm": true,
+            "has_no_voters": true
+        },
+        {
+            "_id": "PCT9901",
+            "classification": "Precinct",
+            "name": "Precinct 9901 MB",
+            "short_name": "Precinct 9901 MB",
+            "is_vbm": true,
+            "has_no_voters": true
+        },
+        {
+            "_id": "PCT9902",
+            "classification": "Precinct",
+            "name": "Precinct 9902 MB",
+            "short_name": "Precinct 9902 MB",
+            "is_vbm": true,
+            "has_no_voters": true
+        },
+        {
+            "_id": "0",
+            "name": "City and County of San Francisco",
+            "short_name": "San Francisco County",
+            "classification": "County",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "ASSM17",
+            "name": "California State Assembly District 17",
+            "short_name": "Assembly District 17",
+            "classification": "Assembly District",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "ASSM19",
+            "name": "California State Assembly District 19",
+            "short_name": "Assembly District 19",
+            "classification": "Assembly District",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "BART",
+            "name": "San Francisco Bay Area Rapid Transit District",
+            "short_name": "BART",
+            "classification": "Transit District",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "BART4",
+            "name": "San Francisco Bay Area Rapid Transit District, District  4",
+            "short_name": "BART District 4",
+            "classification": "Transit District",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "BART7",
+            "name": "San Francisco Bay Area Rapid Transit District, District  7",
+            "short_name": "BART District 7",
+            "classification": "Transit District",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "BART8",
+            "name": "San Francisco Bay Area Rapid Transit District, District  8",
+            "short_name": "BART District 8",
+            "classification": "Transit District",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "BART9",
+            "name": "San Francisco Bay Area Rapid Transit District, District  9",
+            "short_name": "BART District 9",
+            "classification": "Transit District",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "CITY1",
+            "name": "City of San Francisco",
+            "short_name": "San Francisco",
+            "classification": "City",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "CONG12",
+            "name": "California Congressional District 12",
+            "short_name": "Congressional District 12",
+            "classification": "Congressional District",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "CONG13",
+            "name": "California Congressional District 13",
+            "short_name": "Congressional District 13",
+            "classification": "Congressional District",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "CONG14",
+            "name": "California Congressional District 14",
+            "short_name": "Congressional District 14",
+            "classification": "Congressional District",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "EQUAL2",
+            "name": "California State Board of Equalization District  2",
+            "short_name": "State BoEq District 2",
+            "classification": "State Tax Board",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "MTC9",
+            "name": "County of Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Sonoma and Solano",
+            "short_name": "MTC Counties",
+            "classification": "Transit District",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "NEIG1",
+            "name": "Neighborhood of Bayview/Hunters Point",
+            "short_name": "Bayview/Hunters Point",
+            "classification": "Neighborhood",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "NEIG2",
+            "name": "Neighborhood of Chinatown",
+            "short_name": "Chinatown",
+            "classification": "Neighborhood",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "NEIG3",
+            "name": "Neighborhood of Civic Center/Downtown",
+            "short_name": "Civic Center/Downtown",
+            "classification": "Neighborhood",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "NEIG4",
+            "name": "Neighborhood of Diamond Heights",
+            "short_name": "Diamond Heights",
+            "classification": "Neighborhood",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "NEIG5",
+            "name": "Neighborhood of Excelsior",
+            "short_name": "Excelsior",
+            "classification": "Neighborhood",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "NEIG6",
+            "name": "Neighborhood of Haight Ashbury",
+            "short_name": "Haight Ashbury",
+            "classification": "Neighborhood",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "NEIG7",
+            "name": "Neighborhood of Ingleside",
+            "short_name": "Ingleside",
+            "classification": "Neighborhood",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "NEIG8",
+            "name": "Neighborhood of Inner Sunset",
+            "short_name": "Inner Sunset",
+            "classification": "Neighborhood",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "NEIG9",
+            "name": "Neighborhood of Lake Merced",
+            "short_name": "Lake Merced",
+            "classification": "Neighborhood",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "NEIG10",
+            "name": "Neighborhood of Laurel Heights/Anza Vista",
+            "short_name": "Laurel Heights/Anza Vista",
+            "classification": "Neighborhood",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "NEIG11",
+            "name": "Neighborhood of Marina Pacific Heights",
+            "short_name": "Marina Pacific Heights",
+            "classification": "Neighborhood",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "NEIG12",
+            "name": "Neighborhood of Mission",
+            "short_name": "Mission",
+            "classification": "Neighborhood",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "NEIG13",
+            "name": "Neighborhood of Noe Valley",
+            "short_name": "Noe Valley",
+            "classification": "Neighborhood",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "NEIG14",
+            "name": "Neighborhood of North Bernal Heights",
+            "short_name": "North Bernal Heights",
+            "classification": "Neighborhood",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "NEIG15",
+            "name": "Neighborhood of North Embarcadero",
+            "short_name": "North Embarcadero",
+            "classification": "Neighborhood",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "NEIG16",
+            "name": "Neighborhood of Potrero Hill",
+            "short_name": "Potrero Hill",
+            "classification": "Neighborhood",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "NEIG17",
+            "name": "Neighborhood of Richmond",
+            "short_name": "Richmond",
+            "classification": "Neighborhood",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "NEIG18",
+            "name": "Neighborhood of Sea Cliff/Presidio Heights",
+            "short_name": "Sea Cliff/Presidio Heights",
+            "classification": "Neighborhood",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "NEIG19",
+            "name": "Neighborhood of South of Bernal Heights",
+            "short_name": "South of Bernal Heights",
+            "classification": "Neighborhood",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "NEIG20",
+            "name": "Neighborhood of South of Market",
+            "short_name": "South of Market",
+            "classification": "Neighborhood",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "NEIG21",
+            "name": "Neighborhood of Sunset",
+            "short_name": "Sunset",
+            "classification": "Neighborhood",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "NEIG22",
+            "name": "Neighborhood of Upper Market/Eureka Valley",
+            "short_name": "Upper Market/Eureka Valley",
+            "classification": "Neighborhood",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "NEIG23",
+            "name": "Neighborhood of Visitation Valley",
+            "short_name": "Visitation Valley",
+            "classification": "Neighborhood",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "NEIG24",
+            "name": "Neighborhood of West of Twin Peaks",
+            "short_name": "West of Twin Peaks",
+            "classification": "Neighborhood",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "NEIG25",
+            "name": "Neighborhood of Western Addition",
+            "short_name": "Western Addition",
+            "classification": "Neighborhood",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "NEIG26",
+            "name": "Neighborhood of Portola",
+            "short_name": "Portola",
+            "classification": "Neighborhood",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "SBRA",
+            "name": "San Francisco Bay Restoration Authority",
+            "short_name": "SFBRA",
+            "classification": "Park District",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "SCSF",
+            "name": "San Francisco Superior Court",
+            "short_name": "San Francisco Superior Court",
+            "classification": "State Superior Court District",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "SEN11",
+            "name": "California State Senate District 11",
+            "short_name": "Senate District 11",
+            "classification": "Senate District",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "SFUSD",
+            "name": "San Francisco Unified School District",
+            "short_name": "San Francisco Unified School District",
+            "classification": "School District",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "SUPV1",
+            "name": "San Francisco County Supervisorial District  1",
+            "short_name": "Supervisorial District 1",
+            "classification": "Supervisorial District",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "SUPV2",
+            "name": "San Francisco County Supervisorial District  2",
+            "short_name": "Supervisorial District 2",
+            "classification": "Supervisorial District",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "SUPV3",
+            "name": "San Francisco County Supervisorial District  3",
+            "short_name": "Supervisorial District 3",
+            "classification": "Supervisorial District",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "SUPV4",
+            "name": "San Francisco County Supervisorial District  4",
+            "short_name": "Supervisorial District 4",
+            "classification": "Supervisorial District",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "SUPV5",
+            "name": "San Francisco County Supervisorial District  5",
+            "short_name": "Supervisorial District 5",
+            "classification": "Supervisorial District",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "SUPV6",
+            "name": "San Francisco County Supervisorial District  6",
+            "short_name": "Supervisorial District 6",
+            "classification": "Supervisorial District",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "SUPV7",
+            "name": "San Francisco County Supervisorial District  7",
+            "short_name": "Supervisorial District 7",
+            "classification": "Supervisorial District",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "SUPV8",
+            "name": "San Francisco County Supervisorial District  8",
+            "short_name": "Supervisorial District 8",
+            "classification": "Supervisorial District",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "SUPV9",
+            "name": "San Francisco County Supervisorial District  9",
+            "short_name": "Supervisorial District 9",
+            "classification": "Supervisorial District",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "SUPV10",
+            "name": "San Francisco County Supervisorial District 10",
+            "short_name": "Supervisorial District 10",
+            "classification": "Supervisorial District",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "SUPV11",
+            "name": "San Francisco County Supervisorial District 11",
+            "short_name": "Supervisorial District 11",
+            "classification": "Supervisorial District",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "appct1",
+            "name": "California State Court of Appeal District  1",
+            "short_name": "Appellate District 1",
+            "classification": "State Appellate Court District",
+            "reporting_group_ids": ""
+        },
+        {
+            "_id": "state",
+            "name": "State of California",
+            "short_name": "California",
+            "classification": "State",
+            "reporting_group_ids": ""
+        }
+    ],
+    "result_stat_types": [
+        {
+            "_id": "RSTot",
+            "heading": "Ballots Counted"
+        },
+        {
+            "_id": "RSCst",
+            "heading": "Ballots Cast"
+        },
+        {
+            "_id": "RSReg",
+            "heading": "Registered Voters"
+        },
+        {
+            "_id": "RSEli",
+            "heading": "Eligible Voters"
+        },
+        {
+            "_id": "RSTrn",
+            "heading": "Voter Turnout",
+            "is_percent": true
+        },
+        {
+            "_id": "RSRej",
+            "heading": "Ballots Rejected"
+        },
+        {
+            "_id": "RSUnc",
+            "heading": "Ballots Uncounted"
+        },
+        {
+            "_id": "RSWri",
+            "heading": "Writein Votes"
+        },
+        {
+            "_id": "RSUnd",
+            "heading": "Undervotes"
+        },
+        {
+            "_id": "RSOvr",
+            "heading": "Overvotes"
+        },
+        {
+            "_id": "RSSki",
+            "heading": "Skipped Votes"
+        },
+        {
+            "_id": "RSExh",
+            "heading": "Exhausted Ballots"
+        }
+    ],
+    "result_styles": [
+        {
+            "_id": "EMS",
+            "description": "Plurality voting, subtotal by Election Day/VBM",
+            "is_rcv": false,
+            "result_stat_type_ids": "RSReg RSCst RSRej RSOvr RSUnd RSTot",
+            "voting_group_ids": "TO ED MV"
+        },
+        {
+            "_id": "EMSW",
+            "description": "Plurality voting, subtotal by Election Day/VBM, with writeins",
+            "is_rcv": false,
+            "result_stat_type_ids": "RSReg RSCst RSRej RSOvr RSUnd RSTot RSWri",
+            "voting_group_ids": "TO ED MV"
+        },
+        {
+            "_id": "EMR",
+            "description": "RCV voting, subtotal by Election Day/VBM",
+            "is_rcv": true,
+            "result_stat_type_ids": "RSReg RSCst RSRej RSOvr RSUnd RSExh RSTot",
+            "voting_group_ids": "TO ED MV"
+        },
+        {
+            "_id": "EMRW",
+            "description": "RCV voting, subtotal by Election Day/VBM, with writeins",
+            "is_rcv": true,
+            "result_stat_type_ids": "RSReg RSCst RSRej RSOvr RSUnd RSExh RSTot RSWri",
+            "voting_group_ids": "TO ED MV"
+        },
+        {
+            "_id": "EMTE",
+            "description": "Turnout, subtotal by Election Day/VBM, with Eligible",
+            "is_rcv": false,
+            "result_stat_type_ids": "RSEli RSReg RSCst RSRej",
+            "voting_group_ids": "TO ED MV"
+        },
+        {
+            "_id": "EMT",
+            "description": "Turnout, subtotal by Election Day/VBM",
+            "is_rcv": false,
+            "result_stat_type_ids": "RSReg RSCst RSRej",
+            "voting_group_ids": "TO ED MV"
+        }
+    ],
+    "translations": {
+        "ballots_cast": {
+            "en": "Ballots Cast"
+        },
+        "ballots_counted": {
+            "en": "Ballots Counted"
+        },
+        "ballots_rejected": {
+            "en": "Ballots Rejected"
+        },
+        "ballots_uncounted": {
+            "en": "Ballots Uncounted"
+        },
+        "exhausted_ballots": {
+            "en": "Exhausted Ballots"
+        },
+        "overvotes": {
+            "en": "Overvotes"
+        },
+        "registered_voters": {
+            "en": "Registered Voters"
+        },
+        "undervotes": {
+            "en": "Undervotes"
+        },
+        "voter_turnout": {
+            "en": "Voter Turnout"
+        },
+        "writein": {
+            "en": "Write-In",
+            "es": "NO LISTADO",
+            "tl": "ISINUSULAT-LAMANG",
+            "zh": "補寫候選人"
+        },
+        "writein_votes": {
+            "en": "Writein Votes"
+        },
+        "yes": {
+            "en": "YES",
+            "es": "SÍ",
+            "tl": "OO",
+            "zh": "贊成"
+        },
+        "no": {
+            "en": "NO",
+            "es": "NO",
+            "tl": "HINDI",
+            "zh": "反對"
+        }
+    },
+    "voting_groups": [
+        {
+            "_id": "TO",
+            "heading": "Total"
+        },
+        {
+            "_id": "ED",
+            "heading": "Election Day"
+        },
+        {
+            "_id": "MV",
+            "heading": "Vote By Mail"
+        },
+        {
+            "_id": "EV",
+            "heading": "Early Voting"
+        },
+        {
+            "_id": "IA",
+            "heading": "In-County"
+        },
+        {
+            "_id": "XA",
+            "heading": "Other Counties"
+        },
+        {
+            "_id": "PV",
+            "heading": "Provisional Voting"
+        }
+    ]
+}

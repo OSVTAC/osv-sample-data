@@ -1,0 +1,244 @@
+Headers in the EMS tsv data:
+
+emsdata-raw/CFMJ001_ContestCandidateData.tsv
+
+List of candidates with contest ID, but also has missing contest data:
+szBallotHeading..iOfficeOnBallot
+
+   Field Name                     Sample
+-------------------------------------------------------------
+ 1  iContestID                     1010
+ 2  szBallotHeading                FEDERAL
+ 3  szSubHeading                   
+ 4  szOfficeTitle                  UNITED STATES SENATE
+ 5  szOfficeAbbr1                  UNITED STATES SENATE
+ 6  szOfficeAbbr2                  District 12
+ 7  sGoesIntoExtension             N
+ 8  iNumToVoteFor                  1
+ 9  iOfficeOnBallot                1
+10  iNumQualified                  2
+11  iNumCandidates                 2
+12  iCandidateID                   1
+13  szCandidateName                DIANNE FEINSTEIN
+14  szBallotDesignation            United States Senator
+15  iIncumbent                     1
+16  dtQualified                    7/13/2018 10:11:00 AM
+17  dtSigsInLieuFiled_dt           6/14/2018
+18  dtSigsInLieuIssued_dt          6/27/2018
+19  dtDecOfIntentIssued_dt         7/5/2017
+20  dtDecOfIntentFiled_dt          7/5/2017
+21  dtNOMIssued_dt                 7/20/2018
+22  dtNomFiled_dt                  8/6/2018
+23  dtFilingFeePaid_dt             8/6/2018
+24  dtCandStmtFiled_dt             8/10/2018
+25  dtCandStmtIssued_dt            7/20/2018
+26  dtDecOfCandIssued_dt           7/20/2018
+27  dtDecOfCandFiled_dt            8/6/2018
+28  dtCodeFairCampFiled_dt         
+29  sUserCode1                     
+30  sUserCode2                     
+31  szResAddress1                  
+32  szResAddress2                  
+33  szResAddress3                  
+34  szMailAddr1                    
+35  szMailAddr2                    
+36  szMailAddr3                    
+37  szMailAddr4                    
+38  sPhone                         
+39  sAltPhone                      
+40  sFaxNo                         
+41  szEmailAddress                 
+42  sPartyAbbr                     REP
+43  szPartyName                    Republican
+44  sCampaignPhone                 
+45  sCampaignFax                   
+46  sCampaignMobile                
+47  szWebAddress                   
+48  sElectronicCandStmt            No
+
+emsdata-raw/CFMJ001_ContestData.tsv
+
+Contest definitions data but mising some items in CFMJ001_ContestCandidateData.tsv
+
+   Field Name                     Sample
+-------------------------------------------------------------
+ 1  ELECTION                       November 6 2018 Consolidated General Election
+ 2  CONTESTID                      1010
+ 3  CONTESTTITLE1                  UNITED STATES SENATE
+ 4  CONTESTTITLE2                  District 12
+ 5  NUMTOVOTFOR                    1
+ 6  TERMOFOFFICE                   6
+ 7  FILINGFEE                      3480
+ 8  NUMOFCANDS                     2
+ 9  NUMQUALIFIEDCANDS              2
+10  NUMTOVOTFOR                    1
+11  DECOFINTENT                    0
+12  FILINGEXTENSION                0
+13  CANDSTMT                       1
+14  DISTRICTID                     *0
+15  SUBDISTRICT                    0
+16  CONTESTPARTY                   
+
+emsdata-raw/CFMJ008.tsv
+
+Measure contest ID and abbreviated name
+
+   Field Name                     Sample
+-------------------------------------------------------------
+ 1  iMeasureID                     1801
+ 2  sDesignation                   A
+ 3  szMeasureAbbr1                 Embarcadero Seawall Earthquake Safety Bond
+ 4  szMeasureAbbr2                 
+ 5  iBallotPosition1               1
+ 6  iBallotPosition2               2
+ 7  dtDateReceived                 8/15/2018
+ 8  szReceivedBy                   
+ 9  szRemarks                      
+10  szFilerTitle                   
+11  szFilerName                    
+12  szFilerFirm                    
+13  szFilerAddr1                   
+14  szFilerAddr2                   
+15  szFilerAddr3                   
+16  szFilerAddr4                   
+17  szFilerPhone                   
+18  szFilerFax                     
+19  szFilerEmail                   
+20  szContactTitle                 
+21  szContactName                  
+22  szContactAddr1                 
+23  szContactAddr2                 
+24  szContactAddr3                 
+25  szContactAddr4                 
+26  szContactPhone                 
+27  szContactFax                   
+28  szContactEmail                 
+29  szAttorneyTitle                
+30  szAttorneyName                 
+31  szAttorneyAddr1                
+32  szAttorneyAddr2                
+33  szAttorneyAddr3                
+34  szAttorneyAddr4                
+35  szAttorneyPhone                
+36  szAttorneyFax                  
+37  szAttorneyEmail                
+38  szResponseTitle1               Yes
+39  szResponseTitle2               No
+40  iSize                          0
+41  sStyle                         
+42  szLegalNoticePubDesc           
+43  szDeliveryMethodDesc           
+44  szGroupHdg                     MEASURES SUBMITTED TO THE VOTERS
+45  szBallotHeading                CITY AND COUNTY PROPOSITIONS
+46  szSubHeading                   CITY OF SAN FRANCISCO
+47  sDistrictID                    *0
+48  szDistrictName                 County Wide
+49  szElectionDesc                 November 6 2018 Consolidated General Election
+50  dtElectionDate                 11/6/2018
+
+emsdata-raw/ConsolDistBT.tsv
+
+Consolidated precinct ID, name, VBM status, ballot type, and major districts
+
+   Field Name                     Sample
+-------------------------------------------------------------
+ 1  VotingPrecinctID               1101
+ 2  VotingPrecinctName             Pct 1101
+ 3  MailBallotPrecinct             N
+ 4  BalType                        1
+ 5  Assembly                       19
+ 6  BART                           9
+ 7  Congressional                  14
+ 8  Senatorial                     11
+ 9  Supervisorial                  11
+
+emsdata-raw/PDMJ001.tsv
+
+District ID and Name, with precincts and splits
+
+   Field Name                     Sample
+-------------------------------------------------------------
+ 1  sDistrictID                    *0
+ 2  iSubDistrict                   0
+ 3  szDistrictName                 County Wide
+ 4  sPrecinctID                    1101
+ 5  sPrecinctPortion               
+ 6  szPrecinctName                 Pct 1101
+
+emsdata-raw/PODJ011.tsv
+
+Poll location with consolidated precinct and regular precinct with ballot type
+
+   Field Name                     Sample
+-------------------------------------------------------------
+ 1  ElectionAbbr                   2018NOVGEN
+ 2  PollingSiteID                  0
+ 3  PollingSiteName                MAIL BALLOT PRECINCT
+ 4  TableID                        
+ 5  PollingPlaceDesc1              MAIL BALLOT PRECINCT
+ 6  PollingPlaceDesc2              755 Morse St
+ 7  SamBalAddr1                    Btw Mission & Lowell
+ 8  SamBalAddr2                    3.5% slope
+ 9  VotingPctID                    1151
+10  VotingPctName                  Pct 1151 MB
+11  PollPlaceRegPctID              1151
+12  PollPlaceRegPctPortion         
+13  BallotTypeList                 4
+
+emsdata-raw/SGMJ001.tsv
+
+Street address range to precinct mapping.
+
+   Field Name                     Sample
+-------------------------------------------------------------
+ 1  DistrictID                     *0
+ 2  SubDistrict                    0
+ 3  CityName                       San Francisco
+ 4  SegmentHndl                    56613
+ 5  StreettHndl                    2501
+ 6  PreDir                         
+ 7  StreetName                     19th
+ 8  StreetType                     Ave
+ 9  PostDir                        
+10  SideCode                       O
+11  HouseNumPrefix                 
+12  HouseNumLo                     3901
+13  HouseNumHi                     3999
+14  HouseNumSuffix                 
+15  UnitNumLo                      
+16  UnitNumHi                      
+17  AlphaSplitLo                   A
+18  AlphaSplitHi                   Z
+19  StateCode                      CA
+20  CountyCode                     38
+21  Zip                            94132
+22  MailAddrReqd                   0
+23  AptNumReqd                     0
+24  AddrTypeDesc                   Valid Residence
+25  MapNumber                      
+26  Parcel                         
+27  Latitude                       
+28  Longitude                      
+29  CensusTractDistName            
+30  PrecinctID                     1115
+31  PrecinctPortion                
+32  ActiveVoterCount               0
+33  StreetRemarks                  
+34  SegmentRemarks                 08/17/05, self storage, flaged as business address       09/15/04 unconfirmed, maildrop
+35  LastUpdateID                   Administrator
+36  LastUpdateDate                 5/4/2012 11:45:18 AM
+
+emsdata-raw/EWMJ014_ContestBalTypeXref.txt
+
+List of contest IDs and rotation code by ballot type
+
+   Field Name                     Sample
+-------------------------------------------------------------
+ 1  ELECTIONABBR                   2018NOVGEN
+ 2  CONTESTID                      1010
+ 3  CONTESTABBR1                   UNITED STATES SENATE
+ 4  CONTESTABBR2                   District 12
+ 5  BALLOTTYPE                     1
+ 6  ROTATION                       1
+
+
