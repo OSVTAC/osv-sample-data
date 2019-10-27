@@ -12,8 +12,9 @@ bt_digits: 2
 retention_pats:
     - Justice {candidate_name} be elected
 
-#approval_required:
-#    '2/3':
+approval_required:
+    '2/3':
+        - D
 
 runoff:
     2018-11-06:

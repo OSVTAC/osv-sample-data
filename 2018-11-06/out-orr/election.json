@@ -3695,7 +3695,7 @@
                     "tl": "Dapat bang mamahagi taon-taon ang Lungsod ng hanggang sa 1.5% ng kasalukuyang batayang buwis sa mga hotel para sa espesipikong paggamit sa sining at kultura, nang hindi tinataasan ang kasalukuyang buwis sa mga hotel?",
                     "zh": "市府是否應在不提高現有酒店稅的情況下，每年分配至多1.5%現行基本酒店稅用於特定藝術與文化用途？"
                 },
-                "approval_required": "Majority",
+                "approval_required": "2/3",
                 "choices": [
                     {
                         "_id": "070",

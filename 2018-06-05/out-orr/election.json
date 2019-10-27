@@ -4184,7 +4184,7 @@
                     "tl": "Dapat bang magpataw ang Lungsod ng bagong gross receipts tax (buwis sa kabuuang kita) na 1.7% ng kita na tinatanggap ng mga negosyo sa pagpapaupa ng ilang espasyong komersiyal sa San Francisco, at nang mapondohan ang mga serbisyo para sa kawalan ng tahanan, pabahay para sa mga kabahayang napakaliit hanggang katamtaman ang kita at para sa iba pang pampublikong layunin?",
                     "zh": "市府是否應對企業在三藩市出租某些商業空間的所得，徵收一項新的1.7%營業總收入稅，來資助無家可歸者服務、收入極低至收入中等家庭的住房以及其他公共用途？"
                 },
-                "approval_required": "Majority",
+                "approval_required": "2/3",
                 "choices": [
                     {
                         "_id": "040",
