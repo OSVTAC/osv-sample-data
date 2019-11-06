@@ -1,0 +1,1267 @@
+[
+    {
+        "_id": "TURNOUT",
+        "no_voter_precincts": [],
+        "precincts_reporting": 0,
+        "reporting_time": "2019-10-07 16:10:29",
+        "result_stats": [
+            {
+                "_id": "RSEli",
+                "heading": "Eligible Voters",
+                "results": [
+                    662489
+                ]
+            },
+            {
+                "_id": "RSReg",
+                "heading": "Registered Voters",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSCst",
+                "heading": "Ballots Cast",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSRej",
+                "heading": "Ballots Challenged",
+                "results": [
+                    "0"
+                ]
+            }
+        ],
+        "total_precincts": 0
+    },
+    {
+        "_id": "334",
+        "choices": [
+            {
+                "_id": "1",
+                "ballot_title": "JOEL VENTRESCA",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            },
+            {
+                "_id": "2",
+                "ballot_title": "WILMA PANG",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            },
+            {
+                "_id": "3",
+                "ballot_title": "ROBERT L. JORDAN, JR.",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            },
+            {
+                "_id": "4",
+                "ballot_title": "PAUL YBARRA ROBERTSON",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            },
+            {
+                "_id": "5",
+                "ballot_title": "ELLEN LEE ZHOU",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            },
+            {
+                "_id": "6",
+                "ballot_title": "LONDON N. BREED",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            }
+        ],
+        "no_voter_precincts": [],
+        "precincts_reporting": 0,
+        "rcv_rounds": 0,
+        "reporting_time": "2019-10-07 16:10:29",
+        "result_stats": [
+            {
+                "_id": "RSReg",
+                "heading": "Registered Voters",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSCst",
+                "heading": "Ballots Cast",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSRej",
+                "heading": "Ballots Rejected",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSOvr",
+                "heading": "Overvotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSUnd",
+                "heading": "Undervotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSExh",
+                "heading": "Exhausted Ballots",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSTot",
+                "heading": "Total Votes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSWri",
+                "heading": "Writein Votes",
+                "results": [
+                    "0.0"
+                ]
+            }
+        ],
+        "total_precincts": 474
+    },
+    {
+        "_id": "353",
+        "choices": [
+            {
+                "_id": "8",
+                "ballot_title": "RYAN LAM",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            },
+            {
+                "_id": "9",
+                "ballot_title": "DEAN PRESTON",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            },
+            {
+                "_id": "10",
+                "ballot_title": "NOMVULA O'MEARA",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            },
+            {
+                "_id": "11",
+                "ballot_title": "VALLIE BROWN",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            }
+        ],
+        "no_voter_precincts": [],
+        "precincts_reporting": 0,
+        "rcv_rounds": 0,
+        "reporting_time": "2019-10-07 16:10:29",
+        "result_stats": [
+            {
+                "_id": "RSReg",
+                "heading": "Registered Voters",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSCst",
+                "heading": "Ballots Cast",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSRej",
+                "heading": "Ballots Rejected",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSOvr",
+                "heading": "Overvotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSUnd",
+                "heading": "Undervotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSExh",
+                "heading": "Exhausted Ballots",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSTot",
+                "heading": "Total Votes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSWri",
+                "heading": "Writein Votes",
+                "results": [
+                    "0.0"
+                ]
+            }
+        ],
+        "total_precincts": 54
+    },
+    {
+        "_id": "352",
+        "choices": [
+            {
+                "_id": "13",
+                "ballot_title": "DENNIS J. HERRERA",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            }
+        ],
+        "no_voter_precincts": [],
+        "precincts_reporting": 0,
+        "rcv_rounds": 0,
+        "reporting_time": "2019-10-07 16:10:29",
+        "result_stats": [
+            {
+                "_id": "RSReg",
+                "heading": "Registered Voters",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSCst",
+                "heading": "Ballots Cast",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSRej",
+                "heading": "Ballots Rejected",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSOvr",
+                "heading": "Overvotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSUnd",
+                "heading": "Undervotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSExh",
+                "heading": "Exhausted Ballots",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSTot",
+                "heading": "Total Votes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSWri",
+                "heading": "Writein Votes",
+                "results": [
+                    "0.0"
+                ]
+            }
+        ],
+        "total_precincts": 474
+    },
+    {
+        "_id": "339",
+        "choices": [
+            {
+                "_id": "15",
+                "ballot_title": "SUZY LOFTUS",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            },
+            {
+                "_id": "16",
+                "ballot_title": "LEIF DAUTCH",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            },
+            {
+                "_id": "17",
+                "ballot_title": "NANCY TUNG",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            },
+            {
+                "_id": "18",
+                "ballot_title": "CHESA BOUDIN",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            }
+        ],
+        "no_voter_precincts": [],
+        "precincts_reporting": 0,
+        "rcv_rounds": 0,
+        "reporting_time": "2019-10-07 16:10:29",
+        "result_stats": [
+            {
+                "_id": "RSReg",
+                "heading": "Registered Voters",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSCst",
+                "heading": "Ballots Cast",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSRej",
+                "heading": "Ballots Rejected",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSOvr",
+                "heading": "Overvotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSUnd",
+                "heading": "Undervotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSExh",
+                "heading": "Exhausted Ballots",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSTot",
+                "heading": "Total Votes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSWri",
+                "heading": "Writein Votes",
+                "results": [
+                    "0.0"
+                ]
+            }
+        ],
+        "total_precincts": 474
+    },
+    {
+        "_id": "360",
+        "choices": [
+            {
+                "_id": "20",
+                "ballot_title": "MANOHAR \"MANO\" RAJU",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            }
+        ],
+        "no_voter_precincts": [],
+        "precincts_reporting": 0,
+        "rcv_rounds": 0,
+        "reporting_time": "2019-10-07 16:10:29",
+        "result_stats": [
+            {
+                "_id": "RSReg",
+                "heading": "Registered Voters",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSCst",
+                "heading": "Ballots Cast",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSRej",
+                "heading": "Ballots Rejected",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSOvr",
+                "heading": "Overvotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSUnd",
+                "heading": "Undervotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSExh",
+                "heading": "Exhausted Ballots",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSTot",
+                "heading": "Total Votes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSWri",
+                "heading": "Writein Votes",
+                "results": [
+                    "0.0"
+                ]
+            }
+        ],
+        "total_precincts": 474
+    },
+    {
+        "_id": "350",
+        "choices": [
+            {
+                "_id": "22",
+                "ballot_title": "PAUL MIYAMOTO",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            }
+        ],
+        "no_voter_precincts": [],
+        "precincts_reporting": 0,
+        "rcv_rounds": 0,
+        "reporting_time": "2019-10-07 16:10:29",
+        "result_stats": [
+            {
+                "_id": "RSReg",
+                "heading": "Registered Voters",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSCst",
+                "heading": "Ballots Cast",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSRej",
+                "heading": "Ballots Rejected",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSOvr",
+                "heading": "Overvotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSUnd",
+                "heading": "Undervotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSExh",
+                "heading": "Exhausted Ballots",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSTot",
+                "heading": "Total Votes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSWri",
+                "heading": "Writein Votes",
+                "results": [
+                    "0.0"
+                ]
+            }
+        ],
+        "total_precincts": 474
+    },
+    {
+        "_id": "349",
+        "choices": [
+            {
+                "_id": "24",
+                "ballot_title": "JOSÉ CISNEROS",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            }
+        ],
+        "no_voter_precincts": [],
+        "precincts_reporting": 0,
+        "rcv_rounds": 0,
+        "reporting_time": "2019-10-07 16:10:29",
+        "result_stats": [
+            {
+                "_id": "RSReg",
+                "heading": "Registered Voters",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSCst",
+                "heading": "Ballots Cast",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSRej",
+                "heading": "Ballots Rejected",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSOvr",
+                "heading": "Overvotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSUnd",
+                "heading": "Undervotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSExh",
+                "heading": "Exhausted Ballots",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSTot",
+                "heading": "Total Votes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSWri",
+                "heading": "Writein Votes",
+                "results": [
+                    "0.0"
+                ]
+            }
+        ],
+        "total_precincts": 474
+    },
+    {
+        "_id": "361",
+        "choices": [
+            {
+                "_id": "26",
+                "ballot_title": "JENNY LAM",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            },
+            {
+                "_id": "27",
+                "ballot_title": "KIRSTEN STROBEL",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            },
+            {
+                "_id": "28",
+                "ballot_title": "ROBERT K. COLEMAN",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            }
+        ],
+        "no_voter_precincts": [],
+        "precincts_reporting": 0,
+        "rcv_rounds": 0,
+        "reporting_time": "2019-10-07 16:10:29",
+        "result_stats": [
+            {
+                "_id": "RSReg",
+                "heading": "Registered Voters",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSCst",
+                "heading": "Ballots Cast",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSRej",
+                "heading": "Ballots Rejected",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSOvr",
+                "heading": "Overvotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSUnd",
+                "heading": "Undervotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSTot",
+                "heading": "Total Votes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSWri",
+                "heading": "Writein Votes",
+                "results": [
+                    "0.0"
+                ]
+            }
+        ],
+        "total_precincts": 474
+    },
+    {
+        "_id": "351",
+        "choices": [
+            {
+                "_id": "30",
+                "ballot_title": "IVY LEE",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            }
+        ],
+        "no_voter_precincts": [],
+        "precincts_reporting": 0,
+        "rcv_rounds": 0,
+        "reporting_time": "2019-10-07 16:10:29",
+        "result_stats": [
+            {
+                "_id": "RSReg",
+                "heading": "Registered Voters",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSCst",
+                "heading": "Ballots Cast",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSRej",
+                "heading": "Ballots Rejected",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSOvr",
+                "heading": "Overvotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSUnd",
+                "heading": "Undervotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSTot",
+                "heading": "Total Votes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSWri",
+                "heading": "Writein Votes",
+                "results": [
+                    "0.0"
+                ]
+            }
+        ],
+        "total_precincts": 474
+    },
+    {
+        "_id": "342",
+        "choices": [
+            {
+                "_id": "32",
+                "ballot_title": "YES",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            },
+            {
+                "_id": "33",
+                "ballot_title": "NO",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            }
+        ],
+        "no_voter_precincts": [],
+        "precincts_reporting": 0,
+        "rcv_rounds": 0,
+        "reporting_time": "2019-10-07 16:10:29",
+        "result_stats": [
+            {
+                "_id": "RSReg",
+                "heading": "Registered Voters",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSCst",
+                "heading": "Ballots Cast",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSRej",
+                "heading": "Ballots Rejected",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSOvr",
+                "heading": "Overvotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSUnd",
+                "heading": "Undervotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSTot",
+                "heading": "Total Votes",
+                "results": [
+                    "0"
+                ]
+            }
+        ],
+        "total_precincts": 474
+    },
+    {
+        "_id": "343",
+        "choices": [
+            {
+                "_id": "34",
+                "ballot_title": "YES",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            },
+            {
+                "_id": "35",
+                "ballot_title": "NO",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            }
+        ],
+        "no_voter_precincts": [],
+        "precincts_reporting": 0,
+        "rcv_rounds": 0,
+        "reporting_time": "2019-10-07 16:10:29",
+        "result_stats": [
+            {
+                "_id": "RSReg",
+                "heading": "Registered Voters",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSCst",
+                "heading": "Ballots Cast",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSRej",
+                "heading": "Ballots Rejected",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSOvr",
+                "heading": "Overvotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSUnd",
+                "heading": "Undervotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSTot",
+                "heading": "Total Votes",
+                "results": [
+                    "0"
+                ]
+            }
+        ],
+        "total_precincts": 474
+    },
+    {
+        "_id": "344",
+        "choices": [
+            {
+                "_id": "36",
+                "ballot_title": "YES",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            },
+            {
+                "_id": "37",
+                "ballot_title": "NO",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            }
+        ],
+        "no_voter_precincts": [],
+        "precincts_reporting": 0,
+        "rcv_rounds": 0,
+        "reporting_time": "2019-10-07 16:10:29",
+        "result_stats": [
+            {
+                "_id": "RSReg",
+                "heading": "Registered Voters",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSCst",
+                "heading": "Ballots Cast",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSRej",
+                "heading": "Ballots Rejected",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSOvr",
+                "heading": "Overvotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSUnd",
+                "heading": "Undervotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSTot",
+                "heading": "Total Votes",
+                "results": [
+                    "0"
+                ]
+            }
+        ],
+        "total_precincts": 474
+    },
+    {
+        "_id": "345",
+        "choices": [
+            {
+                "_id": "38",
+                "ballot_title": "YES",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            },
+            {
+                "_id": "39",
+                "ballot_title": "NO",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            }
+        ],
+        "no_voter_precincts": [],
+        "precincts_reporting": 0,
+        "rcv_rounds": 0,
+        "reporting_time": "2019-10-07 16:10:29",
+        "result_stats": [
+            {
+                "_id": "RSReg",
+                "heading": "Registered Voters",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSCst",
+                "heading": "Ballots Cast",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSRej",
+                "heading": "Ballots Rejected",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSOvr",
+                "heading": "Overvotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSUnd",
+                "heading": "Undervotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSTot",
+                "heading": "Total Votes",
+                "results": [
+                    "0"
+                ]
+            }
+        ],
+        "total_precincts": 474
+    },
+    {
+        "_id": "346",
+        "choices": [
+            {
+                "_id": "40",
+                "ballot_title": "YES",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            },
+            {
+                "_id": "41",
+                "ballot_title": "NO",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            }
+        ],
+        "no_voter_precincts": [],
+        "precincts_reporting": 0,
+        "rcv_rounds": 0,
+        "reporting_time": "2019-10-07 16:10:29",
+        "result_stats": [
+            {
+                "_id": "RSReg",
+                "heading": "Registered Voters",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSCst",
+                "heading": "Ballots Cast",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSRej",
+                "heading": "Ballots Rejected",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSOvr",
+                "heading": "Overvotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSUnd",
+                "heading": "Undervotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSTot",
+                "heading": "Total Votes",
+                "results": [
+                    "0"
+                ]
+            }
+        ],
+        "total_precincts": 474
+    },
+    {
+        "_id": "354",
+        "choices": [
+            {
+                "_id": "42",
+                "ballot_title": "YES",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            },
+            {
+                "_id": "43",
+                "ballot_title": "NO",
+                "results": [
+                    "0.0"
+                ],
+                "success": "",
+                "winning_status": ""
+            }
+        ],
+        "no_voter_precincts": [],
+        "precincts_reporting": 0,
+        "rcv_rounds": 0,
+        "reporting_time": "2019-10-07 16:10:29",
+        "result_stats": [
+            {
+                "_id": "RSReg",
+                "heading": "Registered Voters",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSCst",
+                "heading": "Ballots Cast",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSRej",
+                "heading": "Ballots Rejected",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSOvr",
+                "heading": "Overvotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSUnd",
+                "heading": "Undervotes",
+                "results": [
+                    "0"
+                ]
+            },
+            {
+                "_id": "RSTot",
+                "heading": "Total Votes",
+                "results": [
+                    "0"
+                ]
+            }
+        ],
+        "total_precincts": 474
+    }
+]

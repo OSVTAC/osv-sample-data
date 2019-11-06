@@ -6,6 +6,7 @@ files:
     question_pats:
         - "State Proposition {number}=Proposition:{number}"
         - "Local Measure {letter}=Measure:{letter}"
+        - "PROPOSITION {letter}=Measure:{letter}"
         - "{something} Justice {word}=Retention:{word}"
         - "{something} Juctice {word}=Retention:{word}"
 

@@ -87,13 +87,28 @@
                 "number_elected": 1,
                 "choices": [
                     {
+                        "_id": "1",
+                        "_id_ext": "1",
+                        "ballot_title": {
+                            "en": "JOEL VENTRESCA",
+                            "zh": "JOEL VENTRESCA 喬爾 ‧ 范崔斯卡"
+                        },
+                        "sequence": "1",
+                        "ballot_designation": {
+                            "en": "Retired Airport Analyst",
+                            "es": "Analista de Aeropuerto Jubilado",
+                            "tl": "Retiradong Tagapagsuri ng mga Paliparan",
+                            "zh": "退休機場分析師"
+                        }
+                    },
+                    {
                         "_id": "2",
                         "_id_ext": "2",
                         "ballot_title": {
                             "en": "WILMA PANG",
                             "zh": "WILMA PANG 彭德慧"
                         },
-                        "sequence": "010",
+                        "sequence": "2",
                         "ballot_designation": {
                             "en": "Retired Music Professor",
                             "es": "Profesora de Música Jubilada",
@@ -110,7 +125,7 @@
                             "tl": "",
                             "zh": "ROBERT L. JORDAN, JR.  小羅伯特 ‧ L ‧ 喬丹"
                         },
-                        "sequence": "020",
+                        "sequence": "3",
                         "ballot_designation": {
                             "en": "Preacher",
                             "es": "Predicador",
@@ -125,7 +140,7 @@
                             "en": "PAUL YBARRA ROBERTSON",
                             "zh": "PAUL YBARRA ROBERTSON 保羅 ‧ 伊巴拉 ‧ 羅伯森"
                         },
-                        "sequence": "030",
+                        "sequence": "4",
                         "ballot_designation": {
                             "en": "Small Business Owner",
                             "es": "Dueño de Pequeña Empresa",
@@ -140,7 +155,7 @@
                             "en": "ELLEN LEE ZHOU",
                             "zh": "ELLEN LEE ZHOU 李愛晨"
                         },
-                        "sequence": "040",
+                        "sequence": "5",
                         "ballot_designation": {
                             "en": "Behavioral Health Clinician",
                             "es": "Consejera Clínica de Salud Conductual",
@@ -155,27 +170,12 @@
                             "en": "LONDON N. BREED",
                             "zh": "LONDON N. BREED 倫敦 ‧ 布里德"
                         },
-                        "sequence": "050",
+                        "sequence": "6",
                         "ballot_designation": {
                             "en": "Mayor of San Francisco",
                             "es": "Alcaldesa de San Francisco",
                             "tl": "Mayor (Punong-bayan) ng San Francisco",
                             "zh": "三藩市市長"
-                        }
-                    },
-                    {
-                        "_id": "1",
-                        "_id_ext": "1",
-                        "ballot_title": {
-                            "en": "JOEL VENTRESCA",
-                            "zh": "JOEL VENTRESCA 喬爾 ‧ 范崔斯卡"
-                        },
-                        "sequence": "060",
-                        "ballot_designation": {
-                            "en": "Retired Airport Analyst",
-                            "es": "Analista de Aeropuerto Jubilado",
-                            "tl": "Retiradong Tagapagsuri ng mga Paliparan",
-                            "zh": "退休機場分析師"
                         }
                     }
                 ],
@@ -183,7 +183,7 @@
                 "result_style": "EMRW"
             },
             {
-                "_id": "91e909f7-cfae-4478-952a-dd0ff37dd9ce",
+                "_id": "353",
                 "_id_ext": "91e909f7-cfae-4478-952a-dd0ff37dd9ce",
                 "_type": "office",
                 "header_id": "",
@@ -215,7 +215,7 @@
                             "en": "RYAN LAM",
                             "zh": "RYAN LAM 林朗禧"
                         },
-                        "sequence": "080",
+                        "sequence": "1",
                         "ballot_designation": {
                             "en": "Political Journalist",
                             "es": "Periodista Político",
@@ -230,7 +230,7 @@
                             "en": "DEAN PRESTON",
                             "zh": "DEAN PRESTON 迪恩 ‧ 普瑞斯頓"
                         },
-                        "sequence": "090",
+                        "sequence": "2",
                         "ballot_designation": {
                             "en": "Nonprofit Housing Attorney",
                             "es": "Abogado de Organizaciones sin Fines de Lucro para la Vivienda",
@@ -245,7 +245,7 @@
                             "en": "NOMVULA O'MEARA",
                             "zh": "NOMVULA O'MEARA 諾姆烏拉 ‧ 歐米拉"
                         },
-                        "sequence": "100",
+                        "sequence": "3",
                         "ballot_designation": {
                             "en": "Film Producer",
                             "es": "Productora de Películas",
@@ -260,7 +260,7 @@
                             "en": "VALLIE BROWN",
                             "zh": "VALLIE BROWN 浦慧理"
                         },
-                        "sequence": "110",
+                        "sequence": "4",
                         "ballot_designation": {
                             "en": "District 5 Supervisor, Appointed",
                             "es": "Supervisora del Distrito 5, Designada",
@@ -273,7 +273,7 @@
                 "result_style": "EMRW"
             },
             {
-                "_id": "aa114170-bb7f-477a-ac90-f5b343adcd1a",
+                "_id": "352",
                 "_id_ext": "aa114170-bb7f-477a-ac90-f5b343adcd1a",
                 "_type": "office",
                 "header_id": "000",
@@ -305,7 +305,7 @@
                             "en": "DENNIS J. HERRERA",
                             "zh": "DENNIS J. HERRERA 丹尼斯 ‧ J ‧ 赫雷拉"
                         },
-                        "sequence": "010",
+                        "sequence": "1",
                         "ballot_designation": {
                             "en": "City Attorney",
                             "es": "Abogado de la Ciudad",
@@ -318,7 +318,7 @@
                 "result_style": "EMRW"
             },
             {
-                "_id": "e56eaea1-da96-41f9-8d4b-a3f1733480bd",
+                "_id": "339",
                 "_id_ext": "e56eaea1-da96-41f9-8d4b-a3f1733480bd",
                 "_type": "office",
                 "header_id": "000",
@@ -344,28 +344,13 @@
                 "number_elected": 1,
                 "choices": [
                     {
-                        "_id": "18",
-                        "_id_ext": "18",
-                        "ballot_title": {
-                            "en": "CHESA BOUDIN",
-                            "zh": "CHESA BOUDIN 博徹思"
-                        },
-                        "sequence": "010",
-                        "ballot_designation": {
-                            "en": "Deputy Public Defender",
-                            "es": "Defensor Público Adjunto",
-                            "tl": "Katuwang na Pampublikong Tagapagtanggol",
-                            "zh": "副公共辯護律師"
-                        }
-                    },
-                    {
                         "_id": "15",
                         "_id_ext": "15",
                         "ballot_title": {
                             "en": "SUZY LOFTUS",
                             "zh": "SUZY LOFTUS 樂素詩"
                         },
-                        "sequence": "020",
+                        "sequence": "1",
                         "ballot_designation": {
                             "en": "Legal Counsel",
                             "es": "Asesora Legal",
@@ -380,7 +365,7 @@
                             "en": "LEIF DAUTCH",
                             "zh": "LEIF DAUTCH 李多福"
                         },
-                        "sequence": "030",
+                        "sequence": "2",
                         "ballot_designation": {
                             "en": "Deputy Attorney General",
                             "es": "Fiscal General Adjunto",
@@ -395,12 +380,27 @@
                             "en": "NANCY TUNG",
                             "zh": "NANCY TUNG 湯曉慧"
                         },
-                        "sequence": "040",
+                        "sequence": "3",
                         "ballot_designation": {
                             "en": "Deputy District Attorney",
                             "es": "Fiscal de Distrito Adjunta",
                             "tl": "Katuwang na Abugado ng Distrito",
                             "zh": "副地方檢察官"
+                        }
+                    },
+                    {
+                        "_id": "18",
+                        "_id_ext": "18",
+                        "ballot_title": {
+                            "en": "CHESA BOUDIN",
+                            "zh": "CHESA BOUDIN 博徹思"
+                        },
+                        "sequence": "4",
+                        "ballot_designation": {
+                            "en": "Deputy Public Defender",
+                            "es": "Defensor Público Adjunto",
+                            "tl": "Katuwang na Pampublikong Tagapagtanggol",
+                            "zh": "副公共辯護律師"
                         }
                     }
                 ],
@@ -408,7 +408,7 @@
                 "result_style": "EMRW"
             },
             {
-                "_id": "479e7108-5b99-4821-966a-b78eabcfc581",
+                "_id": "360",
                 "_id_ext": "479e7108-5b99-4821-966a-b78eabcfc581",
                 "_type": "office",
                 "header_id": "000",
@@ -440,7 +440,7 @@
                             "en": "MANOHAR \"MANO\" RAJU",
                             "zh": "MANOHAR \"MANO\" RAJU 力儲文"
                         },
-                        "sequence": "010",
+                        "sequence": "1",
                         "ballot_designation": {
                             "en": "Appointed Public Defender",
                             "es": "Defensor Público Designado",
@@ -453,7 +453,7 @@
                 "result_style": "EMRW"
             },
             {
-                "_id": "f0f07583-b641-47d3-9b9f-1c51dc824513",
+                "_id": "350",
                 "_id_ext": "f0f07583-b641-47d3-9b9f-1c51dc824513",
                 "_type": "office",
                 "header_id": "000",
@@ -485,7 +485,7 @@
                             "en": "PAUL MIYAMOTO",
                             "zh": "PAUL MIYAMOTO 保羅 ‧ 宮本"
                         },
-                        "sequence": "010",
+                        "sequence": "1",
                         "ballot_designation": {
                             "en": "Chief Deputy Sheriff",
                             "es": "Alguacil en Jefe Adjunto",
@@ -498,7 +498,7 @@
                 "result_style": "EMRW"
             },
             {
-                "_id": "1c0b6535-0a11-4c7e-9075-233f0a5fc211",
+                "_id": "349",
                 "_id_ext": "1c0b6535-0a11-4c7e-9075-233f0a5fc211",
                 "_type": "office",
                 "header_id": "000",
@@ -530,7 +530,7 @@
                             "en": "JOSÉ CISNEROS",
                             "zh": "JOSÉ CISNEROS 何世豪"
                         },
-                        "sequence": "010",
+                        "sequence": "1",
                         "ballot_designation": {
                             "en": "San Francisco Treasurer",
                             "es": "Tesorero de San Francisco",
@@ -568,13 +568,28 @@
                 "number_elected": 1,
                 "choices": [
                     {
+                        "_id": "26",
+                        "_id_ext": "26",
+                        "ballot_title": {
+                            "en": "JENNY LAM",
+                            "zh": "JENNY LAM 林謙悅"
+                        },
+                        "sequence": "1",
+                        "ballot_designation": {
+                            "en": "Appointed Member, Board of Education",
+                            "es": "Miembro Designada, Consejo de Educación",
+                            "tl": "Itinalagang Miyembro, Lupon ng Edukasyon",
+                            "zh": "委任教育委員會委員"
+                        }
+                    },
+                    {
                         "_id": "27",
                         "_id_ext": "27",
                         "ballot_title": {
                             "en": "KIRSTEN STROBEL",
                             "zh": "KIRSTEN STROBEL 思嘉慧"
                         },
-                        "sequence": "010",
+                        "sequence": "2",
                         "ballot_designation": {
                             "en": "Director, Arts Nonprofit",
                             "es": "Directora, Organización sin Fines de Lucro para las Artes",
@@ -589,27 +604,12 @@
                             "en": "ROBERT K. COLEMAN",
                             "zh": "ROBERT K. COLEMAN 羅伯特 ‧ K ‧ 柯曼"
                         },
-                        "sequence": "020",
+                        "sequence": "3",
                         "ballot_designation": {
                             "en": "Editor / Artist",
                             "es": "Editor / Artista",
                             "tl": "Editor / Artista",
                             "zh": "編輯 / 藝術家"
-                        }
-                    },
-                    {
-                        "_id": "26",
-                        "_id_ext": "26",
-                        "ballot_title": {
-                            "en": "JENNY LAM",
-                            "zh": "JENNY LAM 林謙悅"
-                        },
-                        "sequence": "030",
-                        "ballot_designation": {
-                            "en": "Appointed Member, Board of Education",
-                            "es": "Miembro Designada, Consejo de Educación",
-                            "tl": "Itinalagang Miyembro, Lupon ng Edukasyon",
-                            "zh": "委任教育委員會委員"
                         }
                     }
                 ],
@@ -648,7 +648,7 @@
                             "en": "IVY LEE",
                             "zh": "IVY LEE 李康儀"
                         },
-                        "sequence": "010",
+                        "sequence": "1",
                         "ballot_designation": {
                             "en": "Appointed City College Trustee",
                             "es": "Síndica Designada de City College",
@@ -685,7 +685,7 @@
                 "approval_required": "2/3",
                 "choices": [
                     {
-                        "_id": "32",
+                        "_id": "42",
                         "_id_ext": "32",
                         "ballot_title": {
                             "en": "YES",
@@ -693,17 +693,17 @@
                             "tl": "OO",
                             "zh": "贊成"
                         },
-                        "sequence": "320"
+                        "sequence": "1"
                     },
                     {
-                        "_id": "33",
+                        "_id": "43",
                         "_id_ext": "33",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
                         },
-                        "sequence": "330"
+                        "sequence": "2"
                     }
                 ],
                 "result_style": "EMS"
@@ -733,7 +733,7 @@
                 "approval_required": "Majority",
                 "choices": [
                     {
-                        "_id": "32",
+                        "_id": "42",
                         "_id_ext": "32",
                         "ballot_title": {
                             "en": "YES",
@@ -741,17 +741,17 @@
                             "tl": "OO",
                             "zh": "贊成"
                         },
-                        "sequence": "320"
+                        "sequence": "1"
                     },
                     {
-                        "_id": "33",
+                        "_id": "43",
                         "_id_ext": "33",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
                         },
-                        "sequence": "330"
+                        "sequence": "2"
                     }
                 ],
                 "result_style": "EMS"
@@ -781,7 +781,7 @@
                 "approval_required": "Majority",
                 "choices": [
                     {
-                        "_id": "32",
+                        "_id": "42",
                         "_id_ext": "32",
                         "ballot_title": {
                             "en": "YES",
@@ -789,17 +789,17 @@
                             "tl": "OO",
                             "zh": "贊成"
                         },
-                        "sequence": "320"
+                        "sequence": "1"
                     },
                     {
-                        "_id": "33",
+                        "_id": "43",
                         "_id_ext": "33",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
                         },
-                        "sequence": "330"
+                        "sequence": "2"
                     }
                 ],
                 "result_style": "EMS"
@@ -829,7 +829,7 @@
                 "approval_required": "Majority",
                 "choices": [
                     {
-                        "_id": "32",
+                        "_id": "42",
                         "_id_ext": "32",
                         "ballot_title": {
                             "en": "YES",
@@ -837,17 +837,17 @@
                             "tl": "OO",
                             "zh": "贊成"
                         },
-                        "sequence": "320"
+                        "sequence": "1"
                     },
                     {
-                        "_id": "33",
+                        "_id": "43",
                         "_id_ext": "33",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
                         },
-                        "sequence": "330"
+                        "sequence": "2"
                     }
                 ],
                 "result_style": "EMS"
@@ -877,7 +877,7 @@
                 "approval_required": "Majority",
                 "choices": [
                     {
-                        "_id": "32",
+                        "_id": "42",
                         "_id_ext": "32",
                         "ballot_title": {
                             "en": "YES",
@@ -885,17 +885,17 @@
                             "tl": "OO",
                             "zh": "贊成"
                         },
-                        "sequence": "320"
+                        "sequence": "1"
                     },
                     {
-                        "_id": "33",
+                        "_id": "43",
                         "_id_ext": "33",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
                         },
-                        "sequence": "330"
+                        "sequence": "2"
                     }
                 ],
                 "result_style": "EMS"
@@ -925,7 +925,7 @@
                 "approval_required": "Majority",
                 "choices": [
                     {
-                        "_id": "32",
+                        "_id": "42",
                         "_id_ext": "32",
                         "ballot_title": {
                             "en": "YES",
@@ -933,17 +933,17 @@
                             "tl": "OO",
                             "zh": "贊成"
                         },
-                        "sequence": "320"
+                        "sequence": "1"
                     },
                     {
-                        "_id": "33",
+                        "_id": "43",
                         "_id_ext": "33",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
                             "zh": "反對"
                         },
-                        "sequence": "330"
+                        "sequence": "2"
                     }
                 ],
                 "result_style": "EMS"
@@ -5085,45 +5085,45 @@
     "result_styles": [
         {
             "_id": "EMS",
-            "description": "Plurality voting, subtotal by Election Day/VBM",
+            "description": "Plurality voting",
             "is_rcv": false,
             "result_stat_type_ids": "RSReg RSCst RSRej RSOvr RSUnd RSTot",
-            "voting_group_ids": "TO ED MV"
+            "voting_group_ids": "TO"
         },
         {
             "_id": "EMSW",
-            "description": "Plurality voting, subtotal by Election Day/VBM, with writeins",
+            "description": "Plurality voting, with writeins",
             "is_rcv": false,
             "result_stat_type_ids": "RSReg RSCst RSRej RSOvr RSUnd RSTot RSWri",
-            "voting_group_ids": "TO ED MV"
+            "voting_group_ids": "TO"
         },
         {
             "_id": "EMR",
-            "description": "RCV voting, subtotal by Election Day/VBM",
+            "description": "RCV voting",
             "is_rcv": true,
             "result_stat_type_ids": "RSReg RSCst RSRej RSOvr RSUnd RSExh RSTot",
-            "voting_group_ids": "TO ED MV"
+            "voting_group_ids": "TO"
         },
         {
             "_id": "EMRW",
-            "description": "RCV voting, subtotal by Election Day/VBM, with writeins",
+            "description": "RCV voting, with writeins",
             "is_rcv": true,
             "result_stat_type_ids": "RSReg RSCst RSRej RSOvr RSUnd RSExh RSTot RSWri",
-            "voting_group_ids": "TO ED MV"
+            "voting_group_ids": "TO"
         },
         {
             "_id": "EMTE",
-            "description": "Turnout, subtotal by Election Day/VBM, with Eligible",
+            "description": "Turnout, with Eligible",
             "is_rcv": false,
             "result_stat_type_ids": "RSEli RSReg RSCst RSRej",
-            "voting_group_ids": "TO ED MV"
+            "voting_group_ids": "TO"
         },
         {
             "_id": "EMT",
-            "description": "Turnout, subtotal by Election Day/VBM",
+            "description": "Turnout",
             "is_rcv": false,
             "result_stat_type_ids": "RSReg RSCst RSRej",
-            "voting_group_ids": "TO ED MV"
+            "voting_group_ids": "TO"
         }
     ],
     "translations": {

@@ -1,3 +1,3 @@
 #!/bin/sh
 #
-../../../osv-data-converter/src/convsfresults.py -P $*
+../../../osv-data-converter/src/convsfresults-18.py -P $*
