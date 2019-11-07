@@ -36,3 +36,9 @@ files:
     contest_id_col: cont_external_id
     candidate_id_col: external_id
     candidate_name_col: title
+
+  - filename: candlist-writein.tsv
+    file_type: candidate
+    contest_id_col: contest_id
+    candidate_id_col: candidate_id
+    candidate_name_col: candidate_full_name

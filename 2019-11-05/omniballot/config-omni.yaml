@@ -15,7 +15,7 @@ turnout_result_style: EMTE
 bt_digits: 3
 
 # Suffix on election-base to select alternate
-election_base_suffix: "-t"
+#election_base_suffix: "-t"
 
 # Patterns to match retention candidate names in retention contest question text
 retention_pats:

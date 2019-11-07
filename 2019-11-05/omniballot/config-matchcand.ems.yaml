@@ -19,13 +19,13 @@ files:
         - "{number}=Proposition:{number}"
         - "{letter}=Measure:{letter}"
 
-  - filename: contmap-fix.ems.tsv
-    file_type: contest-master
-    contest_id_col:   contest_id1
-    contest_name_col: contest_name2
-    question_pats:
-        - "Proposition:{number}=Proposition:{number}"
-        - "Retention:{name}=Retention:{name}"
+  #- filename: contmap-fix.ems.tsv
+    #file_type: contest-master
+    #contest_id_col:   contest_id1
+    #contest_name_col: contest_name2
+    #question_pats:
+        #- "Proposition:{number}=Proposition:{number}"
+        #- "Retention:{name}=Retention:{name}"
 
   - filename: ../ems/candlist-orig.tsv
     file_type: candidate-master

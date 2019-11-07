@@ -88,7 +88,7 @@
                 "choices": [
                     {
                         "_id": "1",
-                        "_id_ext": "1",
+                        "_id_ext": "0101",
                         "ballot_title": {
                             "en": "JOEL VENTRESCA",
                             "zh": "JOEL VENTRESCA 喬爾 ‧ 范崔斯卡"
@@ -103,7 +103,7 @@
                     },
                     {
                         "_id": "2",
-                        "_id_ext": "2",
+                        "_id_ext": "0102",
                         "ballot_title": {
                             "en": "WILMA PANG",
                             "zh": "WILMA PANG 彭德慧"
@@ -118,7 +118,7 @@
                     },
                     {
                         "_id": "3",
-                        "_id_ext": "3",
+                        "_id_ext": "0103",
                         "ballot_title": {
                             "en": "ROBERT L. JORDAN, JR.",
                             "es": "",
@@ -135,7 +135,7 @@
                     },
                     {
                         "_id": "4",
-                        "_id_ext": "4",
+                        "_id_ext": "0104",
                         "ballot_title": {
                             "en": "PAUL YBARRA ROBERTSON",
                             "zh": "PAUL YBARRA ROBERTSON 保羅 ‧ 伊巴拉 ‧ 羅伯森"
@@ -150,7 +150,7 @@
                     },
                     {
                         "_id": "5",
-                        "_id_ext": "5",
+                        "_id_ext": "0105",
                         "ballot_title": {
                             "en": "ELLEN LEE ZHOU",
                             "zh": "ELLEN LEE ZHOU 李愛晨"
@@ -165,7 +165,7 @@
                     },
                     {
                         "_id": "6",
-                        "_id_ext": "6",
+                        "_id_ext": "0106",
                         "ballot_title": {
                             "en": "LONDON N. BREED",
                             "zh": "LONDON N. BREED 倫敦 ‧ 布里德"
@@ -177,9 +177,19 @@
                             "tl": "Mayor (Punong-bayan) ng San Francisco",
                             "zh": "三藩市市長"
                         }
+                    },
+                    {
+                        "_id": "53",
+                        "_id_ext": "",
+                        "ballot_title": {
+                            "en": "MARC ROTH"
+                        },
+                        "is_writein": true,
+                        "sequence": 7
                     }
                 ],
                 "writeins_allowed": 1,
+                "voting_district": "CITY1",
                 "result_style": "EMRW"
             },
             {
@@ -210,7 +220,7 @@
                 "choices": [
                     {
                         "_id": "8",
-                        "_id_ext": "8",
+                        "_id_ext": "0218",
                         "ballot_title": {
                             "en": "RYAN LAM",
                             "zh": "RYAN LAM 林朗禧"
@@ -225,7 +235,7 @@
                     },
                     {
                         "_id": "9",
-                        "_id_ext": "9",
+                        "_id_ext": "0219",
                         "ballot_title": {
                             "en": "DEAN PRESTON",
                             "zh": "DEAN PRESTON 迪恩 ‧ 普瑞斯頓"
@@ -240,7 +250,7 @@
                     },
                     {
                         "_id": "10",
-                        "_id_ext": "10",
+                        "_id_ext": "02110",
                         "ballot_title": {
                             "en": "NOMVULA O'MEARA",
                             "zh": "NOMVULA O'MEARA 諾姆烏拉 ‧ 歐米拉"
@@ -255,7 +265,7 @@
                     },
                     {
                         "_id": "11",
-                        "_id_ext": "11",
+                        "_id_ext": "02111",
                         "ballot_title": {
                             "en": "VALLIE BROWN",
                             "zh": "VALLIE BROWN 浦慧理"
@@ -270,6 +280,7 @@
                     }
                 ],
                 "writeins_allowed": 1,
+                "voting_district": "SUPV5",
                 "result_style": "EMRW"
             },
             {
@@ -300,7 +311,7 @@
                 "choices": [
                     {
                         "_id": "13",
-                        "_id_ext": "13",
+                        "_id_ext": "04113",
                         "ballot_title": {
                             "en": "DENNIS J. HERRERA",
                             "zh": "DENNIS J. HERRERA 丹尼斯 ‧ J ‧ 赫雷拉"
@@ -315,6 +326,7 @@
                     }
                 ],
                 "writeins_allowed": 2,
+                "voting_district": "CITY1",
                 "result_style": "EMRW"
             },
             {
@@ -345,7 +357,7 @@
                 "choices": [
                     {
                         "_id": "15",
-                        "_id_ext": "15",
+                        "_id_ext": "05115",
                         "ballot_title": {
                             "en": "SUZY LOFTUS",
                             "zh": "SUZY LOFTUS 樂素詩"
@@ -360,7 +372,7 @@
                     },
                     {
                         "_id": "16",
-                        "_id_ext": "16",
+                        "_id_ext": "05116",
                         "ballot_title": {
                             "en": "LEIF DAUTCH",
                             "zh": "LEIF DAUTCH 李多福"
@@ -375,7 +387,7 @@
                     },
                     {
                         "_id": "17",
-                        "_id_ext": "17",
+                        "_id_ext": "05117",
                         "ballot_title": {
                             "en": "NANCY TUNG",
                             "zh": "NANCY TUNG 湯曉慧"
@@ -390,7 +402,7 @@
                     },
                     {
                         "_id": "18",
-                        "_id_ext": "18",
+                        "_id_ext": "05118",
                         "ballot_title": {
                             "en": "CHESA BOUDIN",
                             "zh": "CHESA BOUDIN 博徹思"
@@ -405,6 +417,7 @@
                     }
                 ],
                 "writeins_allowed": 1,
+                "voting_district": "CITY1",
                 "result_style": "EMRW"
             },
             {
@@ -435,7 +448,7 @@
                 "choices": [
                     {
                         "_id": "20",
-                        "_id_ext": "20",
+                        "_id_ext": "06120",
                         "ballot_title": {
                             "en": "MANOHAR \"MANO\" RAJU",
                             "zh": "MANOHAR \"MANO\" RAJU 力儲文"
@@ -450,6 +463,7 @@
                     }
                 ],
                 "writeins_allowed": 2,
+                "voting_district": "CITY1",
                 "result_style": "EMRW"
             },
             {
@@ -480,7 +494,7 @@
                 "choices": [
                     {
                         "_id": "22",
-                        "_id_ext": "22",
+                        "_id_ext": "07122",
                         "ballot_title": {
                             "en": "PAUL MIYAMOTO",
                             "zh": "PAUL MIYAMOTO 保羅 ‧ 宮本"
@@ -495,6 +509,7 @@
                     }
                 ],
                 "writeins_allowed": 2,
+                "voting_district": "CITY1",
                 "result_style": "EMRW"
             },
             {
@@ -525,7 +540,7 @@
                 "choices": [
                     {
                         "_id": "24",
-                        "_id_ext": "24",
+                        "_id_ext": "08124",
                         "ballot_title": {
                             "en": "JOSÉ CISNEROS",
                             "zh": "JOSÉ CISNEROS 何世豪"
@@ -540,6 +555,7 @@
                     }
                 ],
                 "writeins_allowed": 2,
+                "voting_district": "CITY1",
                 "result_style": "EMRW"
             },
             {
@@ -569,7 +585,7 @@
                 "choices": [
                     {
                         "_id": "26",
-                        "_id_ext": "26",
+                        "_id_ext": "10026",
                         "ballot_title": {
                             "en": "JENNY LAM",
                             "zh": "JENNY LAM 林謙悅"
@@ -584,7 +600,7 @@
                     },
                     {
                         "_id": "27",
-                        "_id_ext": "27",
+                        "_id_ext": "10027",
                         "ballot_title": {
                             "en": "KIRSTEN STROBEL",
                             "zh": "KIRSTEN STROBEL 思嘉慧"
@@ -599,7 +615,7 @@
                     },
                     {
                         "_id": "28",
-                        "_id_ext": "28",
+                        "_id_ext": "10028",
                         "ballot_title": {
                             "en": "ROBERT K. COLEMAN",
                             "zh": "ROBERT K. COLEMAN 羅伯特 ‧ K ‧ 柯曼"
@@ -614,6 +630,7 @@
                     }
                 ],
                 "writeins_allowed": 1,
+                "voting_district": "0",
                 "result_style": "EMSW"
             },
             {
@@ -643,7 +660,7 @@
                 "choices": [
                     {
                         "_id": "30",
-                        "_id_ext": "30",
+                        "_id_ext": "11030",
                         "ballot_title": {
                             "en": "IVY LEE",
                             "zh": "IVY LEE 李康儀"
@@ -658,6 +675,7 @@
                     }
                 ],
                 "writeins_allowed": 1,
+                "voting_district": "CITY1",
                 "result_style": "EMSW"
             },
             {
@@ -685,8 +703,8 @@
                 "approval_required": "2/3",
                 "choices": [
                     {
-                        "_id": "42",
-                        "_id_ext": "32",
+                        "_id": "32",
+                        "_id_ext": "13032",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -696,8 +714,8 @@
                         "sequence": "1"
                     },
                     {
-                        "_id": "43",
-                        "_id_ext": "33",
+                        "_id": "33",
+                        "_id_ext": "13033",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -706,6 +724,7 @@
                         "sequence": "2"
                     }
                 ],
+                "voting_district": "CITY1",
                 "result_style": "EMS"
             },
             {
@@ -733,8 +752,8 @@
                 "approval_required": "Majority",
                 "choices": [
                     {
-                        "_id": "42",
-                        "_id_ext": "32",
+                        "_id": "34",
+                        "_id_ext": "14032",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -744,8 +763,8 @@
                         "sequence": "1"
                     },
                     {
-                        "_id": "43",
-                        "_id_ext": "33",
+                        "_id": "35",
+                        "_id_ext": "14033",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -754,6 +773,7 @@
                         "sequence": "2"
                     }
                 ],
+                "voting_district": "CITY1",
                 "result_style": "EMS"
             },
             {
@@ -781,8 +801,8 @@
                 "approval_required": "Majority",
                 "choices": [
                     {
-                        "_id": "42",
-                        "_id_ext": "32",
+                        "_id": "36",
+                        "_id_ext": "15032",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -792,8 +812,8 @@
                         "sequence": "1"
                     },
                     {
-                        "_id": "43",
-                        "_id_ext": "33",
+                        "_id": "37",
+                        "_id_ext": "15033",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -802,6 +822,7 @@
                         "sequence": "2"
                     }
                 ],
+                "voting_district": "CITY1",
                 "result_style": "EMS"
             },
             {
@@ -829,8 +850,8 @@
                 "approval_required": "Majority",
                 "choices": [
                     {
-                        "_id": "42",
-                        "_id_ext": "32",
+                        "_id": "38",
+                        "_id_ext": "16032",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -840,8 +861,8 @@
                         "sequence": "1"
                     },
                     {
-                        "_id": "43",
-                        "_id_ext": "33",
+                        "_id": "39",
+                        "_id_ext": "16033",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -850,6 +871,7 @@
                         "sequence": "2"
                     }
                 ],
+                "voting_district": "CITY1",
                 "result_style": "EMS"
             },
             {
@@ -877,8 +899,8 @@
                 "approval_required": "Majority",
                 "choices": [
                     {
-                        "_id": "42",
-                        "_id_ext": "32",
+                        "_id": "40",
+                        "_id_ext": "17032",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -888,8 +910,8 @@
                         "sequence": "1"
                     },
                     {
-                        "_id": "43",
-                        "_id_ext": "33",
+                        "_id": "41",
+                        "_id_ext": "17033",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -898,6 +920,7 @@
                         "sequence": "2"
                     }
                 ],
+                "voting_district": "CITY1",
                 "result_style": "EMS"
             },
             {
@@ -926,7 +949,7 @@
                 "choices": [
                     {
                         "_id": "42",
-                        "_id_ext": "32",
+                        "_id_ext": "18032",
                         "ballot_title": {
                             "en": "YES",
                             "es": "SÍ",
@@ -937,7 +960,7 @@
                     },
                     {
                         "_id": "43",
-                        "_id_ext": "33",
+                        "_id_ext": "18033",
                         "ballot_title": {
                             "en": "NO",
                             "tl": "HINDI",
@@ -946,6 +969,7 @@
                         "sequence": "2"
                     }
                 ],
+                "voting_district": "CITY1",
                 "result_style": "EMS"
             }
         ],
@@ -961,7 +985,6 @@
         "no_voter_precincts": [
             "1151",
             "1154",
-            "7954",
             "9900",
             "9901",
             "9902"
@@ -1007,14 +1030,8 @@
         {
             "_id": "PCT1106",
             "classification": "Precinct",
-            "name": "Precinct 1106",
-            "short_name": "Precinct 1106"
-        },
-        {
-            "_id": "PCT1107",
-            "classification": "Precinct",
-            "name": "Precinct 1107",
-            "short_name": "Precinct 1107"
+            "name": "Precinct 1106/1107",
+            "short_name": "Precinct 1106/1107"
         },
         {
             "_id": "PCT1108",
@@ -1041,34 +1058,22 @@
             "short_name": "Precinct 1112"
         },
         {
-            "_id": "PCT1113",
-            "classification": "Precinct",
-            "name": "Precinct 1113",
-            "short_name": "Precinct 1113"
-        },
-        {
             "_id": "PCT1114",
             "classification": "Precinct",
-            "name": "Precinct 1114",
-            "short_name": "Precinct 1114"
+            "name": "Precinct 1114/1113",
+            "short_name": "Precinct 1114/1113"
         },
         {
             "_id": "PCT1115",
             "classification": "Precinct",
-            "name": "Precinct 1115",
-            "short_name": "Precinct 1115"
-        },
-        {
-            "_id": "PCT1116",
-            "classification": "Precinct",
-            "name": "Precinct 1116",
-            "short_name": "Precinct 1116"
+            "name": "Precinct 1115/1116",
+            "short_name": "Precinct 1115/1116"
         },
         {
             "_id": "PCT1117",
             "classification": "Precinct",
-            "name": "Precinct 1117",
-            "short_name": "Precinct 1117"
+            "name": "Precinct 1117/1123",
+            "short_name": "Precinct 1117/1123"
         },
         {
             "_id": "PCT1118",
@@ -1083,22 +1088,10 @@
             "short_name": "Precinct 1119"
         },
         {
-            "_id": "PCT1121",
-            "classification": "Precinct",
-            "name": "Precinct 1121",
-            "short_name": "Precinct 1121"
-        },
-        {
             "_id": "PCT1122",
             "classification": "Precinct",
             "name": "Precinct 1122",
             "short_name": "Precinct 1122"
-        },
-        {
-            "_id": "PCT1123",
-            "classification": "Precinct",
-            "name": "Precinct 1123",
-            "short_name": "Precinct 1123"
         },
         {
             "_id": "PCT1124",
@@ -1115,20 +1108,14 @@
         {
             "_id": "PCT1126",
             "classification": "Precinct",
-            "name": "Precinct 1126",
-            "short_name": "Precinct 1126"
+            "name": "Precinct 1126/1121",
+            "short_name": "Precinct 1126/1121"
         },
         {
             "_id": "PCT1127",
             "classification": "Precinct",
-            "name": "Precinct 1127",
-            "short_name": "Precinct 1127"
-        },
-        {
-            "_id": "PCT1128",
-            "classification": "Precinct",
-            "name": "Precinct 1128",
-            "short_name": "Precinct 1128"
+            "name": "Precinct 1127/1128",
+            "short_name": "Precinct 1127/1128"
         },
         {
             "_id": "PCT1129",
@@ -1179,12 +1166,6 @@
             "short_name": "Precinct 1141"
         },
         {
-            "_id": "PCT1142",
-            "classification": "Precinct",
-            "name": "Precinct 1142",
-            "short_name": "Precinct 1142"
-        },
-        {
             "_id": "PCT1143",
             "classification": "Precinct",
             "name": "Precinct 1143",
@@ -1193,8 +1174,8 @@
         {
             "_id": "PCT1144",
             "classification": "Precinct",
-            "name": "Precinct 1144",
-            "short_name": "Precinct 1144"
+            "name": "Precinct 1144/1142",
+            "short_name": "Precinct 1144/1142"
         },
         {
             "_id": "PCT1145",
@@ -1237,14 +1218,8 @@
         {
             "_id": "PCT1152",
             "classification": "Precinct",
-            "name": "Precinct 1152",
-            "short_name": "Precinct 1152"
-        },
-        {
-            "_id": "PCT1153",
-            "classification": "Precinct",
-            "name": "Precinct 1153",
-            "short_name": "Precinct 1153"
+            "name": "Precinct 1152/1153",
+            "short_name": "Precinct 1152/1153"
         },
         {
             "_id": "PCT1154",
@@ -1269,14 +1244,8 @@
         {
             "_id": "PCT7003",
             "classification": "Precinct",
-            "name": "Precinct 7003",
-            "short_name": "Precinct 7003"
-        },
-        {
-            "_id": "PCT7004",
-            "classification": "Precinct",
-            "name": "Precinct 7004",
-            "short_name": "Precinct 7004"
+            "name": "Precinct 7003/7004",
+            "short_name": "Precinct 7003/7004"
         },
         {
             "_id": "PCT7005",
@@ -1293,14 +1262,8 @@
         {
             "_id": "PCT7007",
             "classification": "Precinct",
-            "name": "Precinct 7007",
-            "short_name": "Precinct 7007"
-        },
-        {
-            "_id": "PCT7008",
-            "classification": "Precinct",
-            "name": "Precinct 7008",
-            "short_name": "Precinct 7008"
+            "name": "Precinct 7007/7008",
+            "short_name": "Precinct 7007/7008"
         },
         {
             "_id": "PCT7009",
@@ -1329,8 +1292,8 @@
         {
             "_id": "PCT7014",
             "classification": "Precinct",
-            "name": "Precinct 7014",
-            "short_name": "Precinct 7014"
+            "name": "Precinct 7014/7056",
+            "short_name": "Precinct 7014/7056"
         },
         {
             "_id": "PCT7015",
@@ -1352,16 +1315,10 @@
             "short_name": "Precinct 7017"
         },
         {
-            "_id": "PCT7018",
-            "classification": "Precinct",
-            "name": "Precinct 7018",
-            "short_name": "Precinct 7018"
-        },
-        {
             "_id": "PCT7019",
             "classification": "Precinct",
-            "name": "Precinct 7019",
-            "short_name": "Precinct 7019"
+            "name": "Precinct 7019/7018",
+            "short_name": "Precinct 7019/7018"
         },
         {
             "_id": "PCT7021",
@@ -1374,12 +1331,6 @@
             "classification": "Precinct",
             "name": "Precinct 7022",
             "short_name": "Precinct 7022"
-        },
-        {
-            "_id": "PCT7023",
-            "classification": "Precinct",
-            "name": "Precinct 7023",
-            "short_name": "Precinct 7023"
         },
         {
             "_id": "PCT7024",
@@ -1414,8 +1365,8 @@
         {
             "_id": "PCT7029",
             "classification": "Precinct",
-            "name": "Precinct 7029",
-            "short_name": "Precinct 7029"
+            "name": "Precinct 7029/7023",
+            "short_name": "Precinct 7029/7023"
         },
         {
             "_id": "PCT7030",
@@ -1454,16 +1405,10 @@
             "short_name": "Precinct 7035"
         },
         {
-            "_id": "PCT7036",
-            "classification": "Precinct",
-            "name": "Precinct 7036",
-            "short_name": "Precinct 7036"
-        },
-        {
             "_id": "PCT7037",
             "classification": "Precinct",
-            "name": "Precinct 7037",
-            "short_name": "Precinct 7037"
+            "name": "Precinct 7037/7036",
+            "short_name": "Precinct 7037/7036"
         },
         {
             "_id": "PCT7038",
@@ -1487,8 +1432,8 @@
         {
             "_id": "PCT7042",
             "classification": "Precinct",
-            "name": "Precinct 7042",
-            "short_name": "Precinct 7042"
+            "name": "Precinct 7042/7046",
+            "short_name": "Precinct 7042/7046"
         },
         {
             "_id": "PCT7043",
@@ -1509,16 +1454,10 @@
             "short_name": "Precinct 7045"
         },
         {
-            "_id": "PCT7046",
-            "classification": "Precinct",
-            "name": "Precinct 7046",
-            "short_name": "Precinct 7046"
-        },
-        {
             "_id": "PCT7047",
             "classification": "Precinct",
-            "name": "Precinct 7047",
-            "short_name": "Precinct 7047"
+            "name": "Precinct 7047/7051",
+            "short_name": "Precinct 7047/7051"
         },
         {
             "_id": "PCT7048",
@@ -1531,12 +1470,6 @@
             "classification": "Precinct",
             "name": "Precinct 7049",
             "short_name": "Precinct 7049"
-        },
-        {
-            "_id": "PCT7051",
-            "classification": "Precinct",
-            "name": "Precinct 7051",
-            "short_name": "Precinct 7051"
         },
         {
             "_id": "PCT7052",
@@ -1570,16 +1503,10 @@
             "is_vbm": true
         },
         {
-            "_id": "PCT7201",
-            "classification": "Precinct",
-            "name": "Precinct 7201",
-            "short_name": "Precinct 7201"
-        },
-        {
             "_id": "PCT7202",
             "classification": "Precinct",
-            "name": "Precinct 7202",
-            "short_name": "Precinct 7202"
+            "name": "Precinct 7202/7201",
+            "short_name": "Precinct 7202/7201"
         },
         {
             "_id": "PCT7203",
@@ -1600,16 +1527,10 @@
             "short_name": "Precinct 7205"
         },
         {
-            "_id": "PCT7206",
-            "classification": "Precinct",
-            "name": "Precinct 7206",
-            "short_name": "Precinct 7206"
-        },
-        {
             "_id": "PCT7207",
             "classification": "Precinct",
-            "name": "Precinct 7207",
-            "short_name": "Precinct 7207"
+            "name": "Precinct 7207/7209",
+            "short_name": "Precinct 7207/7209"
         },
         {
             "_id": "PCT7208",
@@ -1618,16 +1539,10 @@
             "short_name": "Precinct 7208"
         },
         {
-            "_id": "PCT7209",
-            "classification": "Precinct",
-            "name": "Precinct 7209",
-            "short_name": "Precinct 7209"
-        },
-        {
             "_id": "PCT7301",
             "classification": "Precinct",
-            "name": "Precinct 7301",
-            "short_name": "Precinct 7301"
+            "name": "Precinct 7301/7304",
+            "short_name": "Precinct 7301/7304"
         },
         {
             "_id": "PCT7302",
@@ -1636,46 +1551,22 @@
             "short_name": "Precinct 7302"
         },
         {
-            "_id": "PCT7303",
-            "classification": "Precinct",
-            "name": "Precinct 7303",
-            "short_name": "Precinct 7303"
-        },
-        {
-            "_id": "PCT7304",
-            "classification": "Precinct",
-            "name": "Precinct 7304",
-            "short_name": "Precinct 7304"
-        },
-        {
             "_id": "PCT7305",
             "classification": "Precinct",
-            "name": "Precinct 7305",
-            "short_name": "Precinct 7305"
+            "name": "Precinct 7305/7307",
+            "short_name": "Precinct 7305/7307"
         },
         {
             "_id": "PCT7306",
             "classification": "Precinct",
-            "name": "Precinct 7306",
-            "short_name": "Precinct 7306"
-        },
-        {
-            "_id": "PCT7307",
-            "classification": "Precinct",
-            "name": "Precinct 7307",
-            "short_name": "Precinct 7307"
+            "name": "Precinct 7306/7303",
+            "short_name": "Precinct 7306/7303"
         },
         {
             "_id": "PCT7308",
             "classification": "Precinct",
             "name": "Precinct 7308",
             "short_name": "Precinct 7308"
-        },
-        {
-            "_id": "PCT7309",
-            "classification": "Precinct",
-            "name": "Precinct 7309",
-            "short_name": "Precinct 7309"
         },
         {
             "_id": "PCT7311",
@@ -1690,28 +1581,16 @@
             "short_name": "Precinct 7312"
         },
         {
-            "_id": "PCT7313",
-            "classification": "Precinct",
-            "name": "Precinct 7313",
-            "short_name": "Precinct 7313"
-        },
-        {
             "_id": "PCT7314",
             "classification": "Precinct",
-            "name": "Precinct 7314",
-            "short_name": "Precinct 7314"
+            "name": "Precinct 7314/7313",
+            "short_name": "Precinct 7314/7313"
         },
         {
             "_id": "PCT7315",
             "classification": "Precinct",
-            "name": "Precinct 7315",
-            "short_name": "Precinct 7315"
-        },
-        {
-            "_id": "PCT7316",
-            "classification": "Precinct",
-            "name": "Precinct 7316",
-            "short_name": "Precinct 7316"
+            "name": "Precinct 7315/7316",
+            "short_name": "Precinct 7315/7316"
         },
         {
             "_id": "PCT7317",
@@ -1722,50 +1601,32 @@
         {
             "_id": "PCT7318",
             "classification": "Precinct",
-            "name": "Precinct 7318",
-            "short_name": "Precinct 7318"
-        },
-        {
-            "_id": "PCT7319",
-            "classification": "Precinct",
-            "name": "Precinct 7319",
-            "short_name": "Precinct 7319"
+            "name": "Precinct 7318/7309",
+            "short_name": "Precinct 7318/7309"
         },
         {
             "_id": "PCT7321",
             "classification": "Precinct",
-            "name": "Precinct 7321",
-            "short_name": "Precinct 7321"
-        },
-        {
-            "_id": "PCT7322",
-            "classification": "Precinct",
-            "name": "Precinct 7322",
-            "short_name": "Precinct 7322"
+            "name": "Precinct 7321/7322",
+            "short_name": "Precinct 7321/7322"
         },
         {
             "_id": "PCT7323",
             "classification": "Precinct",
-            "name": "Precinct 7323",
-            "short_name": "Precinct 7323"
-        },
-        {
-            "_id": "PCT7324",
-            "classification": "Precinct",
-            "name": "Precinct 7324",
-            "short_name": "Precinct 7324"
+            "name": "Precinct 7323/7319",
+            "short_name": "Precinct 7323/7319"
         },
         {
             "_id": "PCT7325",
             "classification": "Precinct",
-            "name": "Precinct 7325",
-            "short_name": "Precinct 7325"
+            "name": "Precinct 7325/7324",
+            "short_name": "Precinct 7325/7324"
         },
         {
             "_id": "PCT7326",
             "classification": "Precinct",
-            "name": "Precinct 7326",
-            "short_name": "Precinct 7326"
+            "name": "Precinct 7326/7337",
+            "short_name": "Precinct 7326/7337"
         },
         {
             "_id": "PCT7327",
@@ -1794,56 +1655,32 @@
         {
             "_id": "PCT7332",
             "classification": "Precinct",
-            "name": "Precinct 7332",
-            "short_name": "Precinct 7332"
+            "name": "Precinct 7332/7334",
+            "short_name": "Precinct 7332/7334"
         },
         {
             "_id": "PCT7333",
             "classification": "Precinct",
-            "name": "Precinct 7333",
-            "short_name": "Precinct 7333"
-        },
-        {
-            "_id": "PCT7334",
-            "classification": "Precinct",
-            "name": "Precinct 7334",
-            "short_name": "Precinct 7334"
-        },
-        {
-            "_id": "PCT7335",
-            "classification": "Precinct",
-            "name": "Precinct 7335",
-            "short_name": "Precinct 7335"
+            "name": "Precinct 7333/7335",
+            "short_name": "Precinct 7333/7335"
         },
         {
             "_id": "PCT7336",
             "classification": "Precinct",
-            "name": "Precinct 7336",
-            "short_name": "Precinct 7336"
-        },
-        {
-            "_id": "PCT7337",
-            "classification": "Precinct",
-            "name": "Precinct 7337",
-            "short_name": "Precinct 7337"
+            "name": "Precinct 7336/7345",
+            "short_name": "Precinct 7336/7345"
         },
         {
             "_id": "PCT7338",
             "classification": "Precinct",
-            "name": "Precinct 7338",
-            "short_name": "Precinct 7338"
+            "name": "Precinct 7338/7349",
+            "short_name": "Precinct 7338/7349"
         },
         {
             "_id": "PCT7339",
             "classification": "Precinct",
-            "name": "Precinct 7339",
-            "short_name": "Precinct 7339"
-        },
-        {
-            "_id": "PCT7341",
-            "classification": "Precinct",
-            "name": "Precinct 7341",
-            "short_name": "Precinct 7341"
+            "name": "Precinct 7339/7341",
+            "short_name": "Precinct 7339/7341"
         },
         {
             "_id": "PCT7342",
@@ -1864,40 +1701,16 @@
             "short_name": "Precinct 7344"
         },
         {
-            "_id": "PCT7345",
-            "classification": "Precinct",
-            "name": "Precinct 7345",
-            "short_name": "Precinct 7345"
-        },
-        {
             "_id": "PCT7346",
             "classification": "Precinct",
             "name": "Precinct 7346",
             "short_name": "Precinct 7346"
         },
         {
-            "_id": "PCT7347",
-            "classification": "Precinct",
-            "name": "Precinct 7347",
-            "short_name": "Precinct 7347"
-        },
-        {
             "_id": "PCT7348",
             "classification": "Precinct",
-            "name": "Precinct 7348",
-            "short_name": "Precinct 7348"
-        },
-        {
-            "_id": "PCT7349",
-            "classification": "Precinct",
-            "name": "Precinct 7349",
-            "short_name": "Precinct 7349"
-        },
-        {
-            "_id": "PCT7501",
-            "classification": "Precinct",
-            "name": "Precinct 7501",
-            "short_name": "Precinct 7501"
+            "name": "Precinct 7348/7347",
+            "short_name": "Precinct 7348/7347"
         },
         {
             "_id": "PCT7502",
@@ -1914,8 +1727,8 @@
         {
             "_id": "PCT7504",
             "classification": "Precinct",
-            "name": "Precinct 7504",
-            "short_name": "Precinct 7504"
+            "name": "Precinct 7504/7501",
+            "short_name": "Precinct 7504/7501"
         },
         {
             "_id": "PCT7505",
@@ -1926,14 +1739,8 @@
         {
             "_id": "PCT7506",
             "classification": "Precinct",
-            "name": "Precinct 7506",
-            "short_name": "Precinct 7506"
-        },
-        {
-            "_id": "PCT7507",
-            "classification": "Precinct",
-            "name": "Precinct 7507",
-            "short_name": "Precinct 7507"
+            "name": "Precinct 7506/7507",
+            "short_name": "Precinct 7506/7507"
         },
         {
             "_id": "PCT7508",
@@ -1978,16 +1785,10 @@
             "short_name": "Precinct 7516"
         },
         {
-            "_id": "PCT7517",
-            "classification": "Precinct",
-            "name": "Precinct 7517",
-            "short_name": "Precinct 7517"
-        },
-        {
             "_id": "PCT7518",
             "classification": "Precinct",
-            "name": "Precinct 7518",
-            "short_name": "Precinct 7518"
+            "name": "Precinct 7518/7517",
+            "short_name": "Precinct 7518/7517"
         },
         {
             "_id": "PCT7519",
@@ -2004,14 +1805,8 @@
         {
             "_id": "PCT7522",
             "classification": "Precinct",
-            "name": "Precinct 7522",
-            "short_name": "Precinct 7522"
-        },
-        {
-            "_id": "PCT7523",
-            "classification": "Precinct",
-            "name": "Precinct 7523",
-            "short_name": "Precinct 7523"
+            "name": "Precinct 7522/7523",
+            "short_name": "Precinct 7522/7523"
         },
         {
             "_id": "PCT7524",
@@ -2068,28 +1863,16 @@
             "short_name": "Precinct 7534"
         },
         {
-            "_id": "PCT7535",
-            "classification": "Precinct",
-            "name": "Precinct 7535",
-            "short_name": "Precinct 7535"
-        },
-        {
             "_id": "PCT7536",
             "classification": "Precinct",
-            "name": "Precinct 7536",
-            "short_name": "Precinct 7536"
+            "name": "Precinct 7536/7535",
+            "short_name": "Precinct 7536/7535"
         },
         {
             "_id": "PCT7537",
             "classification": "Precinct",
-            "name": "Precinct 7537",
-            "short_name": "Precinct 7537"
-        },
-        {
-            "_id": "PCT7538",
-            "classification": "Precinct",
-            "name": "Precinct 7538",
-            "short_name": "Precinct 7538"
+            "name": "Precinct 7537/7538",
+            "short_name": "Precinct 7537/7538"
         },
         {
             "_id": "PCT7539",
@@ -2104,16 +1887,10 @@
             "short_name": "Precinct 7541"
         },
         {
-            "_id": "PCT7542",
-            "classification": "Precinct",
-            "name": "Precinct 7542",
-            "short_name": "Precinct 7542"
-        },
-        {
             "_id": "PCT7543",
             "classification": "Precinct",
-            "name": "Precinct 7543",
-            "short_name": "Precinct 7543"
+            "name": "Precinct 7543/7542",
+            "short_name": "Precinct 7543/7542"
         },
         {
             "_id": "PCT7544",
@@ -2130,14 +1907,8 @@
         {
             "_id": "PCT7546",
             "classification": "Precinct",
-            "name": "Precinct 7546",
-            "short_name": "Precinct 7546"
-        },
-        {
-            "_id": "PCT7547",
-            "classification": "Precinct",
-            "name": "Precinct 7547",
-            "short_name": "Precinct 7547"
+            "name": "Precinct 7546/7547",
+            "short_name": "Precinct 7546/7547"
         },
         {
             "_id": "PCT7548",
@@ -2150,12 +1921,6 @@
             "classification": "Precinct",
             "name": "Precinct 7549",
             "short_name": "Precinct 7549"
-        },
-        {
-            "_id": "PCT7551",
-            "classification": "Precinct",
-            "name": "Precinct 7551",
-            "short_name": "Precinct 7551"
         },
         {
             "_id": "PCT7552",
@@ -2179,8 +1944,8 @@
         {
             "_id": "PCT7555",
             "classification": "Precinct",
-            "name": "Precinct 7555",
-            "short_name": "Precinct 7555"
+            "name": "Precinct 7555/7551",
+            "short_name": "Precinct 7555/7551"
         },
         {
             "_id": "PCT7556",
@@ -2197,26 +1962,14 @@
         {
             "_id": "PCT7602",
             "classification": "Precinct",
-            "name": "Precinct 7602",
-            "short_name": "Precinct 7602"
-        },
-        {
-            "_id": "PCT7603",
-            "classification": "Precinct",
-            "name": "Precinct 7603",
-            "short_name": "Precinct 7603"
-        },
-        {
-            "_id": "PCT7604",
-            "classification": "Precinct",
-            "name": "Precinct 7604",
-            "short_name": "Precinct 7604"
+            "name": "Precinct 7602/7603",
+            "short_name": "Precinct 7602/7603"
         },
         {
             "_id": "PCT7605",
             "classification": "Precinct",
-            "name": "Precinct 7605",
-            "short_name": "Precinct 7605"
+            "name": "Precinct 7605/7609",
+            "short_name": "Precinct 7605/7609"
         },
         {
             "_id": "PCT7606",
@@ -2233,14 +1986,8 @@
         {
             "_id": "PCT7608",
             "classification": "Precinct",
-            "name": "Precinct 7608",
-            "short_name": "Precinct 7608"
-        },
-        {
-            "_id": "PCT7609",
-            "classification": "Precinct",
-            "name": "Precinct 7609",
-            "short_name": "Precinct 7609"
+            "name": "Precinct 7608/7604",
+            "short_name": "Precinct 7608/7604"
         },
         {
             "_id": "PCT7611",
@@ -2249,16 +1996,10 @@
             "short_name": "Precinct 7611"
         },
         {
-            "_id": "PCT7612",
-            "classification": "Precinct",
-            "name": "Precinct 7612",
-            "short_name": "Precinct 7612"
-        },
-        {
             "_id": "PCT7613",
             "classification": "Precinct",
-            "name": "Precinct 7613",
-            "short_name": "Precinct 7613"
+            "name": "Precinct 7613/7612",
+            "short_name": "Precinct 7613/7612"
         },
         {
             "_id": "PCT7614",
@@ -2275,8 +2016,8 @@
         {
             "_id": "PCT7616",
             "classification": "Precinct",
-            "name": "Precinct 7616",
-            "short_name": "Precinct 7616"
+            "name": "Precinct 7616/7654",
+            "short_name": "Precinct 7616/7654"
         },
         {
             "_id": "PCT7617",
@@ -2333,12 +2074,6 @@
             "short_name": "Precinct 7626"
         },
         {
-            "_id": "PCT7627",
-            "classification": "Precinct",
-            "name": "Precinct 7627",
-            "short_name": "Precinct 7627"
-        },
-        {
             "_id": "PCT7628",
             "classification": "Precinct",
             "name": "Precinct 7628",
@@ -2351,12 +2086,6 @@
             "short_name": "Precinct 7629"
         },
         {
-            "_id": "PCT7631",
-            "classification": "Precinct",
-            "name": "Precinct 7631",
-            "short_name": "Precinct 7631"
-        },
-        {
             "_id": "PCT7632",
             "classification": "Precinct",
             "name": "Precinct 7632",
@@ -2365,8 +2094,8 @@
         {
             "_id": "PCT7633",
             "classification": "Precinct",
-            "name": "Precinct 7633",
-            "short_name": "Precinct 7633"
+            "name": "Precinct 7633/7631",
+            "short_name": "Precinct 7633/7631"
         },
         {
             "_id": "PCT7634",
@@ -2395,20 +2124,14 @@
         {
             "_id": "PCT7638",
             "classification": "Precinct",
-            "name": "Precinct 7638",
-            "short_name": "Precinct 7638"
+            "name": "Precinct 7638/7656",
+            "short_name": "Precinct 7638/7656"
         },
         {
             "_id": "PCT7639",
             "classification": "Precinct",
-            "name": "Precinct 7639",
-            "short_name": "Precinct 7639"
-        },
-        {
-            "_id": "PCT7641",
-            "classification": "Precinct",
-            "name": "Precinct 7641",
-            "short_name": "Precinct 7641"
+            "name": "Precinct 7639/7641",
+            "short_name": "Precinct 7639/7641"
         },
         {
             "_id": "PCT7642",
@@ -2474,20 +2197,20 @@
         {
             "_id": "PCT7653",
             "classification": "Precinct",
-            "name": "Precinct 7653",
-            "short_name": "Precinct 7653"
+            "name": "Precinct 7653/7657",
+            "short_name": "Precinct 7653/7657"
+        },
+        {
+            "_id": "PCT7655",
+            "classification": "Precinct",
+            "name": "Precinct 7655/7627",
+            "short_name": "Precinct 7655/7627"
         },
         {
             "_id": "PCT7701",
             "classification": "Precinct",
             "name": "Precinct 7701",
             "short_name": "Precinct 7701"
-        },
-        {
-            "_id": "PCT7702",
-            "classification": "Precinct",
-            "name": "Precinct 7702",
-            "short_name": "Precinct 7702"
         },
         {
             "_id": "PCT7703",
@@ -2499,8 +2222,8 @@
         {
             "_id": "PCT7704",
             "classification": "Precinct",
-            "name": "Precinct 7704",
-            "short_name": "Precinct 7704"
+            "name": "Precinct 7704/7702",
+            "short_name": "Precinct 7704/7702"
         },
         {
             "_id": "PCT7705",
@@ -2533,16 +2256,10 @@
             "short_name": "Precinct 7709"
         },
         {
-            "_id": "PCT7711",
-            "classification": "Precinct",
-            "name": "Precinct 7711",
-            "short_name": "Precinct 7711"
-        },
-        {
             "_id": "PCT7712",
             "classification": "Precinct",
-            "name": "Precinct 7712",
-            "short_name": "Precinct 7712"
+            "name": "Precinct 7712/7711",
+            "short_name": "Precinct 7712/7711"
         },
         {
             "_id": "PCT7801",
@@ -2563,22 +2280,10 @@
             "short_name": "Precinct 7803"
         },
         {
-            "_id": "PCT7804",
-            "classification": "Precinct",
-            "name": "Precinct 7804",
-            "short_name": "Precinct 7804"
-        },
-        {
             "_id": "PCT7805",
             "classification": "Precinct",
-            "name": "Precinct 7805",
-            "short_name": "Precinct 7805"
-        },
-        {
-            "_id": "PCT7806",
-            "classification": "Precinct",
-            "name": "Precinct 7806",
-            "short_name": "Precinct 7806"
+            "name": "Precinct 7805/7804",
+            "short_name": "Precinct 7805/7804"
         },
         {
             "_id": "PCT7807",
@@ -2589,8 +2294,8 @@
         {
             "_id": "PCT7808",
             "classification": "Precinct",
-            "name": "Precinct 7808",
-            "short_name": "Precinct 7808"
+            "name": "Precinct 7808/7806",
+            "short_name": "Precinct 7808/7806"
         },
         {
             "_id": "PCT7809",
@@ -2625,32 +2330,20 @@
         {
             "_id": "PCT7815",
             "classification": "Precinct",
-            "name": "Precinct 7815",
-            "short_name": "Precinct 7815"
-        },
-        {
-            "_id": "PCT7816",
-            "classification": "Precinct",
-            "name": "Precinct 7816",
-            "short_name": "Precinct 7816"
+            "name": "Precinct 7815/7816",
+            "short_name": "Precinct 7815/7816"
         },
         {
             "_id": "PCT7817",
             "classification": "Precinct",
-            "name": "Precinct 7817",
-            "short_name": "Precinct 7817"
-        },
-        {
-            "_id": "PCT7818",
-            "classification": "Precinct",
-            "name": "Precinct 7818",
-            "short_name": "Precinct 7818"
+            "name": "Precinct 7817/7818",
+            "short_name": "Precinct 7817/7818"
         },
         {
             "_id": "PCT7819",
             "classification": "Precinct",
-            "name": "Precinct 7819",
-            "short_name": "Precinct 7819"
+            "name": "Precinct 7819/7827",
+            "short_name": "Precinct 7819/7827"
         },
         {
             "_id": "PCT7821",
@@ -2661,38 +2354,20 @@
         {
             "_id": "PCT7822",
             "classification": "Precinct",
-            "name": "Precinct 7822",
-            "short_name": "Precinct 7822"
-        },
-        {
-            "_id": "PCT7823",
-            "classification": "Precinct",
-            "name": "Precinct 7823",
-            "short_name": "Precinct 7823"
+            "name": "Precinct 7822/7823",
+            "short_name": "Precinct 7822/7823"
         },
         {
             "_id": "PCT7824",
             "classification": "Precinct",
-            "name": "Precinct 7824",
-            "short_name": "Precinct 7824"
-        },
-        {
-            "_id": "PCT7825",
-            "classification": "Precinct",
-            "name": "Precinct 7825",
-            "short_name": "Precinct 7825"
+            "name": "Precinct 7824/7825",
+            "short_name": "Precinct 7824/7825"
         },
         {
             "_id": "PCT7826",
             "classification": "Precinct",
             "name": "Precinct 7826",
             "short_name": "Precinct 7826"
-        },
-        {
-            "_id": "PCT7827",
-            "classification": "Precinct",
-            "name": "Precinct 7827",
-            "short_name": "Precinct 7827"
         },
         {
             "_id": "PCT7828",
@@ -2707,28 +2382,16 @@
             "short_name": "Precinct 7829"
         },
         {
-            "_id": "PCT7831",
-            "classification": "Precinct",
-            "name": "Precinct 7831",
-            "short_name": "Precinct 7831"
-        },
-        {
             "_id": "PCT7832",
             "classification": "Precinct",
             "name": "Precinct 7832",
             "short_name": "Precinct 7832"
         },
         {
-            "_id": "PCT7833",
-            "classification": "Precinct",
-            "name": "Precinct 7833",
-            "short_name": "Precinct 7833"
-        },
-        {
             "_id": "PCT7834",
             "classification": "Precinct",
-            "name": "Precinct 7834",
-            "short_name": "Precinct 7834"
+            "name": "Precinct 7834/7833",
+            "short_name": "Precinct 7834/7833"
         },
         {
             "_id": "PCT7835",
@@ -2745,32 +2408,20 @@
         {
             "_id": "PCT7837",
             "classification": "Precinct",
-            "name": "Precinct 7837",
-            "short_name": "Precinct 7837"
-        },
-        {
-            "_id": "PCT7838",
-            "classification": "Precinct",
-            "name": "Precinct 7838",
-            "short_name": "Precinct 7838"
+            "name": "Precinct 7837/7838",
+            "short_name": "Precinct 7837/7838"
         },
         {
             "_id": "PCT7839",
             "classification": "Precinct",
-            "name": "Precinct 7839",
-            "short_name": "Precinct 7839"
+            "name": "Precinct 7839/7831",
+            "short_name": "Precinct 7839/7831"
         },
         {
             "_id": "PCT7841",
             "classification": "Precinct",
-            "name": "Precinct 7841",
-            "short_name": "Precinct 7841"
-        },
-        {
-            "_id": "PCT7842",
-            "classification": "Precinct",
-            "name": "Precinct 7842",
-            "short_name": "Precinct 7842"
+            "name": "Precinct 7841/7842",
+            "short_name": "Precinct 7841/7842"
         },
         {
             "_id": "PCT7843",
@@ -2799,14 +2450,8 @@
         {
             "_id": "PCT7847",
             "classification": "Precinct",
-            "name": "Precinct 7847",
-            "short_name": "Precinct 7847"
-        },
-        {
-            "_id": "PCT7848",
-            "classification": "Precinct",
-            "name": "Precinct 7848",
-            "short_name": "Precinct 7848"
+            "name": "Precinct 7847/7848",
+            "short_name": "Precinct 7847/7848"
         },
         {
             "_id": "PCT7849",
@@ -2815,22 +2460,16 @@
             "short_name": "Precinct 7849"
         },
         {
-            "_id": "PCT7851",
-            "classification": "Precinct",
-            "name": "Precinct 7851",
-            "short_name": "Precinct 7851"
-        },
-        {
             "_id": "PCT7852",
             "classification": "Precinct",
-            "name": "Precinct 7852",
-            "short_name": "Precinct 7852"
+            "name": "Precinct 7852/7851",
+            "short_name": "Precinct 7852/7851"
         },
         {
             "_id": "PCT7853",
             "classification": "Precinct",
-            "name": "Precinct 7853",
-            "short_name": "Precinct 7853"
+            "name": "Precinct 7853/7859",
+            "short_name": "Precinct 7853/7859"
         },
         {
             "_id": "PCT7854",
@@ -2841,32 +2480,14 @@
         {
             "_id": "PCT7855",
             "classification": "Precinct",
-            "name": "Precinct 7855",
-            "short_name": "Precinct 7855"
-        },
-        {
-            "_id": "PCT7856",
-            "classification": "Precinct",
-            "name": "Precinct 7856",
-            "short_name": "Precinct 7856"
-        },
-        {
-            "_id": "PCT7857",
-            "classification": "Precinct",
-            "name": "Precinct 7857",
-            "short_name": "Precinct 7857"
+            "name": "Precinct 7855/7856",
+            "short_name": "Precinct 7855/7856"
         },
         {
             "_id": "PCT7858",
             "classification": "Precinct",
-            "name": "Precinct 7858",
-            "short_name": "Precinct 7858"
-        },
-        {
-            "_id": "PCT7859",
-            "classification": "Precinct",
-            "name": "Precinct 7859",
-            "short_name": "Precinct 7859"
+            "name": "Precinct 7858/7857",
+            "short_name": "Precinct 7858/7857"
         },
         {
             "_id": "PCT7861",
@@ -2891,12 +2512,6 @@
             "classification": "Precinct",
             "name": "Precinct 7864",
             "short_name": "Precinct 7864"
-        },
-        {
-            "_id": "PCT7865",
-            "classification": "Precinct",
-            "name": "Precinct 7865",
-            "short_name": "Precinct 7865"
         },
         {
             "_id": "PCT7866",
@@ -2937,8 +2552,8 @@
         {
             "_id": "PCT7873",
             "classification": "Precinct",
-            "name": "Precinct 7873",
-            "short_name": "Precinct 7873"
+            "name": "Precinct 7873/7865",
+            "short_name": "Precinct 7873/7865"
         },
         {
             "_id": "PCT7874",
@@ -2959,28 +2574,16 @@
             "short_name": "Precinct 7876"
         },
         {
-            "_id": "PCT7901",
-            "classification": "Precinct",
-            "name": "Precinct 7901",
-            "short_name": "Precinct 7901"
-        },
-        {
             "_id": "PCT7902",
             "classification": "Precinct",
-            "name": "Precinct 7902",
-            "short_name": "Precinct 7902"
+            "name": "Precinct 7902/7904",
+            "short_name": "Precinct 7902/7904"
         },
         {
             "_id": "PCT7903",
             "classification": "Precinct",
             "name": "Precinct 7903",
             "short_name": "Precinct 7903"
-        },
-        {
-            "_id": "PCT7904",
-            "classification": "Precinct",
-            "name": "Precinct 7904",
-            "short_name": "Precinct 7904"
         },
         {
             "_id": "PCT7905",
@@ -2995,16 +2598,10 @@
             "short_name": "Precinct 7906"
         },
         {
-            "_id": "PCT7907",
-            "classification": "Precinct",
-            "name": "Precinct 7907",
-            "short_name": "Precinct 7907"
-        },
-        {
             "_id": "PCT7908",
             "classification": "Precinct",
-            "name": "Precinct 7908",
-            "short_name": "Precinct 7908"
+            "name": "Precinct 7908/7907",
+            "short_name": "Precinct 7908/7907"
         },
         {
             "_id": "PCT7909",
@@ -3021,26 +2618,14 @@
         {
             "_id": "PCT7912",
             "classification": "Precinct",
-            "name": "Precinct 7912",
-            "short_name": "Precinct 7912"
-        },
-        {
-            "_id": "PCT7913",
-            "classification": "Precinct",
-            "name": "Precinct 7913",
-            "short_name": "Precinct 7913"
-        },
-        {
-            "_id": "PCT7914",
-            "classification": "Precinct",
-            "name": "Precinct 7914",
-            "short_name": "Precinct 7914"
+            "name": "Precinct 7912/7913",
+            "short_name": "Precinct 7912/7913"
         },
         {
             "_id": "PCT7915",
             "classification": "Precinct",
-            "name": "Precinct 7915",
-            "short_name": "Precinct 7915"
+            "name": "Precinct 7915/7914",
+            "short_name": "Precinct 7915/7914"
         },
         {
             "_id": "PCT7916",
@@ -3051,8 +2636,8 @@
         {
             "_id": "PCT7917",
             "classification": "Precinct",
-            "name": "Precinct 7917",
-            "short_name": "Precinct 7917"
+            "name": "Precinct 7917/7919",
+            "short_name": "Precinct 7917/7919"
         },
         {
             "_id": "PCT7918",
@@ -3061,34 +2646,16 @@
             "short_name": "Precinct 7918"
         },
         {
-            "_id": "PCT7919",
-            "classification": "Precinct",
-            "name": "Precinct 7919",
-            "short_name": "Precinct 7919"
-        },
-        {
             "_id": "PCT7921",
             "classification": "Precinct",
-            "name": "Precinct 7921",
-            "short_name": "Precinct 7921"
-        },
-        {
-            "_id": "PCT7922",
-            "classification": "Precinct",
-            "name": "Precinct 7922",
-            "short_name": "Precinct 7922"
+            "name": "Precinct 7921/7922",
+            "short_name": "Precinct 7921/7922"
         },
         {
             "_id": "PCT7923",
             "classification": "Precinct",
-            "name": "Precinct 7923",
-            "short_name": "Precinct 7923"
-        },
-        {
-            "_id": "PCT7924",
-            "classification": "Precinct",
-            "name": "Precinct 7924",
-            "short_name": "Precinct 7924"
+            "name": "Precinct 7923/7924",
+            "short_name": "Precinct 7923/7924"
         },
         {
             "_id": "PCT7925",
@@ -3103,16 +2670,10 @@
             "short_name": "Precinct 7926"
         },
         {
-            "_id": "PCT7927",
-            "classification": "Precinct",
-            "name": "Precinct 7927",
-            "short_name": "Precinct 7927"
-        },
-        {
             "_id": "PCT7928",
             "classification": "Precinct",
-            "name": "Precinct 7928",
-            "short_name": "Precinct 7928"
+            "name": "Precinct 7928/7927",
+            "short_name": "Precinct 7928/7927"
         },
         {
             "_id": "PCT7929",
@@ -3154,8 +2715,8 @@
         {
             "_id": "PCT7936",
             "classification": "Precinct",
-            "name": "Precinct 7936",
-            "short_name": "Precinct 7936"
+            "name": "Precinct 7936/7939",
+            "short_name": "Precinct 7936/7939"
         },
         {
             "_id": "PCT7937",
@@ -3168,12 +2729,6 @@
             "classification": "Precinct",
             "name": "Precinct 7938",
             "short_name": "Precinct 7938"
-        },
-        {
-            "_id": "PCT7939",
-            "classification": "Precinct",
-            "name": "Precinct 7939",
-            "short_name": "Precinct 7939"
         },
         {
             "_id": "PCT7941",
@@ -3190,14 +2745,8 @@
         {
             "_id": "PCT7943",
             "classification": "Precinct",
-            "name": "Precinct 7943",
-            "short_name": "Precinct 7943"
-        },
-        {
-            "_id": "PCT7944",
-            "classification": "Precinct",
-            "name": "Precinct 7944",
-            "short_name": "Precinct 7944"
+            "name": "Precinct 7943/7944",
+            "short_name": "Precinct 7943/7944"
         },
         {
             "_id": "PCT7945",
@@ -3208,8 +2757,8 @@
         {
             "_id": "PCT7946",
             "classification": "Precinct",
-            "name": "Precinct 7946",
-            "short_name": "Precinct 7946"
+            "name": "Precinct 7946/7949",
+            "short_name": "Precinct 7946/7949"
         },
         {
             "_id": "PCT7947",
@@ -3224,22 +2773,10 @@
             "short_name": "Precinct 7948"
         },
         {
-            "_id": "PCT7949",
-            "classification": "Precinct",
-            "name": "Precinct 7949",
-            "short_name": "Precinct 7949"
-        },
-        {
             "_id": "PCT7951",
             "classification": "Precinct",
-            "name": "Precinct 7951",
-            "short_name": "Precinct 7951"
-        },
-        {
-            "_id": "PCT7952",
-            "classification": "Precinct",
-            "name": "Precinct 7952",
-            "short_name": "Precinct 7952"
+            "name": "Precinct 7951/7955",
+            "short_name": "Precinct 7951/7955"
         },
         {
             "_id": "PCT7953",
@@ -3252,20 +2789,13 @@
             "classification": "Precinct",
             "name": "Precinct 7954 MB",
             "short_name": "Precinct 7954 MB",
-            "is_vbm": true,
-            "has_no_voters": true
-        },
-        {
-            "_id": "PCT7955",
-            "classification": "Precinct",
-            "name": "Precinct 7955",
-            "short_name": "Precinct 7955"
+            "is_vbm": true
         },
         {
             "_id": "PCT7956",
             "classification": "Precinct",
-            "name": "Precinct 7956",
-            "short_name": "Precinct 7956"
+            "name": "Precinct 7956/7952",
+            "short_name": "Precinct 7956/7952"
         },
         {
             "_id": "PCT7957",
@@ -3283,8 +2813,8 @@
         {
             "_id": "PCT7959",
             "classification": "Precinct",
-            "name": "Precinct 7959",
-            "short_name": "Precinct 7959"
+            "name": "Precinct 7959/7901",
+            "short_name": "Precinct 7959/7901"
         },
         {
             "_id": "PCT9001",
@@ -3292,18 +2822,6 @@
             "name": "Precinct 9001 MB",
             "short_name": "Precinct 9001 MB",
             "is_vbm": true
-        },
-        {
-            "_id": "PCT9101",
-            "classification": "Precinct",
-            "name": "Precinct 9101",
-            "short_name": "Precinct 9101"
-        },
-        {
-            "_id": "PCT9102",
-            "classification": "Precinct",
-            "name": "Precinct 9102",
-            "short_name": "Precinct 9102"
         },
         {
             "_id": "PCT9103",
@@ -3320,8 +2838,8 @@
         {
             "_id": "PCT9105",
             "classification": "Precinct",
-            "name": "Precinct 9105",
-            "short_name": "Precinct 9105"
+            "name": "Precinct 9105/9107",
+            "short_name": "Precinct 9105/9107"
         },
         {
             "_id": "PCT9106",
@@ -3330,34 +2848,16 @@
             "short_name": "Precinct 9106"
         },
         {
-            "_id": "PCT9107",
-            "classification": "Precinct",
-            "name": "Precinct 9107",
-            "short_name": "Precinct 9107"
-        },
-        {
-            "_id": "PCT9108",
-            "classification": "Precinct",
-            "name": "Precinct 9108",
-            "short_name": "Precinct 9108"
-        },
-        {
             "_id": "PCT9109",
             "classification": "Precinct",
-            "name": "Precinct 9109",
-            "short_name": "Precinct 9109"
+            "name": "Precinct 9109/9108",
+            "short_name": "Precinct 9109/9108"
         },
         {
             "_id": "PCT9111",
             "classification": "Precinct",
             "name": "Precinct 9111",
             "short_name": "Precinct 9111"
-        },
-        {
-            "_id": "PCT9112",
-            "classification": "Precinct",
-            "name": "Precinct 9112",
-            "short_name": "Precinct 9112"
         },
         {
             "_id": "PCT9113",
@@ -3368,32 +2868,26 @@
         {
             "_id": "PCT9114",
             "classification": "Precinct",
-            "name": "Precinct 9114",
-            "short_name": "Precinct 9114"
-        },
-        {
-            "_id": "PCT9115",
-            "classification": "Precinct",
-            "name": "Precinct 9115",
-            "short_name": "Precinct 9115"
+            "name": "Precinct 9114/9112",
+            "short_name": "Precinct 9114/9112"
         },
         {
             "_id": "PCT9116",
             "classification": "Precinct",
-            "name": "Precinct 9116",
-            "short_name": "Precinct 9116"
+            "name": "Precinct 9116/9115",
+            "short_name": "Precinct 9116/9115"
         },
         {
             "_id": "PCT9117",
             "classification": "Precinct",
-            "name": "Precinct 9117",
-            "short_name": "Precinct 9117"
+            "name": "Precinct 9117/9101",
+            "short_name": "Precinct 9117/9101"
         },
         {
             "_id": "PCT9118",
             "classification": "Precinct",
-            "name": "Precinct 9118",
-            "short_name": "Precinct 9118"
+            "name": "Precinct 9118/9102",
+            "short_name": "Precinct 9118/9102"
         },
         {
             "_id": "PCT9119",
@@ -3402,28 +2896,16 @@
             "short_name": "Precinct 9119"
         },
         {
-            "_id": "PCT9121",
-            "classification": "Precinct",
-            "name": "Precinct 9121",
-            "short_name": "Precinct 9121"
-        },
-        {
             "_id": "PCT9122",
             "classification": "Precinct",
-            "name": "Precinct 9122",
-            "short_name": "Precinct 9122"
-        },
-        {
-            "_id": "PCT9123",
-            "classification": "Precinct",
-            "name": "Precinct 9123",
-            "short_name": "Precinct 9123"
+            "name": "Precinct 9122/9121",
+            "short_name": "Precinct 9122/9121"
         },
         {
             "_id": "PCT9124",
             "classification": "Precinct",
-            "name": "Precinct 9124",
-            "short_name": "Precinct 9124"
+            "name": "Precinct 9124/9142",
+            "short_name": "Precinct 9124/9142"
         },
         {
             "_id": "PCT9125",
@@ -3432,16 +2914,10 @@
             "short_name": "Precinct 9125"
         },
         {
-            "_id": "PCT9126",
-            "classification": "Precinct",
-            "name": "Precinct 9126",
-            "short_name": "Precinct 9126"
-        },
-        {
             "_id": "PCT9127",
             "classification": "Precinct",
-            "name": "Precinct 9127",
-            "short_name": "Precinct 9127"
+            "name": "Precinct 9127/9126",
+            "short_name": "Precinct 9127/9126"
         },
         {
             "_id": "PCT9128",
@@ -3452,14 +2928,8 @@
         {
             "_id": "PCT9129",
             "classification": "Precinct",
-            "name": "Precinct 9129",
-            "short_name": "Precinct 9129"
-        },
-        {
-            "_id": "PCT9131",
-            "classification": "Precinct",
-            "name": "Precinct 9131",
-            "short_name": "Precinct 9131"
+            "name": "Precinct 9129/9131",
+            "short_name": "Precinct 9129/9131"
         },
         {
             "_id": "PCT9132",
@@ -3470,8 +2940,8 @@
         {
             "_id": "PCT9133",
             "classification": "Precinct",
-            "name": "Precinct 9133",
-            "short_name": "Precinct 9133"
+            "name": "Precinct 9133/9148",
+            "short_name": "Precinct 9133/9148"
         },
         {
             "_id": "PCT9134",
@@ -3512,14 +2982,8 @@
         {
             "_id": "PCT9141",
             "classification": "Precinct",
-            "name": "Precinct 9141",
-            "short_name": "Precinct 9141"
-        },
-        {
-            "_id": "PCT9142",
-            "classification": "Precinct",
-            "name": "Precinct 9142",
-            "short_name": "Precinct 9142"
+            "name": "Precinct 9141/9123",
+            "short_name": "Precinct 9141/9123"
         },
         {
             "_id": "PCT9143",
@@ -3542,20 +3006,8 @@
         {
             "_id": "PCT9146",
             "classification": "Precinct",
-            "name": "Precinct 9146",
-            "short_name": "Precinct 9146"
-        },
-        {
-            "_id": "PCT9147",
-            "classification": "Precinct",
-            "name": "Precinct 9147",
-            "short_name": "Precinct 9147"
-        },
-        {
-            "_id": "PCT9148",
-            "classification": "Precinct",
-            "name": "Precinct 9148",
-            "short_name": "Precinct 9148"
+            "name": "Precinct 9146/9147",
+            "short_name": "Precinct 9146/9147"
         },
         {
             "_id": "PCT9149",
@@ -3564,16 +3016,10 @@
             "short_name": "Precinct 9149"
         },
         {
-            "_id": "PCT9151",
-            "classification": "Precinct",
-            "name": "Precinct 9151",
-            "short_name": "Precinct 9151"
-        },
-        {
             "_id": "PCT9152",
             "classification": "Precinct",
-            "name": "Precinct 9152",
-            "short_name": "Precinct 9152"
+            "name": "Precinct 9152/9151",
+            "short_name": "Precinct 9152/9151"
         },
         {
             "_id": "PCT9201",
@@ -3602,26 +3048,14 @@
         {
             "_id": "PCT9205",
             "classification": "Precinct",
-            "name": "Precinct 9205",
-            "short_name": "Precinct 9205"
-        },
-        {
-            "_id": "PCT9206",
-            "classification": "Precinct",
-            "name": "Precinct 9206",
-            "short_name": "Precinct 9206"
-        },
-        {
-            "_id": "PCT9207",
-            "classification": "Precinct",
-            "name": "Precinct 9207",
-            "short_name": "Precinct 9207"
+            "name": "Precinct 9205/9212",
+            "short_name": "Precinct 9205/9212"
         },
         {
             "_id": "PCT9208",
             "classification": "Precinct",
-            "name": "Precinct 9208",
-            "short_name": "Precinct 9208"
+            "name": "Precinct 9208/9207",
+            "short_name": "Precinct 9208/9207"
         },
         {
             "_id": "PCT9209",
@@ -3632,14 +3066,8 @@
         {
             "_id": "PCT9211",
             "classification": "Precinct",
-            "name": "Precinct 9211",
-            "short_name": "Precinct 9211"
-        },
-        {
-            "_id": "PCT9212",
-            "classification": "Precinct",
-            "name": "Precinct 9212",
-            "short_name": "Precinct 9212"
+            "name": "Precinct 9211/9206",
+            "short_name": "Precinct 9211/9206"
         },
         {
             "_id": "PCT9213",
@@ -3680,8 +3108,8 @@
         {
             "_id": "PCT9219",
             "classification": "Precinct",
-            "name": "Precinct 9219",
-            "short_name": "Precinct 9219"
+            "name": "Precinct 9219/9225",
+            "short_name": "Precinct 9219/9225"
         },
         {
             "_id": "PCT9221",
@@ -3706,12 +3134,6 @@
             "classification": "Precinct",
             "name": "Precinct 9224",
             "short_name": "Precinct 9224"
-        },
-        {
-            "_id": "PCT9225",
-            "classification": "Precinct",
-            "name": "Precinct 9225",
-            "short_name": "Precinct 9225"
         },
         {
             "_id": "PCT9226",
@@ -3764,8 +3186,8 @@
         {
             "_id": "PCT9235",
             "classification": "Precinct",
-            "name": "Precinct 9235",
-            "short_name": "Precinct 9235"
+            "name": "Precinct 9235/9243",
+            "short_name": "Precinct 9235/9243"
         },
         {
             "_id": "PCT9236",
@@ -3782,8 +3204,8 @@
         {
             "_id": "PCT9238",
             "classification": "Precinct",
-            "name": "Precinct 9238",
-            "short_name": "Precinct 9238"
+            "name": "Precinct 9238/9246",
+            "short_name": "Precinct 9238/9246"
         },
         {
             "_id": "PCT9239",
@@ -3800,14 +3222,8 @@
         {
             "_id": "PCT9242",
             "classification": "Precinct",
-            "name": "Precinct 9242",
-            "short_name": "Precinct 9242"
-        },
-        {
-            "_id": "PCT9243",
-            "classification": "Precinct",
-            "name": "Precinct 9243",
-            "short_name": "Precinct 9243"
+            "name": "Precinct 9242/9247",
+            "short_name": "Precinct 9242/9247"
         },
         {
             "_id": "PCT9244",
@@ -3818,20 +3234,8 @@
         {
             "_id": "PCT9245",
             "classification": "Precinct",
-            "name": "Precinct 9245",
-            "short_name": "Precinct 9245"
-        },
-        {
-            "_id": "PCT9246",
-            "classification": "Precinct",
-            "name": "Precinct 9246",
-            "short_name": "Precinct 9246"
-        },
-        {
-            "_id": "PCT9247",
-            "classification": "Precinct",
-            "name": "Precinct 9247",
-            "short_name": "Precinct 9247"
+            "name": "Precinct 9245/7206",
+            "short_name": "Precinct 9245/7206"
         },
         {
             "_id": "PCT9248",
@@ -3840,16 +3244,10 @@
             "short_name": "Precinct 9248"
         },
         {
-            "_id": "PCT9249",
-            "classification": "Precinct",
-            "name": "Precinct 9249",
-            "short_name": "Precinct 9249"
-        },
-        {
             "_id": "PCT9251",
             "classification": "Precinct",
-            "name": "Precinct 9251",
-            "short_name": "Precinct 9251"
+            "name": "Precinct 9251/9249",
+            "short_name": "Precinct 9251/9249"
         },
         {
             "_id": "PCT9252",
@@ -3864,22 +3262,16 @@
             "short_name": "Precinct 9253"
         },
         {
-            "_id": "PCT9254",
-            "classification": "Precinct",
-            "name": "Precinct 9254",
-            "short_name": "Precinct 9254"
-        },
-        {
             "_id": "PCT9255",
             "classification": "Precinct",
-            "name": "Precinct 9255",
-            "short_name": "Precinct 9255"
+            "name": "Precinct 9255/9258",
+            "short_name": "Precinct 9255/9258"
         },
         {
             "_id": "PCT9256",
             "classification": "Precinct",
-            "name": "Precinct 9256",
-            "short_name": "Precinct 9256"
+            "name": "Precinct 9256/9254",
+            "short_name": "Precinct 9256/9254"
         },
         {
             "_id": "PCT9257",
@@ -3887,12 +3279,6 @@
             "name": "Precinct 9257 MB",
             "short_name": "Precinct 9257 MB",
             "is_vbm": true
-        },
-        {
-            "_id": "PCT9258",
-            "classification": "Precinct",
-            "name": "Precinct 9258",
-            "short_name": "Precinct 9258"
         },
         {
             "_id": "PCT9401",
@@ -3907,16 +3293,10 @@
             "short_name": "Precinct 9402"
         },
         {
-            "_id": "PCT9403",
-            "classification": "Precinct",
-            "name": "Precinct 9403",
-            "short_name": "Precinct 9403"
-        },
-        {
             "_id": "PCT9404",
             "classification": "Precinct",
-            "name": "Precinct 9404",
-            "short_name": "Precinct 9404"
+            "name": "Precinct 9404/9403",
+            "short_name": "Precinct 9404/9403"
         },
         {
             "_id": "PCT9405",
@@ -3951,26 +3331,14 @@
         {
             "_id": "PCT9411",
             "classification": "Precinct",
-            "name": "Precinct 9411",
-            "short_name": "Precinct 9411"
-        },
-        {
-            "_id": "PCT9412",
-            "classification": "Precinct",
-            "name": "Precinct 9412",
-            "short_name": "Precinct 9412"
+            "name": "Precinct 9411/9412",
+            "short_name": "Precinct 9411/9412"
         },
         {
             "_id": "PCT9413",
             "classification": "Precinct",
             "name": "Precinct 9413",
             "short_name": "Precinct 9413"
-        },
-        {
-            "_id": "PCT9414",
-            "classification": "Precinct",
-            "name": "Precinct 9414",
-            "short_name": "Precinct 9414"
         },
         {
             "_id": "PCT9415",
@@ -3985,22 +3353,16 @@
             "short_name": "Precinct 9416"
         },
         {
-            "_id": "PCT9417",
-            "classification": "Precinct",
-            "name": "Precinct 9417",
-            "short_name": "Precinct 9417"
-        },
-        {
             "_id": "PCT9418",
             "classification": "Precinct",
-            "name": "Precinct 9418",
-            "short_name": "Precinct 9418"
+            "name": "Precinct 9418/9417",
+            "short_name": "Precinct 9418/9417"
         },
         {
             "_id": "PCT9419",
             "classification": "Precinct",
-            "name": "Precinct 9419",
-            "short_name": "Precinct 9419"
+            "name": "Precinct 9419/9414",
+            "short_name": "Precinct 9419/9414"
         },
         {
             "_id": "PCT9421",
@@ -4023,14 +3385,8 @@
         {
             "_id": "PCT9424",
             "classification": "Precinct",
-            "name": "Precinct 9424",
-            "short_name": "Precinct 9424"
-        },
-        {
-            "_id": "PCT9425",
-            "classification": "Precinct",
-            "name": "Precinct 9425",
-            "short_name": "Precinct 9425"
+            "name": "Precinct 9424/9425",
+            "short_name": "Precinct 9424/9425"
         },
         {
             "_id": "PCT9426",
@@ -4045,22 +3401,10 @@
             "short_name": "Precinct 9427"
         },
         {
-            "_id": "PCT9428",
-            "classification": "Precinct",
-            "name": "Precinct 9428",
-            "short_name": "Precinct 9428"
-        },
-        {
-            "_id": "PCT9429",
-            "classification": "Precinct",
-            "name": "Precinct 9429",
-            "short_name": "Precinct 9429"
-        },
-        {
             "_id": "PCT9431",
             "classification": "Precinct",
-            "name": "Precinct 9431",
-            "short_name": "Precinct 9431"
+            "name": "Precinct 9431/9429",
+            "short_name": "Precinct 9431/9429"
         },
         {
             "_id": "PCT9432",
@@ -4071,20 +3415,14 @@
         {
             "_id": "PCT9433",
             "classification": "Precinct",
-            "name": "Precinct 9433",
-            "short_name": "Precinct 9433"
+            "name": "Precinct 9433/9428",
+            "short_name": "Precinct 9433/9428"
         },
         {
             "_id": "PCT9434",
             "classification": "Precinct",
             "name": "Precinct 9434",
             "short_name": "Precinct 9434"
-        },
-        {
-            "_id": "PCT9435",
-            "classification": "Precinct",
-            "name": "Precinct 9435",
-            "short_name": "Precinct 9435"
         },
         {
             "_id": "PCT9436",
@@ -4099,16 +3437,10 @@
             "short_name": "Precinct 9437"
         },
         {
-            "_id": "PCT9438",
-            "classification": "Precinct",
-            "name": "Precinct 9438",
-            "short_name": "Precinct 9438"
-        },
-        {
             "_id": "PCT9439",
             "classification": "Precinct",
-            "name": "Precinct 9439",
-            "short_name": "Precinct 9439"
+            "name": "Precinct 9439/9438",
+            "short_name": "Precinct 9439/9438"
         },
         {
             "_id": "PCT9441",
@@ -4119,20 +3451,14 @@
         {
             "_id": "PCT9442",
             "classification": "Precinct",
-            "name": "Precinct 9442",
-            "short_name": "Precinct 9442"
+            "name": "Precinct 9442/9435",
+            "short_name": "Precinct 9442/9435"
         },
         {
             "_id": "PCT9443",
             "classification": "Precinct",
-            "name": "Precinct 9443",
-            "short_name": "Precinct 9443"
-        },
-        {
-            "_id": "PCT9444",
-            "classification": "Precinct",
-            "name": "Precinct 9444",
-            "short_name": "Precinct 9444"
+            "name": "Precinct 9443/9444",
+            "short_name": "Precinct 9443/9444"
         },
         {
             "_id": "PCT9445",
@@ -4143,8 +3469,8 @@
         {
             "_id": "PCT9446",
             "classification": "Precinct",
-            "name": "Precinct 9446",
-            "short_name": "Precinct 9446"
+            "name": "Precinct 9446/9452",
+            "short_name": "Precinct 9446/9452"
         },
         {
             "_id": "PCT9447",
@@ -4169,12 +3495,6 @@
             "classification": "Precinct",
             "name": "Precinct 9451",
             "short_name": "Precinct 9451"
-        },
-        {
-            "_id": "PCT9452",
-            "classification": "Precinct",
-            "name": "Precinct 9452",
-            "short_name": "Precinct 9452"
         },
         {
             "_id": "PCT9453",
@@ -4221,28 +3541,16 @@
             "short_name": "Precinct 9507"
         },
         {
-            "_id": "PCT9508",
-            "classification": "Precinct",
-            "name": "Precinct 9508",
-            "short_name": "Precinct 9508"
-        },
-        {
-            "_id": "PCT9509",
-            "classification": "Precinct",
-            "name": "Precinct 9509",
-            "short_name": "Precinct 9509"
-        },
-        {
             "_id": "PCT9511",
             "classification": "Precinct",
-            "name": "Precinct 9511",
-            "short_name": "Precinct 9511"
+            "name": "Precinct 9511/9509",
+            "short_name": "Precinct 9511/9509"
         },
         {
             "_id": "PCT9512",
             "classification": "Precinct",
-            "name": "Precinct 9512",
-            "short_name": "Precinct 9512"
+            "name": "Precinct 9512/9508",
+            "short_name": "Precinct 9512/9508"
         },
         {
             "_id": "PCT9513",
@@ -4257,28 +3565,16 @@
             "short_name": "Precinct 9514/9522"
         },
         {
-            "_id": "PCT9515",
-            "classification": "Precinct",
-            "name": "Precinct 9515",
-            "short_name": "Precinct 9515"
-        },
-        {
             "_id": "PCT9516",
             "classification": "Precinct",
-            "name": "Precinct 9516",
-            "short_name": "Precinct 9516"
+            "name": "Precinct 9516/9515",
+            "short_name": "Precinct 9516/9515"
         },
         {
             "_id": "PCT9517",
             "classification": "Precinct",
-            "name": "Precinct 9517",
-            "short_name": "Precinct 9517"
-        },
-        {
-            "_id": "PCT9518",
-            "classification": "Precinct",
-            "name": "Precinct 9518",
-            "short_name": "Precinct 9518"
+            "name": "Precinct 9517/9518",
+            "short_name": "Precinct 9517/9518"
         },
         {
             "_id": "PCT9519",
@@ -4319,8 +3615,8 @@
         {
             "_id": "PCT9705",
             "classification": "Precinct",
-            "name": "Precinct 9705",
-            "short_name": "Precinct 9705"
+            "name": "Precinct 9705/9708",
+            "short_name": "Precinct 9705/9708"
         },
         {
             "_id": "PCT9706",
@@ -4328,18 +3624,6 @@
             "name": "Precinct 9706 MB",
             "short_name": "Precinct 9706 MB",
             "is_vbm": true
-        },
-        {
-            "_id": "PCT9707",
-            "classification": "Precinct",
-            "name": "Precinct 9707",
-            "short_name": "Precinct 9707"
-        },
-        {
-            "_id": "PCT9708",
-            "classification": "Precinct",
-            "name": "Precinct 9708",
-            "short_name": "Precinct 9708"
         },
         {
             "_id": "PCT9709",
@@ -4350,32 +3634,14 @@
         {
             "_id": "PCT9711",
             "classification": "Precinct",
-            "name": "Precinct 9711",
-            "short_name": "Precinct 9711"
+            "name": "Precinct 9711/9707",
+            "short_name": "Precinct 9711/9707"
         },
         {
             "_id": "PCT9712",
             "classification": "Precinct",
-            "name": "Precinct 9712",
-            "short_name": "Precinct 9712"
-        },
-        {
-            "_id": "PCT9713",
-            "classification": "Precinct",
-            "name": "Precinct 9713",
-            "short_name": "Precinct 9713"
-        },
-        {
-            "_id": "PCT9714",
-            "classification": "Precinct",
-            "name": "Precinct 9714",
-            "short_name": "Precinct 9714"
-        },
-        {
-            "_id": "PCT9715",
-            "classification": "Precinct",
-            "name": "Precinct 9715",
-            "short_name": "Precinct 9715"
+            "name": "Precinct 9712/9715",
+            "short_name": "Precinct 9712/9715"
         },
         {
             "_id": "PCT9716",
@@ -4386,14 +3652,14 @@
         {
             "_id": "PCT9717",
             "classification": "Precinct",
-            "name": "Precinct 9717",
-            "short_name": "Precinct 9717"
+            "name": "Precinct 9717/9713",
+            "short_name": "Precinct 9717/9713"
         },
         {
             "_id": "PCT9718",
             "classification": "Precinct",
-            "name": "Precinct 9718",
-            "short_name": "Precinct 9718"
+            "name": "Precinct 9718/9714",
+            "short_name": "Precinct 9718/9714"
         },
         {
             "_id": "PCT9719",
@@ -4446,8 +3712,8 @@
         {
             "_id": "PCT9728",
             "classification": "Precinct",
-            "name": "Precinct 9728",
-            "short_name": "Precinct 9728"
+            "name": "Precinct 9728/9746",
+            "short_name": "Precinct 9728/9746"
         },
         {
             "_id": "PCT9729",
@@ -4478,26 +3744,14 @@
         {
             "_id": "PCT9734",
             "classification": "Precinct",
-            "name": "Precinct 9734",
-            "short_name": "Precinct 9734"
-        },
-        {
-            "_id": "PCT9735",
-            "classification": "Precinct",
-            "name": "Precinct 9735",
-            "short_name": "Precinct 9735"
-        },
-        {
-            "_id": "PCT9736",
-            "classification": "Precinct",
-            "name": "Precinct 9736",
-            "short_name": "Precinct 9736"
+            "name": "Precinct 9734/9735",
+            "short_name": "Precinct 9734/9735"
         },
         {
             "_id": "PCT9737",
             "classification": "Precinct",
-            "name": "Precinct 9737",
-            "short_name": "Precinct 9737"
+            "name": "Precinct 9737/9736",
+            "short_name": "Precinct 9737/9736"
         },
         {
             "_id": "PCT9738",
@@ -4542,18 +3796,6 @@
             "short_name": "Precinct 9745"
         },
         {
-            "_id": "PCT9746",
-            "classification": "Precinct",
-            "name": "Precinct 9746",
-            "short_name": "Precinct 9746"
-        },
-        {
-            "_id": "PCT9747",
-            "classification": "Precinct",
-            "name": "Precinct 9747",
-            "short_name": "Precinct 9747"
-        },
-        {
             "_id": "PCT9748",
             "classification": "Precinct",
             "name": "Precinct 9748",
@@ -4562,8 +3804,8 @@
         {
             "_id": "PCT9749",
             "classification": "Precinct",
-            "name": "Precinct 9749",
-            "short_name": "Precinct 9749"
+            "name": "Precinct 9749/9747",
+            "short_name": "Precinct 9749/9747"
         },
         {
             "_id": "PCT9751",
@@ -4636,7 +3878,7 @@
             "name": "City and County of San Francisco",
             "short_name": "San Francisco County",
             "classification": "County",
-            "reporting_group_ids": ""
+            "reporting_group_ids": "ALLPCTS~TO ALLPCTS~ED ALLPCTS~MV PCT1101~ED PCT1101~MV PCT1101~TO PCT1102~ED PCT1102~MV PCT1102~TO PCT1103~ED PCT1103~MV PCT1103~TO PCT1104~ED PCT1104~MV PCT1104~TO PCT1106~ED PCT1106~MV PCT1106~TO PCT1108~ED PCT1108~MV PCT1108~TO PCT1109~ED PCT1109~MV PCT1109~TO PCT1111~ED PCT1111~MV PCT1111~TO PCT1112~ED PCT1112~MV PCT1112~TO PCT1114~ED PCT1114~MV PCT1114~TO PCT1115~ED PCT1115~MV PCT1115~TO PCT1117~ED PCT1117~MV PCT1117~TO PCT1118~ED PCT1118~MV PCT1118~TO PCT1119~ED PCT1119~MV PCT1119~TO PCT1122~ED PCT1122~MV PCT1122~TO PCT1124~ED PCT1124~MV PCT1124~TO PCT1125~ED PCT1125~MV PCT1125~TO PCT1126~ED PCT1126~MV PCT1126~TO PCT1127~ED PCT1127~MV PCT1127~TO PCT1129~ED PCT1129~MV PCT1129~TO PCT1131~ED PCT1131~MV PCT1131~TO PCT1132~ED PCT1132~MV PCT1132~TO PCT1133~ED PCT1133~MV PCT1133~TO PCT1134~ED PCT1134~MV PCT1134~TO PCT1135~ED PCT1135~MV PCT1135~TO PCT1136~ED PCT1136~MV PCT1136~TO PCT1141~ED PCT1141~MV PCT1141~TO PCT1143~ED PCT1143~MV PCT1143~TO PCT1144~ED PCT1144~MV PCT1144~TO PCT1145~ED PCT1145~MV PCT1145~TO PCT1146~ED PCT1146~MV PCT1146~TO PCT1147~ED PCT1147~MV PCT1147~TO PCT1148~ED PCT1148~MV PCT1148~TO PCT1149~ED PCT1149~MV PCT1149~TO PCT1152~ED PCT1152~MV PCT1152~TO PCT7001~ED PCT7001~MV PCT7001~TO PCT7002~ED PCT7002~MV PCT7002~TO PCT7003~ED PCT7003~MV PCT7003~TO PCT7005~ED PCT7005~MV PCT7005~TO PCT7006~ED PCT7006~MV PCT7006~TO PCT7007~ED PCT7007~MV PCT7007~TO PCT7009~ED PCT7009~MV PCT7009~TO PCT7011~ED PCT7011~MV PCT7011~TO PCT7012~ED PCT7012~MV PCT7012~TO PCT7013~ED PCT7013~MV PCT7013~TO PCT7014~ED PCT7014~MV PCT7014~TO PCT7015~MV PCT7015~TO PCT7016~ED PCT7016~MV PCT7016~TO PCT7017~ED PCT7017~MV PCT7017~TO PCT7019~ED PCT7019~MV PCT7019~TO PCT7021~ED PCT7021~MV PCT7021~TO PCT7022~ED PCT7022~MV PCT7022~TO PCT7024~ED PCT7024~MV PCT7024~TO PCT7025~ED PCT7025~MV PCT7025~TO PCT7026~ED PCT7026~MV PCT7026~TO PCT7027~ED PCT7027~MV PCT7027~TO PCT7028~ED PCT7028~MV PCT7028~TO PCT7029~ED PCT7029~MV PCT7029~TO PCT7030~ED PCT7030~MV PCT7030~TO PCT7031~ED PCT7031~MV PCT7031~TO PCT7032~ED PCT7032~MV PCT7032~TO PCT7033~ED PCT7033~MV PCT7033~TO PCT7034~ED PCT7034~MV PCT7034~TO PCT7035~ED PCT7035~MV PCT7035~TO PCT7037~ED PCT7037~MV PCT7037~TO PCT7038~ED PCT7038~MV PCT7038~TO PCT7039~ED PCT7039~MV PCT7039~TO PCT7041~MV PCT7041~TO PCT7042~ED PCT7042~MV PCT7042~TO PCT7043~ED PCT7043~MV PCT7043~TO PCT7044~ED PCT7044~MV PCT7044~TO PCT7045~ED PCT7045~MV PCT7045~TO PCT7047~ED PCT7047~MV PCT7047~TO PCT7048~ED PCT7048~MV PCT7048~TO PCT7049~ED PCT7049~MV PCT7049~TO PCT7052~ED PCT7052~MV PCT7052~TO PCT7053~ED PCT7053~MV PCT7053~TO PCT7054~ED PCT7054~MV PCT7054~TO PCT7055~ED PCT7055~MV PCT7055~TO PCT7101~MV PCT7101~TO PCT7202~ED PCT7202~MV PCT7202~TO PCT7203~ED PCT7203~MV PCT7203~TO PCT7204~ED PCT7204~MV PCT7204~TO PCT7205~ED PCT7205~MV PCT7205~TO PCT7207~ED PCT7207~MV PCT7207~TO PCT7208~ED PCT7208~MV PCT7208~TO PCT7301~ED PCT7301~MV PCT7301~TO PCT7302~ED PCT7302~MV PCT7302~TO PCT7305~ED PCT7305~MV PCT7305~TO PCT7306~ED PCT7306~MV PCT7306~TO PCT7308~ED PCT7308~MV PCT7308~TO PCT7311~ED PCT7311~MV PCT7311~TO PCT7312~ED PCT7312~MV PCT7312~TO PCT7314~ED PCT7314~MV PCT7314~TO PCT7315~ED PCT7315~MV PCT7315~TO PCT7317~ED PCT7317~MV PCT7317~TO PCT7318~ED PCT7318~MV PCT7318~TO PCT7321~ED PCT7321~MV PCT7321~TO PCT7323~ED PCT7323~MV PCT7323~TO PCT7325~ED PCT7325~MV PCT7325~TO PCT7326~ED PCT7326~MV PCT7326~TO PCT7327~ED PCT7327~MV PCT7327~TO PCT7328~ED PCT7328~MV PCT7328~TO PCT7329~ED PCT7329~MV PCT7329~TO PCT7331~ED PCT7331~MV PCT7331~TO PCT7332~ED PCT7332~MV PCT7332~TO PCT7333~ED PCT7333~MV PCT7333~TO PCT7336~ED PCT7336~MV PCT7336~TO PCT7338~ED PCT7338~MV PCT7338~TO PCT7339~ED PCT7339~MV PCT7339~TO PCT7342~ED PCT7342~MV PCT7342~TO PCT7343~ED PCT7343~MV PCT7343~TO PCT7344~ED PCT7344~MV PCT7344~TO PCT7346~ED PCT7346~MV PCT7346~TO PCT7348~ED PCT7348~MV PCT7348~TO PCT7502~ED PCT7502~MV PCT7502~TO PCT7503~ED PCT7503~MV PCT7503~TO PCT7504~ED PCT7504~MV PCT7504~TO PCT7505~ED PCT7505~MV PCT7505~TO PCT7506~ED PCT7506~MV PCT7506~TO PCT7508~ED PCT7508~MV PCT7508~TO PCT7509~ED PCT7509~MV PCT7509~TO PCT7512~ED PCT7512~MV PCT7512~TO PCT7513~ED PCT7513~MV PCT7513~TO PCT7514~ED PCT7514~MV PCT7514~TO PCT7515~ED PCT7515~MV PCT7515~TO PCT7516~ED PCT7516~MV PCT7516~TO PCT7518~ED PCT7518~MV PCT7518~TO PCT7519~ED PCT7519~MV PCT7519~TO PCT7521~ED PCT7521~MV PCT7521~TO PCT7522~ED PCT7522~MV PCT7522~TO PCT7524~ED PCT7524~MV PCT7524~TO PCT7525~ED PCT7525~MV PCT7525~TO PCT7526~ED PCT7526~MV PCT7526~TO PCT7527~ED PCT7527~MV PCT7527~TO PCT7529~ED PCT7529~MV PCT7529~TO PCT7531~ED PCT7531~MV PCT7531~TO PCT7532~ED PCT7532~MV PCT7532~TO PCT7533~ED PCT7533~MV PCT7533~TO PCT7534~ED PCT7534~MV PCT7534~TO PCT7536~ED PCT7536~MV PCT7536~TO PCT7537~ED PCT7537~MV PCT7537~TO PCT7539~ED PCT7539~MV PCT7539~TO PCT7541~ED PCT7541~MV PCT7541~TO PCT7543~ED PCT7543~MV PCT7543~TO PCT7544~ED PCT7544~MV PCT7544~TO PCT7545~ED PCT7545~MV PCT7545~TO PCT7546~ED PCT7546~MV PCT7546~TO PCT7548~ED PCT7548~MV PCT7548~TO PCT7549~ED PCT7549~MV PCT7549~TO PCT7552~ED PCT7552~MV PCT7552~TO PCT7553~MV PCT7553~TO PCT7554~ED PCT7554~MV PCT7554~TO PCT7555~ED PCT7555~MV PCT7555~TO PCT7556~ED PCT7556~MV PCT7556~TO PCT7601~ED PCT7601~MV PCT7601~TO PCT7602~ED PCT7602~MV PCT7602~TO PCT7605~ED PCT7605~MV PCT7605~TO PCT7606~ED PCT7606~MV PCT7606~TO PCT7607~ED PCT7607~MV PCT7607~TO PCT7608~ED PCT7608~MV PCT7608~TO PCT7611~ED PCT7611~MV PCT7611~TO PCT7613~ED PCT7613~MV PCT7613~TO PCT7614~ED PCT7614~MV PCT7614~TO PCT7615~ED PCT7615~MV PCT7615~TO PCT7616~ED PCT7616~MV PCT7616~TO PCT7617~ED PCT7617~MV PCT7617~TO PCT7618~ED PCT7618~MV PCT7618~TO PCT7619~ED PCT7619~MV PCT7619~TO PCT7621~ED PCT7621~MV PCT7621~TO PCT7622~ED PCT7622~MV PCT7622~TO PCT7623~ED PCT7623~MV PCT7623~TO PCT7624~ED PCT7624~MV PCT7624~TO PCT7625~ED PCT7625~MV PCT7625~TO PCT7626~ED PCT7626~MV PCT7626~TO PCT7628~ED PCT7628~MV PCT7628~TO PCT7629~ED PCT7629~MV PCT7629~TO PCT7632~ED PCT7632~MV PCT7632~TO PCT7633~ED PCT7633~MV PCT7633~TO PCT7634~ED PCT7634~MV PCT7634~TO PCT7635~ED PCT7635~MV PCT7635~TO PCT7636~ED PCT7636~MV PCT7636~TO PCT7637~ED PCT7637~MV PCT7637~TO PCT7638~ED PCT7638~MV PCT7638~TO PCT7639~ED PCT7639~MV PCT7639~TO PCT7642~ED PCT7642~MV PCT7642~TO PCT7643~ED PCT7643~MV PCT7643~TO PCT7644~ED PCT7644~MV PCT7644~TO PCT7645~ED PCT7645~MV PCT7645~TO PCT7646~ED PCT7646~MV PCT7646~TO PCT7647~ED PCT7647~MV PCT7647~TO PCT7648~MV PCT7648~TO PCT7649~ED PCT7649~MV PCT7649~TO PCT7651~ED PCT7651~MV PCT7651~TO PCT7652~ED PCT7652~MV PCT7652~TO PCT7653~ED PCT7653~MV PCT7653~TO PCT7655~ED PCT7655~MV PCT7655~TO PCT7701~ED PCT7701~MV PCT7701~TO PCT7703~MV PCT7703~TO PCT7704~ED PCT7704~MV PCT7704~TO PCT7705~ED PCT7705~MV PCT7705~TO PCT7706~ED PCT7706~MV PCT7706~TO PCT7707~ED PCT7707~MV PCT7707~TO PCT7708~ED PCT7708~MV PCT7708~TO PCT7709~ED PCT7709~MV PCT7709~TO PCT7712~ED PCT7712~MV PCT7712~TO PCT7801~ED PCT7801~MV PCT7801~TO PCT7802~ED PCT7802~MV PCT7802~TO PCT7803~ED PCT7803~MV PCT7803~TO PCT7805~ED PCT7805~MV PCT7805~TO PCT7807~ED PCT7807~MV PCT7807~TO PCT7808~ED PCT7808~MV PCT7808~TO PCT7809~ED PCT7809~MV PCT7809~TO PCT7811~ED PCT7811~MV PCT7811~TO PCT7812~ED PCT7812~MV PCT7812~TO PCT7813~ED PCT7813~MV PCT7813~TO PCT7814~ED PCT7814~MV PCT7814~TO PCT7815~ED PCT7815~MV PCT7815~TO PCT7817~ED PCT7817~MV PCT7817~TO PCT7819~ED PCT7819~MV PCT7819~TO PCT7821~ED PCT7821~MV PCT7821~TO PCT7822~ED PCT7822~MV PCT7822~TO PCT7824~ED PCT7824~MV PCT7824~TO PCT7826~ED PCT7826~MV PCT7826~TO PCT7828~ED PCT7828~MV PCT7828~TO PCT7829~ED PCT7829~MV PCT7829~TO PCT7832~ED PCT7832~MV PCT7832~TO PCT7834~ED PCT7834~MV PCT7834~TO PCT7835~ED PCT7835~MV PCT7835~TO PCT7836~ED PCT7836~MV PCT7836~TO PCT7837~ED PCT7837~MV PCT7837~TO PCT7839~ED PCT7839~MV PCT7839~TO PCT7841~ED PCT7841~MV PCT7841~TO PCT7843~ED PCT7843~MV PCT7843~TO PCT7844~ED PCT7844~MV PCT7844~TO PCT7845~ED PCT7845~MV PCT7845~TO PCT7846~ED PCT7846~MV PCT7846~TO PCT7847~ED PCT7847~MV PCT7847~TO PCT7849~ED PCT7849~MV PCT7849~TO PCT7852~ED PCT7852~MV PCT7852~TO PCT7853~ED PCT7853~MV PCT7853~TO PCT7854~ED PCT7854~MV PCT7854~TO PCT7855~ED PCT7855~MV PCT7855~TO PCT7858~ED PCT7858~MV PCT7858~TO PCT7861~ED PCT7861~MV PCT7861~TO PCT7862~ED PCT7862~MV PCT7862~TO PCT7863~ED PCT7863~MV PCT7863~TO PCT7864~ED PCT7864~MV PCT7864~TO PCT7866~ED PCT7866~MV PCT7866~TO PCT7867~ED PCT7867~MV PCT7867~TO PCT7868~ED PCT7868~MV PCT7868~TO PCT7869~ED PCT7869~MV PCT7869~TO PCT7871~ED PCT7871~MV PCT7871~TO PCT7872~ED PCT7872~MV PCT7872~TO PCT7873~ED PCT7873~MV PCT7873~TO PCT7874~ED PCT7874~MV PCT7874~TO PCT7875~ED PCT7875~MV PCT7875~TO PCT7876~ED PCT7876~MV PCT7876~TO PCT7902~ED PCT7902~MV PCT7902~TO PCT7903~ED PCT7903~MV PCT7903~TO PCT7905~ED PCT7905~MV PCT7905~TO PCT7906~ED PCT7906~MV PCT7906~TO PCT7908~ED PCT7908~MV PCT7908~TO PCT7909~ED PCT7909~MV PCT7909~TO PCT7911~ED PCT7911~MV PCT7911~TO PCT7912~ED PCT7912~MV PCT7912~TO PCT7915~ED PCT7915~MV PCT7915~TO PCT7916~ED PCT7916~MV PCT7916~TO PCT7917~ED PCT7917~MV PCT7917~TO PCT7918~ED PCT7918~MV PCT7918~TO PCT7921~ED PCT7921~MV PCT7921~TO PCT7923~ED PCT7923~MV PCT7923~TO PCT7925~ED PCT7925~MV PCT7925~TO PCT7926~ED PCT7926~MV PCT7926~TO PCT7928~ED PCT7928~MV PCT7928~TO PCT7929~ED PCT7929~MV PCT7929~TO PCT7931~ED PCT7931~MV PCT7931~TO PCT7932~ED PCT7932~MV PCT7932~TO PCT7933~MV PCT7933~TO PCT7934~ED PCT7934~MV PCT7934~TO PCT7935~ED PCT7935~MV PCT7935~TO PCT7936~ED PCT7936~MV PCT7936~TO PCT7937~ED PCT7937~MV PCT7937~TO PCT7938~ED PCT7938~MV PCT7938~TO PCT7941~ED PCT7941~MV PCT7941~TO PCT7942~ED PCT7942~MV PCT7942~TO PCT7943~ED PCT7943~MV PCT7943~TO PCT7945~ED PCT7945~MV PCT7945~TO PCT7946~ED PCT7946~MV PCT7946~TO PCT7947~ED PCT7947~MV PCT7947~TO PCT7948~ED PCT7948~MV PCT7948~TO PCT7951~ED PCT7951~MV PCT7951~TO PCT7953~ED PCT7953~MV PCT7953~TO PCT7954~MV PCT7954~TO PCT7956~ED PCT7956~MV PCT7956~TO PCT7957~ED PCT7957~MV PCT7957~TO PCT7958~MV PCT7958~TO PCT7959~ED PCT7959~MV PCT7959~TO PCT9001~MV PCT9001~TO PCT9103~ED PCT9103~MV PCT9103~TO PCT9104~ED PCT9104~MV PCT9104~TO PCT9105~ED PCT9105~MV PCT9105~TO PCT9106~ED PCT9106~MV PCT9106~TO PCT9109~ED PCT9109~MV PCT9109~TO PCT9111~ED PCT9111~MV PCT9111~TO PCT9113~ED PCT9113~MV PCT9113~TO PCT9114~ED PCT9114~MV PCT9114~TO PCT9116~ED PCT9116~MV PCT9116~TO PCT9117~ED PCT9117~MV PCT9117~TO PCT9118~ED PCT9118~MV PCT9118~TO PCT9119~ED PCT9119~MV PCT9119~TO PCT9122~ED PCT9122~MV PCT9122~TO PCT9124~ED PCT9124~MV PCT9124~TO PCT9125~ED PCT9125~MV PCT9125~TO PCT9127~ED PCT9127~MV PCT9127~TO PCT9128~ED PCT9128~MV PCT9128~TO PCT9129~ED PCT9129~MV PCT9129~TO PCT9132~ED PCT9132~MV PCT9132~TO PCT9133~ED PCT9133~MV PCT9133~TO PCT9134~ED PCT9134~MV PCT9134~TO PCT9135~ED PCT9135~MV PCT9135~TO PCT9136~ED PCT9136~MV PCT9136~TO PCT9137~ED PCT9137~MV PCT9137~TO PCT9138~ED PCT9138~MV PCT9138~TO PCT9139~ED PCT9139~MV PCT9139~TO PCT9141~ED PCT9141~MV PCT9141~TO PCT9143~ED PCT9143~MV PCT9143~TO PCT9144~ED PCT9144~MV PCT9144~TO PCT9145~ED PCT9145~MV PCT9145~TO PCT9146~ED PCT9146~MV PCT9146~TO PCT9149~ED PCT9149~MV PCT9149~TO PCT9152~ED PCT9152~MV PCT9152~TO PCT9201~ED PCT9201~MV PCT9201~TO PCT9202~ED PCT9202~MV PCT9202~TO PCT9203~ED PCT9203~MV PCT9203~TO PCT9204~ED PCT9204~MV PCT9204~TO PCT9205~ED PCT9205~MV PCT9205~TO PCT9208~ED PCT9208~MV PCT9208~TO PCT9209~ED PCT9209~MV PCT9209~TO PCT9211~ED PCT9211~MV PCT9211~TO PCT9213~ED PCT9213~MV PCT9213~TO PCT9214~ED PCT9214~MV PCT9214~TO PCT9215~ED PCT9215~MV PCT9215~TO PCT9216~ED PCT9216~MV PCT9216~TO PCT9217~ED PCT9217~MV PCT9217~TO PCT9218~ED PCT9218~MV PCT9218~TO PCT9219~ED PCT9219~MV PCT9219~TO PCT9221~ED PCT9221~MV PCT9221~TO PCT9222~ED PCT9222~MV PCT9222~TO PCT9223~ED PCT9223~MV PCT9223~TO PCT9224~ED PCT9224~MV PCT9224~TO PCT9226~ED PCT9226~MV PCT9226~TO PCT9227~ED PCT9227~MV PCT9227~TO PCT9228~ED PCT9228~MV PCT9228~TO PCT9229~ED PCT9229~MV PCT9229~TO PCT9231~ED PCT9231~MV PCT9231~TO PCT9232~ED PCT9232~MV PCT9232~TO PCT9233~ED PCT9233~MV PCT9233~TO PCT9234~ED PCT9234~MV PCT9234~TO PCT9235~ED PCT9235~MV PCT9235~TO PCT9236~ED PCT9236~MV PCT9236~TO PCT9237~ED PCT9237~MV PCT9237~TO PCT9238~ED PCT9238~MV PCT9238~TO PCT9239~ED PCT9239~MV PCT9239~TO PCT9241~ED PCT9241~MV PCT9241~TO PCT9242~ED PCT9242~MV PCT9242~TO PCT9244~ED PCT9244~MV PCT9244~TO PCT9245~ED PCT9245~MV PCT9245~TO PCT9248~ED PCT9248~MV PCT9248~TO PCT9251~ED PCT9251~MV PCT9251~TO PCT9252~ED PCT9252~MV PCT9252~TO PCT9253~ED PCT9253~MV PCT9253~TO PCT9255~ED PCT9255~MV PCT9255~TO PCT9256~ED PCT9256~MV PCT9256~TO PCT9257~MV PCT9257~TO PCT9401~ED PCT9401~MV PCT9401~TO PCT9402~ED PCT9402~MV PCT9402~TO PCT9404~ED PCT9404~MV PCT9404~TO PCT9405~ED PCT9405~MV PCT9405~TO PCT9406~ED PCT9406~MV PCT9406~TO PCT9407~ED PCT9407~MV PCT9407~TO PCT9408~ED PCT9408~MV PCT9408~TO PCT9409~ED PCT9409~MV PCT9409~TO PCT9411~ED PCT9411~MV PCT9411~TO PCT9413~ED PCT9413~MV PCT9413~TO PCT9415~ED PCT9415~MV PCT9415~TO PCT9416~ED PCT9416~MV PCT9416~TO PCT9418~ED PCT9418~MV PCT9418~TO PCT9419~ED PCT9419~MV PCT9419~TO PCT9421~ED PCT9421~MV PCT9421~TO PCT9422~ED PCT9422~MV PCT9422~TO PCT9423~ED PCT9423~MV PCT9423~TO PCT9424~ED PCT9424~MV PCT9424~TO PCT9426~ED PCT9426~MV PCT9426~TO PCT9427~ED PCT9427~MV PCT9427~TO PCT9431~ED PCT9431~MV PCT9431~TO PCT9432~ED PCT9432~MV PCT9432~TO PCT9433~ED PCT9433~MV PCT9433~TO PCT9434~ED PCT9434~MV PCT9434~TO PCT9436~ED PCT9436~MV PCT9436~TO PCT9437~ED PCT9437~MV PCT9437~TO PCT9439~ED PCT9439~MV PCT9439~TO PCT9441~ED PCT9441~MV PCT9441~TO PCT9442~ED PCT9442~MV PCT9442~TO PCT9443~ED PCT9443~MV PCT9443~TO PCT9445~ED PCT9445~MV PCT9445~TO PCT9446~ED PCT9446~MV PCT9446~TO PCT9447~ED PCT9447~MV PCT9447~TO PCT9448~ED PCT9448~MV PCT9448~TO PCT9449~ED PCT9449~MV PCT9449~TO PCT9451~ED PCT9451~MV PCT9451~TO PCT9453~ED PCT9453~MV PCT9453~TO PCT9501~MV PCT9501~TO PCT9502~MV PCT9502~TO PCT9503~ED PCT9503~MV PCT9503~TO PCT9505~ED PCT9505~MV PCT9505~TO PCT9506~ED PCT9506~MV PCT9506~TO PCT9507~ED PCT9507~MV PCT9507~TO PCT9511~ED PCT9511~MV PCT9511~TO PCT9512~ED PCT9512~MV PCT9512~TO PCT9513~ED PCT9513~MV PCT9513~TO PCT9514~ED PCT9514~MV PCT9514~TO PCT9516~ED PCT9516~MV PCT9516~TO PCT9517~ED PCT9517~MV PCT9517~TO PCT9519~ED PCT9519~MV PCT9519~TO PCT9521~ED PCT9521~MV PCT9521~TO PCT9701~ED PCT9701~MV PCT9701~TO PCT9702~ED PCT9702~MV PCT9702~TO PCT9703~ED PCT9703~MV PCT9703~TO PCT9704~ED PCT9704~MV PCT9704~TO PCT9705~ED PCT9705~MV PCT9705~TO PCT9706~MV PCT9706~TO PCT9709~ED PCT9709~MV PCT9709~TO PCT9711~ED PCT9711~MV PCT9711~TO PCT9712~ED PCT9712~MV PCT9712~TO PCT9716~ED PCT9716~MV PCT9716~TO PCT9717~ED PCT9717~MV PCT9717~TO PCT9718~ED PCT9718~MV PCT9718~TO PCT9719~ED PCT9719~MV PCT9719~TO PCT9721~ED PCT9721~MV PCT9721~TO PCT9722~ED PCT9722~MV PCT9722~TO PCT9723~ED PCT9723~MV PCT9723~TO PCT9724~ED PCT9724~MV PCT9724~TO PCT9725~ED PCT9725~MV PCT9725~TO PCT9726~ED PCT9726~MV PCT9726~TO PCT9727~ED PCT9727~MV PCT9727~TO PCT9728~ED PCT9728~MV PCT9728~TO PCT9729~ED PCT9729~MV PCT9729~TO PCT9731~ED PCT9731~MV PCT9731~TO PCT9732~MV PCT9732~TO PCT9733~MV PCT9733~TO PCT9734~ED PCT9734~MV PCT9734~TO PCT9737~ED PCT9737~MV PCT9737~TO PCT9738~ED PCT9738~MV PCT9738~TO PCT9739~ED PCT9739~MV PCT9739~TO PCT9741~ED PCT9741~MV PCT9741~TO PCT9742~ED PCT9742~MV PCT9742~TO PCT9743~ED PCT9743~MV PCT9743~TO PCT9744~ED PCT9744~MV PCT9744~TO PCT9745~ED PCT9745~MV PCT9745~TO PCT9748~ED PCT9748~MV PCT9748~TO PCT9749~ED PCT9749~MV PCT9749~TO PCT9751~ED PCT9751~MV PCT9751~TO PCT9752~ED PCT9752~MV PCT9752~TO PCT9753~ED PCT9753~MV PCT9753~TO PCT9754~ED PCT9754~MV PCT9754~TO PCT9755~ED PCT9755~MV PCT9755~TO PCT9756~ED PCT9756~MV PCT9756~TO PCT9801~ED PCT9801~MV PCT9801~TO"
         },
         {
             "_id": "ASSM17",
@@ -4692,7 +3934,7 @@
             "name": "City of San Francisco",
             "short_name": "San Francisco",
             "classification": "City",
-            "reporting_group_ids": ""
+            "reporting_group_ids": "ALLPCTS~TO ALLPCTS~ED ALLPCTS~MV PCT1101~ED PCT1101~MV PCT1101~TO PCT1102~ED PCT1102~MV PCT1102~TO PCT1103~ED PCT1103~MV PCT1103~TO PCT1104~ED PCT1104~MV PCT1104~TO PCT1106~ED PCT1106~MV PCT1106~TO PCT1108~ED PCT1108~MV PCT1108~TO PCT1109~ED PCT1109~MV PCT1109~TO PCT1111~ED PCT1111~MV PCT1111~TO PCT1112~ED PCT1112~MV PCT1112~TO PCT1114~ED PCT1114~MV PCT1114~TO PCT1115~ED PCT1115~MV PCT1115~TO PCT1117~ED PCT1117~MV PCT1117~TO PCT1118~ED PCT1118~MV PCT1118~TO PCT1119~ED PCT1119~MV PCT1119~TO PCT1122~ED PCT1122~MV PCT1122~TO PCT1124~ED PCT1124~MV PCT1124~TO PCT1125~ED PCT1125~MV PCT1125~TO PCT1126~ED PCT1126~MV PCT1126~TO PCT1127~ED PCT1127~MV PCT1127~TO PCT1129~ED PCT1129~MV PCT1129~TO PCT1131~ED PCT1131~MV PCT1131~TO PCT1132~ED PCT1132~MV PCT1132~TO PCT1133~ED PCT1133~MV PCT1133~TO PCT1134~ED PCT1134~MV PCT1134~TO PCT1135~ED PCT1135~MV PCT1135~TO PCT1136~ED PCT1136~MV PCT1136~TO PCT1141~ED PCT1141~MV PCT1141~TO PCT1143~ED PCT1143~MV PCT1143~TO PCT1144~ED PCT1144~MV PCT1144~TO PCT1145~ED PCT1145~MV PCT1145~TO PCT1146~ED PCT1146~MV PCT1146~TO PCT1147~ED PCT1147~MV PCT1147~TO PCT1148~ED PCT1148~MV PCT1148~TO PCT1149~ED PCT1149~MV PCT1149~TO PCT1152~ED PCT1152~MV PCT1152~TO PCT7001~ED PCT7001~MV PCT7001~TO PCT7002~ED PCT7002~MV PCT7002~TO PCT7003~ED PCT7003~MV PCT7003~TO PCT7005~ED PCT7005~MV PCT7005~TO PCT7006~ED PCT7006~MV PCT7006~TO PCT7007~ED PCT7007~MV PCT7007~TO PCT7009~ED PCT7009~MV PCT7009~TO PCT7011~ED PCT7011~MV PCT7011~TO PCT7012~ED PCT7012~MV PCT7012~TO PCT7013~ED PCT7013~MV PCT7013~TO PCT7014~ED PCT7014~MV PCT7014~TO PCT7015~MV PCT7015~TO PCT7016~ED PCT7016~MV PCT7016~TO PCT7017~ED PCT7017~MV PCT7017~TO PCT7019~ED PCT7019~MV PCT7019~TO PCT7021~ED PCT7021~MV PCT7021~TO PCT7022~ED PCT7022~MV PCT7022~TO PCT7024~ED PCT7024~MV PCT7024~TO PCT7025~ED PCT7025~MV PCT7025~TO PCT7026~ED PCT7026~MV PCT7026~TO PCT7027~ED PCT7027~MV PCT7027~TO PCT7028~ED PCT7028~MV PCT7028~TO PCT7029~ED PCT7029~MV PCT7029~TO PCT7030~ED PCT7030~MV PCT7030~TO PCT7031~ED PCT7031~MV PCT7031~TO PCT7032~ED PCT7032~MV PCT7032~TO PCT7033~ED PCT7033~MV PCT7033~TO PCT7034~ED PCT7034~MV PCT7034~TO PCT7035~ED PCT7035~MV PCT7035~TO PCT7037~ED PCT7037~MV PCT7037~TO PCT7038~ED PCT7038~MV PCT7038~TO PCT7039~ED PCT7039~MV PCT7039~TO PCT7041~MV PCT7041~TO PCT7042~ED PCT7042~MV PCT7042~TO PCT7043~ED PCT7043~MV PCT7043~TO PCT7044~ED PCT7044~MV PCT7044~TO PCT7045~ED PCT7045~MV PCT7045~TO PCT7047~ED PCT7047~MV PCT7047~TO PCT7048~ED PCT7048~MV PCT7048~TO PCT7049~ED PCT7049~MV PCT7049~TO PCT7052~ED PCT7052~MV PCT7052~TO PCT7053~ED PCT7053~MV PCT7053~TO PCT7054~ED PCT7054~MV PCT7054~TO PCT7055~ED PCT7055~MV PCT7055~TO PCT7101~MV PCT7101~TO PCT7202~ED PCT7202~MV PCT7202~TO PCT7203~ED PCT7203~MV PCT7203~TO PCT7204~ED PCT7204~MV PCT7204~TO PCT7205~ED PCT7205~MV PCT7205~TO PCT7207~ED PCT7207~MV PCT7207~TO PCT7208~ED PCT7208~MV PCT7208~TO PCT7301~ED PCT7301~MV PCT7301~TO PCT7302~ED PCT7302~MV PCT7302~TO PCT7305~ED PCT7305~MV PCT7305~TO PCT7306~ED PCT7306~MV PCT7306~TO PCT7308~ED PCT7308~MV PCT7308~TO PCT7311~ED PCT7311~MV PCT7311~TO PCT7312~ED PCT7312~MV PCT7312~TO PCT7314~ED PCT7314~MV PCT7314~TO PCT7315~ED PCT7315~MV PCT7315~TO PCT7317~ED PCT7317~MV PCT7317~TO PCT7318~ED PCT7318~MV PCT7318~TO PCT7321~ED PCT7321~MV PCT7321~TO PCT7323~ED PCT7323~MV PCT7323~TO PCT7325~ED PCT7325~MV PCT7325~TO PCT7326~ED PCT7326~MV PCT7326~TO PCT7327~ED PCT7327~MV PCT7327~TO PCT7328~ED PCT7328~MV PCT7328~TO PCT7329~ED PCT7329~MV PCT7329~TO PCT7331~ED PCT7331~MV PCT7331~TO PCT7332~ED PCT7332~MV PCT7332~TO PCT7333~ED PCT7333~MV PCT7333~TO PCT7336~ED PCT7336~MV PCT7336~TO PCT7338~ED PCT7338~MV PCT7338~TO PCT7339~ED PCT7339~MV PCT7339~TO PCT7342~ED PCT7342~MV PCT7342~TO PCT7343~ED PCT7343~MV PCT7343~TO PCT7344~ED PCT7344~MV PCT7344~TO PCT7346~ED PCT7346~MV PCT7346~TO PCT7348~ED PCT7348~MV PCT7348~TO PCT7502~ED PCT7502~MV PCT7502~TO PCT7503~ED PCT7503~MV PCT7503~TO PCT7504~ED PCT7504~MV PCT7504~TO PCT7505~ED PCT7505~MV PCT7505~TO PCT7506~ED PCT7506~MV PCT7506~TO PCT7508~ED PCT7508~MV PCT7508~TO PCT7509~ED PCT7509~MV PCT7509~TO PCT7512~ED PCT7512~MV PCT7512~TO PCT7513~ED PCT7513~MV PCT7513~TO PCT7514~ED PCT7514~MV PCT7514~TO PCT7515~ED PCT7515~MV PCT7515~TO PCT7516~ED PCT7516~MV PCT7516~TO PCT7518~ED PCT7518~MV PCT7518~TO PCT7519~ED PCT7519~MV PCT7519~TO PCT7521~ED PCT7521~MV PCT7521~TO PCT7522~ED PCT7522~MV PCT7522~TO PCT7524~ED PCT7524~MV PCT7524~TO PCT7525~ED PCT7525~MV PCT7525~TO PCT7526~ED PCT7526~MV PCT7526~TO PCT7527~ED PCT7527~MV PCT7527~TO PCT7529~ED PCT7529~MV PCT7529~TO PCT7531~ED PCT7531~MV PCT7531~TO PCT7532~ED PCT7532~MV PCT7532~TO PCT7533~ED PCT7533~MV PCT7533~TO PCT7534~ED PCT7534~MV PCT7534~TO PCT7536~ED PCT7536~MV PCT7536~TO PCT7537~ED PCT7537~MV PCT7537~TO PCT7539~ED PCT7539~MV PCT7539~TO PCT7541~ED PCT7541~MV PCT7541~TO PCT7543~ED PCT7543~MV PCT7543~TO PCT7544~ED PCT7544~MV PCT7544~TO PCT7545~ED PCT7545~MV PCT7545~TO PCT7546~ED PCT7546~MV PCT7546~TO PCT7548~ED PCT7548~MV PCT7548~TO PCT7549~ED PCT7549~MV PCT7549~TO PCT7552~ED PCT7552~MV PCT7552~TO PCT7553~MV PCT7553~TO PCT7554~ED PCT7554~MV PCT7554~TO PCT7555~ED PCT7555~MV PCT7555~TO PCT7556~ED PCT7556~MV PCT7556~TO PCT7601~ED PCT7601~MV PCT7601~TO PCT7602~ED PCT7602~MV PCT7602~TO PCT7605~ED PCT7605~MV PCT7605~TO PCT7606~ED PCT7606~MV PCT7606~TO PCT7607~ED PCT7607~MV PCT7607~TO PCT7608~ED PCT7608~MV PCT7608~TO PCT7611~ED PCT7611~MV PCT7611~TO PCT7613~ED PCT7613~MV PCT7613~TO PCT7614~ED PCT7614~MV PCT7614~TO PCT7615~ED PCT7615~MV PCT7615~TO PCT7616~ED PCT7616~MV PCT7616~TO PCT7617~ED PCT7617~MV PCT7617~TO PCT7618~ED PCT7618~MV PCT7618~TO PCT7619~ED PCT7619~MV PCT7619~TO PCT7621~ED PCT7621~MV PCT7621~TO PCT7622~ED PCT7622~MV PCT7622~TO PCT7623~ED PCT7623~MV PCT7623~TO PCT7624~ED PCT7624~MV PCT7624~TO PCT7625~ED PCT7625~MV PCT7625~TO PCT7626~ED PCT7626~MV PCT7626~TO PCT7628~ED PCT7628~MV PCT7628~TO PCT7629~ED PCT7629~MV PCT7629~TO PCT7632~ED PCT7632~MV PCT7632~TO PCT7633~ED PCT7633~MV PCT7633~TO PCT7634~ED PCT7634~MV PCT7634~TO PCT7635~ED PCT7635~MV PCT7635~TO PCT7636~ED PCT7636~MV PCT7636~TO PCT7637~ED PCT7637~MV PCT7637~TO PCT7638~ED PCT7638~MV PCT7638~TO PCT7639~ED PCT7639~MV PCT7639~TO PCT7642~ED PCT7642~MV PCT7642~TO PCT7643~ED PCT7643~MV PCT7643~TO PCT7644~ED PCT7644~MV PCT7644~TO PCT7645~ED PCT7645~MV PCT7645~TO PCT7646~ED PCT7646~MV PCT7646~TO PCT7647~ED PCT7647~MV PCT7647~TO PCT7648~MV PCT7648~TO PCT7649~ED PCT7649~MV PCT7649~TO PCT7651~ED PCT7651~MV PCT7651~TO PCT7652~ED PCT7652~MV PCT7652~TO PCT7653~ED PCT7653~MV PCT7653~TO PCT7655~ED PCT7655~MV PCT7655~TO PCT7701~ED PCT7701~MV PCT7701~TO PCT7703~MV PCT7703~TO PCT7704~ED PCT7704~MV PCT7704~TO PCT7705~ED PCT7705~MV PCT7705~TO PCT7706~ED PCT7706~MV PCT7706~TO PCT7707~ED PCT7707~MV PCT7707~TO PCT7708~ED PCT7708~MV PCT7708~TO PCT7709~ED PCT7709~MV PCT7709~TO PCT7712~ED PCT7712~MV PCT7712~TO PCT7801~ED PCT7801~MV PCT7801~TO PCT7802~ED PCT7802~MV PCT7802~TO PCT7803~ED PCT7803~MV PCT7803~TO PCT7805~ED PCT7805~MV PCT7805~TO PCT7807~ED PCT7807~MV PCT7807~TO PCT7808~ED PCT7808~MV PCT7808~TO PCT7809~ED PCT7809~MV PCT7809~TO PCT7811~ED PCT7811~MV PCT7811~TO PCT7812~ED PCT7812~MV PCT7812~TO PCT7813~ED PCT7813~MV PCT7813~TO PCT7814~ED PCT7814~MV PCT7814~TO PCT7815~ED PCT7815~MV PCT7815~TO PCT7817~ED PCT7817~MV PCT7817~TO PCT7819~ED PCT7819~MV PCT7819~TO PCT7821~ED PCT7821~MV PCT7821~TO PCT7822~ED PCT7822~MV PCT7822~TO PCT7824~ED PCT7824~MV PCT7824~TO PCT7826~ED PCT7826~MV PCT7826~TO PCT7828~ED PCT7828~MV PCT7828~TO PCT7829~ED PCT7829~MV PCT7829~TO PCT7832~ED PCT7832~MV PCT7832~TO PCT7834~ED PCT7834~MV PCT7834~TO PCT7835~ED PCT7835~MV PCT7835~TO PCT7836~ED PCT7836~MV PCT7836~TO PCT7837~ED PCT7837~MV PCT7837~TO PCT7839~ED PCT7839~MV PCT7839~TO PCT7841~ED PCT7841~MV PCT7841~TO PCT7843~ED PCT7843~MV PCT7843~TO PCT7844~ED PCT7844~MV PCT7844~TO PCT7845~ED PCT7845~MV PCT7845~TO PCT7846~ED PCT7846~MV PCT7846~TO PCT7847~ED PCT7847~MV PCT7847~TO PCT7849~ED PCT7849~MV PCT7849~TO PCT7852~ED PCT7852~MV PCT7852~TO PCT7853~ED PCT7853~MV PCT7853~TO PCT7854~ED PCT7854~MV PCT7854~TO PCT7855~ED PCT7855~MV PCT7855~TO PCT7858~ED PCT7858~MV PCT7858~TO PCT7861~ED PCT7861~MV PCT7861~TO PCT7862~ED PCT7862~MV PCT7862~TO PCT7863~ED PCT7863~MV PCT7863~TO PCT7864~ED PCT7864~MV PCT7864~TO PCT7866~ED PCT7866~MV PCT7866~TO PCT7867~ED PCT7867~MV PCT7867~TO PCT7868~ED PCT7868~MV PCT7868~TO PCT7869~ED PCT7869~MV PCT7869~TO PCT7871~ED PCT7871~MV PCT7871~TO PCT7872~ED PCT7872~MV PCT7872~TO PCT7873~ED PCT7873~MV PCT7873~TO PCT7874~ED PCT7874~MV PCT7874~TO PCT7875~ED PCT7875~MV PCT7875~TO PCT7876~ED PCT7876~MV PCT7876~TO PCT7902~ED PCT7902~MV PCT7902~TO PCT7903~ED PCT7903~MV PCT7903~TO PCT7905~ED PCT7905~MV PCT7905~TO PCT7906~ED PCT7906~MV PCT7906~TO PCT7908~ED PCT7908~MV PCT7908~TO PCT7909~ED PCT7909~MV PCT7909~TO PCT7911~ED PCT7911~MV PCT7911~TO PCT7912~ED PCT7912~MV PCT7912~TO PCT7915~ED PCT7915~MV PCT7915~TO PCT7916~ED PCT7916~MV PCT7916~TO PCT7917~ED PCT7917~MV PCT7917~TO PCT7918~ED PCT7918~MV PCT7918~TO PCT7921~ED PCT7921~MV PCT7921~TO PCT7923~ED PCT7923~MV PCT7923~TO PCT7925~ED PCT7925~MV PCT7925~TO PCT7926~ED PCT7926~MV PCT7926~TO PCT7928~ED PCT7928~MV PCT7928~TO PCT7929~ED PCT7929~MV PCT7929~TO PCT7931~ED PCT7931~MV PCT7931~TO PCT7932~ED PCT7932~MV PCT7932~TO PCT7933~MV PCT7933~TO PCT7934~ED PCT7934~MV PCT7934~TO PCT7935~ED PCT7935~MV PCT7935~TO PCT7936~ED PCT7936~MV PCT7936~TO PCT7937~ED PCT7937~MV PCT7937~TO PCT7938~ED PCT7938~MV PCT7938~TO PCT7941~ED PCT7941~MV PCT7941~TO PCT7942~ED PCT7942~MV PCT7942~TO PCT7943~ED PCT7943~MV PCT7943~TO PCT7945~ED PCT7945~MV PCT7945~TO PCT7946~ED PCT7946~MV PCT7946~TO PCT7947~ED PCT7947~MV PCT7947~TO PCT7948~ED PCT7948~MV PCT7948~TO PCT7951~ED PCT7951~MV PCT7951~TO PCT7953~ED PCT7953~MV PCT7953~TO PCT7954~MV PCT7954~TO PCT7956~ED PCT7956~MV PCT7956~TO PCT7957~ED PCT7957~MV PCT7957~TO PCT7958~MV PCT7958~TO PCT7959~ED PCT7959~MV PCT7959~TO PCT9001~MV PCT9001~TO PCT9103~ED PCT9103~MV PCT9103~TO PCT9104~ED PCT9104~MV PCT9104~TO PCT9105~ED PCT9105~MV PCT9105~TO PCT9106~ED PCT9106~MV PCT9106~TO PCT9109~ED PCT9109~MV PCT9109~TO PCT9111~ED PCT9111~MV PCT9111~TO PCT9113~ED PCT9113~MV PCT9113~TO PCT9114~ED PCT9114~MV PCT9114~TO PCT9116~ED PCT9116~MV PCT9116~TO PCT9117~ED PCT9117~MV PCT9117~TO PCT9118~ED PCT9118~MV PCT9118~TO PCT9119~ED PCT9119~MV PCT9119~TO PCT9122~ED PCT9122~MV PCT9122~TO PCT9124~ED PCT9124~MV PCT9124~TO PCT9125~ED PCT9125~MV PCT9125~TO PCT9127~ED PCT9127~MV PCT9127~TO PCT9128~ED PCT9128~MV PCT9128~TO PCT9129~ED PCT9129~MV PCT9129~TO PCT9132~ED PCT9132~MV PCT9132~TO PCT9133~ED PCT9133~MV PCT9133~TO PCT9134~ED PCT9134~MV PCT9134~TO PCT9135~ED PCT9135~MV PCT9135~TO PCT9136~ED PCT9136~MV PCT9136~TO PCT9137~ED PCT9137~MV PCT9137~TO PCT9138~ED PCT9138~MV PCT9138~TO PCT9139~ED PCT9139~MV PCT9139~TO PCT9141~ED PCT9141~MV PCT9141~TO PCT9143~ED PCT9143~MV PCT9143~TO PCT9144~ED PCT9144~MV PCT9144~TO PCT9145~ED PCT9145~MV PCT9145~TO PCT9146~ED PCT9146~MV PCT9146~TO PCT9149~ED PCT9149~MV PCT9149~TO PCT9152~ED PCT9152~MV PCT9152~TO PCT9201~ED PCT9201~MV PCT9201~TO PCT9202~ED PCT9202~MV PCT9202~TO PCT9203~ED PCT9203~MV PCT9203~TO PCT9204~ED PCT9204~MV PCT9204~TO PCT9205~ED PCT9205~MV PCT9205~TO PCT9208~ED PCT9208~MV PCT9208~TO PCT9209~ED PCT9209~MV PCT9209~TO PCT9211~ED PCT9211~MV PCT9211~TO PCT9213~ED PCT9213~MV PCT9213~TO PCT9214~ED PCT9214~MV PCT9214~TO PCT9215~ED PCT9215~MV PCT9215~TO PCT9216~ED PCT9216~MV PCT9216~TO PCT9217~ED PCT9217~MV PCT9217~TO PCT9218~ED PCT9218~MV PCT9218~TO PCT9219~ED PCT9219~MV PCT9219~TO PCT9221~ED PCT9221~MV PCT9221~TO PCT9222~ED PCT9222~MV PCT9222~TO PCT9223~ED PCT9223~MV PCT9223~TO PCT9224~ED PCT9224~MV PCT9224~TO PCT9226~ED PCT9226~MV PCT9226~TO PCT9227~ED PCT9227~MV PCT9227~TO PCT9228~ED PCT9228~MV PCT9228~TO PCT9229~ED PCT9229~MV PCT9229~TO PCT9231~ED PCT9231~MV PCT9231~TO PCT9232~ED PCT9232~MV PCT9232~TO PCT9233~ED PCT9233~MV PCT9233~TO PCT9234~ED PCT9234~MV PCT9234~TO PCT9235~ED PCT9235~MV PCT9235~TO PCT9236~ED PCT9236~MV PCT9236~TO PCT9237~ED PCT9237~MV PCT9237~TO PCT9238~ED PCT9238~MV PCT9238~TO PCT9239~ED PCT9239~MV PCT9239~TO PCT9241~ED PCT9241~MV PCT9241~TO PCT9242~ED PCT9242~MV PCT9242~TO PCT9244~ED PCT9244~MV PCT9244~TO PCT9245~ED PCT9245~MV PCT9245~TO PCT9248~ED PCT9248~MV PCT9248~TO PCT9251~ED PCT9251~MV PCT9251~TO PCT9252~ED PCT9252~MV PCT9252~TO PCT9253~ED PCT9253~MV PCT9253~TO PCT9255~ED PCT9255~MV PCT9255~TO PCT9256~ED PCT9256~MV PCT9256~TO PCT9257~MV PCT9257~TO PCT9401~ED PCT9401~MV PCT9401~TO PCT9402~ED PCT9402~MV PCT9402~TO PCT9404~ED PCT9404~MV PCT9404~TO PCT9405~ED PCT9405~MV PCT9405~TO PCT9406~ED PCT9406~MV PCT9406~TO PCT9407~ED PCT9407~MV PCT9407~TO PCT9408~ED PCT9408~MV PCT9408~TO PCT9409~ED PCT9409~MV PCT9409~TO PCT9411~ED PCT9411~MV PCT9411~TO PCT9413~ED PCT9413~MV PCT9413~TO PCT9415~ED PCT9415~MV PCT9415~TO PCT9416~ED PCT9416~MV PCT9416~TO PCT9418~ED PCT9418~MV PCT9418~TO PCT9419~ED PCT9419~MV PCT9419~TO PCT9421~ED PCT9421~MV PCT9421~TO PCT9422~ED PCT9422~MV PCT9422~TO PCT9423~ED PCT9423~MV PCT9423~TO PCT9424~ED PCT9424~MV PCT9424~TO PCT9426~ED PCT9426~MV PCT9426~TO PCT9427~ED PCT9427~MV PCT9427~TO PCT9431~ED PCT9431~MV PCT9431~TO PCT9432~ED PCT9432~MV PCT9432~TO PCT9433~ED PCT9433~MV PCT9433~TO PCT9434~ED PCT9434~MV PCT9434~TO PCT9436~ED PCT9436~MV PCT9436~TO PCT9437~ED PCT9437~MV PCT9437~TO PCT9439~ED PCT9439~MV PCT9439~TO PCT9441~ED PCT9441~MV PCT9441~TO PCT9442~ED PCT9442~MV PCT9442~TO PCT9443~ED PCT9443~MV PCT9443~TO PCT9445~ED PCT9445~MV PCT9445~TO PCT9446~ED PCT9446~MV PCT9446~TO PCT9447~ED PCT9447~MV PCT9447~TO PCT9448~ED PCT9448~MV PCT9448~TO PCT9449~ED PCT9449~MV PCT9449~TO PCT9451~ED PCT9451~MV PCT9451~TO PCT9453~ED PCT9453~MV PCT9453~TO PCT9501~MV PCT9501~TO PCT9502~MV PCT9502~TO PCT9503~ED PCT9503~MV PCT9503~TO PCT9505~ED PCT9505~MV PCT9505~TO PCT9506~ED PCT9506~MV PCT9506~TO PCT9507~ED PCT9507~MV PCT9507~TO PCT9511~ED PCT9511~MV PCT9511~TO PCT9512~ED PCT9512~MV PCT9512~TO PCT9513~ED PCT9513~MV PCT9513~TO PCT9514~ED PCT9514~MV PCT9514~TO PCT9516~ED PCT9516~MV PCT9516~TO PCT9517~ED PCT9517~MV PCT9517~TO PCT9519~ED PCT9519~MV PCT9519~TO PCT9521~ED PCT9521~MV PCT9521~TO PCT9701~ED PCT9701~MV PCT9701~TO PCT9702~ED PCT9702~MV PCT9702~TO PCT9703~ED PCT9703~MV PCT9703~TO PCT9704~ED PCT9704~MV PCT9704~TO PCT9705~ED PCT9705~MV PCT9705~TO PCT9706~MV PCT9706~TO PCT9709~ED PCT9709~MV PCT9709~TO PCT9711~ED PCT9711~MV PCT9711~TO PCT9712~ED PCT9712~MV PCT9712~TO PCT9716~ED PCT9716~MV PCT9716~TO PCT9717~ED PCT9717~MV PCT9717~TO PCT9718~ED PCT9718~MV PCT9718~TO PCT9719~ED PCT9719~MV PCT9719~TO PCT9721~ED PCT9721~MV PCT9721~TO PCT9722~ED PCT9722~MV PCT9722~TO PCT9723~ED PCT9723~MV PCT9723~TO PCT9724~ED PCT9724~MV PCT9724~TO PCT9725~ED PCT9725~MV PCT9725~TO PCT9726~ED PCT9726~MV PCT9726~TO PCT9727~ED PCT9727~MV PCT9727~TO PCT9728~ED PCT9728~MV PCT9728~TO PCT9729~ED PCT9729~MV PCT9729~TO PCT9731~ED PCT9731~MV PCT9731~TO PCT9732~MV PCT9732~TO PCT9733~MV PCT9733~TO PCT9734~ED PCT9734~MV PCT9734~TO PCT9737~ED PCT9737~MV PCT9737~TO PCT9738~ED PCT9738~MV PCT9738~TO PCT9739~ED PCT9739~MV PCT9739~TO PCT9741~ED PCT9741~MV PCT9741~TO PCT9742~ED PCT9742~MV PCT9742~TO PCT9743~ED PCT9743~MV PCT9743~TO PCT9744~ED PCT9744~MV PCT9744~TO PCT9745~ED PCT9745~MV PCT9745~TO PCT9748~ED PCT9748~MV PCT9748~TO PCT9749~ED PCT9749~MV PCT9749~TO PCT9751~ED PCT9751~MV PCT9751~TO PCT9752~ED PCT9752~MV PCT9752~TO PCT9753~ED PCT9753~MV PCT9753~TO PCT9754~ED PCT9754~MV PCT9754~TO PCT9755~ED PCT9755~MV PCT9755~TO PCT9756~ED PCT9756~MV PCT9756~TO PCT9801~ED PCT9801~MV PCT9801~TO"
         },
         {
             "_id": "CONG12",
@@ -4972,7 +4214,7 @@
             "name": "San Francisco County Supervisorial District  5",
             "short_name": "Supervisorial District 5",
             "classification": "Supervisorial District",
-            "reporting_group_ids": ""
+            "reporting_group_ids": "ALLPCTS~TO ALLPCTS~ED ALLPCTS~MV PCT7502~ED PCT7502~MV PCT7502~TO PCT7503~ED PCT7503~MV PCT7503~TO PCT7504~ED PCT7504~MV PCT7504~TO PCT7505~ED PCT7505~MV PCT7505~TO PCT7506~ED PCT7506~MV PCT7506~TO PCT7508~ED PCT7508~MV PCT7508~TO PCT7509~ED PCT7509~MV PCT7509~TO PCT7512~ED PCT7512~MV PCT7512~TO PCT7513~ED PCT7513~MV PCT7513~TO PCT7514~ED PCT7514~MV PCT7514~TO PCT7515~ED PCT7515~MV PCT7515~TO PCT7516~ED PCT7516~MV PCT7516~TO PCT7518~ED PCT7518~MV PCT7518~TO PCT7519~ED PCT7519~MV PCT7519~TO PCT7521~ED PCT7521~MV PCT7521~TO PCT7522~ED PCT7522~MV PCT7522~TO PCT7524~ED PCT7524~MV PCT7524~TO PCT7525~ED PCT7525~MV PCT7525~TO PCT7526~ED PCT7526~MV PCT7526~TO PCT7527~ED PCT7527~MV PCT7527~TO PCT7529~ED PCT7529~MV PCT7529~TO PCT7531~ED PCT7531~MV PCT7531~TO PCT7532~ED PCT7532~MV PCT7532~TO PCT7533~ED PCT7533~MV PCT7533~TO PCT7534~ED PCT7534~MV PCT7534~TO PCT7536~ED PCT7536~MV PCT7536~TO PCT7537~ED PCT7537~MV PCT7537~TO PCT7539~ED PCT7539~MV PCT7539~TO PCT7541~ED PCT7541~MV PCT7541~TO PCT7543~ED PCT7543~MV PCT7543~TO PCT7544~ED PCT7544~MV PCT7544~TO PCT7545~ED PCT7545~MV PCT7545~TO PCT7546~ED PCT7546~MV PCT7546~TO PCT7548~ED PCT7548~MV PCT7548~TO PCT7549~ED PCT7549~MV PCT7549~TO PCT7552~ED PCT7552~MV PCT7552~TO PCT7553~MV PCT7553~TO PCT7554~ED PCT7554~MV PCT7554~TO PCT7555~ED PCT7555~MV PCT7555~TO PCT7556~ED PCT7556~MV PCT7556~TO PCT9501~MV PCT9501~TO PCT9502~MV PCT9502~TO PCT9503~ED PCT9503~MV PCT9503~TO PCT9505~ED PCT9505~MV PCT9505~TO PCT9506~ED PCT9506~MV PCT9506~TO PCT9507~ED PCT9507~MV PCT9507~TO PCT9511~ED PCT9511~MV PCT9511~TO PCT9512~ED PCT9512~MV PCT9512~TO PCT9513~ED PCT9513~MV PCT9513~TO PCT9514~ED PCT9514~MV PCT9514~TO PCT9516~ED PCT9516~MV PCT9516~TO PCT9517~ED PCT9517~MV PCT9517~TO PCT9519~ED PCT9519~MV PCT9519~TO PCT9521~ED PCT9521~MV PCT9521~TO"
         },
         {
             "_id": "SUPV6",
@@ -5085,45 +4327,45 @@
     "result_styles": [
         {
             "_id": "EMS",
-            "description": "Plurality voting",
+            "description": "Plurality voting, subtotal by Election Day/VBM",
             "is_rcv": false,
             "result_stat_type_ids": "RSReg RSCst RSRej RSOvr RSUnd RSTot",
-            "voting_group_ids": "TO"
+            "voting_group_ids": "TO ED MV"
         },
         {
             "_id": "EMSW",
-            "description": "Plurality voting, with writeins",
+            "description": "Plurality voting, subtotal by Election Day/VBM, with writeins",
             "is_rcv": false,
             "result_stat_type_ids": "RSReg RSCst RSRej RSOvr RSUnd RSTot RSWri",
-            "voting_group_ids": "TO"
+            "voting_group_ids": "TO ED MV"
         },
         {
             "_id": "EMR",
-            "description": "RCV voting",
+            "description": "RCV voting, subtotal by Election Day/VBM",
             "is_rcv": true,
             "result_stat_type_ids": "RSReg RSCst RSRej RSOvr RSUnd RSExh RSTot",
-            "voting_group_ids": "TO"
+            "voting_group_ids": "TO ED MV"
         },
         {
             "_id": "EMRW",
-            "description": "RCV voting, with writeins",
+            "description": "RCV voting, subtotal by Election Day/VBM, with writeins",
             "is_rcv": true,
             "result_stat_type_ids": "RSReg RSCst RSRej RSOvr RSUnd RSExh RSTot RSWri",
-            "voting_group_ids": "TO"
+            "voting_group_ids": "TO ED MV"
         },
         {
             "_id": "EMTE",
-            "description": "Turnout, with Eligible",
+            "description": "Turnout, subtotal by Election Day/VBM, with Eligible",
             "is_rcv": false,
             "result_stat_type_ids": "RSEli RSReg RSCst RSRej",
-            "voting_group_ids": "TO"
+            "voting_group_ids": "TO ED MV"
         },
         {
             "_id": "EMT",
-            "description": "Turnout",
+            "description": "Turnout, subtotal by Election Day/VBM",
             "is_rcv": false,
             "result_stat_type_ids": "RSReg RSCst RSRej",
-            "voting_group_ids": "TO"
+            "voting_group_ids": "TO ED MV"
         }
     ],
     "translations": {
