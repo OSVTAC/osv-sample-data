@@ -10,7 +10,7 @@
                 "PCT9902"
             ]
         ],
-        "precincts_reporting": 0,
+        "precincts_reporting": 468,
         "reporting_time": "2019-11-05 23:43:50",
         "result_stats": [
             {
@@ -35,9 +35,9 @@
                 "_id": "RSCst",
                 "heading": "Ballots Cast",
                 "results": [
-                    "115183",
-                    "45594",
-                    "69589"
+                    "0",
+                    "0",
+                    "0"
                 ]
             },
             {
@@ -50,7 +50,7 @@
                 ]
             }
         ],
-        "total_precincts": 0
+        "total_precincts": 469
     },
     {
         "_id": "334",
@@ -140,7 +140,7 @@
             "PCT9901",
             "PCT9902"
         ],
-        "precincts_reporting": 483,
+        "precincts_reporting": 468,
         "rcv_rounds": 6,
         "reporting_time": "2019-11-05 23:43:50",
         "result_stats": [
@@ -217,7 +217,7 @@
                 ]
             }
         ],
-        "total_precincts": 485
+        "total_precincts": 469
     },
     {
         "_id": "353",
@@ -268,7 +268,7 @@
             }
         ],
         "no_voter_precincts": [],
-        "precincts_reporting": 57,
+        "precincts_reporting": 54,
         "rcv_rounds": 3,
         "reporting_time": "2019-11-05 23:43:50",
         "result_stats": [
@@ -345,7 +345,7 @@
                 ]
             }
         ],
-        "total_precincts": 57
+        "total_precincts": 54
     },
     {
         "_id": "352",
@@ -369,7 +369,7 @@
             "PCT9901",
             "PCT9902"
         ],
-        "precincts_reporting": 483,
+        "precincts_reporting": 468,
         "rcv_rounds": 0,
         "reporting_time": "2019-11-05 23:43:50",
         "result_stats": [
@@ -446,7 +446,7 @@
                 ]
             }
         ],
-        "total_precincts": 485
+        "total_precincts": 469
     },
     {
         "_id": "339",
@@ -503,7 +503,7 @@
             "PCT9901",
             "PCT9902"
         ],
-        "precincts_reporting": 483,
+        "precincts_reporting": 468,
         "rcv_rounds": 3,
         "reporting_time": "2019-11-05 23:43:50",
         "result_stats": [
@@ -580,7 +580,7 @@
                 ]
             }
         ],
-        "total_precincts": 485
+        "total_precincts": 469
     },
     {
         "_id": "360",
@@ -604,7 +604,7 @@
             "PCT9901",
             "PCT9902"
         ],
-        "precincts_reporting": 483,
+        "precincts_reporting": 468,
         "rcv_rounds": 0,
         "reporting_time": "2019-11-05 23:43:50",
         "result_stats": [
@@ -681,7 +681,7 @@
                 ]
             }
         ],
-        "total_precincts": 485
+        "total_precincts": 469
     },
     {
         "_id": "350",
@@ -705,7 +705,7 @@
             "PCT9901",
             "PCT9902"
         ],
-        "precincts_reporting": 483,
+        "precincts_reporting": 468,
         "rcv_rounds": 0,
         "reporting_time": "2019-11-05 23:43:50",
         "result_stats": [
@@ -782,7 +782,7 @@
                 ]
             }
         ],
-        "total_precincts": 485
+        "total_precincts": 469
     },
     {
         "_id": "349",
@@ -806,7 +806,7 @@
             "PCT9901",
             "PCT9902"
         ],
-        "precincts_reporting": 483,
+        "precincts_reporting": 468,
         "rcv_rounds": 0,
         "reporting_time": "2019-11-05 23:43:50",
         "result_stats": [
@@ -883,7 +883,7 @@
                 ]
             }
         ],
-        "total_precincts": 485
+        "total_precincts": 469
     },
     {
         "_id": "361",
@@ -929,7 +929,7 @@
             "PCT9901",
             "PCT9902"
         ],
-        "precincts_reporting": 483,
+        "precincts_reporting": 468,
         "rcv_rounds": 0,
         "reporting_time": "2019-11-05 23:43:50",
         "result_stats": [
@@ -997,7 +997,7 @@
                 ]
             }
         ],
-        "total_precincts": 485
+        "total_precincts": 469
     },
     {
         "_id": "351",
@@ -1021,7 +1021,7 @@
             "PCT9901",
             "PCT9902"
         ],
-        "precincts_reporting": 483,
+        "precincts_reporting": 468,
         "rcv_rounds": 0,
         "reporting_time": "2019-11-05 23:43:50",
         "result_stats": [
@@ -1090,7 +1090,7 @@
             }
         ],
         "success": true,
-        "total_precincts": 485
+        "total_precincts": 469
     },
     {
         "_id": "342",
@@ -1125,7 +1125,7 @@
             "PCT9901",
             "PCT9902"
         ],
-        "precincts_reporting": 483,
+        "precincts_reporting": 468,
         "rcv_rounds": 0,
         "reporting_time": "2019-11-05 23:43:50",
         "result_stats": [
@@ -1185,7 +1185,7 @@
             }
         ],
         "success": true,
-        "total_precincts": 485
+        "total_precincts": 469
     },
     {
         "_id": "343",
@@ -1220,7 +1220,7 @@
             "PCT9901",
             "PCT9902"
         ],
-        "precincts_reporting": 483,
+        "precincts_reporting": 468,
         "rcv_rounds": 0,
         "reporting_time": "2019-11-05 23:43:50",
         "result_stats": [
@@ -1280,7 +1280,7 @@
             }
         ],
         "success": false,
-        "total_precincts": 485
+        "total_precincts": 469
     },
     {
         "_id": "344",
@@ -1315,7 +1315,7 @@
             "PCT9901",
             "PCT9902"
         ],
-        "precincts_reporting": 483,
+        "precincts_reporting": 468,
         "rcv_rounds": 0,
         "reporting_time": "2019-11-05 23:43:50",
         "result_stats": [
@@ -1375,7 +1375,7 @@
             }
         ],
         "success": true,
-        "total_precincts": 485
+        "total_precincts": 469
     },
     {
         "_id": "345",
@@ -1410,7 +1410,7 @@
             "PCT9901",
             "PCT9902"
         ],
-        "precincts_reporting": 483,
+        "precincts_reporting": 468,
         "rcv_rounds": 0,
         "reporting_time": "2019-11-05 23:43:50",
         "result_stats": [
@@ -1470,7 +1470,7 @@
             }
         ],
         "success": true,
-        "total_precincts": 485
+        "total_precincts": 469
     },
     {
         "_id": "346",
@@ -1505,7 +1505,7 @@
             "PCT9901",
             "PCT9902"
         ],
-        "precincts_reporting": 483,
+        "precincts_reporting": 468,
         "rcv_rounds": 0,
         "reporting_time": "2019-11-05 23:43:50",
         "result_stats": [
@@ -1565,7 +1565,7 @@
             }
         ],
         "success": true,
-        "total_precincts": 485
+        "total_precincts": 469
     },
     {
         "_id": "354",
@@ -1600,7 +1600,7 @@
             "PCT9901",
             "PCT9902"
         ],
-        "precincts_reporting": 483,
+        "precincts_reporting": 468,
         "rcv_rounds": 0,
         "reporting_time": "2019-11-05 23:43:50",
         "result_stats": [
@@ -1659,6 +1659,6 @@
                 ]
             }
         ],
-        "total_precincts": 485
+        "total_precincts": 469
     }
 ]
