@@ -847,7 +847,7 @@
                     "tl": "Dapat bang magpataw ang Lungsod ng 1.5% buwis sa negosyo sa shared rides (tulad halimbawa ng Uber o Lyft) at ng 3.25% buwis sa negosyo sa mga pribadong pagsakay para sa pamasaheng sinisingil ng komersiyal na kompanyang ride-share at kompanya ng mga driverless-vehicle (sasakyang walang nagmamaneho), hanggang sa Nobyembre 5, 2045, na hahantong sa pagkakaroon ng tinatayang $30-35 milyon taon-taon, upang mapondohan ang mga pagpapahusay sa serbisyo ng Muni at kaligtasan ng mga bisikleta at naglalakad?",
                     "zh": "市府是否應對商業共乘以及無人駕駛車公司所收取的車費徵收一項1.5% 共乘營業稅以及一項3.25% 私乘營業稅，直到2045年11月5日為止，預估每年可增加3,000至3,500萬元的收入，用以資助Muni服務以及自行車和行人安全的改善工作？"
                 },
-                "approval_required": "Majority",
+                "approval_required": "2/3",
                 "choices": [
                     {
                         "_id": "38",

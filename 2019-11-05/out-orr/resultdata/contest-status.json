@@ -1279,7 +1279,7 @@
                 ]
             }
         ],
-        "success": false,
+        "success": true,
         "total_precincts": 474
     },
     {
@@ -1374,7 +1374,7 @@
                 ]
             }
         ],
-        "success": true,
+        "success": false,
         "total_precincts": 474
     },
     {
@@ -1659,6 +1659,7 @@
                 ]
             }
         ],
+        "success": true.
         "total_precincts": 474
     }
 ]
