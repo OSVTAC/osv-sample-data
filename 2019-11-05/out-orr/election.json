@@ -91,7 +91,7 @@
                         "_id_ext": "0101",
                         "ballot_title": {
                             "en": "JOEL VENTRESCA",
-                            "zh": "JOEL VENTRESCA 喬爾 ‧ 范崔斯卡"
+                            "zh": "喬爾 ‧ 范崔斯卡"
                         },
                         "sequence": "1",
                         "ballot_designation": {
@@ -106,7 +106,7 @@
                         "_id_ext": "0102",
                         "ballot_title": {
                             "en": "WILMA PANG",
-                            "zh": "WILMA PANG 彭德慧"
+                            "zh": "彭德慧"
                         },
                         "sequence": "2",
                         "ballot_designation": {
@@ -123,7 +123,7 @@
                             "en": "ROBERT L. JORDAN, JR.",
                             "es": "",
                             "tl": "",
-                            "zh": "ROBERT L. JORDAN, JR.  小羅伯特 ‧ L ‧ 喬丹"
+                            "zh": " 小羅伯特 ‧ L ‧ 喬丹"
                         },
                         "sequence": "3",
                         "ballot_designation": {
@@ -138,7 +138,7 @@
                         "_id_ext": "0104",
                         "ballot_title": {
                             "en": "PAUL YBARRA ROBERTSON",
-                            "zh": "PAUL YBARRA ROBERTSON 保羅 ‧ 伊巴拉 ‧ 羅伯森"
+                            "zh": "保羅 ‧ 伊巴拉 ‧ 羅伯森"
                         },
                         "sequence": "4",
                         "ballot_designation": {
@@ -153,7 +153,7 @@
                         "_id_ext": "0105",
                         "ballot_title": {
                             "en": "ELLEN LEE ZHOU",
-                            "zh": "ELLEN LEE ZHOU 李愛晨"
+                            "zh": "李愛晨"
                         },
                         "sequence": "5",
                         "ballot_designation": {
@@ -168,7 +168,7 @@
                         "_id_ext": "0106",
                         "ballot_title": {
                             "en": "LONDON N. BREED",
-                            "zh": "LONDON N. BREED 倫敦 ‧ 布里德"
+                            "zh": "倫敦 ‧ 布里德"
                         },
                         "sequence": "6",
                         "ballot_designation": {
@@ -223,7 +223,7 @@
                         "_id_ext": "0218",
                         "ballot_title": {
                             "en": "RYAN LAM",
-                            "zh": "RYAN LAM 林朗禧"
+                            "zh": "林朗禧"
                         },
                         "sequence": "1",
                         "ballot_designation": {
@@ -238,7 +238,7 @@
                         "_id_ext": "0219",
                         "ballot_title": {
                             "en": "DEAN PRESTON",
-                            "zh": "DEAN PRESTON 迪恩 ‧ 普瑞斯頓"
+                            "zh": "迪恩 ‧ 普瑞斯頓"
                         },
                         "sequence": "2",
                         "ballot_designation": {
@@ -253,7 +253,7 @@
                         "_id_ext": "02110",
                         "ballot_title": {
                             "en": "NOMVULA O'MEARA",
-                            "zh": "NOMVULA O'MEARA 諾姆烏拉 ‧ 歐米拉"
+                            "zh": "諾姆烏拉 ‧ 歐米拉"
                         },
                         "sequence": "3",
                         "ballot_designation": {
@@ -268,7 +268,7 @@
                         "_id_ext": "02111",
                         "ballot_title": {
                             "en": "VALLIE BROWN",
-                            "zh": "VALLIE BROWN 浦慧理"
+                            "zh": "浦慧理"
                         },
                         "sequence": "4",
                         "ballot_designation": {
@@ -314,7 +314,7 @@
                         "_id_ext": "04113",
                         "ballot_title": {
                             "en": "DENNIS J. HERRERA",
-                            "zh": "DENNIS J. HERRERA 丹尼斯 ‧ J ‧ 赫雷拉"
+                            "zh": "丹尼斯 ‧ J ‧ 赫雷拉"
                         },
                         "sequence": "1",
                         "ballot_designation": {
@@ -360,7 +360,7 @@
                         "_id_ext": "05115",
                         "ballot_title": {
                             "en": "SUZY LOFTUS",
-                            "zh": "SUZY LOFTUS 樂素詩"
+                            "zh": "樂素詩"
                         },
                         "sequence": "1",
                         "ballot_designation": {
@@ -375,7 +375,7 @@
                         "_id_ext": "05116",
                         "ballot_title": {
                             "en": "LEIF DAUTCH",
-                            "zh": "LEIF DAUTCH 李多福"
+                            "zh": "李多福"
                         },
                         "sequence": "2",
                         "ballot_designation": {
@@ -390,7 +390,7 @@
                         "_id_ext": "05117",
                         "ballot_title": {
                             "en": "NANCY TUNG",
-                            "zh": "NANCY TUNG 湯曉慧"
+                            "zh": "湯曉慧"
                         },
                         "sequence": "3",
                         "ballot_designation": {
@@ -405,7 +405,7 @@
                         "_id_ext": "05118",
                         "ballot_title": {
                             "en": "CHESA BOUDIN",
-                            "zh": "CHESA BOUDIN 博徹思"
+                            "zh": "博徹思"
                         },
                         "sequence": "4",
                         "ballot_designation": {
@@ -451,7 +451,7 @@
                         "_id_ext": "06120",
                         "ballot_title": {
                             "en": "MANOHAR \"MANO\" RAJU",
-                            "zh": "MANOHAR \"MANO\" RAJU 力儲文"
+                            "zh": "力儲文"
                         },
                         "sequence": "1",
                         "ballot_designation": {
@@ -497,7 +497,7 @@
                         "_id_ext": "07122",
                         "ballot_title": {
                             "en": "PAUL MIYAMOTO",
-                            "zh": "PAUL MIYAMOTO 保羅 ‧ 宮本"
+                            "zh": "保羅 ‧ 宮本"
                         },
                         "sequence": "1",
                         "ballot_designation": {
@@ -543,7 +543,7 @@
                         "_id_ext": "08124",
                         "ballot_title": {
                             "en": "JOSÉ CISNEROS",
-                            "zh": "JOSÉ CISNEROS 何世豪"
+                            "zh": "何世豪"
                         },
                         "sequence": "1",
                         "ballot_designation": {
@@ -588,7 +588,7 @@
                         "_id_ext": "10026",
                         "ballot_title": {
                             "en": "JENNY LAM",
-                            "zh": "JENNY LAM 林謙悅"
+                            "zh": "林謙悅"
                         },
                         "sequence": "1",
                         "ballot_designation": {
@@ -603,7 +603,7 @@
                         "_id_ext": "10027",
                         "ballot_title": {
                             "en": "KIRSTEN STROBEL",
-                            "zh": "KIRSTEN STROBEL 思嘉慧"
+                            "zh": "思嘉慧"
                         },
                         "sequence": "2",
                         "ballot_designation": {
@@ -618,7 +618,7 @@
                         "_id_ext": "10028",
                         "ballot_title": {
                             "en": "ROBERT K. COLEMAN",
-                            "zh": "ROBERT K. COLEMAN 羅伯特 ‧ K ‧ 柯曼"
+                            "zh": "羅伯特 ‧ K ‧ 柯曼"
                         },
                         "sequence": "3",
                         "ballot_designation": {
@@ -663,7 +663,7 @@
                         "_id_ext": "11030",
                         "ballot_title": {
                             "en": "IVY LEE",
-                            "zh": "IVY LEE 李康儀"
+                            "zh": "李康儀"
                         },
                         "sequence": "1",
                         "ballot_designation": {
