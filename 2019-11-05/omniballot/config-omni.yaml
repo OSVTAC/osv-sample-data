@@ -28,5 +28,5 @@ approval_required:
 
 contest_name_corrections:
     en:
-        - ^{letter}$=Local Measure {letter}
+        - ^{letter}$=Proposition {letter}
         - ^{number}$=State Proposition {number}
