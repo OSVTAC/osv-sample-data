@@ -694,6 +694,9 @@
                     "tl": "A",
                     "zh": "A"
                 },
+                "short_description": {
+                    "en": "Affordable Housing Bond"
+                },
                 "question_text": {
                     "en": "SAN FRANCISCO AFFORDABLE HOUSING BONDS. To finance the construction, development, acquisition, and preservation of housing affordable to extremely-low, low and middle-income households through programs that will prioritize vulnerable populations such as San Francisco&rsquo;s working families, veterans, seniors, and persons with disabilities; to assist in the acquisition, rehabilitation, and preservation of existing affordable housing to prevent the displacement of residents; to repair and reconstruct distressed and dilapidated public housing developments and their underlying infrastructure; to assist the City&rsquo;s middle-income residents or workers in obtaining affordable rental or home ownership opportunities including down payment assistance and support for new construction of affordable housing for San Francisco Unified School District and City College of San Francisco employees; and to pay related costs; shall the City and County of San Francisco issue $600,000,000 in general obligation bonds with a duration of up to 30 years from the time of issuance, an estimated average tax rate of $0.019/$100 of assessed property value, and projected average annual revenues of $50,000,000, subject to independent citizen oversight and regular audits?",
                     "es": "BONOS PARA VIVIENDAS A PRECIOS ASEQUIBLES EN SAN FRANCISCO. Con el fin de financiar la construcci&oacute;n, urbanizaci&oacute;n, adquisici&oacute;n y conservaci&oacute;n de viviendas a precios asequibles para hogares con ingresos sumamente bajos, bajos y medianos mediante programas que dar&aacute;n prioridad a grupos vulnerables como las familias trabajadoras, los veteranos, las personas de la tercera edad y las personas con discapacidades de San Francisco; con el prop&oacute;sito de ayudar en la adquisici&oacute;n, rehabilitaci&oacute;n y conservaci&oacute;n de viviendas existentes a precios asequibles para evitar el desplazamiento de los residentes; para reparar y reconstruir complejos de viviendas p&uacute;blicas viejos y ruinosos, as&iacute; como su infraestructura; para asistir a los habitantes con ingresos medianos o a los trabajadores de la Ciudad a obtener oportunidades de alquiler a precios asequibles o de tener casa propia, lo cual incluye la asistencia con la cuota inicial y el apoyo a la nueva construcci&oacute;n de viviendas a precios asequibles para los empleados del Distrito Escolar Unificado de San Francisco y del City College de San Francisco; y para pagar los costos relacionados; &iquest;deber&iacute;a la Ciudad y Condado de San Francisco emitir $600,000,000 en bonos de obligaci&oacute;n general con una duraci&oacute;n de hasta 30 a&ntilde;os a partir de la fecha de emisi&oacute;n, una tasa promedio de impuesto estimada en $0.019/$100 del valor tasado de la propiedad y una proyecci&oacute;n de ingresos anuales promedio de $50,000,000, sujeto a la supervisi&oacute;n ciudadana independiente y a auditor&iacute;as regulares?",
@@ -742,6 +745,9 @@
                     "es": "B",
                     "tl": "B",
                     "zh": "B"
+                },
+                "short_description": {
+                    "en": "Department of Disability and Aging Services"
                 },
                 "question_text": {
                     "en": "Shall the City amend the Charter to change the name of the Department of Aging and Adult Services to the Department of Disability and Aging Services; to change the name of the Aging and Adult Services Commission to the Disability and Aging Services Commission; and to add new qualifications for three of the seven seats on this Commission?",
@@ -792,6 +798,9 @@
                     "tl": "C",
                     "zh": "C"
                 },
+                "short_description": {
+                    "en": "Vapor Products"
+                },
                 "question_text": {
                     "en": "Shall the City overturn the law passed by the Board of Supervisors suspending the sale of electronic cigarettes until they receive FDA authorization, and adopt new regulations on the sale, manufacture, distribution and advertising of electronic cigarettes in San Francisco?",
                     "es": "&iquest;Deber&iacute;a la Ciudad anular la ley aprobada por el Consejo de Supervisores que suspende la venta de cigarrillos electr&oacute;nicos hasta que obtengan la autorizaci&oacute;n de la FDA, y adoptar nuevos reglamentos para la venta, manufactura, distribuci&oacute;n y publicidad de cigarrillos electr&oacute;nicos en San Francisco?",
@@ -840,6 +849,9 @@
                     "es": "D",
                     "tl": "D",
                     "zh": "D"
+                },
+                "short_description": {
+                    "en": "Traffic Congestion Mitigation Tax"
                 },
                 "question_text": {
                     "en": "Shall the City impose a 1.5% business tax on shared rides and a 3.25% business tax on private rides for fares charged by commercial ride-share and driverless-vehicle companies until November 5, 2045, raising an estimated $30-35 million annually, to fund improvements in Muni service and bicycle and pedestrian safety?",
@@ -890,6 +902,9 @@
                     "tl": "E",
                     "zh": "E"
                 },
+                "short_description": {
+                    "en": "Affordable Housing and Educator Housing"
+                },
                 "question_text": {
                     "en": "Shall the City amend the Planning Code to allow 100% Affordable Housing Projects and Educator Housing Projects in public zoning districts and to expedite approval of these projects?",
                     "es": "&iquest;Deber&iacute;a la Ciudad enmendar el C&oacute;digo de Planificaci&oacute;n para permitir Proyectos con un 100% de Viviendas a Precios Asequibles y Proyectos de Viviendas para Educadores en distritos con zonificaci&oacute;n p&uacute;blica, y para acelerar la aprobaci&oacute;n de estos proyectos?",
@@ -938,6 +953,9 @@
                     "es": "F",
                     "tl": "F",
                     "zh": "F"
+                },
+                "short_description": {
+                    "en": "Campaign Contributions and Campaign Advertisements"
                 },
                 "question_text": {
                     "en": "Shall the City establish new restrictions on campaign contributions to local elected officials and candidates, and apply new disclaimer requirements to campaign advertisements?",

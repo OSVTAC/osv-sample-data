@@ -26,6 +26,15 @@ approval_required:
         - A
         - D
 
+# Short descriptions (for proposition/measures) by contest name
+short_description:
+    Proposition A: Affordable Housing Bond
+    Proposition B: Department of Disability and Aging Services
+    Proposition C: Vapor Products
+    Proposition D: Traffic Congestion Mitigation Tax
+    Proposition E: Affordable Housing and Educator Housing
+    Proposition F: Campaign Contributions and Campaign Advertisements
+
 contest_name_corrections:
     en:
         - ^{letter}$=Proposition {letter}
