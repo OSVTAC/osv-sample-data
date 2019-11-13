@@ -11,7 +11,7 @@
             ]
         ],
         "precincts_reporting": 474,
-        "reporting_time": "2019-11-10 15:24:24",
+        "reporting_time": "2019-11-12 15:39:30",
         "result_stats": [
             {
                 "_id": "RSEli",
@@ -81,9 +81,9 @@
                 "_id": "3",
                 "ballot_title": "ROBERT L. JORDAN, JR.",
                 "results": [
-                    "2320",
+                    "2321",
                     "784",
-                    "1534"
+                    "1535"
                 ],
                 "success": false,
                 "winning_status": "rcv_eliminated"
@@ -92,9 +92,9 @@
                 "_id": "4",
                 "ballot_title": "PAUL YBARRA ROBERTSON",
                 "results": [
-                    "7467",
+                    "7469",
                     "2090",
-                    "5376"
+                    "5378"
                 ],
                 "success": false,
                 "winning_status": "rcv_eliminated"
@@ -114,9 +114,9 @@
                 "_id": "6",
                 "ballot_title": "LONDON N. BREED",
                 "results": [
-                    "125149",
-                    "35580",
-                    "89551"
+                    "125156",
+                    "35581",
+                    "89557"
                 ],
                 "success": true,
                 "winning_status": "winning"
@@ -142,7 +142,7 @@
         ],
         "precincts_reporting": 474,
         "rcv_rounds": 6,
-        "reporting_time": "2019-11-10 15:24:24",
+        "reporting_time": "2019-11-12 15:39:30",
         "result_stats": [
             {
                 "_id": "RSReg",
@@ -157,9 +157,9 @@
                 "_id": "RSCst",
                 "heading": "Ballots Cast",
                 "results": [
-                    "206018",
-                    "59386",
-                    "146604"
+                    "206034",
+                    "59388",
+                    "146618"
                 ]
             },
             {
@@ -184,9 +184,9 @@
                 "_id": "RSUnd",
                 "heading": "Undervotes",
                 "results": [
-                    "28356",
-                    "9393",
-                    "18958"
+                    "28376",
+                    "9408",
+                    "18963"
                 ]
             },
             {
@@ -202,17 +202,17 @@
                 "_id": "RSTot",
                 "heading": "Total Votes",
                 "results": [
-                    "177124",
-                    "49888",
-                    "127213"
+                    "177120",
+                    "49875",
+                    "127222"
                 ]
             },
             {
                 "_id": "RSWri",
                 "heading": "Writein Votes",
                 "results": [
-                    "22",
-                    "18",
+                    "8",
+                    "4",
                     "4"
                 ]
             }
@@ -259,9 +259,9 @@
                 "_id": "11",
                 "ballot_title": "VALLIE BROWN",
                 "results": [
-                    "11168",
+                    "11169",
                     "3350",
-                    "7814"
+                    "7815"
                 ],
                 "success": false,
                 "winning_status": "not_winning"
@@ -270,7 +270,7 @@
         "no_voter_precincts": [],
         "precincts_reporting": 54,
         "rcv_rounds": 3,
-        "reporting_time": "2019-11-10 15:24:24",
+        "reporting_time": "2019-11-12 15:39:30",
         "result_stats": [
             {
                 "_id": "RSReg",
@@ -285,9 +285,9 @@
                 "_id": "RSCst",
                 "heading": "Ballots Cast",
                 "results": [
-                    "24759",
+                    "24760",
                     "8340",
-                    "16411"
+                    "16412"
                 ]
             },
             {
@@ -312,8 +312,8 @@
                 "_id": "RSUnd",
                 "heading": "Undervotes",
                 "results": [
-                    "1249",
-                    "400",
+                    "1251",
+                    "402",
                     "846"
                 ]
             },
@@ -330,17 +330,17 @@
                 "_id": "RSTot",
                 "heading": "Total Votes",
                 "results": [
-                    "23471",
-                    "7932",
-                    "15534"
+                    "23470",
+                    "7930",
+                    "15535"
                 ]
             },
             {
                 "_id": "RSWri",
                 "heading": "Writein Votes",
                 "results": [
-                    "2",
-                    "2",
+                    "0",
+                    "0",
                     "0"
                 ]
             }
@@ -354,9 +354,9 @@
                 "_id": "13",
                 "ballot_title": "DENNIS J. HERRERA",
                 "results": [
-                    "161296",
-                    "48078",
-                    "113196"
+                    "161311",
+                    "48080",
+                    "113209"
                 ],
                 "success": true,
                 "winning_status": "winning"
@@ -371,7 +371,7 @@
         ],
         "precincts_reporting": 474,
         "rcv_rounds": 0,
-        "reporting_time": "2019-11-10 15:24:24",
+        "reporting_time": "2019-11-12 15:39:30",
         "result_stats": [
             {
                 "_id": "RSReg",
@@ -386,9 +386,9 @@
                 "_id": "RSCst",
                 "heading": "Ballots Cast",
                 "results": [
-                    "206018",
-                    "59386",
-                    "146604"
+                    "206034",
+                    "59388",
+                    "146618"
                 ]
             },
             {
@@ -413,9 +413,9 @@
                 "_id": "RSUnd",
                 "heading": "Undervotes",
                 "results": [
-                    "44660",
-                    "11292",
-                    "33362"
+                    "44662",
+                    "11293",
+                    "33363"
                 ]
             },
             {
@@ -431,17 +431,17 @@
                 "_id": "RSTot",
                 "heading": "Total Votes",
                 "results": [
-                    "161303",
-                    "48080",
-                    "113201"
+                    "161317",
+                    "48081",
+                    "113214"
                 ]
             },
             {
                 "_id": "RSWri",
                 "heading": "Writein Votes",
                 "results": [
-                    "7",
-                    "2",
+                    "6",
+                    "1",
                     "5"
                 ]
             }
@@ -455,9 +455,9 @@
                 "_id": "15",
                 "ballot_title": "SUZY LOFTUS",
                 "results": [
-                    "59678",
-                    "16551",
-                    "43120"
+                    "59680",
+                    "16552",
+                    "43121"
                 ],
                 "success": false,
                 "winning_status": "not_winning"
@@ -477,9 +477,9 @@
                 "_id": "17",
                 "ballot_title": "NANCY TUNG",
                 "results": [
-                    "36999",
+                    "37002",
                     "8086",
-                    "28909"
+                    "28912"
                 ],
                 "success": false,
                 "winning_status": "rcv_eliminated"
@@ -488,9 +488,9 @@
                 "_id": "18",
                 "ballot_title": "CHESA BOUDIN",
                 "results": [
-                    "68543",
-                    "25268",
-                    "43264"
+                    "68552",
+                    "25269",
+                    "43272"
                 ],
                 "success": true,
                 "winning_status": "winning"
@@ -505,7 +505,7 @@
         ],
         "precincts_reporting": 474,
         "rcv_rounds": 3,
-        "reporting_time": "2019-11-10 15:24:24",
+        "reporting_time": "2019-11-12 15:39:30",
         "result_stats": [
             {
                 "_id": "RSReg",
@@ -520,9 +520,9 @@
                 "_id": "RSCst",
                 "heading": "Ballots Cast",
                 "results": [
-                    "206018",
-                    "59386",
-                    "146604"
+                    "206034",
+                    "59388",
+                    "146618"
                 ]
             },
             {
@@ -547,9 +547,9 @@
                 "_id": "RSUnd",
                 "heading": "Undervotes",
                 "results": [
-                    "13573",
-                    "2863",
-                    "10707"
+                    "13576",
+                    "2864",
+                    "10709"
                 ]
             },
             {
@@ -565,17 +565,17 @@
                 "_id": "RSTot",
                 "heading": "Total Votes",
                 "results": [
-                    "191971",
-                    "56440",
-                    "135506"
+                    "191984",
+                    "56441",
+                    "135518"
                 ]
             },
             {
                 "_id": "RSWri",
                 "heading": "Writein Votes",
                 "results": [
-                    "4",
-                    "1",
+                    "3",
+                    "0",
                     "3"
                 ]
             }
@@ -589,9 +589,9 @@
                 "_id": "20",
                 "ballot_title": "MANOHAR \"MANO\" RAJU",
                 "results": [
-                    "158493",
-                    "47889",
-                    "110584"
+                    "158507",
+                    "47891",
+                    "110596"
                 ],
                 "success": true,
                 "winning_status": "winning"
@@ -606,7 +606,7 @@
         ],
         "precincts_reporting": 474,
         "rcv_rounds": 0,
-        "reporting_time": "2019-11-10 15:24:24",
+        "reporting_time": "2019-11-12 15:39:30",
         "result_stats": [
             {
                 "_id": "RSReg",
@@ -621,9 +621,9 @@
                 "_id": "RSCst",
                 "heading": "Ballots Cast",
                 "results": [
-                    "206018",
-                    "59386",
-                    "146604"
+                    "206034",
+                    "59388",
+                    "146618"
                 ]
             },
             {
@@ -648,9 +648,9 @@
                 "_id": "RSUnd",
                 "heading": "Undervotes",
                 "results": [
-                    "47484",
-                    "11487",
-                    "35989"
+                    "47489",
+                    "11490",
+                    "35991"
                 ]
             },
             {
@@ -666,17 +666,17 @@
                 "_id": "RSTot",
                 "heading": "Total Votes",
                 "results": [
-                    "158500",
-                    "47893",
-                    "110587"
+                    "158511",
+                    "47892",
+                    "110599"
                 ]
             },
             {
                 "_id": "RSWri",
                 "heading": "Writein Votes",
                 "results": [
-                    "7",
                     "4",
+                    "1",
                     "3"
                 ]
             }
@@ -690,9 +690,9 @@
                 "_id": "22",
                 "ballot_title": "PAUL MIYAMOTO",
                 "results": [
-                    "146568",
-                    "42505",
-                    "104047"
+                    "146578",
+                    "42506",
+                    "104056"
                 ],
                 "success": true,
                 "winning_status": "winning"
@@ -707,7 +707,7 @@
         ],
         "precincts_reporting": 474,
         "rcv_rounds": 0,
-        "reporting_time": "2019-11-10 15:24:24",
+        "reporting_time": "2019-11-12 15:39:30",
         "result_stats": [
             {
                 "_id": "RSReg",
@@ -722,9 +722,9 @@
                 "_id": "RSCst",
                 "heading": "Ballots Cast",
                 "results": [
-                    "206018",
-                    "59386",
-                    "146604"
+                    "206034",
+                    "59388",
+                    "146618"
                 ]
             },
             {
@@ -749,9 +749,9 @@
                 "_id": "RSUnd",
                 "heading": "Undervotes",
                 "results": [
-                    "59406",
-                    "16865",
-                    "42529"
+                    "59417",
+                    "16871",
+                    "42534"
                 ]
             },
             {
@@ -767,17 +767,17 @@
                 "_id": "RSTot",
                 "heading": "Total Votes",
                 "results": [
-                    "146575",
-                    "42511",
-                    "104048"
+                    "146580",
+                    "42507",
+                    "104057"
                 ]
             },
             {
                 "_id": "RSWri",
                 "heading": "Writein Votes",
                 "results": [
-                    "7",
-                    "6",
+                    "2",
+                    "1",
                     "1"
                 ]
             }
@@ -791,9 +791,9 @@
                 "_id": "24",
                 "ballot_title": "JOSÉ CISNEROS",
                 "results": [
-                    "152643",
-                    "45038",
-                    "107588"
+                    "152654",
+                    "45040",
+                    "107597"
                 ],
                 "success": true,
                 "winning_status": "winning"
@@ -808,7 +808,7 @@
         ],
         "precincts_reporting": 474,
         "rcv_rounds": 0,
-        "reporting_time": "2019-11-10 15:24:24",
+        "reporting_time": "2019-11-12 15:39:30",
         "result_stats": [
             {
                 "_id": "RSReg",
@@ -823,9 +823,9 @@
                 "_id": "RSCst",
                 "heading": "Ballots Cast",
                 "results": [
-                    "206018",
-                    "59386",
-                    "146604"
+                    "206034",
+                    "59388",
+                    "146618"
                 ]
             },
             {
@@ -850,9 +850,9 @@
                 "_id": "RSUnd",
                 "heading": "Undervotes",
                 "results": [
-                    "53339",
-                    "14337",
-                    "38991"
+                    "53348",
+                    "14341",
+                    "38996"
                 ]
             },
             {
@@ -868,17 +868,17 @@
                 "_id": "RSTot",
                 "heading": "Total Votes",
                 "results": [
-                    "152648",
-                    "45042",
-                    "107589"
+                    "152655",
+                    "45040",
+                    "107598"
                 ]
             },
             {
                 "_id": "RSWri",
                 "heading": "Writein Votes",
                 "results": [
-                    "5",
-                    "4",
+                    "1",
+                    "0",
                     "1"
                 ]
             }
@@ -892,9 +892,9 @@
                 "_id": "26",
                 "ballot_title": "JENNY LAM",
                 "results": [
-                    "121098",
-                    "31336",
-                    "89750"
+                    "121108",
+                    "31337",
+                    "89759"
                 ],
                 "success": true,
                 "winning_status": "winning"
@@ -914,9 +914,9 @@
                 "_id": "28",
                 "ballot_title": "ROBERT K. COLEMAN",
                 "results": [
-                    "17387",
+                    "17388",
                     "6214",
-                    "11170"
+                    "11171"
                 ],
                 "success": false,
                 "winning_status": "not_winning"
@@ -931,7 +931,7 @@
         ],
         "precincts_reporting": 474,
         "rcv_rounds": 0,
-        "reporting_time": "2019-11-10 15:24:24",
+        "reporting_time": "2019-11-12 15:39:30",
         "result_stats": [
             {
                 "_id": "RSReg",
@@ -946,9 +946,9 @@
                 "_id": "RSCst",
                 "heading": "Ballots Cast",
                 "results": [
-                    "206240",
-                    "59376",
-                    "146835"
+                    "206256",
+                    "59378",
+                    "146849"
                 ]
             },
             {
@@ -973,26 +973,26 @@
                 "_id": "RSUnd",
                 "heading": "Undervotes",
                 "results": [
-                    "41081",
-                    "12210",
-                    "28862"
+                    "41092",
+                    "12217",
+                    "28866"
                 ]
             },
             {
                 "_id": "RSTot",
                 "heading": "Total Votes",
                 "results": [
-                    "164520",
-                    "47062",
-                    "117438"
+                    "164525",
+                    "47057",
+                    "117448"
                 ]
             },
             {
                 "_id": "RSWri",
                 "heading": "Writein Votes",
                 "results": [
-                    "8",
-                    "6",
+                    "2",
+                    "0",
                     "2"
                 ]
             }
@@ -1006,9 +1006,9 @@
                 "_id": "30",
                 "ballot_title": "IVY LEE",
                 "results": [
-                    "157784",
-                    "47005",
-                    "110760"
+                    "157798",
+                    "47007",
+                    "110772"
                 ],
                 "success": true,
                 "winning_status": "winning"
@@ -1023,7 +1023,7 @@
         ],
         "precincts_reporting": 474,
         "rcv_rounds": 0,
-        "reporting_time": "2019-11-10 15:24:24",
+        "reporting_time": "2019-11-12 15:39:30",
         "result_stats": [
             {
                 "_id": "RSReg",
@@ -1038,9 +1038,9 @@
                 "_id": "RSCst",
                 "heading": "Ballots Cast",
                 "results": [
-                    "206235",
-                    "59372",
-                    "146835"
+                    "206251",
+                    "59374",
+                    "146849"
                 ]
             },
             {
@@ -1065,26 +1065,26 @@
                 "_id": "RSUnd",
                 "heading": "Undervotes",
                 "results": [
-                    "48389",
-                    "12350",
-                    "36030"
+                    "48396",
+                    "12355",
+                    "36032"
                 ]
             },
             {
                 "_id": "RSTot",
                 "heading": "Total Votes",
                 "results": [
-                    "157791",
-                    "47010",
-                    "110762"
+                    "157800",
+                    "47007",
+                    "110774"
                 ]
             },
             {
                 "_id": "RSWri",
                 "heading": "Writein Votes",
                 "results": [
-                    "7",
-                    "5",
+                    "2",
+                    "0",
                     "2"
                 ]
             }
@@ -1098,9 +1098,9 @@
                 "_id": "32",
                 "ballot_title": "YES",
                 "results": [
-                    "142988",
-                    "44556",
-                    "98409"
+                    "143001",
+                    "44558",
+                    "98420"
                 ],
                 "success": true,
                 "winning_status": "winning"
@@ -1109,9 +1109,9 @@
                 "_id": "33",
                 "ballot_title": "NO",
                 "results": [
-                    "57943",
+                    "57945",
                     "13394",
-                    "44546"
+                    "44548"
                 ],
                 "success": false,
                 "winning_status": "not_winning"
@@ -1126,7 +1126,7 @@
         ],
         "precincts_reporting": 474,
         "rcv_rounds": 0,
-        "reporting_time": "2019-11-10 15:24:24",
+        "reporting_time": "2019-11-12 15:39:30",
         "result_stats": [
             {
                 "_id": "RSReg",
@@ -1141,9 +1141,9 @@
                 "_id": "RSCst",
                 "heading": "Ballots Cast",
                 "results": [
-                    "206235",
-                    "59372",
-                    "146835"
+                    "206251",
+                    "59374",
+                    "146849"
                 ]
             },
             {
@@ -1168,18 +1168,18 @@
                 "_id": "RSUnd",
                 "heading": "Undervotes",
                 "results": [
-                    "5262",
+                    "5263",
                     "1411",
-                    "3849"
+                    "3850"
                 ]
             },
             {
                 "_id": "RSTot",
                 "heading": "Total Votes",
                 "results": [
-                    "200931",
-                    "57950",
-                    "142955"
+                    "200946",
+                    "57952",
+                    "142968"
                 ]
             }
         ],
@@ -1193,9 +1193,9 @@
                 "_id": "34",
                 "ballot_title": "YES",
                 "results": [
-                    "152390",
-                    "45295",
-                    "107071"
+                    "152402",
+                    "45297",
+                    "107081"
                 ],
                 "success": true,
                 "winning_status": "winning"
@@ -1204,9 +1204,9 @@
                 "_id": "35",
                 "ballot_title": "NO",
                 "results": [
-                    "41747",
+                    "41749",
                     "10681",
-                    "31065"
+                    "31067"
                 ],
                 "success": false,
                 "winning_status": "not_winning"
@@ -1221,7 +1221,7 @@
         ],
         "precincts_reporting": 474,
         "rcv_rounds": 0,
-        "reporting_time": "2019-11-10 15:24:24",
+        "reporting_time": "2019-11-12 15:39:30",
         "result_stats": [
             {
                 "_id": "RSReg",
@@ -1236,9 +1236,9 @@
                 "_id": "RSCst",
                 "heading": "Ballots Cast",
                 "results": [
-                    "206235",
-                    "59372",
-                    "146835"
+                    "206251",
+                    "59374",
+                    "146849"
                 ]
             },
             {
@@ -1263,18 +1263,18 @@
                 "_id": "RSUnd",
                 "heading": "Undervotes",
                 "results": [
-                    "12063",
+                    "12065",
                     "3389",
-                    "8671"
+                    "8673"
                 ]
             },
             {
                 "_id": "RSTot",
                 "heading": "Total Votes",
                 "results": [
-                    "194137",
-                    "55976",
-                    "138136"
+                    "194151",
+                    "55978",
+                    "138148"
                 ]
             }
         ],
@@ -1288,9 +1288,9 @@
                 "_id": "36",
                 "ballot_title": "YES",
                 "results": [
-                    "36632",
+                    "36634",
                     "10082",
-                    "26542"
+                    "26544"
                 ],
                 "success": false,
                 "winning_status": "not_winning"
@@ -1299,9 +1299,9 @@
                 "_id": "37",
                 "ballot_title": "NO",
                 "results": [
-                    "164818",
-                    "47959",
-                    "116840"
+                    "164832",
+                    "47961",
+                    "116852"
                 ],
                 "success": true,
                 "winning_status": "winning"
@@ -1316,7 +1316,7 @@
         ],
         "precincts_reporting": 474,
         "rcv_rounds": 0,
-        "reporting_time": "2019-11-10 15:24:24",
+        "reporting_time": "2019-11-12 15:39:30",
         "result_stats": [
             {
                 "_id": "RSReg",
@@ -1331,9 +1331,9 @@
                 "_id": "RSCst",
                 "heading": "Ballots Cast",
                 "results": [
-                    "206235",
-                    "59372",
-                    "146835"
+                    "206251",
+                    "59374",
+                    "146849"
                 ]
             },
             {
@@ -1367,9 +1367,9 @@
                 "_id": "RSTot",
                 "heading": "Total Votes",
                 "results": [
-                    "201450",
-                    "58041",
-                    "143382"
+                    "201466",
+                    "58043",
+                    "143396"
                 ]
             }
         ],
@@ -1383,9 +1383,9 @@
                 "_id": "38",
                 "ballot_title": "YES",
                 "results": [
-                    "135657",
+                    "135671",
                     "40861",
-                    "94778"
+                    "94792"
                 ],
                 "success": true,
                 "winning_status": "winning"
@@ -1394,8 +1394,8 @@
                 "_id": "39",
                 "ballot_title": "NO",
                 "results": [
-                    "64864",
-                    "16883",
+                    "64866",
+                    "16885",
                     "47973"
                 ],
                 "success": false,
@@ -1411,7 +1411,7 @@
         ],
         "precincts_reporting": 474,
         "rcv_rounds": 0,
-        "reporting_time": "2019-11-10 15:24:24",
+        "reporting_time": "2019-11-12 15:39:30",
         "result_stats": [
             {
                 "_id": "RSReg",
@@ -1426,9 +1426,9 @@
                 "_id": "RSCst",
                 "heading": "Ballots Cast",
                 "results": [
-                    "206235",
-                    "59372",
-                    "146835"
+                    "206251",
+                    "59374",
+                    "146849"
                 ]
             },
             {
@@ -1462,9 +1462,9 @@
                 "_id": "RSTot",
                 "heading": "Total Votes",
                 "results": [
-                    "200521",
-                    "57744",
-                    "142751"
+                    "200537",
+                    "57746",
+                    "142765"
                 ]
             }
         ],
@@ -1478,9 +1478,9 @@
                 "_id": "40",
                 "ballot_title": "YES",
                 "results": [
-                    "151795",
-                    "46041",
-                    "105729"
+                    "151808",
+                    "46043",
+                    "105740"
                 ],
                 "success": true,
                 "winning_status": "winning"
@@ -1489,9 +1489,9 @@
                 "_id": "41",
                 "ballot_title": "NO",
                 "results": [
-                    "47152",
+                    "47155",
                     "11446",
-                    "35706"
+                    "35709"
                 ],
                 "success": false,
                 "winning_status": "not_winning"
@@ -1506,7 +1506,7 @@
         ],
         "precincts_reporting": 474,
         "rcv_rounds": 0,
-        "reporting_time": "2019-11-10 15:24:24",
+        "reporting_time": "2019-11-12 15:39:30",
         "result_stats": [
             {
                 "_id": "RSReg",
@@ -1521,9 +1521,9 @@
                 "_id": "RSCst",
                 "heading": "Ballots Cast",
                 "results": [
-                    "206235",
-                    "59372",
-                    "146835"
+                    "206251",
+                    "59374",
+                    "146849"
                 ]
             },
             {
@@ -1557,9 +1557,9 @@
                 "_id": "RSTot",
                 "heading": "Total Votes",
                 "results": [
-                    "198947",
-                    "57487",
-                    "141435"
+                    "198963",
+                    "57489",
+                    "141449"
                 ]
             }
         ],
@@ -1573,9 +1573,9 @@
                 "_id": "42",
                 "ballot_title": "YES",
                 "results": [
-                    "150953",
-                    "44110",
-                    "106822"
+                    "150965",
+                    "44112",
+                    "106832"
                 ],
                 "success": true,
                 "winning_status": "winning"
@@ -1584,9 +1584,9 @@
                 "_id": "43",
                 "ballot_title": "NO",
                 "results": [
-                    "45361",
+                    "45364",
                     "12564",
-                    "32793"
+                    "32796"
                 ],
                 "success": false,
                 "winning_status": "not_winning"
@@ -1601,7 +1601,7 @@
         ],
         "precincts_reporting": 474,
         "rcv_rounds": 0,
-        "reporting_time": "2019-11-10 15:24:24",
+        "reporting_time": "2019-11-12 15:39:30",
         "result_stats": [
             {
                 "_id": "RSReg",
@@ -1616,9 +1616,9 @@
                 "_id": "RSCst",
                 "heading": "Ballots Cast",
                 "results": [
-                    "206235",
-                    "59372",
-                    "146835"
+                    "206251",
+                    "59374",
+                    "146849"
                 ]
             },
             {
@@ -1643,18 +1643,18 @@
                 "_id": "RSUnd",
                 "heading": "Undervotes",
                 "results": [
-                    "9893",
+                    "9894",
                     "2690",
-                    "7200"
+                    "7201"
                 ]
             },
             {
                 "_id": "RSTot",
                 "heading": "Total Votes",
                 "results": [
-                    "196314",
-                    "56674",
-                    "139615"
+                    "196329",
+                    "56676",
+                    "139628"
                 ]
             }
         ],
