@@ -35,8 +35,8 @@
                 "_id": "RSCst",
                 "heading": "Ballots Cast",
                 "results": [
-                    "206061",
-                    "59399",
+                    "206090",
+                    "59428",
                     "146662"
                 ]
             },
@@ -82,7 +82,7 @@
                 "ballot_title": "ROBERT L. JORDAN, JR.",
                 "results": [
                     "2321",
-                    "784",
+                    "786",
                     "1535"
                 ],
                 "success": false,
@@ -93,7 +93,7 @@
                 "ballot_title": "PAUL YBARRA ROBERTSON",
                 "results": [
                     "7470",
-                    "2090",
+                    "2091",
                     "5379"
                 ],
                 "success": false,
@@ -104,7 +104,7 @@
                 "ballot_title": "ELLEN LEE ZHOU",
                 "results": [
                     "24664",
-                    "5674",
+                    "5676",
                     "18988"
                 ],
                 "success": false,
@@ -115,7 +115,7 @@
                 "ballot_title": "LONDON N. BREED",
                 "results": [
                     "125185",
-                    "35585",
+                    "35603",
                     "89582"
                 ],
                 "success": true,
@@ -158,7 +158,7 @@
                 "heading": "Ballots Cast",
                 "results": [
                     "206085",
-                    "59395",
+                    "59423",
                     "146662"
                 ]
             },
@@ -185,7 +185,7 @@
                 "heading": "Undervotes",
                 "results": [
                     "28381",
-                    "9410",
+                    "9415",
                     "18966"
                 ]
             },
@@ -203,7 +203,7 @@
                 "heading": "Total Votes",
                 "results": [
                     "177166",
-                    "49880",
+                    "49903",
                     "127263"
                 ]
             },
@@ -238,7 +238,7 @@
                 "ballot_title": "DEAN PRESTON",
                 "results": [
                     "11119",
-                    "4248",
+                    "4249",
                     "6870"
                 ],
                 "success": true,
@@ -260,7 +260,7 @@
                 "ballot_title": "VALLIE BROWN",
                 "results": [
                     "11169",
-                    "3350",
+                    "3354",
                     "7815"
                 ],
                 "success": false,
@@ -286,7 +286,7 @@
                 "heading": "Ballots Cast",
                 "results": [
                     "24762",
-                    "8340",
+                    "8348",
                     "16414"
                 ]
             },
@@ -313,7 +313,7 @@
                 "heading": "Undervotes",
                 "results": [
                     "1252",
-                    "402",
+                    "405",
                     "847"
                 ]
             },
@@ -331,7 +331,7 @@
                 "heading": "Total Votes",
                 "results": [
                     "23471",
-                    "7930",
+                    "7935",
                     "15536"
                 ]
             },
@@ -355,7 +355,7 @@
                 "ballot_title": "DENNIS J. HERRERA",
                 "results": [
                     "161348",
-                    "48087",
+                    "48109",
                     "113239"
                 ],
                 "success": true,
@@ -387,7 +387,7 @@
                 "heading": "Ballots Cast",
                 "results": [
                     "206085",
-                    "59395",
+                    "59423",
                     "146662"
                 ]
             },
@@ -414,7 +414,7 @@
                 "heading": "Undervotes",
                 "results": [
                     "44676",
-                    "11293",
+                    "11299",
                     "33377"
                 ]
             },
@@ -432,7 +432,7 @@
                 "heading": "Total Votes",
                 "results": [
                     "161354",
-                    "48088",
+                    "48110",
                     "113244"
                 ]
             },
@@ -456,7 +456,7 @@
                 "ballot_title": "SUZY LOFTUS",
                 "results": [
                     "59693",
-                    "16555",
+                    "16562",
                     "43131"
                 ],
                 "success": false,
@@ -467,7 +467,7 @@
                 "ballot_title": "LEIF DAUTCH",
                 "results": [
                     "26754",
-                    "6534",
+                    "6537",
                     "20217"
                 ],
                 "success": false,
@@ -478,7 +478,7 @@
                 "ballot_title": "NANCY TUNG",
                 "results": [
                     "37016",
-                    "8086",
+                    "8090",
                     "28926"
                 ],
                 "success": false,
@@ -489,7 +489,7 @@
                 "ballot_title": "CHESA BOUDIN",
                 "results": [
                     "68562",
-                    "25271",
+                    "25282",
                     "43280"
                 ],
                 "success": true,
@@ -521,7 +521,7 @@
                 "heading": "Ballots Cast",
                 "results": [
                     "206085",
-                    "59395",
+                    "59423",
                     "146662"
                 ]
             },
@@ -548,7 +548,7 @@
                 "heading": "Undervotes",
                 "results": [
                     "13583",
-                    "2866",
+                    "2869",
                     "10714"
                 ]
             },
@@ -566,7 +566,7 @@
                 "heading": "Total Votes",
                 "results": [
                     "192028",
-                    "56446",
+                    "56471",
                     "135557"
                 ]
             },
@@ -590,7 +590,7 @@
                 "ballot_title": "MANOHAR \"MANO\" RAJU",
                 "results": [
                     "158541",
-                    "47896",
+                    "47916",
                     "110625"
                 ],
                 "success": true,
@@ -622,7 +622,7 @@
                 "heading": "Ballots Cast",
                 "results": [
                     "206085",
-                    "59395",
+                    "59423",
                     "146662"
                 ]
             },
@@ -649,7 +649,7 @@
                 "heading": "Undervotes",
                 "results": [
                     "47506",
-                    "11492",
+                    "11500",
                     "36006"
                 ]
             },
@@ -667,7 +667,7 @@
                 "heading": "Total Votes",
                 "results": [
                     "158545",
-                    "47897",
+                    "47917",
                     "110628"
                 ]
             },
@@ -691,7 +691,7 @@
                 "ballot_title": "PAUL MIYAMOTO",
                 "results": [
                     "146611",
-                    "42511",
+                    "42527",
                     "104084"
                 ],
                 "success": true,
@@ -723,7 +723,7 @@
                 "heading": "Ballots Cast",
                 "results": [
                     "206085",
-                    "59395",
+                    "59423",
                     "146662"
                 ]
             },
@@ -750,7 +750,7 @@
                 "heading": "Undervotes",
                 "results": [
                     "59435",
-                    "16873",
+                    "16885",
                     "42550"
                 ]
             },
@@ -768,7 +768,7 @@
                 "heading": "Total Votes",
                 "results": [
                     "146613",
-                    "42512",
+                    "42528",
                     "104085"
                 ]
             },
@@ -792,7 +792,7 @@
                 "ballot_title": "JOSÉ CISNEROS",
                 "results": [
                     "152685",
-                    "45044",
+                    "45061",
                     "107624"
                 ],
                 "success": true,
@@ -824,7 +824,7 @@
                 "heading": "Ballots Cast",
                 "results": [
                     "206085",
-                    "59395",
+                    "59423",
                     "146662"
                 ]
             },
@@ -851,7 +851,7 @@
                 "heading": "Undervotes",
                 "results": [
                     "53368",
-                    "14344",
+                    "14355",
                     "39013"
                 ]
             },
@@ -869,7 +869,7 @@
                 "heading": "Total Votes",
                 "results": [
                     "152686",
-                    "45044",
+                    "45061",
                     "107625"
                 ]
             },
@@ -893,7 +893,7 @@
                 "ballot_title": "JENNY LAM",
                 "results": [
                     "121139",
-                    "31340",
+                    "31352",
                     "89787"
                 ],
                 "success": true,
@@ -904,7 +904,7 @@
                 "ballot_title": "KIRSTEN STROBEL",
                 "results": [
                     "26034",
-                    "9511",
+                    "9516",
                     "16518"
                 ],
                 "success": false,
@@ -915,7 +915,7 @@
                 "ballot_title": "ROBERT K. COLEMAN",
                 "results": [
                     "17391",
-                    "6216",
+                    "6219",
                     "11172"
                 ],
                 "success": false,
@@ -947,7 +947,7 @@
                 "heading": "Ballots Cast",
                 "results": [
                     "206312",
-                    "59390",
+                    "59419",
                     "146893"
                 ]
             },
@@ -974,7 +974,7 @@
                 "heading": "Undervotes",
                 "results": [
                     "41107",
-                    "12219",
+                    "12228",
                     "28879"
                 ]
             },
@@ -983,7 +983,7 @@
                 "heading": "Total Votes",
                 "results": [
                     "164566",
-                    "47067",
+                    "47087",
                     "117479"
                 ]
             },
@@ -1007,7 +1007,7 @@
                 "ballot_title": "IVY LEE",
                 "results": [
                     "157839",
-                    "47016",
+                    "47035",
                     "110804"
                 ],
                 "success": true,
@@ -1039,7 +1039,7 @@
                 "heading": "Ballots Cast",
                 "results": [
                     "206307",
-                    "59386",
+                    "59414",
                     "146893"
                 ]
             },
@@ -1066,7 +1066,7 @@
                 "heading": "Undervotes",
                 "results": [
                     "48411",
-                    "12358",
+                    "12367",
                     "36044"
                 ]
             },
@@ -1075,7 +1075,7 @@
                 "heading": "Total Votes",
                 "results": [
                     "157841",
-                    "47016",
+                    "47035",
                     "110806"
                 ]
             },
@@ -1099,7 +1099,7 @@
                 "ballot_title": "YES",
                 "results": [
                     "143033",
-                    "44567",
+                    "44590",
                     "98443"
                 ],
                 "success": true,
@@ -1110,7 +1110,7 @@
                 "ballot_title": "NO",
                 "results": [
                     "57964",
-                    "13396",
+                    "13399",
                     "44565"
                 ],
                 "success": false,
@@ -1142,7 +1142,7 @@
                 "heading": "Ballots Cast",
                 "results": [
                     "206307",
-                    "59386",
+                    "59414",
                     "146893"
                 ]
             },
@@ -1169,7 +1169,7 @@
                 "heading": "Undervotes",
                 "results": [
                     "5268",
-                    "1412",
+                    "1414",
                     "3854"
                 ]
             },
@@ -1178,7 +1178,7 @@
                 "heading": "Total Votes",
                 "results": [
                     "200997",
-                    "57963",
+                    "57989",
                     "143008"
                 ]
             }
@@ -1194,7 +1194,7 @@
                 "ballot_title": "YES",
                 "results": [
                     "152435",
-                    "45305",
+                    "45329",
                     "107106"
                 ],
                 "success": true,
@@ -1205,7 +1205,7 @@
                 "ballot_title": "NO",
                 "results": [
                     "41764",
-                    "10684",
+                    "10685",
                     "31079"
                 ],
                 "success": false,
@@ -1237,7 +1237,7 @@
                 "heading": "Ballots Cast",
                 "results": [
                     "206307",
-                    "59386",
+                    "59414",
                     "146893"
                 ]
             },
@@ -1264,7 +1264,7 @@
                 "heading": "Undervotes",
                 "results": [
                     "12073",
-                    "3390",
+                    "3393",
                     "8680"
                 ]
             },
@@ -1273,7 +1273,7 @@
                 "heading": "Total Votes",
                 "results": [
                     "194199",
-                    "55989",
+                    "56014",
                     "138185"
                 ]
             }
@@ -1289,7 +1289,7 @@
                 "ballot_title": "YES",
                 "results": [
                     "36654",
-                    "10084",
+                    "10092",
                     "26562"
                 ],
                 "success": false,
@@ -1300,7 +1300,7 @@
                 "ballot_title": "NO",
                 "results": [
                     "164865",
-                    "47970",
+                    "47989",
                     "116876"
                 ],
                 "success": true,
@@ -1332,7 +1332,7 @@
                 "heading": "Ballots Cast",
                 "results": [
                     "206307",
-                    "59386",
+                    "59414",
                     "146893"
                 ]
             },
@@ -1359,7 +1359,7 @@
                 "heading": "Undervotes",
                 "results": [
                     "4669",
-                    "1300",
+                    "1301",
                     "3368"
                 ]
             },
@@ -1368,7 +1368,7 @@
                 "heading": "Total Votes",
                 "results": [
                     "201519",
-                    "58054",
+                    "58081",
                     "143438"
                 ]
             }
@@ -1384,7 +1384,7 @@
                 "ballot_title": "YES",
                 "results": [
                     "135702",
-                    "40868",
+                    "40886",
                     "94816"
                 ],
                 "success": true,
@@ -1395,7 +1395,7 @@
                 "ballot_title": "NO",
                 "results": [
                     "64883",
-                    "16889",
+                    "16897",
                     "47986"
                 ],
                 "success": false,
@@ -1427,7 +1427,7 @@
                 "heading": "Ballots Cast",
                 "results": [
                     "206307",
-                    "59386",
+                    "59414",
                     "146893"
                 ]
             },
@@ -1454,7 +1454,7 @@
                 "heading": "Undervotes",
                 "results": [
                     "5673",
-                    "1616",
+                    "1618",
                     "4055"
                 ]
             },
@@ -1463,7 +1463,7 @@
                 "heading": "Total Votes",
                 "results": [
                     "200585",
-                    "57757",
+                    "57783",
                     "142802"
                 ]
             }
@@ -1479,7 +1479,7 @@
                 "ballot_title": "YES",
                 "results": [
                     "151845",
-                    "46054",
+                    "46079",
                     "105766"
                 ],
                 "success": true,
@@ -1522,7 +1522,7 @@
                 "heading": "Ballots Cast",
                 "results": [
                     "206307",
-                    "59386",
+                    "59414",
                     "146893"
                 ]
             },
@@ -1549,7 +1549,7 @@
                 "heading": "Undervotes",
                 "results": [
                     "7237",
-                    "1867",
+                    "1870",
                     "5367"
                 ]
             },
@@ -1558,7 +1558,7 @@
                 "heading": "Total Votes",
                 "results": [
                     "199010",
-                    "57500",
+                    "57525",
                     "141485"
                 ]
             }
@@ -1574,7 +1574,7 @@
                 "ballot_title": "YES",
                 "results": [
                     "151003",
-                    "44122",
+                    "44143",
                     "106860"
                 ],
                 "success": true,
@@ -1585,7 +1585,7 @@
                 "ballot_title": "NO",
                 "results": [
                     "45374",
-                    "12565",
+                    "12569",
                     "32805"
                 ],
                 "success": false,
@@ -1617,7 +1617,7 @@
                 "heading": "Ballots Cast",
                 "results": [
                     "206307",
-                    "59386",
+                    "59414",
                     "146893"
                 ]
             },
@@ -1644,7 +1644,7 @@
                 "heading": "Undervotes",
                 "results": [
                     "9902",
-                    "2691",
+                    "2694",
                     "7208"
                 ]
             },
@@ -1653,7 +1653,7 @@
                 "heading": "Total Votes",
                 "results": [
                     "196377",
-                    "56687",
+                    "56712",
                     "139665"
                 ]
             }
