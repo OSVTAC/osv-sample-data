@@ -8,6 +8,9 @@ candidate_map_file: candmap.tsv
 # Number of digits in the bt subdirectory for ballot type number
 bt_digits: 2
 
+# External IDs might not be unique - Add the contest seq prefix
+cand_extid_prefix: N
+
 # Patterns to match retention candidate names in retention contest question text
 retention_pats:
     - Justice {candidate_name} be elected

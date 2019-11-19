@@ -781,7 +781,8 @@
                         "ballot_designation": {
                             "en": "Write-In"
                         },
-                        "is_writein": true
+                        "is_writein": true,
+                        "sequence": 28
                     },
                     {
                         "_id": "190",
@@ -792,7 +793,8 @@
                         "ballot_designation": {
                             "en": "Write-In"
                         },
-                        "is_writein": true
+                        "is_writein": true,
+                        "sequence": 29
                     },
                     {
                         "_id": "191",
@@ -803,7 +805,8 @@
                         "ballot_designation": {
                             "en": "Write-In"
                         },
-                        "is_writein": true
+                        "is_writein": true,
+                        "sequence": 30
                     },
                     {
                         "_id": "192",
@@ -814,7 +817,8 @@
                         "ballot_designation": {
                             "en": "Write-In"
                         },
-                        "is_writein": true
+                        "is_writein": true,
+                        "sequence": 31
                     },
                     {
                         "_id": "193",
@@ -825,7 +829,8 @@
                         "ballot_designation": {
                             "en": "Write-In"
                         },
-                        "is_writein": true
+                        "is_writein": true,
+                        "sequence": 32
                     }
                 ],
                 "writeins_allowed": 1,
@@ -1099,7 +1104,8 @@
                         "ballot_designation": {
                             "en": "Write-In"
                         },
-                        "is_writein": true
+                        "is_writein": true,
+                        "sequence": 12
                     }
                 ],
                 "writeins_allowed": 1,
@@ -2582,7 +2588,8 @@
                         "ballot_designation": {
                             "en": "Write-In"
                         },
-                        "is_writein": true
+                        "is_writein": true,
+                        "sequence": 33
                     },
                     {
                         "_id": "196",
@@ -2593,7 +2600,8 @@
                         "ballot_designation": {
                             "en": "Write-In"
                         },
-                        "is_writein": true
+                        "is_writein": true,
+                        "sequence": 34
                     },
                     {
                         "_id": "197",
@@ -2604,7 +2612,8 @@
                         "ballot_designation": {
                             "en": "Write-In"
                         },
-                        "is_writein": true
+                        "is_writein": true,
+                        "sequence": 35
                     }
                 ],
                 "writeins_allowed": 1,
@@ -2615,7 +2624,7 @@
                 "_id": "155",
                 "_id_ext": "444",
                 "_type": "office",
-                "header_id": "",
+                "header_id": "088",
                 "ballot_title": {
                     "en": "UNITED STATES REPRESENTATIVE",
                     "es": "REPRESENTANTE DE ESTADOS UNIDOS",
@@ -2800,7 +2809,7 @@
                 "_id": "160",
                 "_id_ext": "451",
                 "_type": "office",
-                "header_id": "",
+                "header_id": "088",
                 "ballot_title": {
                     "en": "UNITED STATES REPRESENTATIVE",
                     "es": "REPRESENTANTE DE ESTADOS UNIDOS",
@@ -2937,7 +2946,7 @@
                 "_id": "170",
                 "_id_ext": "403",
                 "_type": "office",
-                "header_id": "",
+                "header_id": "128",
                 "ballot_title": {
                     "en": "STATE ASSEMBLY MEMBER",
                     "es": "MIEMBRO DE LA ASAMBLEA DEL ESTADO",
@@ -3473,7 +3482,8 @@
                         "ballot_designation": {
                             "en": "Write-In"
                         },
-                        "is_writein": true
+                        "is_writein": true,
+                        "sequence": 5
                     },
                     {
                         "_id": "199",
@@ -3484,7 +3494,8 @@
                         "ballot_designation": {
                             "en": "Write-In"
                         },
-                        "is_writein": true
+                        "is_writein": true,
+                        "sequence": 6
                     }
                 ],
                 "writeins_allowed": 1,
@@ -3503,16 +3514,10 @@
                     "zh": "市長"
                 },
                 "name": {
-                    "en": "MAYOR Vote your first, second, and third choices",
-                    "es": "ALCALDE Vote por su primera, segunda y tercera preferencias",
-                    "tl": "PUNONG-BAYAN Iboto ang inyong una, pangalawa, at pangatlong pinili",
-                    "zh": "市長 投選您的第一、第二和第三選擇"
-                },
-                "ballot_subtitle": {
-                    "en": "Vote your first, second, and third choices",
-                    "es": "Vote por su primera, segunda y tercera preferencias",
-                    "tl": "Iboto ang inyong una, pangalawa, at pangatlong pinili",
-                    "zh": "投選您的第一、第二和第三選擇"
+                    "en": "Mayor",
+                    "es": "Alcalde",
+                    "tl": "Punong-Bayan",
+                    "zh": "市長"
                 },
                 "vote_for_msg": {
                     "en": "You may rank up to three choices. To rank fewer than three candidates, leave any remaining choices blank.",
@@ -3652,7 +3657,8 @@
                         "ballot_designation": {
                             "en": "Write-In"
                         },
-                        "is_writein": true
+                        "is_writein": true,
+                        "sequence": 9
                     }
                 ],
                 "writeins_allowed": 1,
@@ -3671,16 +3677,10 @@
                     "zh": "第8選區"
                 },
                 "name": {
-                    "en": "DISTRICT 8 Vote your first, second, and third choices",
-                    "es": "DISTRITO 8 Vote por su primera, segunda y tercera preferencias",
-                    "tl": "DISTRITO 8 Iboto ang inyong una, pangalawa, at pangatlong pinili",
-                    "zh": "第8選區 投選您的第一、第二和第三選擇"
-                },
-                "ballot_subtitle": {
-                    "en": "Vote your first, second, and third choices",
-                    "es": "Vote por su primera, segunda y tercera preferencias",
-                    "tl": "Iboto ang inyong una, pangalawa, at pangatlong pinili",
-                    "zh": "投選您的第一、第二和第三選擇"
+                    "en": "District 8",
+                    "es": "Distrito 8",
+                    "tl": "Distrito 8",
+                    "zh": "第8選區"
                 },
                 "vote_for_msg": {
                     "en": "You may rank up to three choices. To rank fewer than three candidates, leave any remaining choices blank.",
