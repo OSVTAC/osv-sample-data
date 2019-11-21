@@ -2,7 +2,7 @@
 
 This file describes the format for election files in this sample data repository.
 
-## `out-orr` Converted Election Results
+## `out-orr` Converted Election Deinition and Results
 
 This subdirectory contains the information on the election definition and
 updated computer-readable results used by the `osv-results-reporter` to create
