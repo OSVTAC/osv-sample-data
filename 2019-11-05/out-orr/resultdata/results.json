@@ -1,5 +1,8 @@
 {
-    "contest_status_format": "0.2",
+    "_reporting_time": "2019-11-14 15:00:54",
+    "_results_format": "0.2",
+    "_results_id": "20191114",
+    "_results_title": "Preliminary Report 12",
     "contests": [
         {
             "_id": "334",
@@ -91,7 +94,6 @@
             ],
             "precincts_reporting": 474,
             "rcv_rounds": 6,
-            "reporting_time": "2019-11-14 15:00:54",
             "result_stats": [
                 {
                     "_id": "RSReg",
@@ -219,7 +221,6 @@
             "no_voter_precincts": [],
             "precincts_reporting": 54,
             "rcv_rounds": 3,
-            "reporting_time": "2019-11-14 15:00:54",
             "result_stats": [
                 {
                     "_id": "RSReg",
@@ -320,7 +321,6 @@
             ],
             "precincts_reporting": 474,
             "rcv_rounds": 0,
-            "reporting_time": "2019-11-14 15:00:54",
             "result_stats": [
                 {
                     "_id": "RSReg",
@@ -454,7 +454,6 @@
             ],
             "precincts_reporting": 474,
             "rcv_rounds": 3,
-            "reporting_time": "2019-11-14 15:00:54",
             "result_stats": [
                 {
                     "_id": "RSReg",
@@ -555,7 +554,6 @@
             ],
             "precincts_reporting": 474,
             "rcv_rounds": 0,
-            "reporting_time": "2019-11-14 15:00:54",
             "result_stats": [
                 {
                     "_id": "RSReg",
@@ -656,7 +654,6 @@
             ],
             "precincts_reporting": 474,
             "rcv_rounds": 0,
-            "reporting_time": "2019-11-14 15:00:54",
             "result_stats": [
                 {
                     "_id": "RSReg",
@@ -757,7 +754,6 @@
             ],
             "precincts_reporting": 474,
             "rcv_rounds": 0,
-            "reporting_time": "2019-11-14 15:00:54",
             "result_stats": [
                 {
                     "_id": "RSReg",
@@ -880,7 +876,6 @@
             ],
             "precincts_reporting": 474,
             "rcv_rounds": 0,
-            "reporting_time": "2019-11-14 15:00:54",
             "result_stats": [
                 {
                     "_id": "RSReg",
@@ -972,7 +967,6 @@
             ],
             "precincts_reporting": 474,
             "rcv_rounds": 0,
-            "reporting_time": "2019-11-14 15:00:54",
             "result_stats": [
                 {
                     "_id": "RSReg",
@@ -1075,7 +1069,6 @@
             ],
             "precincts_reporting": 474,
             "rcv_rounds": 0,
-            "reporting_time": "2019-11-14 15:00:54",
             "result_stats": [
                 {
                     "_id": "RSReg",
@@ -1170,7 +1163,6 @@
             ],
             "precincts_reporting": 474,
             "rcv_rounds": 0,
-            "reporting_time": "2019-11-14 15:00:54",
             "result_stats": [
                 {
                     "_id": "RSReg",
@@ -1265,7 +1257,6 @@
             ],
             "precincts_reporting": 474,
             "rcv_rounds": 0,
-            "reporting_time": "2019-11-14 15:00:54",
             "result_stats": [
                 {
                     "_id": "RSReg",
@@ -1360,7 +1351,6 @@
             ],
             "precincts_reporting": 474,
             "rcv_rounds": 0,
-            "reporting_time": "2019-11-14 15:00:54",
             "result_stats": [
                 {
                     "_id": "RSReg",
@@ -1455,7 +1445,6 @@
             ],
             "precincts_reporting": 474,
             "rcv_rounds": 0,
-            "reporting_time": "2019-11-14 15:00:54",
             "result_stats": [
                 {
                     "_id": "RSReg",
@@ -1550,7 +1539,6 @@
             ],
             "precincts_reporting": 474,
             "rcv_rounds": 0,
-            "reporting_time": "2019-11-14 15:00:54",
             "result_stats": [
                 {
                     "_id": "RSReg",
@@ -1611,9 +1599,6 @@
             "total_precincts": 474
         }
     ],
-    "reporting_time": "2019-11-14 15:00:54",
-    "results_id": "20191114",
-    "results_title": "Preliminary Report 12",
     "turnout": {
         "_id": "TURNOUT",
         "no_voter_precincts": [
@@ -1626,7 +1611,6 @@
             ]
         ],
         "precincts_reporting": 474,
-        "reporting_time": "2019-11-14 15:00:54",
         "result_stats": [
             {
                 "_id": "RSEli",
