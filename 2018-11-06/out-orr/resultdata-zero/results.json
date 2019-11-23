@@ -2,7 +2,9 @@
     "_reporting_time": "2018-11-27 12:03:50",
     "_results_format": "0.2",
     "_results_id": "zero",
-    "_results_title": "Zero Report",
+    "_results_title": {
+        "en": "Zero Report"
+    },
     "contests": [
         {
             "_id": "100",
