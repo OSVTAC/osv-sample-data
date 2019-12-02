@@ -1,9 +1,9 @@
 {
-    "_reporting_time": "2019-11-14 15:00:54",
+    "_reporting_time": "2019-11-25 15:39:19",
     "_results_format": "0.2",
-    "_results_id": "20191114",
+    "_results_id": "20191125",
     "_results_title": {
-        "en": "Preliminary Report 12"
+        "en": "Final Report"
     },
     "contests": [
         {
@@ -13,9 +13,9 @@
                     "_id": "1",
                     "ballot_title": "JOEL VENTRESCA",
                     "results": [
-                        "12845",
+                        "12850",
                         "4008",
-                        "8837"
+                        "8842"
                     ],
                     "success": false,
                     "winning_status": "rcv_eliminated"
@@ -24,9 +24,9 @@
                     "_id": "2",
                     "ballot_title": "WILMA PANG",
                     "results": [
-                        "4673",
+                        "4675",
                         "1735",
-                        "2938"
+                        "2940"
                     ],
                     "success": false,
                     "winning_status": "rcv_eliminated"
@@ -46,9 +46,9 @@
                     "_id": "4",
                     "ballot_title": "PAUL YBARRA ROBERTSON",
                     "results": [
-                        "7470",
+                        "7472",
                         "2091",
-                        "5379"
+                        "5381"
                     ],
                     "success": false,
                     "winning_status": "rcv_eliminated"
@@ -57,9 +57,9 @@
                     "_id": "5",
                     "ballot_title": "ELLEN LEE ZHOU",
                     "results": [
-                        "24664",
+                        "24667",
                         "5676",
-                        "18988"
+                        "18991"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -68,9 +68,9 @@
                     "_id": "6",
                     "ballot_title": "LONDON N. BREED",
                     "results": [
-                        "125185",
+                        "125200",
                         "35603",
-                        "89582"
+                        "89597"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -110,9 +110,9 @@
                     "_id": "RSCst",
                     "heading": "Ballots Cast",
                     "results": [
-                        "206085",
+                        "206117",
                         "59423",
-                        "146662"
+                        "146694"
                     ]
                 },
                 {
@@ -128,18 +128,18 @@
                     "_id": "RSOvr",
                     "heading": "Overvotes",
                     "results": [
-                        "538",
+                        "539",
                         "105",
-                        "433"
+                        "434"
                     ]
                 },
                 {
                     "_id": "RSUnd",
                     "heading": "Undervotes",
                     "results": [
-                        "28381",
+                        "28386",
                         "9415",
-                        "18966"
+                        "18971"
                     ]
                 },
                 {
@@ -155,18 +155,18 @@
                     "_id": "RSTot",
                     "heading": "Total Votes",
                     "results": [
-                        "177166",
+                        "177192",
                         "49903",
-                        "127263"
+                        "127289"
                     ]
                 },
                 {
                     "_id": "RSWri",
                     "heading": "Writein Votes",
                     "results": [
-                        "8",
+                        "7",
                         "4",
-                        "4"
+                        "3"
                     ]
                 }
             ],
@@ -212,9 +212,9 @@
                     "_id": "11",
                     "ballot_title": "VALLIE BROWN",
                     "results": [
-                        "11169",
+                        "11171",
                         "3354",
-                        "7815"
+                        "7817"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -237,9 +237,9 @@
                     "_id": "RSCst",
                     "heading": "Ballots Cast",
                     "results": [
-                        "24762",
+                        "24765",
                         "8348",
-                        "16414"
+                        "16417"
                     ]
                 },
                 {
@@ -264,9 +264,9 @@
                     "_id": "RSUnd",
                     "heading": "Undervotes",
                     "results": [
-                        "1252",
+                        "1253",
                         "405",
-                        "847"
+                        "848"
                     ]
                 },
                 {
@@ -282,9 +282,9 @@
                     "_id": "RSTot",
                     "heading": "Total Votes",
                     "results": [
-                        "23471",
+                        "23473",
                         "7935",
-                        "15536"
+                        "15538"
                     ]
                 },
                 {
@@ -306,9 +306,9 @@
                     "_id": "13",
                     "ballot_title": "DENNIS J. HERRERA",
                     "results": [
-                        "161348",
+                        "161369",
                         "48109",
-                        "113239"
+                        "113260"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -337,9 +337,9 @@
                     "_id": "RSCst",
                     "heading": "Ballots Cast",
                     "results": [
-                        "206085",
+                        "206117",
                         "59423",
-                        "146662"
+                        "146694"
                     ]
                 },
                 {
@@ -364,9 +364,9 @@
                     "_id": "RSUnd",
                     "heading": "Undervotes",
                     "results": [
-                        "44676",
-                        "11299",
-                        "33377"
+                        "44693",
+                        "11300",
+                        "33393"
                     ]
                 },
                 {
@@ -382,18 +382,18 @@
                     "_id": "RSTot",
                     "heading": "Total Votes",
                     "results": [
-                        "161354",
-                        "48110",
-                        "113244"
+                        "161369",
+                        "48109",
+                        "113260"
                     ]
                 },
                 {
                     "_id": "RSWri",
                     "heading": "Writein Votes",
                     "results": [
-                        "6",
-                        "1",
-                        "5"
+                        "0",
+                        "0",
+                        "0"
                     ]
                 }
             ],
@@ -406,9 +406,9 @@
                     "_id": "15",
                     "ballot_title": "SUZY LOFTUS",
                     "results": [
-                        "59693",
+                        "59698",
                         "16562",
-                        "43131"
+                        "43136"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -417,9 +417,9 @@
                     "_id": "16",
                     "ballot_title": "LEIF DAUTCH",
                     "results": [
-                        "26754",
+                        "26758",
                         "6537",
-                        "20217"
+                        "20221"
                     ],
                     "success": false,
                     "winning_status": "rcv_eliminated"
@@ -428,9 +428,9 @@
                     "_id": "17",
                     "ballot_title": "NANCY TUNG",
                     "results": [
-                        "37016",
+                        "37022",
                         "8090",
-                        "28926"
+                        "28932"
                     ],
                     "success": false,
                     "winning_status": "rcv_eliminated"
@@ -439,9 +439,9 @@
                     "_id": "18",
                     "ballot_title": "CHESA BOUDIN",
                     "results": [
-                        "68562",
+                        "68575",
                         "25282",
-                        "43280"
+                        "43293"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -470,9 +470,9 @@
                     "_id": "RSCst",
                     "heading": "Ballots Cast",
                     "results": [
-                        "206085",
+                        "206117",
                         "59423",
-                        "146662"
+                        "146694"
                     ]
                 },
                 {
@@ -497,9 +497,9 @@
                     "_id": "RSUnd",
                     "heading": "Undervotes",
                     "results": [
-                        "13583",
+                        "13590",
                         "2869",
-                        "10714"
+                        "10721"
                     ]
                 },
                 {
@@ -515,18 +515,18 @@
                     "_id": "RSTot",
                     "heading": "Total Votes",
                     "results": [
-                        "192028",
+                        "192053",
                         "56471",
-                        "135557"
+                        "135582"
                     ]
                 },
                 {
                     "_id": "RSWri",
                     "heading": "Writein Votes",
                     "results": [
-                        "3",
                         "0",
-                        "3"
+                        "0",
+                        "0"
                     ]
                 }
             ],
@@ -539,9 +539,9 @@
                     "_id": "20",
                     "ballot_title": "MANOHAR \"MANO\" RAJU",
                     "results": [
-                        "158541",
+                        "158560",
                         "47916",
-                        "110625"
+                        "110644"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -570,9 +570,9 @@
                     "_id": "RSCst",
                     "heading": "Ballots Cast",
                     "results": [
-                        "206085",
+                        "206117",
                         "59423",
-                        "146662"
+                        "146694"
                     ]
                 },
                 {
@@ -597,9 +597,9 @@
                     "_id": "RSUnd",
                     "heading": "Undervotes",
                     "results": [
-                        "47506",
-                        "11500",
-                        "36006"
+                        "47523",
+                        "11501",
+                        "36022"
                     ]
                 },
                 {
@@ -615,18 +615,18 @@
                     "_id": "RSTot",
                     "heading": "Total Votes",
                     "results": [
-                        "158545",
-                        "47917",
-                        "110628"
+                        "158560",
+                        "47916",
+                        "110644"
                     ]
                 },
                 {
                     "_id": "RSWri",
                     "heading": "Writein Votes",
                     "results": [
-                        "4",
-                        "1",
-                        "3"
+                        "0",
+                        "0",
+                        "0"
                     ]
                 }
             ],
@@ -639,9 +639,9 @@
                     "_id": "22",
                     "ballot_title": "PAUL MIYAMOTO",
                     "results": [
-                        "146611",
+                        "146628",
                         "42527",
-                        "104084"
+                        "104101"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -670,9 +670,9 @@
                     "_id": "RSCst",
                     "heading": "Ballots Cast",
                     "results": [
-                        "206085",
+                        "206117",
                         "59423",
-                        "146662"
+                        "146694"
                     ]
                 },
                 {
@@ -697,9 +697,9 @@
                     "_id": "RSUnd",
                     "heading": "Undervotes",
                     "results": [
-                        "59435",
-                        "16885",
-                        "42550"
+                        "59452",
+                        "16886",
+                        "42566"
                     ]
                 },
                 {
@@ -715,18 +715,18 @@
                     "_id": "RSTot",
                     "heading": "Total Votes",
                     "results": [
-                        "146613",
-                        "42528",
-                        "104085"
+                        "146628",
+                        "42527",
+                        "104101"
                     ]
                 },
                 {
                     "_id": "RSWri",
                     "heading": "Writein Votes",
                     "results": [
-                        "2",
-                        "1",
-                        "1"
+                        "0",
+                        "0",
+                        "0"
                     ]
                 }
             ],
@@ -739,9 +739,9 @@
                     "_id": "24",
                     "ballot_title": "JOSÉ CISNEROS",
                     "results": [
-                        "152685",
+                        "152703",
                         "45061",
-                        "107624"
+                        "107642"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -770,9 +770,9 @@
                     "_id": "RSCst",
                     "heading": "Ballots Cast",
                     "results": [
-                        "206085",
+                        "206117",
                         "59423",
-                        "146662"
+                        "146694"
                     ]
                 },
                 {
@@ -797,9 +797,9 @@
                     "_id": "RSUnd",
                     "heading": "Undervotes",
                     "results": [
-                        "53368",
+                        "53383",
                         "14355",
-                        "39013"
+                        "39028"
                     ]
                 },
                 {
@@ -815,18 +815,18 @@
                     "_id": "RSTot",
                     "heading": "Total Votes",
                     "results": [
-                        "152686",
+                        "152703",
                         "45061",
-                        "107625"
+                        "107642"
                     ]
                 },
                 {
                     "_id": "RSWri",
                     "heading": "Writein Votes",
                     "results": [
-                        "1",
                         "0",
-                        "1"
+                        "0",
+                        "0"
                     ]
                 }
             ],
@@ -839,9 +839,9 @@
                     "_id": "26",
                     "ballot_title": "JENNY LAM",
                     "results": [
-                        "121139",
+                        "121154",
                         "31352",
-                        "89787"
+                        "89802"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -850,9 +850,9 @@
                     "_id": "27",
                     "ballot_title": "KIRSTEN STROBEL",
                     "results": [
-                        "26034",
+                        "26036",
                         "9516",
-                        "16518"
+                        "16520"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -861,9 +861,9 @@
                     "_id": "28",
                     "ballot_title": "ROBERT K. COLEMAN",
                     "results": [
-                        "17391",
+                        "17395",
                         "6219",
-                        "11172"
+                        "11176"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -892,9 +892,9 @@
                     "_id": "RSCst",
                     "heading": "Ballots Cast",
                     "results": [
-                        "206312",
+                        "206345",
                         "59419",
-                        "146893"
+                        "146926"
                     ]
                 },
                 {
@@ -919,27 +919,27 @@
                     "_id": "RSUnd",
                     "heading": "Undervotes",
                     "results": [
-                        "41107",
+                        "41121",
                         "12228",
-                        "28879"
+                        "28893"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "heading": "Total Votes",
                     "results": [
-                        "164566",
+                        "164585",
                         "47087",
-                        "117479"
+                        "117498"
                     ]
                 },
                 {
                     "_id": "RSWri",
                     "heading": "Writein Votes",
                     "results": [
-                        "2",
                         "0",
-                        "2"
+                        "0",
+                        "0"
                     ]
                 }
             ],
@@ -952,9 +952,9 @@
                     "_id": "30",
                     "ballot_title": "IVY LEE",
                     "results": [
-                        "157839",
+                        "157858",
                         "47035",
-                        "110804"
+                        "110823"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -983,9 +983,9 @@
                     "_id": "RSCst",
                     "heading": "Ballots Cast",
                     "results": [
-                        "206307",
+                        "206340",
                         "59414",
-                        "146893"
+                        "146926"
                     ]
                 },
                 {
@@ -1010,27 +1010,27 @@
                     "_id": "RSUnd",
                     "heading": "Undervotes",
                     "results": [
-                        "48411",
+                        "48427",
                         "12367",
-                        "36044"
+                        "36060"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "heading": "Total Votes",
                     "results": [
-                        "157841",
+                        "157858",
                         "47035",
-                        "110806"
+                        "110823"
                     ]
                 },
                 {
                     "_id": "RSWri",
                     "heading": "Writein Votes",
                     "results": [
-                        "2",
                         "0",
-                        "2"
+                        "0",
+                        "0"
                     ]
                 }
             ],
@@ -1043,9 +1043,9 @@
                     "_id": "32",
                     "ballot_title": "YES",
                     "results": [
-                        "143033",
+                        "143055",
                         "44590",
-                        "98443"
+                        "98465"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1054,9 +1054,9 @@
                     "_id": "33",
                     "ballot_title": "NO",
                     "results": [
-                        "57964",
+                        "57974",
                         "13399",
-                        "44565"
+                        "44575"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -1085,9 +1085,9 @@
                     "_id": "RSCst",
                     "heading": "Ballots Cast",
                     "results": [
-                        "206307",
+                        "206340",
                         "59414",
-                        "146893"
+                        "146926"
                     ]
                 },
                 {
@@ -1112,18 +1112,18 @@
                     "_id": "RSUnd",
                     "heading": "Undervotes",
                     "results": [
-                        "5268",
+                        "5269",
                         "1414",
-                        "3854"
+                        "3855"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "heading": "Total Votes",
                     "results": [
-                        "200997",
+                        "201029",
                         "57989",
-                        "143008"
+                        "143040"
                     ]
                 }
             ],
@@ -1137,9 +1137,9 @@
                     "_id": "34",
                     "ballot_title": "YES",
                     "results": [
-                        "152435",
+                        "152456",
                         "45329",
-                        "107106"
+                        "107127"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1148,9 +1148,9 @@
                     "_id": "35",
                     "ballot_title": "NO",
                     "results": [
-                        "41764",
+                        "41775",
                         "10685",
-                        "31079"
+                        "31090"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -1179,9 +1179,9 @@
                     "_id": "RSCst",
                     "heading": "Ballots Cast",
                     "results": [
-                        "206307",
+                        "206340",
                         "59414",
-                        "146893"
+                        "146926"
                     ]
                 },
                 {
@@ -1206,18 +1206,18 @@
                     "_id": "RSUnd",
                     "heading": "Undervotes",
                     "results": [
-                        "12073",
+                        "12074",
                         "3393",
-                        "8680"
+                        "8681"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "heading": "Total Votes",
                     "results": [
-                        "194199",
+                        "194231",
                         "56014",
-                        "138185"
+                        "138217"
                     ]
                 }
             ],
@@ -1231,9 +1231,9 @@
                     "_id": "36",
                     "ballot_title": "YES",
                     "results": [
-                        "36654",
+                        "36666",
                         "10092",
-                        "26562"
+                        "26574"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -1242,9 +1242,9 @@
                     "_id": "37",
                     "ballot_title": "NO",
                     "results": [
-                        "164865",
+                        "164885",
                         "47989",
-                        "116876"
+                        "116896"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1273,9 +1273,9 @@
                     "_id": "RSCst",
                     "heading": "Ballots Cast",
                     "results": [
-                        "206307",
+                        "206340",
                         "59414",
-                        "146893"
+                        "146926"
                     ]
                 },
                 {
@@ -1300,18 +1300,18 @@
                     "_id": "RSUnd",
                     "heading": "Undervotes",
                     "results": [
-                        "4669",
+                        "4670",
                         "1301",
-                        "3368"
+                        "3369"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "heading": "Total Votes",
                     "results": [
-                        "201519",
+                        "201551",
                         "58081",
-                        "143438"
+                        "143470"
                     ]
                 }
             ],
@@ -1325,9 +1325,9 @@
                     "_id": "38",
                     "ballot_title": "YES",
                     "results": [
-                        "135702",
+                        "135721",
                         "40886",
-                        "94816"
+                        "94835"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1336,9 +1336,9 @@
                     "_id": "39",
                     "ballot_title": "NO",
                     "results": [
-                        "64883",
+                        "64896",
                         "16897",
-                        "47986"
+                        "47999"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -1367,9 +1367,9 @@
                     "_id": "RSCst",
                     "heading": "Ballots Cast",
                     "results": [
-                        "206307",
+                        "206340",
                         "59414",
-                        "146893"
+                        "146926"
                     ]
                 },
                 {
@@ -1394,18 +1394,18 @@
                     "_id": "RSUnd",
                     "heading": "Undervotes",
                     "results": [
-                        "5673",
+                        "5674",
                         "1618",
-                        "4055"
+                        "4056"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "heading": "Total Votes",
                     "results": [
-                        "200585",
+                        "200617",
                         "57783",
-                        "142802"
+                        "142834"
                     ]
                 }
             ],
@@ -1419,9 +1419,9 @@
                     "_id": "40",
                     "ballot_title": "YES",
                     "results": [
-                        "151845",
+                        "151865",
                         "46079",
-                        "105766"
+                        "105786"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1430,9 +1430,9 @@
                     "_id": "41",
                     "ballot_title": "NO",
                     "results": [
-                        "47165",
+                        "47175",
                         "11446",
-                        "35719"
+                        "35729"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -1461,9 +1461,9 @@
                     "_id": "RSCst",
                     "heading": "Ballots Cast",
                     "results": [
-                        "206307",
+                        "206340",
                         "59414",
-                        "146893"
+                        "146926"
                     ]
                 },
                 {
@@ -1488,18 +1488,18 @@
                     "_id": "RSUnd",
                     "heading": "Undervotes",
                     "results": [
-                        "7237",
+                        "7240",
                         "1870",
-                        "5367"
+                        "5370"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "heading": "Total Votes",
                     "results": [
-                        "199010",
+                        "199040",
                         "57525",
-                        "141485"
+                        "141515"
                     ]
                 }
             ],
@@ -1513,9 +1513,9 @@
                     "_id": "42",
                     "ballot_title": "YES",
                     "results": [
-                        "151003",
+                        "151023",
                         "44143",
-                        "106860"
+                        "106880"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1524,9 +1524,9 @@
                     "_id": "43",
                     "ballot_title": "NO",
                     "results": [
-                        "45374",
+                        "45384",
                         "12569",
-                        "32805"
+                        "32815"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -1555,9 +1555,9 @@
                     "_id": "RSCst",
                     "heading": "Ballots Cast",
                     "results": [
-                        "206307",
+                        "206340",
                         "59414",
-                        "146893"
+                        "146926"
                     ]
                 },
                 {
@@ -1582,18 +1582,18 @@
                     "_id": "RSUnd",
                     "heading": "Undervotes",
                     "results": [
-                        "9902",
+                        "9905",
                         "2694",
-                        "7208"
+                        "7211"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "heading": "Total Votes",
                     "results": [
-                        "196377",
+                        "196407",
                         "56712",
-                        "139665"
+                        "139695"
                     ]
                 }
             ],
@@ -1636,9 +1636,9 @@
                 "_id": "RSCst",
                 "heading": "Ballots Cast",
                 "results": [
-                    "206090",
+                    "206122",
                     "59428",
-                    "146662"
+                    "146694"
                 ]
             },
             {
