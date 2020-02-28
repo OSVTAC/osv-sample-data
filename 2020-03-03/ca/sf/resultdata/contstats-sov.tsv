@@ -1,0 +1,25 @@
+contest_id	registration	ballots_cast	ballots_uncounted	computed_ballots	overvotes	undervotes	totalvotes	vote_for	contest_name
+X001	0	0	0	0	0	0	0	1	President DEM
+X002	0	0	0	0	0	0	0	1	President REP
+X003	0	0	0	0	0	0	0	1	President AI
+X004	0	0	0	0	0	0	0	1	President GRN
+X005	0	0	0	0	0	0	0	1	President P&F
+X006	0	0	0	0	0	0	0	1	President LIB
+X007	0	0	0	0	0	0	0	1	CCC District 17 DEM
+X008	0	0	0	0	0	0	0	1	CCC District 19 DEM
+X009	0	0	0	0	0	0	0	1	CCC District 17 REP
+X010	0	0	0	0	0	0	0	1	US House of Rep District 12
+X011	0	0	0	0	0	0	0	1	US House of Rep District 13
+X012	0	0	0	0	0	0	0	1	US House of Rep District 14
+X013	0	0	0	0	0	0	0	1	STATE SENATOR District 11
+X014	0	0	0	0	0	0	0	1	STATE ASSEMBLY MEMBER District 17
+X015	0	0	0	0	0	0	0	1	STATE ASSEMBLY MEMBER District 19
+X016	0	0	0	0	0	0	0	1	Superior Court Judge Seat 1
+X017	0	0	0	0	0	0	0	1	Superior Court Judge Seat 18
+X018	0	0	0	0	0	0	0	1	Superior Court Judge Seat 21
+X019	0	0	0	0	0	0	0	1	Proposition 13
+X020	0	0	0	0	0	0	0	1	Proposition A
+X021	0	0	0	0	0	0	0	1	Proposition B
+X022	0	0	0	0	0	0	0	1	Proposition C
+X023	0	0	0	0	0	0	0	1	Proposition D
+X024	0	0	0	0	0	0	0	1	Proposition E

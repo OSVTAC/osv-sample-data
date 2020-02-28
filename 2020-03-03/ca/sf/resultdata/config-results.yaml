@@ -1,0 +1,4 @@
+# config-results.yaml - Configuration for the convsfresults program
+
+# Provide a contest ID to count each Card for turnout (space separated)
+card_turnout_contests:

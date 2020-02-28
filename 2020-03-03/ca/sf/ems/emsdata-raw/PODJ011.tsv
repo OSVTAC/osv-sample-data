@@ -1,0 +1,616 @@
+ElectionAbbr	PollingSiteID	PollingSiteName	TableID	PollingPlaceDesc1	PollingPlaceDesc2	SamBalAddr1	SamBalAddr2	VotingPctID	VotingPctName	PollPlaceRegPctID	PollPlaceRegPctPortion	BallotTypeList
+2020PRI   	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	1151   	Pct 1151 MB	1151   		2  
+2020PRI   	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	1154   	Pct 1154 MB	1154   		2  
+2020PRI   	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	7015   	Pct 7015 MB	7015   		3  
+2020PRI   	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	7041   	Pct 7041 MB	7041   		3  
+2020PRI   	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	7101   	Pct 7101 MB	7101   		2  
+2020PRI   	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	7553   	Pct 7553 MB	7553   		2  
+2020PRI   	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	7648   	Pct 7648 MB	7648   		3  
+2020PRI   	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	7703   	Pct 7703 MB	7703   		2  
+2020PRI   	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	7933   	Pct 7933 MB	7933   		2  
+2020PRI   	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	7954   	Pct 7954 MB	7954   		2  
+2020PRI   	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	7958   	Pct 7958 MB	7958   		2  
+2020PRI   	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	9001   	Pct 9001 MB	9001   		4  
+2020PRI   	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	9257   	Pct 9257 MB	9257   		6  
+2020PRI   	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	9501   	Pct 9501 MB	9501   		5  
+2020PRI   	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	9502   	Pct 9502 MB	9502   		5  
+2020PRI   	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	9706   	Pct 9706 MB	9706   		5  
+2020PRI   	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	9732   	Pct 9732 MB	9732   		5  
+2020PRI   	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	9733   	Pct 9733 MB	9733   		1  
+2020PRI   	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	9900   	Pct 9900 MB	9900   		7  
+2020PRI   	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	9901   	Pct 9901 MB	9901   		8  
+2020PRI   	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	9902   	Pct 9902 MB	9902   		9  
+2020PRI   	11	1129 - 755 Morse St		Longfellow School - Front Lobby	755 Morse St	Btw Mission & Lowell	3.5% Slope	1129   	Pct 1129	1129   		1  
+2020PRI   	21	1114 - 200 Onondaga Ave		Balboa Baptist Church	200 Onondaga Ave	Corner Otsego & Onondaga	4.6% Slope	1114   	Pct 1114	1114   		1  
+2020PRI   	28	1152 - 1261 Geneva Ave		Geneva Ave United Methodist Church - Fellowship Hall	1261 Geneva Ave	Btw Vienna & Athens	5.0% Slope	1152   	Pct 1152	1152   		2  
+2020PRI   	32	1135 - 859 Prague St		Guadalupe Elementary School - Hallway	859 Prague St	Enter At Corner Of Prague & Cordova	8.1% Slope - Ramped Access	1135   	Pct 1135	1135   		1  
+2020PRI   	36	1104/05 - 62 Santa Rosa Avenue		Church - Corpus Christi	62 Santa Rosa Ave	Enter Off Alemany Blvd At Santa Rosa Ave	1.1% Slope	1104   	Pct 1104/1105	1104   		1  
+2020PRI   	36	1104/05 - 62 Santa Rosa Avenue		Church - Corpus Christi	62 Santa Rosa Ave	Enter Off Alemany Blvd At Santa Rosa Ave	1.1% Slope	1104   	Pct 1104/1105	1105   		1  
+2020PRI   	39	1144 - 260 Madrid St		Monroe School - Multipurpose Room	260 Madrid St	Btw Avalon & Excelsior Ave	2.0% Slope	1144   	Pct 1144	1144   		2  
+2020PRI   	55	1149- 325 La Grande Ave (loc 1151)		City Arts & Tech High School - Hallway	325 La Grande Ave	Btw Persia & Brazil	8.3% Slope - Ramped Access	1149   	Pct 1149	1149   		2  
+2020PRI   	61	7943 - 95 Justin Drive		St Mary's Rec Center - Gym	95 Justin Drive	Corner Of Justin Dr & Murray St	5.2% Slope	7943   	Pct 7943	7943   		2  
+2020PRI   	65	7946 - 810 Silver Ave		School - Hillcrest - Auditorium	810 Silver Ave	Btw Cambridge And Yale Sts	8.3% Slope - Ramped Access	7946   	Pct 7946	7946   		2  
+2020PRI   	66	7951 - 500 Felton Street		Palega Rec Center - Lobby	500 Felton St	Btw Hamilton St & Somerset St	6.3% Slope	7951   	Pct 7951	7951   		2  
+2020PRI   	73	7037 - 1654 Sunnydale Ave		Sunnydale Development Community Rm	1654 Sunnydale Ave	Corner Of  Santos	8.3% Slope Ramped Access	7037   	Pct 7037	7037   		3  
+2020PRI   	78	7039 - 70 Delta St		School - El Dorado - Cafeteria	70 Delta St	Btw Harkness Ave & Hamilton St	8.3% Slope Ramped Access	7039   	Pct 7039	7039   		3  
+2020PRI   	91	7049 - 701 Sunnydale Ave		Church Of The Visitacion	701 Sunnydale Ave	Btw Rutland & Cora Sts	8.1% Slope Ramped Access	7049   	Pct 7049	7049   		3  
+2020PRI   	106	9232 - 25 Lake St		St John's Presbyterian Church - Lobby	25 Lake St	Enter At Corner Of Lake St & Arguello Bl	8.3% Slope - Ramped Access	9232   	Pct 9232	9232   		6  
+2020PRI   	116	9253 - 3365 Sacramento St		Menorah Park- Conference Room	3365 Sacramento St	Between Walnut & Presidio Ave	3.3% Slope	9253   	Pct 9253	9253   		6  
+2020PRI   	119	9117 - 499 41st Ave		Firehouse #34	499 41st Ave	Btw Geary Blvd & Pt. Lobos Ave	7.1% Slope	9117   	Pct 9117	9117   		5  
+2020PRI   	121	9136 - 734 46th Ave		Garage	734 46th Ave	Btw Balboa & Cabrillo Sts	1.6% Slope	9136   	Pct 9136	9136   		5  
+2020PRI   	134	9138 - 6101 Fulton St		Golden Gate Park Sr. Center - Lobby	6101 Fulton St	Btw 37th & 38th Aves	8.3% Slope	9138   	Pct 9138	9138   		5  
+2020PRI   	138	9122 - 30th Avenue At Anza Street		Washington High School - Audit Lobby	600 32nd Ave	Enter 30th Ave At Anza St	7.4% Slope - Ramped Access	9122   	Pct 9122	9122   		5  
+2020PRI   	148	9142 - 735 24th Ave		Academic & Professional Dev - Room 118	735 24th Ave	Btw Balboa & Cabrillo Sts	6.9% Slope	9142   	Pct 9142	9142   		5  
+2020PRI   	150	9107 - 250 23rd Ave		School - Alamo Elementary - Lobby	250 23rd Ave - Use Entrance Nearest Clement	Between Clement & California Sts	3.7% Slope	9107   	Pct 9107	9107   		5  
+2020PRI   	178	9146 - 701 8th Avenue		Church - Church Of Christ - Comm Rm	701 8th Ave	Btw Cabrillo & Fulton Sts	2.5% Slope	9146   	Pct 9146	9146   		5  
+2020PRI   	181	9116 - 345 Arguello Blvd		Senior Housing - Community Room	345 Arguello Blvd	Btw Cornwall & Clement Sts	2.8% Slope	9116   	Pct 9116	9116   		5  
+2020PRI   	185	9147 - 651 6th Avenue		School - Mccoppin - Cafeteria	651 6th Ave	Btw Cabrillo & Balboa Sts	3.7% Slope	9147   	Pct 9147	9147   		5  
+2020PRI   	190	9249 - 460 Arguello Blvd		School - Roosevelt - Auditorium	460 Arguello Blvd	Enter Schoolyard On Palm Btw Geary And Euclid	8.3% Slope	9249   	Pct 9249	9249   		6  
+2020PRI   	192	9251 - 51 Commonwealth Ave		Church - St Gregory Armenian - Youth Hall	51 Commonwealth Ave	Between Euclid Ave & California St	5.4% Slope	9251   	Pct 9251	9251   		6  
+2020PRI   	207	9258 - 40 Vega St		Wallenberg High School - Cafeteria	40 Vega St	Btw Nido & Anza Vista	6.8% Slope	9258   	Pct 9258	9258   		6  
+2020PRI   	208	9507 - 350 Masonic Ave		San Francisco Day School - Room 5	350 Masonic Ave	Enter Off Golden Gate Btw Masonic & Central	6.3% Slope	9507   	Pct 9507	9507   		5  
+2020PRI   	209	9509 - 1915 Mcallister St		Temple Pentecostal Church - Dinning Room	1915 Mcallister St	Btw Lyon St & Central Ave	1.5% Slope	9509   	Pct 9509	9509   		5  
+2020PRI   	222	9417 - 1530 43rd Avenue		Francis Scott Key Elem. - Auditorium Lobby	1530 43rd Avenue	Enter At Corner Of 43rd And Kirkham	8.2% Ramped Access	9417   	Pct 9417	9417   		6  
+2020PRI   	239	9419 - 1570 31st Ave		Lawton School - Auditorium	1570 31st Ave	Enter Off Lawton Between 30th And 31st Aves	5.0% Slope	9419   	Pct 9419	9419   		6  
+2020PRI   	247	9429 - 2051 34th Ave		R. L. Stevenson Elementary School - Main Lobby	2051 34th Ave	Btw Quintara & Pacheco	5.5% Slope	9429   	Pct 9429	9429   		6  
+2020PRI   	263	9427 - 1750 29th Ave		Episcopal Church Of The Incarnation	1750 29th Ave	Between Noriega & Moraga Streets	8.3% Slope - Ramped Access	9427   	Pct 9427	9427   		6  
+2020PRI   	283	9443 - 2650 42nd Ave		Ulloa School - Gymnasium	2650 42nd Ave	Enter Off Vicente Between 41st & 42nd Ave.	8.3% Slope - Ramped Access	9443   	Pct 9443	9443   		6  
+2020PRI   	307	9439 - 2162 24th Ave		Abraham Lincoln School - Teachers' Lounge	2162 24th Ave	Btw Rivera & Quintara St's	4.7% Slope	9439   	Pct 9439	9439   		6  
+2020PRI   	315	9409 - 1725 Irving St		School - Jefferson - Auditorium	1725 Irving St	Btw 18th And 19th Aves	4.1% Slope	9409   	Pct 9409	9409   		6  
+2020PRI   	318	9516 - 1390 14th Avenue		Church - St Annes	1390 14th Avenue	Between Irving And Judah	7.7% Slope - Ramped Access	9516   	Pct 9516	9516   		5  
+2020PRI   	330	7701 - 8 Locksley Ave		Sunset Towers - Lobby	8 Locksley Ave	Btw Kirkham & Lawton Sts	8.3% Slope	7701   	Pct 7701	7701   		2  
+2020PRI   	331	9514/22- 1 Irving St		Lobby - U C S F Parking Garage	1 Irving St	Corner Arguello Blvd & Irving St	3.3% Slope	9514   	Pct 9514/9522	9514   		5  
+2020PRI   	331	9514/22- 1 Irving St		Lobby - U C S F Parking Garage	1 Irving St	Corner Arguello Blvd & Irving St	3.3% Slope	9514   	Pct 9514/9522	9522   		5  
+2020PRI   	348	9704 - 1541 12th Ave		School- Alice Fong Yu - Room 401	1541 12th Ave	Between Kirkham & Lawton	3.4% Slope	9704   	Pct 9704	9704   		5  
+2020PRI   	364	7702 - 500 Clarendon Avenue		Clarendon Elementary School - Lobby	500 Clarendon Ave	Btw Panorama Dr & Galewood Cir	8.3% Slope - Ramped Access	7702   	Pct 7702	7702   		2  
+2020PRI   	366	7704 - 285 Olympia Way		Firehouse #20	285 Olympia Way	Corner Clarendon Ave & Olympia Way	3.2% Slope	7704   	Pct 7704	7704   		2  
+2020PRI   	373	9713 - 2155 18th Ave		Firehouse #40	2155 18th Ave	Between Rivera & Quintara St	4.2% slope	9713   	Pct 9713	9713   		5  
+2020PRI   	388	9731 - 1091 Portola Dr		Firehouse #39	1091 Portola Dr	On Portola at Marne & Miraloma	5.0% slope	9731   	Pct 9731	9731   		1  
+2020PRI   	395	7706 - 175 Omar Way		Miraloma Elementary School - Gym	175 Omar Way	Enter On Omar At Rockdale Dr	6.3% Slope	7706   	Pct 7706	7706   		2  
+2020PRI   	411	9728 - 105 Aptos Ave		Aptos Middle School - Room 231	105 Aptos Ave	Enter Off Upland Btw Aptos & San Aleso	5.5% Slope	9728   	Pct 9728	9728   		1  
+2020PRI   	412	9742 - 300 Stonecrest Drive		Junipero Serra Playground	300 Stonecrest Drive	Enter Stonecrest Dr Off Broadmoor Dr	8.3% Slope - Ramped Access	9742   	Pct 9742	9742   		1  
+2020PRI   	439	7868 - 80 Digby Street		Firehouse #26	80 Digby St	Near Playground At Digby & Everson Sts	5% Slope	7868   	Pct 7868	7868   		3  
+2020PRI   	446	7871 - 151 Lippard Ave		School - Glen Park - Auditorium	151 Lippard Ave	Btw  Bosworth & Joost Sts	5.5% Slope - Ramped Access	7871   	Pct 7871	7871   		3  
+2020PRI   	450	7864 - 295 Day St		Upper Noe Recreation Center	295 Day St	Btw Sanchez & Church Sts	8% Slope - Ramped Access	7864   	Pct 7864	7864   		3  
+2020PRI   	452	7865 - 65 Chenery St		Dolores Huerta Elementary School - Cafeteria	65 Chenery St	Enter Off Randall Btw Chenery & San Jose Sts	8.3% Slope	7865   	Pct 7865	7865   		3  
+2020PRI   	453	7944 - 194 Park St		Firehouse #32	194 Park St	Corner Of Holly Park Circle & Park St	2.2% Slope	7944   	Pct 7944	7944   		2  
+2020PRI   	461	7939 - 500 Cortland Ave		Bernal Heights Library - Community Room	500 Cortland Ave	Enter On Andover St. Btw Cortland & Moultrie	1.8% Slope	7939   	Pct 7939	7939   		2  
+2020PRI   	466	7945 - 560 Alemany Blvd		Alemany Apartments - Community Room	560 Alemany Blvd	Between Ellsworth And Folsom	5.0% Slope	7945   	Pct 7945	7945   		2  
+2020PRI   	474	9725 - 220 Middlefield Drive		Lakeshore Elementary - Multi Purpose Room	220 Middlefield Drive	Corner Of Eucalyptus & Middlefield	6% Slope - Ramped Access	9725   	Pct 9725	9725   		1  
+2020PRI   	481	9739 - 350 Arballo Dr		Villas Park Merced - Lobby	350 Arballo Dr	Enter Between Vidal & Pinto Ave	7.6% slope	9739   	Pct 9739	9739   		1  
+2020PRI   	485	9745 - 150 Font Blvd		Villas Park Merced - Lobby	150 Font Blvd	Btw Cambon & Chumasero Drive	8% Slope - Ramped Entrance	9745   	Pct 9745	9745   		1  
+2020PRI   	486	9744 - 750 Gonzalez Dr		Villas Park Merced - Lobby	750 Gonzalez Dr	Between Bucareli And Rivas	8.3% Slope - Ramped Access	9744   	Pct 9744	9744   		1  
+2020PRI   	492	1106 - 65 Beverly St		Temple United Methodist Church	65 Beverly St	Enter Beverly Btw Shields St & 19th Ave	2.8% Slope	1106   	Pct 1106	1106   		1  
+2020PRI   	517	7016 - 1800 Oakdale Ave		C C S F - Southeast Campus	1800 Oakdale Ave	Btw Quint & Phelps Sts	6.1% Slope	7016   	Pct 7016	7016   		3  
+2020PRI   	522	7025 - 410 Hawes Street		Our Lady Of Lourdes Church	410 Hawes St	Btw Innes Ave & Hunters Point Bl	5.3% Slope	7025   	Pct 7025	7025   		3  
+2020PRI   	524	7018 - 45 Conkling Street		Thurgood Marshall High School - Auditorum	45 Conkling St	Between Silver Ave And Waterville St	8.3% Slope - Ramped Access	7018   	Pct 7018	7018   		3  
+2020PRI   	528	7021 - 1711 Oakdale Ave		All Hallows Community - Community Room	1711 Oakdale Ave	At Intersection Of Newhall St	4.3% Slope	7021   	Pct 7021	7021   		3  
+2020PRI   	530	7027 - 50 Pomona St		Charles Drew Elementary School - Cafeteria	50 Pomona St	Btw Thornton Ave & Bayview St	3.6% Slope	7027   	Pct 7027	7027   		3  
+2020PRI   	548	7026 - 2082 Bancroft Ave		Garage	2082 Bancroft Ave	Btw Thornton Ave & Phelps St	2.9% Slope	7026   	Pct 7026	7026   		3  
+2020PRI   	562	7054 - 1035 Gilman Avenue		Bret Harte Elementary School - Auditorium	1035 Gilman Avenue	Btw Griffith & Hawes Sts	5.1% Slope	7054   	Pct 7054	7054   		3  
+2020PRI   	569	9206 - 3630 Divisadero St		Claire Lilienthal School - Scott Campus - Auditorium	3630 Divisadero St	Btw Beach & North Point Sts	6.5% Slope	9206   	Pct 9206	9206   		6  
+2020PRI   	581	9236 - 3150 Washington St		S F University High School	3150 Washington St	Btw Lyon & Baker Sts	8.3% Slope	9236   	Pct 9236	9236   		6  
+2020PRI   	586	9244 - 2698 California St		Senior Housing - Social Room	2698 California St	Enter Scott St Btw California & Sacramento	4.4% Slope	9244   	Pct 9244	9244   		6  
+2020PRI   	595	9208 - 3500 Fillmore St		Marina Middle School - Auditorium Lobby	3500 Fillmore St	Between Bay And Fillmore Streets	8.3% Slope - Ramped Access	9208   	Pct 9208	9208   		6  
+2020PRI   	603	9222 - 2320 Green St		St Vincent De Paul School	2320 Green St	Btw Pierce & Steiner Sts	4.3% slope	9222   	Pct 9222	9222   		6  
+2020PRI   	619	9224 - 1801 Green Street		Golden Gate Valley Library - Program Rm	1801 Green St	Enter Thru Iron Gate Btw Octavia & Laguna Sts	3% Slope at entrance	9224   	Pct 9224	9224   		6  
+2020PRI   	627	9219 - 1570 Greenwich St		Garage	1570 Greenwich St	Enter Off Franklin At Greenwich Sts	3.9% slope	9219   	Pct 9219	9219   		6  
+2020PRI   	630	9225 - 1651 Union St		Sherman School - Library	1651 Union St	Btw Franklin & Gough Sts	8.3% Slope - Ramped Access	9225   	Pct 9225	9225   		6  
+2020PRI   	638	9247 - 2150 California St		Firehouse #38	2150 California St	Between Buchanan & Laguna Streets	8.2% Slope	9247   	Pct 9247	9247   		6  
+2020PRI   	646	7207 - 1880 Pine St		1880 Pine St Apartments - 2nd Level Community Rm	1880 Pine St	Btw Octavia & Gough Streets	1.9% Slope	7207   	Pct 7207	7207   		3  
+2020PRI   	647	7505 -  1501 Post St		The Sequoias - Auditorium	1501 Post St	Between Laguna & Octavia	8.3% Slope Ramped Access	7505   	Pct 7505	7505   		2  
+2020PRI   	650	7509/11 - 1031 Franklin St		Urban Life Center - Conference Room	1031 Franklin St	Btw O'farrell & Ellis	8.2% Slope	7509   	Pct 7509/7511	7509   		2  
+2020PRI   	650	7509/11 - 1031 Franklin St		Urban Life Center - Conference Room	1031 Franklin St	Btw O'farrell & Ellis	8.2% Slope	7509   	Pct 7509/7511	7511   		2  
+2020PRI   	652	7201 - 1150 Francisco Street		Galileo High School - Room 210	1150 Francisco St	Between Van Ness Ave & Polk St	8% Slope	7201   	Pct 7201	7201   		3  
+2020PRI   	653	7204 - 2637 Larkin St		Garage	2637 Larkin St	Btw Chestnut & Lombard	4.8% Slope	7204   	Pct 7204	7204   		3  
+2020PRI   	654	7202 - 2454 Hyde St		Norwegian Seaman's Church - Garage	2454 Hyde St	Btw Francisco & Chestnut Sts	8% Slope	7202   	Pct 7202	7202   		3  
+2020PRI   	663	7304 - 2190 Powell St		Francisco Middle School - Auditorium	2190 Powell St	Enter Schoolyard From Francisco Btw Powell & Stockton	2.7% Slope	7304   	Pct 7304	7304   		2  
+2020PRI   	665	7307 - 651 Lombard Street		Joe Dimaggio North Beach Playground	651 Lombard St	Btw Mason & Powell	4% Slope	7307   	Pct 7307	7307   		2  
+2020PRI   	671	7331 - 155 Jackson Street		Golden Gateway Ctr - Lobby	155 Jackson St	Enter Off Front St At The Corner Of Jackson	2.8% Slope	7331   	Pct 7331	7331   		2  
+2020PRI   	676	7318 - 2041 Larkin Street		The Church For The Fellowship Of All Peoples	2041 Larkin St	Between Broadway & Vallejo	3.2% Slope	7318   	Pct 7318	7318   		2  
+2020PRI   	685	7333 - 1325 Leavenworth Street		Firehouse #41	1325 Leavenworth St	Btw Washington & Clay	1.9% Slope	7333   	Pct 7333	7333   		2  
+2020PRI   	693	7306 - 756 Union St		San Francisco Evangelical Free Church	756 Union St	Btw Powell & Mason	6.2% Slope	7306   	Pct 7306	7306   		2  
+2020PRI   	700	7314 - 1450 Powell Street		Salvation Army - Lobby	1450 Powell Street	Btw Broadway & Vallejo	2.5% Slope	7314   	Pct 7314	7314   		2  
+2020PRI   	703	7317 - 350 Broadway Street		John Yehall Chin Elementary School - Library	350 Broadway St	Btw Sansome & Montgomery	8.3% Slope - Ramped Access	7317   	Pct 7317	7317   		2  
+2020PRI   	705	7327 - 950 Clay St		Gordon J. Lau Elementary School -  Auditorium Lobby	950 Clay St	Btw Stockton & Powell	3.1% Slope At Entrance	7327   	Pct 7327	7327   		2  
+2020PRI   	707	7338 - 777 Stockton Street		Gun Mun Center - Conference Room	777 Stockton St	Corner Sacramento & Stockton St.	3.6% slope	7338   	Pct 7338	7338   		2  
+2020PRI   	711	7341 - 1421 Pine Street		Redding Elementary School - Music Room	1421 Pine St	Btw Polk & Larkin	2.5% Slope	7341   	Pct 7341	7341   		2  
+2020PRI   	712	7601 - 1067 Post St		Firehouse #3	1067 Post St	Btw Polk & Larkin	3.8% Slope	7601   	Pct 7601	7601   		3  
+2020PRI   	726	7602 - 666 Ellis St		Ellis Gardens - Social Room	666 Ellis St	Btw Larkin & Hyde	4.9% Slope	7602   	Pct 7602	7602   		3  
+2020PRI   	727	7613 - 378 Golden Gate Ave		Hampton Court	378 Golden Gate Ave	Between Hyde & Larkin	1.2% Slope	7613   	Pct 7613	7613   		3  
+2020PRI   	735	7342 - 1040 Bush Street		Mary Elizabeth Inn - Dining Hall	1040 Bush St	Btw Leavenworth & Jones	1.7% Slope	7342   	Pct 7342	7342   		2  
+2020PRI   	736	7344 - 1001 Pine St		1001 Pine Street Apartments	1001 Pine St	Btw Jones & Taylor	5.9% Slope	7344   	Pct 7344	7344   		2  
+2020PRI   	743	7611 - 174 Ellis St		The Maria Manors	174 Ellis St	Btw Cyril Magnin & Mason	1.7% Slope	7611   	Pct 7611	7611   		3  
+2020PRI   	750	7608 - 380 Eddy Street		Cadillac Hotel	380 Eddy St	Btw Jones & Leavenworth	3.3% Slope	7608   	Pct 7608	7608   		3  
+2020PRI   	767	9254 - 2725 California St		William Cobb E. S. - Main Hallway	2725 California St	Enter Playground Between Scott St & Divisadero St	7.8% Slope - Ramped Access	9254   	Pct 9254	9254   		6  
+2020PRI   	770	7504 - 1975 Post St		Jones Memorial Methodist Church - Multi Purpose Rm	1975 Post St	Entrance On Post At Boswell	7.9% Slope - Ramped Access	7504   	Pct 7504	7504   		2  
+2020PRI   	773	7507 - 1501 O'Farrell St		Rosa Parks Elementary School - Auditorium	1501 O'farrell St	Btw Webster & Hollis	6.2% Slope - Ramped Access	7507   	Pct 7507	7507   		2  
+2020PRI   	775	9511 - 1750 Mcallister St		Rachel Townsend Apts - Community Rm	1750 Mcallister St	Between Baker & Broderick	8.2% Slope - Ramped Access	9511   	Pct 9511	9511   		5  
+2020PRI   	776	9508 - 1601 Turk St		School - Creative Arts Charter - Library	1601 Turk St	Between Scott & Pierce Streets	3.1% Slope	9508   	Pct 9508	9508   		5  
+2020PRI   	779	9505 - 1680 Eddy St		M L K - M G Square Apts - Community Room	1680 Eddy St	Enter Between Pierce & Steiner - Gate Closest To Pierce	8.3% Slope - Ramped Access	9505   	Pct 9505	9505   		5  
+2020PRI   	781	7516 - 601 Van Ness Ave		Opera Plaza - 2nd Fl Mezzanine - Community Rm	601 Van Ness Ave	Btw Turk St & Golden Gate	8.3% Slope - Ramped Access	7516   	Pct 7516	7516   		2  
+2020PRI   	784	9513 - 1399 Mc Allister St		Church - Third Baptist Church	1399 Mc Allister St	Enter Mcallister St Near Pierce St	Exceeds 8.3% Running Slope, 2% Cross Slope. Curbside Voting Avail	9513   	Pct 9513	9513   		5  
+2020PRI   	791	7515 - 460 Fulton St		Neighborhood Network Center	460 Fulton St	Enter Off Fulton At Octavia	5% Slope	7515   	Pct 7515	7515   		2  
+2020PRI   	807	7806 - 50 Scott St		Harvey Milk Recreation Center	50 Scott St	Btw Waller & Duboce	5.0% Slope	7806   	Pct 7806	7806   		3  
+2020PRI   	816	7542 - 380 Webster St		John Muir School - Auditorium	380 Webster St	Btw Oak & Page	8.0% Slope - Ramped Access	7542   	Pct 7542	7542   		2  
+2020PRI   	820	7544 - 7 Octavia St		First Baptist Church Of San Francisco	7 Octavia St	Entrance On Waller Between Octavia & Laguna	1.6% Slope	7544   	Pct 7544	7544   		2  
+2020PRI   	822	7633 - 1035 Folsom St		Columbia Park Apartments	1035 Folsom St	Between 6th & 7th Streets	4.2% Slope	7633   	Pct 7633	7633   		3  
+2020PRI   	830	7631 - 270 6th St		Gene Friend Recreation Center	270 6th St	Between Folsom & Howard	2.6% Slope	7631   	Pct 7631	7631   		3  
+2020PRI   	834	7634 - 747 Folsom St		Mendelsohn House - Activities Room	747 Folsom St	Between 3rd & 4th Streets	8.3% Slope - Ramped Access	7634   	Pct 7634	7634   		3  
+2020PRI   	846	7517 - 2049 Grove St		New Traditions Elementary School - Auditorium	2049 Grove St	Btw Cole & Clayton	7.9% slope	7517   	Pct 7517	7517   		2  
+2020PRI   	847	7518 - 1860 Hayes St		John Adams Campus - Cafeteria	1860 Hayes St	Btw Masonic & Ashbury	8% Slope - Ramped Access	7518   	Pct 7518	7518   		2  
+2020PRI   	848	7527/28 - 333 Baker St		Mercy Terrace - Lobby	333 Baker St	Btw Fell & Hayes	8.1% Slope - Ramped Access	7527   	Pct 7527/7528	7527   		2  
+2020PRI   	848	7527/28 - 333 Baker St		Mercy Terrace - Lobby	333 Baker St	Btw Fell & Hayes	8.1% Slope - Ramped Access	7527   	Pct 7527/7528	7528   		2  
+2020PRI   	853	7533 - 1833 Page St		Park Branch Library	1833 Page St	Btw Cole & Shrader	8.3% Slope - Ramped Access	7533   	Pct 7533	7533   		2  
+2020PRI   	874	7555 - 165 Grattan St		Grattan Elementary School - Auditorium	165 Grattan St	Btw Cole & Shrader	5.6% Slope - Ramped Access	7555   	Pct 7555	7555   		2  
+2020PRI   	880	7804 - 1025 14th Street		Mckinley Elementary School - Front Lobby	1025 14th St	Btw Castro &  Divisadero Sts	7.9% Slope	7804   	Pct 7804	7804   		3  
+2020PRI   	893	7807 - 135 Sanchez St		Firehouse #6	135 Sanchez St	Btw 14th & Henry Sts	8.3% Slope	7807   	Pct 7807	7807   		3  
+2020PRI   	900	7818 - 450 Church St		Everett Middle School - Rm 165	450 Church St	Btw 16th & 17th Sts	8.3% Slope - Ramped Access	7818   	Pct 7818	7818   		3  
+2020PRI   	903	7828 - 500 Corbett Ave		Rooftop Mayeda Campus - Lobby	500 Corbett Ave	Corner Of Iron Alley & Corbett	7.7% Slope	7828   	Pct 7828	7828   		3  
+2020PRI   	914	7822 - 100 Collingwood St		Eureka Valley Rec Ctr  - Multi Purpose Room	100 Collingwood St	Btw 18th & 19th St	8.3% Slope - Ramped Access	7822   	Pct 7822	7822   		3  
+2020PRI   	927	7824 - 3850 18th St		3850 18th St Apartments - Community Room	3850 18th St	Btw Church & Sanchez Sts	1.6% Slope	7824   	Pct 7824	7824   		3  
+2020PRI   	929	7812 - 145 Guerrero Street		St Francis Of Assisi - Community Room	145 Guerrero St	Btw Duboce & 14th Sts	10.3% Slope For 10 Feet - Curbside Voting Avail	7812   	Pct 7812	7812   		3  
+2020PRI   	932	7819 - 450 Guerrero St		Boys & Girls Club - Dance Studio	450 Guerrero St	Btw 16th & 17th Sts	2.2% Slope	7819   	Pct 7819	7819   		3  
+2020PRI   	941	7826 - 95 Dorland Street		Dolores Park Church	95 Dorland St	Btw Dolores & Guerrero Sts	5.9% Slope	7826   	Pct 7826	7826   		3  
+2020PRI   	942	7827 - 630 Valencia Street		Mission Police Station - Community Room	630 Valencia Street	Between 17th & 18th Sts	2.1% slope	7827   	Pct 7827	7827   		3  
+2020PRI   	951	7908 - 580 Capp St		Bethany Center - Multi Purpose Room	580 Capp St	Btw 20th & 21st St	8.3% Slope - Ramped Access	7908   	Pct 7908	7908   		2  
+2020PRI   	958	7909 - 745 Treat Ave		Mission Arts Center - Auditorium	745 Treat Ave	Btw 20th & 21st Sts	5.0% Slope	7909   	Pct 7909	7909   		2  
+2020PRI   	959	7913 - 825 Shotwell St		School - Cesar Chavez - Cafeteria	825 Shotwell St	Btw 22nd & 23rd Sts	2.2% Slope	7913   	Pct 7913	7913   		2  
+2020PRI   	992	7007 - 953 De Haro St		Potrero Hill Neighborhood House	953 De Haro St	Corner Of Southern Heights Ave	8.0% Slope	7007   	Pct 7007	7007   		3  
+2020PRI   	997	7009 - 1215 Carolina St		Starr King Elementary School - Library	1215 Carolina St	Enter Off Coral Rd Between Carolina & Wisconsin Sts	4.6% Slope	7009   	Pct 7009	7009   		3  
+2020PRI   	1013	7838 - 625 Douglass St		Alvarado Elementary School - Motor Skills Rm	625 Douglass St	Enter On 22nd St. Between Douglass & Eureka	4.5% Slope	7838   	Pct 7838	7838   		3  
+2020PRI   	1047	7856 - 3880 26th St		Firehouse #11	3880 26th St	Btw Church And Dolores Sts	7.1% Slope	7856   	Pct 7856	7856   		3  
+2020PRI   	1063	7927 - 3125 Cesar Chavez St		Leonard Flynn School - Parent Center Bungalow	3125 Cesar Chavez St	Enter On Harrison Btw Precita & Cesar Chavez	8.0% Slope Ramped Access	7927   	Pct 7927	7927   		2  
+2020PRI   	1064	7928 - 514 Precita Ave		Garage	514 Precita Avenue	Between Alabama & Florida Sts	5.5% Slope	7928   	Pct 7928	7928   		2  
+2020PRI   	1069	7936 - 515 Cortland Ave		Community Center - Bernal Hts - Dining Room	515 Cortland Ave	Btw Andover & Moultrie Sts	7% Slope	7936   	Pct 7936	7936   		2  
+2020PRI   	1089	9234 - 3200 California St (loc 9253)		Jewish Community Center Of S F - Atrium	3200 California St	Btw Presidio Ave & Walnut St	1.9% Slope	9234   	Pct 9234	9234   		6  
+2020PRI   	1093	9447 - 2345 24th Ave		Taraval Police Station	2345 24th Ave	Between Taraval & Santiago	6.7% Slope	9447   	Pct 9447	9447   		6  
+2020PRI   	1126	7513 - 1390 1/2 Turk St		Royal Apartments - Community Rm	1390 1/2 Turk St	Btw Webster & Fillmore	6.1% Slope	7513   	Pct 7513	7513   		2  
+2020PRI   	1138	7843 - 938 Valencia St		Dolores Street Community Services - Conf Room	938 Valencia  St	Btw 20th & Liberty Sts	1.9% Slope	7843   	Pct 7843	7843   		3  
+2020PRI   	1143	7846 - 451 Jersey St		Noe Valley Branch Library - Program Room	451 Jersey St	Btw Diamond & Castro	4.4% Slope	7846   	Pct 7846	7846   		3  
+2020PRI   	1144	7855 - 1270 Sanchez St		Bethany United Methodist Church - Chapel	1270 Sanchez St	Btw Clipper &26th St.	1.2% Slope	7855   	Pct 7855	7855   		3  
+2020PRI   	1149	9714 - 2290 14th Ave		School - Hoover - Auditorium Lobby	2290 14th Ave	Enter 14th Ave At Santiago	8.3% Slope - Ramped Access	9714   	Pct 9714	9714   		1  
+2020PRI   	1150	7837 - 100 Hoffman Avenue		Firehouse #24	100 Hoffman Ave	Btw Alvarado & 23rd Sts	1.6% Slope	7837   	Pct 7837	7837   		3  
+2020PRI   	1204	7923- 2730 Bryant St		School - Sunshine - S F Education Fund	2730 Bryant St	Between 25th & 26th Street	7.5% Slope - Ramped Access	7923   	Pct 7923	7923   		2  
+2020PRI   	1210	7508 - 1280 Laguna Street		Western Park Apartments - Community Room	1280 Laguna St	Between Eddy & Ellis	8.3% Slope	7508   	Pct 7508	7508   		2  
+2020PRI   	1224	7956 - 350 Girard Street		School - Martin Luther King Jr - Cafeteria	350 Girard Street	Btw Bacon & Burrows Sts	4.8% Slope	7956   	Pct 7956	7956   		2  
+2020PRI   	1243	9106 - 199 15th Avenue		Garage	199 15th Ave	Btw California & Lake Sts	1.4% Slope	9106   	Pct 9106	9106   		5  
+2020PRI   	1275	9718 - 321 Taraval St		Church - Convent Presbyterian - Portalhurst Hall	321 Taraval Street	Btw Funston Ave And 14th Ave	7% Slope	9718   	Pct 9718	9718   		1  
+2020PRI   	1284	7802 - 366 Roosevelt Way		Garage	366 Roosevelt Way	Btw Masonic & Levant	5.7% Slope	7802   	Pct 7802	7802   		3  
+2020PRI   	1318	7863 - 59 28th St		Garage	59 28th St	Btw Guererro & Dolores Sts	4.6% Slope	7863   	Pct 7863	7863   		3  
+2020PRI   	1336	9105 - 250 25th Avenue		Rochambeau Playground - Clubhouse	250 25th Ave	Btw California & Lake Sts	4.6% Slope	9105   	Pct 9105	9105   		5  
+2020PRI   	1358	1113 - 241 Oneida Ave		James Denman School - Front Lobby	241 Oneida Ave	Btw Delano & Otsego	5.0% Slope	1113   	Pct 1113	1113   		1  
+2020PRI   	1360	1102 - 91 Delano Ave		Garage	91 Delano Ave	Btw San Juan & Santa Ysabel	4 % slope	1102   	Pct 1102	1102   		1  
+2020PRI   	1363	7046 - 1298 Girard St		Fire Station #44	1298 Girard St	Btw Wilde And Harkness Aves	3.5% Slope	7046   	Pct 7046	7046   		3  
+2020PRI   	1414	7208 - 1187 Franklin St (loc 7509)		Church - First Unitarian Universalist	1187 Franklin St	Enter On Geary Btw Gough & Franklin	7% Slope - Ramped Access	7208   	Pct 7208	7208   		3  
+2020PRI   	1425	7808 - 25 Sanchez St		Community Room	25 Sanchez St	Btw Duboce Ave & 14th St	7.4% Slope - Ramped Access	7808   	Pct 7808	7808   		3  
+2020PRI   	1442	7543 - 403 Rose St		Hayes Valley Apartments - Community Room	403 Rose St	Btw Buchanan & Webster	1.2 % Slope	7543   	Pct 7543	7543   		2  
+2020PRI   	1450	7503 - 1760 Bush St		1760 Bush Street Apartments - Community Rm	1760 Bush St	Btw Octavia & Gough	8.3% Slope - Ramped Access	7503   	Pct 7503	7503   		2  
+2020PRI   	1451	7033 - 1295 Shafter Ave		Firehouse #17	1295 Shafter Ave	Corner Hawes & Ingalls Sts	8.3% Slope	7033   	Pct 7033	7033   		3  
+2020PRI   	1483	9721 - 678 Portola Drive		Ebenezer Lutheran Church	678 Portola Drive	Enter Portola Dr Between Sydney Way And Woodside Ave	4% Slope	9721   	Pct 9721	9721   		1  
+2020PRI   	1488	7312 - 1088 Green Street		St. Andrew's Society Of San Francisco	1088 Green Street	Btw Jones & Leavenworth	4.7% Slope	7312   	Pct 7312	7312   		2  
+2020PRI   	1494	9402 - 1348 45th Ave		Firehouse #23	1348 45th Ave	Between Irving and Judah Streets	7% Slope	9402   	Pct 9402	9402   		6  
+2020PRI   	1499	9715 - 381 Magellan Ave		Club House - Forest Hill Association	381 Magellan Ave	Enter Btw Montalvo And Dorantes	Exceeds 8.3% Running Slope, 2% Cross Slope. Curbside Voting Avail	9715   	Pct 9715	9715   		1  
+2020PRI   	1530	7043 - 1249 Jamestown Ave		United House Of Prayer Church - Hall	1249 Jamestown Ave	Btw 3rd St & Exeter	8.3% Slope For 12 Feet	7043   	Pct 7043	7043   		3  
+2020PRI   	1536	7322- 1340 Powell St		Firehouse #2	1340 Powell St	Between Pacific And Broadway	8.3% Slope	7322   	Pct 7322	7322   		2  
+2020PRI   	1554	9108 - 251 18th Ave		Richmond Rec Center	251 18th Ave	Between California And Clement Sts	5.3% Slope	9108   	Pct 9108	9108   		5  
+2020PRI   	1555	7305 - 1814 Stockton Street		Firehouse #28	1814 Stockton St	Btw Greenwich & Lombard	0.5% Slope	7305   	Pct 7305	7305   		2  
+2020PRI   	1556	7523 - 1443 Grove Street		Firehouse #21	1443 Grove St	Btw Baker & Broderick	7.6% Slope	7523   	Pct 7523	7523   		2  
+2020PRI   	1557	1123 - 431 Capitol Ave		Sheridan School - Auditorium Lobby	431 Capitol Ave	Enter On Farallones Between Capitol & Orizaba	8.3% Slope - Ramped Access	1123   	Pct 1123	1123   		1  
+2020PRI   	1560	1143 - 163 London Street		Boys & Girls Club - Game Room	163 London Street	Btw Avalon & Excelsior	5.4% Slope	1143   	Pct 1143	1143   		2  
+2020PRI   	1563	9111 - 360 18th Avenue		YMCA Richmond District	360 18th Ave	Btw Geary Blvd & Clement St	6.4% slope	9111   	Pct 9111	9111   		5  
+2020PRI   	1631	7917 - 3261 23rd Street		Church - Mission United Presbyterian	3261 23rd Street	Between Capp & Mission Sts	8.3% Slope	7917   	Pct 7917	7917   		2  
+2020PRI   	1643	9126 - 680 18th Avenue		Argonne School - Multi Purpose Rm	680 18th Ave	Enter On 17th Ave Btw Balboa & Cabrillo	2.5% Slope	9126   	Pct 9126	9126   		5  
+2020PRI   	1651	9407 - 1325 23rd Avenue		Garage	1325 23rd Avenue	Between Irving and Judah Streets	1.2% Slope	9407   	Pct 9407	9407   		6  
+2020PRI   	1658	7532 - 333 Fell St		Fell St Housing - Community Room	333 Fell St	Between Octavia & Gough	2.6% Slope	7532   	Pct 7532	7532   		2  
+2020PRI   	1715	7302 - 1855 Kearny Street		Wharf Plaza Apartments - Library	1855 Kearny St	Corner of  Francisco & Chestnut	8.3% Slope	7302   	Pct 7302	7302   		2  
+2020PRI   	1717	9112 - 235 12th Avenue		School - Sutro Elementary - Cafeteria	235 12th Ave	Btw Clement & California Sts	2.7% Slope	9112   	Pct 9112	9112   		5  
+2020PRI   	1739	7545 - 109 Oak Street		Firehouse #36 - Chief's Bay	109 Oak Street	Betwen Franklin & Gough	2.9% Slope	7545   	Pct 7545	7545   		2  
+2020PRI   	1743	7502- 1840 Sutter Street		Japanese Cultural And Community Center	1840 Sutter St	Btw Webster & Buchanan	5.9% Slope	7502   	Pct 7502	7502   		2  
+2020PRI   	1749	9201 - 1299 Storey Avenue		Log Cabin	1299 Storey Ave	Btw Lincoln Bl & Ralston Ave	4.9% Slope	9201   	Pct 9201	9201   		6  
+2020PRI   	1757	7921 - 3128 Kamille Court		Bernal Dwelling Tenants Assoc  Comm Rm	3128 Kamille Ct	Btw Treat Ave & Harrison St	4.3% Slope	7921   	Pct 7921	7921   		2  
+2020PRI   	1761	7924 - 26th St & Hampshire St		Rolph Playground - Clubhouse	26th St & Hampshire St	At 26th St & Hampshire St	5.% Slope	7924   	Pct 7924	7924   		2  
+2020PRI   	1762	7336 - 1051 Taylor Street		Grace Cathedral Church - Conference Rm.	1051 Taylor St	Enter Off Taylor Btw California & Sacramento	4.2% Slope	7336   	Pct 7336	7336   		2  
+2020PRI   	1767	9449 - 40th Avenue And Vicente		South Sunset Playground- Community Room	40th Avenue And Vicente	Corner Of 40th Avenue & Vincente	6.2% Slope	9449   	Pct 9449	9449   		6  
+2020PRI   	1797	1153 - 720 Moscow Street		Firehouse #43	720 Moscow St	Btw Italy & France	3.9% slope	1153   	Pct 1153	1153   		2  
+2020PRI   	1810	9241- 2001 Van Ness Ave		Bay Combat Sports	2001 Van Ness Ave	Between Pacific & Jackson	7.3% Slope	9241   	Pct 9241	9241   		6  
+2020PRI   	1827	9515 - 1290 16th Avenue		Firehouse #22	1290 16th Avenue	Corner Of 16th Ave & Irving St	6.0% slope	9515   	Pct 9515	9515   		5  
+2020PRI   	1840	1112 - 1000 Ocean Avenue (loc 9751)		Firehouse #15	1000 Ocean Ave	Enter Ocean Ave Btw Frida Kahlo Way & Harold Ave	5% Slope	1112   	Pct 1112	1112   		1  
+2020PRI   	1859	9521 - 1290 5th Avenue		St John Of God Catholic Church	1290 5th Avenue	Btw Irving St And Hugo St	8.2% Slope Ramped Access	9521   	Pct 9521	9521   		5  
+2020PRI   	1861	7869 - 209 Randall Street		Garage	209 Randall St	Enter Off Randall Btw Whitney & Sanchez Sts	4.9% Slope	7869   	Pct 7869	7869   		3  
+2020PRI   	1871	7029 - 5 Commer Ct		Bayview Apartments - Community Rm	5 Commer Ct	Enter On Garlington CT At Corner Of Commer CT	8.3% Slope Ramped Access	7029   	Pct 7029	7029   		3  
+2020PRI   	1883	7030 - 201 Williams Avenue		Bayview Police Station - Community Rm	201 Williams Ave	Enter Newhall St Btw Williams & Armstrong Aves	3.4% Slope	7030   	Pct 7030	7030   		3  
+2020PRI   	1910	7619 - 1500 Howard St		The Arc San Francisco	1500 Howard Street	Between 11th & 12th Sts	5.8% Slope	7619   	Pct 7619	7619   		3  
+2020PRI   	1917	9128 - 441 12th Ave		Firehouse #31	441 12th Ave	Btw Geary Bl & Anza St	2.6% Slope	9128   	Pct 9128	9128   		5  
+2020PRI   	1919	9424 - 3601 Noriega St		Hope Evangelical Free Church	3601 Noriega St	Btw 43rd & 44th Ave	4.7% Slope	9424   	Pct 9424	9424   		6  
+2020PRI   	1921	7905 - 2929 19th St		Mission Language & Vocational - 2nd Floor Hallway	2929 19th St.	Enter On Florida	0.6% slope at entrance	7905   	Pct 7905	7905   		2  
+2020PRI   	1965	7329 - 530 Sansome St		Firehouse #13	530 Sansome St	Btw Clay & Washington	1.8% Slope	7329   	Pct 7329	7329   		2  
+2020PRI   	1976	7636 - 36 Bluxome Street		Firehouse #8 - Chief's Bay	36 Bluxome Street	Btw 4th & 5th Sts	5.5% slope	7636   	Pct 7636	7636   		3  
+2020PRI   	2001	7048 - 243 Rey Street		Heritage Homes Child & Family - Community Rm	243 Rey St	Corner Of Rey & Towerside	2.8% Slope	7048   	Pct 7048	7048   		3  
+2020PRI   	2021	7017 - 1 Cashmere Street		Felton F S A - Multipurpose Rm	1 Cashmere St	At Cashmere & Hudson Sts	6.9% Slope	7017   	Pct 7017	7017   		3  
+2020PRI   	2022	7524 - 926 Fillmore Street		Junipero Serra House	926 Fillmore St	Enter Off Fulton Btw Fillmore & Webster	5.0% Slope	7524   	Pct 7524	7524   		2  
+2020PRI   	2030	7901 - 1575 15th Street		Marshall Elementary School - Cafeteria	1575 15th St	Enter Capp St Btw 15th & 16th Streets	5% Slope	7901   	Pct 7901	7901   		2  
+2020PRI   	2036	1101 - 1 Sgt John V Young		Ingleside Police Station - Community Rm	1 Sgt John V Young	Enter At The Corner Of San Jose Ave	8.3% Slope Ramped Access	1101   	Pct 1101	1101   		1  
+2020PRI   	2046	9129 - 4301 Geary Blvd		Church - Park Presidio United Methodist	4301 Geary Blvd	At The Corner Of 7th Avenue	6.8% Slope - Ramped Access	9129   	Pct 9129	9129   		5  
+2020PRI   	2055	1116 - 345 Randolph Street		Ocean View Library	345 Randolph St	Btw Victoria & Ramsell	2.1% Slope	1116   	Pct 1116	1116   		1  
+2020PRI   	2092	7609 - 246 Eddy Street		Boeddeker Park & Clubhouse - Meeting Room	246 Eddy St	Btw Jones & Taylor	8.2% Slope - Ramped Access	7609   	Pct 7609	7609   		3  
+2020PRI   	2094	9743 - 50 Chumasero Drive		Villas Park Merced - Lobby	50 Chumasero Drive	Between Font & Galindo	7.8% Slope	9743   	Pct 9743	9743   		1  
+2020PRI   	2097	9423 - 3925 Noriega Street		Sunset Neighborhood Beacon Ctr - Computer Rm	3925 Noriega Street	Between 46th & 47th Avenue	3.0% Slope	9423   	Pct 9423	9423   		6  
+2020PRI   	2112	7621 - 26 7th Street		Odd Fellows Building - Lobby	26 7th Street	Between Market & Mission	8.0% Slope	7621   	Pct 7621	7621   		3  
+2020PRI   	2148	7325 - 1145 Pacific Avenue		Garage	1145 Pacific Ave	Btw Jones &Taylor	4.3% Slope	7325   	Pct 7325	7325   		2  
+2020PRI   	2155	9133 - 1 Loraine Ct		Columbarium	1 Loraine Ct	Off Anza Btw Stanyan St & Arguello Bl	2.4% Slope	9133   	Pct 9133	9133   		5  
+2020PRI   	2168	7012 - 700 Pennsylvania Ave		Muni Barn - Room D106	700 Pennsylvania Ave	Btw 22nd & 23rd Sts	4.0% Slope	7012   	Pct 7012	7012   		3  
+2020PRI   	2170	7852 - 5157 Diamond Heights Blvd		Casa De Vida Apartments - Garage	5157 Diamond Heights Blvd	Btw Clipper & Duncan Sts	8% Slope	7852   	Pct 7852	7852   		3  
+2020PRI   	2171	7849 - 21 Jersey Street		Garage	21 Jersey St	Btw Dolores St & Chattanooga Ave	6.7% Slope	7849   	Pct 7849	7849   		3  
+2020PRI   	2172	9703 - 1689 17th Ave		Garage	1689 17th Ave	Between Moraga and Lawton	2% Slope	9703   	Pct 9703	9703   		5  
+2020PRI   	2177	7825 - 3750 18th St		Mission High School - Cafeteria	3750 18th St	Enter Dolores St Btw 17th & 18th Sts	6.2% Slope	7825   	Pct 7825	7825   		3  
+2020PRI   	2192	7032 - 2111 Jennings St		United Council Of Human Services - Serenity Rm	2111 Jennings St	Btw Van Dyke & Wallace Aves	0.3% Slope	7032   	Pct 7032	7032   		3  
+2020PRI   	2194	9404 - 3030 Judah St		S F Korean United Methodist Fellowship	3030 Judah St	Enter On 36th Ave Between Judah And Irving	5.4% Slope	9404   	Pct 9404	9404   		6  
+2020PRI   	2195	9416 - 3733 Lawton St		Garage	3733 Lawton St	Between 43rd & 44th Avenues	8.3% Slope	9416   	Pct 9416	9416   		6  
+2020PRI   	2207	7959 - 1850 Mission St		Arriba Juntos - Computer Lab	1850 Mission St	Between 14th And 15th Sts.	1.8% Slope	7959   	Pct 7959	7959   		2  
+2020PRI   	2236	7345 - 1051 Taylor Street (loc 7336)		Grace Cathedral Church - Conference Rm	1051 Taylor St	Btw Sacramento & California	4.2% Slope	7345   	Pct 7345	7345   		2  
+2020PRI   	2241	7948 - 225 Pioche Street		Church - Portola Baptist	225 Pioche St	Btw Harvard & Oxford Sts	4% Slope	7948   	Pct 7948	7948   		2  
+2020PRI   	2249	7002 - 299 Vermont Street		Firehouse #29	299 Vermont St	Enter 16th Near Corner Of Vermont	5.8% Slope	7002   	Pct 7002	7002   		3  
+2020PRI   	2250	9749 - 218 Granada Avenue		New Providence Baptist Church	218 Granada Avenue	Between Ocean Ave & Holloway	6% Slope	9749   	Pct 9749	9749   		1  
+2020PRI   	2252	7045 - 500 Raymond Avenue		John King Senior Community	500 Raymond Ave	Entrance at corner Raymond & Sawyer	8.3% Slope - Ramped Access	7045   	Pct 7045	7045   		3  
+2020PRI   	2254	9255 - 2640 Geary Blvd		Muni Barn Classroom C	2640 Geary Blvd	Btw Masonic Ave & Presidio Ave	8.3% Slope	9255   	Pct 9255	9255   		6  
+2020PRI   	2255	9422 - 1601 19th Avenue		Cypress At Golden Gate - Lobby	1601 19th Avenue	Enter 19th Ave Btw Lawton & Moraga	6% slope	9422   	Pct 9422	9422   		6  
+2020PRI   	2256	9716 - 2560 18th Avenue		Collins Center	2560 18th Avenue	Enter 18th Ave Btw Ulloa & Vicente	8.3% Slope - Ramped Access	9716   	Pct 9716	9716   		5  
+2020PRI   	2257	7952 - 2430 San Bruno Avenue		Firehouse #42	2430 San Bruno Ave	Btw Silliman St & Silver Ave	4.7% Slope	7952   	Pct 7952	7952   		2  
+2020PRI   	2260	7343 - 1199 Bush Street		Saint Francis Medical - Lower Level Conf Room	1199 Bush St	Enter Btw Hyde & Leavenworth - Do Not Enter Main Hospital	5.9% Slope For 3 Feet	7343   	Pct 7343	7343   		2  
+2020PRI   	2267	7916 - 1387 Valencia Street		Synergy School	1387 Valencia St	Btw 24th & 25th Sts	1.7% slope	7916   	Pct 7916	7916   		2  
+2020PRI   	2268	1109 - 1099 Capitol Ave		Farragut Center	1099 Capitol Ave	Capitol At Corner Of Holloway	4.3% Slope	1109   	Pct 1109	1109   		1  
+2020PRI   	2269	7647 - 850 Ave I  Bldg 497		Ship Shape Community Center	850 Ave I  Bldg 497	Btw 10th & 11th Sts & I & M Aves	5.0% slope	7647   	Pct 7647	7647   		3  
+2020PRI   	2270	1118 - 650 Capitol Ave		Minnie & Lovie Rec Center - Ping Pong Room	650 Capitol Ave	Capitol Btw Minerva & Montana	8.3% Slope Ramped Access	1118   	Pct 1118	1118   		1  
+2020PRI   	2272	7644 - 225 King Street		Rich Sorro Commons - Lobby	225 King Street	Between 3rd & 4th Sts	1% Slope	7644   	Pct 7644	7644   		3  
+2020PRI   	2273	7003 - 500 De Haro Street		St Gregory Church - Rotunda	500 De Haro Street	Btw 18th & Mariposa Sts	5.9% Slope	7003   	Pct 7003	7003   		3  
+2020PRI   	2276	7942 - 1000 Tompkins Ave - Bldg  A		Market Heights Apts - Garage	1000 Tompkins Ave - Bldg  A	Btw Putnam & Bradford Sts	8.3% Slope - Ramped Access	7942   	Pct 7942	7942   		2  
+2020PRI   	2278	7624 - 125 6th Street		The Rose Hotel - Lobby	125 6th Street	Btw Minna & Mission	1.5% Slope	7624   	Pct 7624	7624   		3  
+2020PRI   	2280	9453 - 20 Crestlake Drive		Garage	20 Crestlake Drive	Btw Sloat Blvd & Crestlake Dr	3.0% Slope	9453   	Pct 9453	9453   		4  
+2020PRI   	2288	7903 - 36 Hoff St		Dunleavy Plaza	36 Hoff St	Btw 16th & 17th Sts	1.5% Slope	7903   	Pct 7903	7903   		2  
+2020PRI   	2296	9103 - 450 30th Ave		Presidio Middle School - Auditorium Lobby	450 30th Ave	Enter Off 30th Ave Btw Clement St & Geary Bl	5% Slope	9103   	Pct 9103	9103   		5  
+2020PRI   	2302	7301 - 455 Bay St		Northbeach Place - Community Rm	455 Bay St	Btw Mason & Taylor	4.5% Slope	7301   	Pct 7301	7301   		2  
+2020PRI   	2306	7836 - 885 Corbett Ave		Garage - Enter Through Glass Door	885 Corbett Ave	Near Corner Of Hopkins	4.9% Slope	7836   	Pct 7836	7836   		3  
+2020PRI   	2310	7607- 555 Ellis St		555 Ellis St Apartments - Community Rm	555 Ellis St	Enter Ellis Btw Hyde & Leavenworth	0.2% Slope	7607   	Pct 7607	7607   		3  
+2020PRI   	2312	7915 - 2700 22nd St		Garage	2700 22nd St	Corner Of York & 22nd Sts	8.3% Slope	7915   	Pct 7915	7915   		2  
+2020PRI   	2324	7911 - 2291 Bryant St		Garage	2291 Bryant St	Btw 21st & 20th Sts	2.4% Slope	7911   	Pct 7911	7911   		2  
+2020PRI   	2334	7642 - 600 The Embarcadero		Delancey Street - Store Space	600 Embarcadero	Between Brannan & Townsend	4.1% slope	7642   	Pct 7642	7642   		3  
+2020PRI   	2340	7521 - 710 Masonic Ave		Garage	710 Masonic Ave	Btw Grove & Hayes	5.2% slope	7521   	Pct 7521	7521   		2  
+2020PRI   	2353	7548 - 1250 Waller St		Chinese Immersion School - Room 200	1250 Waller St	Enter Off Waller Btw Central & Masonic	6% Slope	7548   	Pct 7548	7548   		2  
+2020PRI   	2354	9131 - 450 7th Ave		Richmond Police Station - Community Room	450 7th Ave	Btw Geary Blvd & Anza St	5.6% Slope	9131   	Pct 9131	9131   		5  
+2020PRI   	2366	7554 - 1145 Stanyan St		Firehouse #12	1145 Stanyan St	Btw Grattan & Alma	4.6% Slope	7554   	Pct 7554	7554   		2  
+2020PRI   	2378	7203- 2412 Polk St		Garage	2412 Polk St	Btw Union & Filbert	1.7% Slope	7203   	Pct 7203	7203   		3  
+2020PRI   	2380	9248 - 1765 Van Ness Ave		Store-Relax The Back	1765 Van Ness Ave	Between Clay & Sacramento	3.7% Slope	9248   	Pct 9248	9248   		6  
+2020PRI   	2383	9209 - 3632 Fillmore St		Garage	3632 Fillmore St	Btw North Point & Bay Sts	4% Slope	9209   	Pct 9209	9209   		6  
+2020PRI   	2392	9431 - 1935 32nd Ave		Firehouse #18	1935 32nd Ave	Between Pacheco & Ortega	4.4% slope	9431   	Pct 9431	9431   		6  
+2020PRI   	2397	9252 - 20 Cook St		Sfusd Office - Assembly Room	20 Cook St	Off Geary Blvd.	8.3% slope	9252   	Pct 9252	9252   		6  
+2020PRI   	2404	9723 - 207 Skyline Blvd		Pomeroy Recreation & Rehabilitation Ctr.	207 Skyline Blvd	Enter Off Herbst Btw Skyline Blvd & Armory Dr	4.2% Slope	9723   	Pct 9723	9723   		1  
+2020PRI   	2413	1111 - 437 Holloway Ave		Garage	437 Holloway Ave	Btw Granada & Miramar	6.3% Slope	1111   	Pct 1111	1111   		1  
+2020PRI   	2414	9104 - 463 28th Ave		Garage	463 28th Ave	Between Geary Blvd & Clement St	1.1% Slope	9104   	Pct 9104	9104   		5  
+2020PRI   	2418	9707 - 540 Ortega St		Garage	540 Ortega St	Btw 11th Ave &  14th Ave	4.0% Slope	9707   	Pct 9707	9707   		5  
+2020PRI   	2427	7534 - 1563 Page St		Urban School Of S. F. - Conference Room	1563 Page St	Btw Masonic & Ashbury	8.3% slope	7534   	Pct 7534	7534   		2  
+2020PRI   	2434	7536 - 1168 Page St		Garage	1168 Page St	Btw Baker & Broderick	7% Slope	7536   	Pct 7536	7536   		2  
+2020PRI   	2437	7925 - 1580 Valencia St		Monteagle Medical Center - Lobby	1580 Valencia St	Btw Cesar Chavez & Duncan Aves	3% Slope	7925   	Pct 7925	7925   		2  
+2020PRI   	2441	7809 - 462 Duboce Ave		Community Room	462 Duboce Ave	Btw Steiner & Fillmore Sts	1.4% Slope	7809   	Pct 7809	7809   		3  
+2020PRI   	2443	1127 - 483 Ellington Ave		Garage	483 Ellington Ave	Btw Whipple & Naglee	2.3% Slope	1127   	Pct 1127	1127   		1  
+2020PRI   	2445	7036 - 745 Velasco Ave		Saint Phillips Missionary Baptist Church	745 Velasco Ave	Btw Santos & Castillo	6.3% Slope	7036   	Pct 7036	7036   		3  
+2020PRI   	2446	7639 - 698 2nd St		S F F D Headquarters	698 2nd St	Corner Of 2nd & Townsend	8.3% Slope Ramped Access	7639   	Pct 7639	7639   		3  
+2020PRI   	2452	7931 - 514 Peralta Ave		Garage	514 Peralta Ave	Btw Ripley St & Esmeralda Ave	7.5% Slope	7931   	Pct 7931	7931   		2  
+2020PRI   	2453	1136 - 990 Rolph St		Garage	990 Rolph St	End Of Cul DE Sac On Rolph St. - Enter From South Hill	7% slope	1136   	Pct 1136	1136   		1  
+2020PRI   	2460	7308 - 1227 Montgomery St		Garage	1227 Montgomery St	Corner Of Montgomery & Montague	6.0% Slope	7308   	Pct 7308	7308   		2  
+2020PRI   	2461	7904 - 240 Shotwell St		Mission Neighborhood Health - Confer Rm	240 Shotwell St - 2nd Floor	Btw 16th & 17th Sts	1.6% Slope	7904   	Pct 7904	7904   		2  
+2020PRI   	2462	7847 - 358 Jersey St		Garage	358 Jersey St	Btw Noe & Castro Sts	5% Slope	7847   	Pct 7847	7847   		3  
+2020PRI   	2468	9223 - 2001 Union St		Union St Plaza - 2nd Floor Lobby	2001 Union St	Btw Buchanan & Webster Sts	8.2% Slope - Ramped Access	9223   	Pct 9223	9223   		6  
+2020PRI   	2479	1141 - 263 Maynard St		Garage	263 Maynard St	Btw Congdon St & Gladstone Dr	3% Slope	1141   	Pct 1141	1141   		2  
+2020PRI   	2491	9204 - 3760 Webster St		Garage	3760 Webster St	Btw Jefferson St & Marina Bl	4.8% slope	9204   	Pct 9204	9204   		6  
+2020PRI   	2494	7707 - 366 Marietta Dr		Garage	366 Marietta Dr	Btw Arroyo Way & Teresita Blvd	3.6% Slope	7707   	Pct 7707	7707   		2  
+2020PRI   	2496	7839 - 3753 21st St		Garage	3753 21st St	Btw Noe & Sanchez Sts	8.3% Slope	7839   	Pct 7839	7839   		3  
+2020PRI   	2499	7556/57 - 130 Carmel St		Garage	130 Carmel St	Btw Shrader & Cole	2% Slope	7556   	Pct 7556/7557	7556   		2  
+2020PRI   	2499	7556/57 - 130 Carmel St		Garage	130 Carmel St	Btw Shrader & Cole	2% Slope	7556   	Pct 7556/7557	7557   		2  
+2020PRI   	2500	9203 - 1867 Jefferson St		Garage	1867 Jefferson St	Btw Divisadero & Scott	2.7% Slope	9203   	Pct 9203	9203   		6  
+2020PRI   	2515	7918 - 2774 Folsom St		Garage	2774 Folsom St	Btw 23rd & 24th Sts	2% Slope	7918   	Pct 7918	7918   		2  
+2020PRI   	2517	9512 - 850 Broderick St		Zygmunt Arendt House-community Rm	850 Broderick St	Enter On Broderick Near Corner Of Golden Gate	1% Slope	9512   	Pct 9512	9512   		5  
+2020PRI   	2524	9401 - 1296 La Playa St		Garage	1296 La Playa St	Btw Irving & Lincoln	7.9% Slope	9401   	Pct 9401	9401   		6  
+2020PRI   	2532	7821 - 128 Eureka St		Garage	128 Eureka St	Btw 18th & 19th Sts	5.4% Slope	7821   	Pct 7821	7821   		3  
+2020PRI   	2533	7705 - 99 Saint Germain Ave		Garage	99 Saint Germain Ave	Corner Of Saint Germain & Glenbrook Aves	3.3% Slope	7705   	Pct 7705	7705   		2  
+2020PRI   	2545	7311 - 2200 Larkin St		Garage	2200 Larkin St	Corner Of Larkin & Green	7.1% Slope	7311   	Pct 7311	7311   		2  
+2020PRI   	2558	9123 - 551 26th Ave		Firehouse #14	551 26th Ave	Btw Anza St & Geary Blvd	5% Slope	9123   	Pct 9123	9123   		5  
+2020PRI   	2559	9235 - 3220 Sacramento St		S F University High Schoo L- Parking Garage	3220 Sacramento St	Btw Lyon & Presidio Sts	6.0% Slope	9235   	Pct 9235	9235   		6  
+2020PRI   	2560	9113 - 4620 California St		St James Episcopal Church	4620 California St	Btw 8th & 9th Aves	7.5% Slope	9113   	Pct 9113	9113   		5  
+2020PRI   	2563	9238 - 2340 Jackson St		S F Public Montessori School - Auditorium	2340 Jackson St	Enter Off Jackson St  Btw Webster And Fillmore Sts	8.3% Slope - Ramped Access	9238   	Pct 9238	9238   		6  
+2020PRI   	2565	7817 - 3527 16th St		Garage	3527 16th St	Btw Prosper & Sanchez Sts	4.2% Slope	7817   	Pct 7817	7817   		3  
+2020PRI   	2574	9726- 390 Buckingham Way		Firehouse #19	390 Buckingham Way	Corner of Winston Dr. & Buckingham Way	5.4% Slope	9726   	Pct 9726	9726   		1  
+2020PRI   	2583	9239 - 1905 Broadway St		Garage	1905 Broadway St	Between Laguna And Octavia Streets	6.5% Slope	9239   	Pct 9239	9239   		6  
+2020PRI   	2584	7829 - 65 Grand View Ave		Garage	65 Grand View Ave	Romain & Grand View Terrace	8.3% Slope	7829   	Pct 7829	7829   		3  
+2020PRI   	2586	7844 - 3549 23rd Street		Garage	3549 23rd St	Btw Guerrero & San Jose	1% Slope	7844   	Pct 7844	7844   		3  
+2020PRI   	2593	9445 - 2316 Vicente St		Church - Living Water Fellowship	2316 Vicente St	Btw 34th & 35th Ave	4.8% Slope	9445   	Pct 9445	9445   		6  
+2020PRI   	2594	9702 - 731 Judah St		Garage	731 Judah St	Btw 12th Ave & Funston	5.2% slope	9702   	Pct 9702	9702   		5  
+2020PRI   	2596	7645 - Pier 40 A - the Embarcadero		South Beach Harbor Pier 40 A - Comm Rm	Pier 40 A - The Embarcadero	Embarcadero & King	3.1% Slope	7645   	Pct 7645	7645   		3  
+2020PRI   	2603	7907 - 2300 Folsom St		Firehouse #7	2300 Folsom St	Corner Folsom & 19th Sts	2.2% slope	7907   	Pct 7907	7907   		2  
+2020PRI   	2604	9729- 32 San Jacinto Way		Garage	32 San Jacinto Way	Btw Santa Paula & San Felipe	6% Slope	9729   	Pct 9729	9729   		1  
+2020PRI   	2613	9752 - 526 Flood Ave		Garage	526 Flood Ave	Btw Gennesse & Phelan	5.1% Slope	9752   	Pct 9752	9752   		1  
+2020PRI   	2619	7615 - 111 Jones St		Community Room	111 Jones St	Corner Of Jones & Golden Gate	8.3%  Slope - Ramped Access	7615   	Pct 7615	7615   		3  
+2020PRI   	2623	1148 - 542 Moscow St		Garage	542 Moscow St	Btw Russia & Persia	2.5% Slope	1148   	Pct 1148	1148   		2  
+2020PRI   	2624	7019 - 1887 Palou Ave		Garage	1887 Palou Ave	Btw Quint & Phelps Sts	6.1% Slope	7019   	Pct 7019	7019   		3  
+2020PRI   	2627	9711 - 1816 Funston Ave		Garage	1816 Funston Ave	Btw Pacheco & Aerial	6.3% Slope	9711   	Pct 9711	9711   		5  
+2020PRI   	2628	9434 - 2074 47th Ave		Garage	2074 47th Ave	Btw Quintara & Pacheco	0.8% Slope	9434   	Pct 9434	9434   		6  
+2020PRI   	2631	9243 - 3150 Sacramento St		Presidio Library - Program Room	3150 Sacramento St	Btw Lyon & Baker	8.3% Slope - Ramped Access	9243   	Pct 9243	9243   		6  
+2020PRI   	2632	7005 - 1490 19th St		St Teresa Of Avila Church - Sammon Hall	1490 19th St	Enter On Connecticut Btw 18th & 19th Sts	4.2% Slope	7005   	Pct 7005	7005   		3  
+2020PRI   	2633	1115 - 446 Randolph St		I. T. Bookman Comm Ctr - Mult Purpose Rm	446 Randolph St	Corner Of Arch & Randolph	8.3% Slope - Ramped Access	1115   	Pct 1115	1115   		1  
+2020PRI   	2636	9413 - 1342 41st Ave		Garage	1342 41st Ave	Btw Irving & Judah	3.8% slope	9413   	Pct 9413	9413   		6  
+2020PRI   	2651	7522 - 715 Scott St		Garage	715 Scott St	Btw Grove & Fulton	2.6% Slope	7522   	Pct 7522	7522   		2  
+2020PRI   	2660	7841 - 3531 22nd St		School - Edison Charter- Auditorium	3531 22nd St	Enter 22nd St Btw Dolores Ave & Chattanooga St	1.5% Slope	7841   	Pct 7841	7841   		3  
+2020PRI   	2662	7339 - 1300 Polk St		First Congregational Church Of S F	1300 Polk St	Corner Of Bush & Polk	2.0% Slope	7339   	Pct 7339	7339   		2  
+2020PRI   	2663	9442 - 3595 Taraval St		Bnai Emunah Synagogue	3595 Taraval St	Corner Of Taraval & 46th Ave	5.9% Slope	9442   	Pct 9442	9442   		6  
+2020PRI   	2673	7537 - 305 Scott St		Garage	305 Scott St	Between Page & Oak	3.2% slope	7537   	Pct 7537	7537   		2  
+2020PRI   	2674	9737 - 390 Melrose Ave		Garage	390 Melrose Ave	Corner Of Gennessee & Melrose	6.4% Slope	9737   	Pct 9737	9737   		1  
+2020PRI   	2676	7937 - 1419 Cortland Ave		Garage	1419 Cortland Ave	Btw Bradford & Nebraska Sts	6.6% Slope	7937   	Pct 7937	7937   		2  
+2020PRI   	2677	7801 - 245 Upper Terrace		Garage	245 Upper Terrace	South West Of Clifford Terrace	0.8% Slope	7801   	Pct 7801	7801   		3  
+2020PRI   	2679	7902 - 1855 Folsom St		U C S F Mission Center - Confer Rm #126	1855 Folsom St	Entrance On 15th St Btw Folsom & Harrison Sts	8.3% Slope - Ramped Access	7902   	Pct 7902	7902   		2  
+2020PRI   	2682	9436 - 2831 Rivera St		Garage	2831 Rivera St	Btw 39th Ave & 38th Ave	8.3% Slope	9436   	Pct 9436	9436   		6  
+2020PRI   	2685	7539 - 628 Haight St		Garage	628 Haight St	Btw Steiner & Pierce	5.6% Slope	7539   	Pct 7539	7539   		2  
+2020PRI   	2692	9242 - 1901 Franklin St		Golden Gate Church - Garage	1901 Franklin St	Enter Off Clay St Btw Franklin & Gough	8.3% Slope	9242   	Pct 9242	9242   		6  
+2020PRI   	2694	9212 - 1800 Chestnut St		Moscone Rec Ctr - Community Room	1800 Chestnut St	Intersection Of Chestnut & Buchanan Sts	8.2% Slope - Ramped Access	9212   	Pct 9212	9212   		6  
+2020PRI   	2695	7205 - 1166 Filbert St		Garage	1166 Filbert St	Btw Hyde & Leavenworth	4.6% Slope	7205   	Pct 7205	7205   		3  
+2020PRI   	2699	9448 - 2477 21st Ave		Garage	2477 21st Ave	Btw Ulloa & Taraval St	5.1% slope	9448   	Pct 9448	9448   		6  
+2020PRI   	2700	7708 - 33 Bella Vista Way		Garage	33 Bella Vista Way	Enter Btw Teresita & Gaviota	2.5% Slope	7708   	Pct 7708	7708   		2  
+2020PRI   	2710	7845 - 4323 23rd St		Garage	4323 23rd St	Btw Hoffman & Douglass St	7.1% Slope	7845   	Pct 7845	7845   		3  
+2020PRI   	2717	9408 - 1319 20th Ave		Northern Tiger Kenpo - Studio	1319 20th Ave	Btw Irving & Judah	8.1% Slope	9408   	Pct 9408	9408   		6  
+2020PRI   	2718	9755 - 122 Hearst Ave		Garage	122 Hearst Ave	Btw Baden & Congo	3.2% Slope	9755   	Pct 9755	9755   		1  
+2020PRI   	2719	9231 - 28 6th Ave		Garage	28 6th Ave	Cross Street Lake St	5.2% Slope For 2 Feet	9231   	Pct 9231	9231   		6  
+2020PRI   	2724	7013 - 654 Minnesota St		U C S F - Lobby	654 Minnesota St	Btw 18th & 19th Sts	4.5% Slope	7013   	Pct 7013	7013   		3  
+2020PRI   	2725	7646 - 1505 4th St		U C S F Housing - Comm Room	1505 4th St	Enter off Nelson Rising Lane Btw 3rd & 4th Sts	4.9% Slope	7646   	Pct 7646	7646   		3  
+2020PRI   	2728	7814 - 390 Valencia St		Valencia Gardens - Community Room	390 Valencia St	Enter Off Valencia At The Corner Of 15th St	2% slope	7814   	Pct 7814	7814   		3  
+2020PRI   	2735	7643 - 225 Berry St		Mission Creek Senior - Comm Room	225 Berry St	Enter off Berry St btw 4th & 5th Sts	2.6% Slope	7643   	Pct 7643	7643   		3  
+2020PRI   	2741	9114 - 350 10th Ave		Library - Richmond Branch - Program Room	350 10th Ave	Enter Off 10th Btw Geary & Clement Sts	3.2% Slope	9114   	Pct 9114	9114   		5  
+2020PRI   	2742	9125 - 484 21st Ave		Garage	484 21st Ave	Btw Anza St & Geary Bl	8% Slope	9125   	Pct 9125	9125   		5  
+2020PRI   	2751	7632 - 934 Brannan St		Soma Arts Cultural Center - Kitchen Space	934 Brannan St	Btw 8th and 9th Sts	8.3% Slope - Ramped Access	7632   	Pct 7632	7632   		3  
+2020PRI   	2763	7315 - 1630 Stockton St		S F Italian Athletic Club - Upstairs Function Room	1630 Stockton St	Btw Union & Filbert St	1.1% Slope	7315   	Pct 7315	7315   		2  
+2020PRI   	2764	7525 - 608 Hayes St		Neighborhood Baptist Church - Confer Rm	608 Hayes St	Btw Laguna & Buchanan	2.6% Slope	7525   	Pct 7525	7525   		2  
+2020PRI   	2773	7028 - 1601 Lane St		Bayview Y M C A	1601 Lane St	Btw Revere Ave & Lane St	4.4% Slope	7028   	Pct 7028	7028   		3  
+2020PRI   	2779	7604 - 516 Ofarrell St		Crosby Hotel - Activity Room	516 O'Farrell St	Btw Jones & Leavenworth	7.9% Slope	7604   	Pct 7604	7604   		3  
+2020PRI   	2780	9143 - 626 20th Ave		Garage	626 20th Ave	Btw Balboa & Cabrillo Sts	1% slope	9143   	Pct 9143	9143   		5  
+2020PRI   	2781	9233- 3820 Washington St		Garage	3820 Washington St	Btw Maple And Cherry Sts	1% Slope	9233   	Pct 9233	9233   		6  
+2020PRI   	2795	7332 - 1751 Sacramento St		Old First Presbyterian Church - Fellowship Hall	1751 Sacramento St	Btw Polk St & Van Ness	8.3% Slope	7332   	Pct 7332	7332   		2  
+2020PRI   	2796	7853 - 829 Duncan St		Garage	829 Duncan St	Btw Diamond Heights Blvd & Douglass St	8.2% Slope	7853   	Pct 7853	7853   		3  
+2020PRI   	2799	7326 - 1135 Powell St		Chinatown Branch Library - Comm Rm	1135 Powell St	Btw Jackson St. & Washington St.	6.2% Slope	7326   	Pct 7326	7326   		2  
+2020PRI   	2801	9519 - 233 Judah St		Garage	233 Judah St	Btw 7th and 8th Avenues	8.3% Slope	9519   	Pct 9519	9519   		5  
+2020PRI   	2805	7316 - 1630 Stockton St (loc 7315)		S F Italian Athletic Club - Upstairs Function Room	1630 Stockton St	Btw Union & Filbert St	1.1% Slope	7316   	Pct 7316	7316   		2  
+2020PRI   	2806	7551 - 165 Grattan St (loc 7555)		Grattan Elementary School - Auditorium	165 Grattan St	Btw Cole & Shrader	5.6% Slope - Ramped Access	7551   	Pct 7551	7551   		2  
+2020PRI   	2817	9202 - 218 Lincoln Blvd		Firehouse #51	218 Lincoln Blvd	Enter Off Graham Btw Lincoln Bl & French CT	5.0% Slope	9202   	Pct 9202	9202   		6  
+2020PRI   	2818	9701 - 1439 18th Avenue		Garage	1439 18th Ave	Between Judah And Kirkham	5% Slope At Entrance	9701   	Pct 9701	9701   		5  
+2020PRI   	2822	7038 - 1701 Visitacion Ave		Coffman Pool - Lobby	1701 Visitacion Ave	Enter Off Visitacion Near The Corner Of Hahn	3.0% Slope	7038   	Pct 7038	7038   		3  
+2020PRI   	2835	9451 - 2715 35th Ave		Garage	2715 35th Ave	Btw Wawona & Yorba	3.5% Slope	9451   	Pct 9451	9451   		6  
+2020PRI   	2854	9518 - 1199 9th Ave (loc 9514)		County Fair Building - Gallery	1199 9th Ave	Between Lincoln & MLK Drive	4.9% Slope	9518   	Pct 9518	9518   		5  
+2020PRI   	2864	7606 - 650 Eddy St		Arnet Watson Apartments - Lobby	650 Eddy St	Btw Larkin & Polk	1.3% Slope	7606   	Pct 7606	7606   		3  
+2020PRI   	2865	7618 - 170 Otis St		Human Services Agency - Born Auditorium	170 Otis St	Enter Off Otis Btw Duboce And McCoppin	6.1% Slope	7618   	Pct 7618	7618   		3  
+2020PRI   	2866	7623 - 175 7th Street		West Bay Pilipino Multi Service Center	175 7th Street	Btw Mission & Howard	1.9% Slope	7623   	Pct 7623	7623   		3  
+2020PRI   	2869	7854 - 4132 26th St		Garage	4132 26th St	Btw Noe & Castro	6.6% Slope	7854   	Pct 7854	7854   		3  
+2020PRI   	2870	7712 - 236 Monterey Blvd		Sunnyside Conservatory	236 Monterey Blvd	Btw Baden & Congo Sts	8.3% Slope - Ramped Access	7712   	Pct 7712	7712   		2  
+2020PRI   	2873	9406 - 2625 Lincoln Way		Garage	2625 Lincoln Way	Btw 27th And 28th Aves	8.0% Ramped Access	9406   	Pct 9406	9406   		6  
+2020PRI   	2878	9418 - 3240 Lawton St		Garage	3240 Lawton St	Btw 38th Ave And 39th Ave	7.6% Slope	9418   	Pct 9418	9418   		6  
+2020PRI   	2884	7866 - 43 Ora Way		Goldmine Hill Homeowners Assoc - Rec Rm	43 Ora Way	Btw Goldmine & Topaz	5% Slope	7866   	Pct 7866	7866   		3  
+2020PRI   	2893	7912 - 3134 22nd St		Hua Zang Si - Temple	3134 22nd St	Btw S Van Ness Ave & Capp St	7.6% Slope - Ramped Access	7912   	Pct 7912	7912   		2  
+2020PRI   	2900	1124 - 155 Sadowa St		Garage	155 Sadowa St	Btw Capital & Plymouth	7.6% Slope	1124   	Pct 1124	1124   		1  
+2020PRI   	2904	7506 - 1480 Ellis St - (loc 7507)		Full Gospel S F Church	1480 Ellis St	At Webster	7.9% Slope Ramped Access	7506   	Pct 7506	7506   		2  
+2020PRI   	2905	7617 - 44 Mcallister St		Civic Center Residence - Front Lobby	44 McAllister St	Enter Btw Jones & Leavenworth	1.6% Slope	7617   	Pct 7617	7617   		3  
+2020PRI   	2907	7035 - 729 Kirkwood Ave		Wu Yee Children's Services	729 Kirkwood Ave	Btw Earl & Dormitory - Enter Ramp On Right	8.3% Slope - Ramped Access	7035   	Pct 7035	7035   		3  
+2020PRI   	2908	7906 -2248 Mission St		Beauty Salon	2248 Mission St	Btw 18th & 19th Sts	5.8% Slope	7906   	Pct 7906	7906   		2  
+2020PRI   	2912	1126 - 2850 Alemany Blvd		Spanish Cultural Center	2850 Alemany Blvd	Enter Off Farragut At Alemany	8.3% Slope	1126   	Pct 1126	1126   		1  
+2020PRI   	2916	9152 - 2335 Golden Gate Ave		Memorial Gym - North Lobby	2335 Golden Gate Ave	Btw Kittredge & Roselyn Ter	4.5% Slope	9152   	Pct 9152	9152   		5  
+2020PRI   	2929	9229 - 38 20th Ave		Garage	38 20th Ave	Off Lake St	6.0% Slope	9229   	Pct 9229	9229   		6  
+2020PRI   	2931	7052 - 333 Tunnel Ave		Korean First Presbyterian Church	333 Tunnel Ave	Cross Street Lathrop Ave	3.5 %slope	7052   	Pct 7052	7052   		3  
+2020PRI   	2934	1119 - 24 Josiah Ave		Garage	24 Josiah Ave	Btw Howth St & Lakeview Ave	4.7% Slope	1119   	Pct 1119	1119   		1  
+2020PRI   	2939	7001 - 2450 17th St		S G I - U S A Soka Gakkai - Rm 1a	2450 17th St	Enter Off Hampshire St Near 17th St	8.3% Slope - Ramped Access	7001   	Pct 7001	7001   		3  
+2020PRI   	2940	7004 - 655 De Haro Street		S F International High School - Lobby	655 De Haro St	Enter Off DE Haro Between 18th & 19th Sts	6.4% Slope	7004   	Pct 7004	7004   		3  
+2020PRI   	2941	7006 - 2641 25th Street		Bryant Elementary School - Front Lobby	2641 25th St	Btw San Bruno Ave & Utah St	1.0 % Slope	7006   	Pct 7006	7006   		3  
+2020PRI   	2942	7042 - 3560 San Bruno Ave		New Greater Prosperity Church - Sanctuary	3560 San Bruno Ave	Btw Harkness & Wilde	6.4% Slope	7042   	Pct 7042	7042   		3  
+2020PRI   	2948	7313 - 840 Broadway St		Jean Parker Elementary School - Multi Purpose Room	840 Broadway St	Btw Powell & Mason	8.3% Slope - Ramped Access	7313   	Pct 7313	7313   		2  
+2020PRI   	2952	7337 - 1199 Mason St		Chinese Recreation Center - Lobby	1199 Mason St	Enter At Corner Of Mason And Washington	2.7% Slope	7337   	Pct 7337	7337   		2  
+2020PRI   	2957	7622 - 1010 Mission Street		Bayanihan Community Center - Hall	1010 Mission Street	Between 6th St And 7th Sts	5.5% Slope	7622   	Pct 7622	7622   		3  
+2020PRI   	2963	7858 - 1220 Valencia St		Templo Da La Fe - Church Lobby	1220 Valencia St	Btw 23rd & 24th Sts	1% Slope	7858   	Pct 7858	7858   		3  
+2020PRI   	2969	9118 - 550 37th Ave		Library - Anza Branch - Program Room	550 37th Ave	Btw Geary Blvd & Anza St	5.6% Slope	9118   	Pct 9118	9118   		5  
+2020PRI   	2974	9256 - 2520 Bush St (loc 9254)		7th Day Adventist Church - Imani Center	2520 Bush Street	Between Divisadero St & Scott St	1.3% Slope	9256   	Pct 9256	9256   		6  
+2020PRI   	2976	9506 - 1150 Scott St		Robert B Pitts - Community Room	1150 Scott St	Btwn Eddy & Turk	8.3% Slope	9506   	Pct 9506	9506   		5  
+2020PRI   	2985	7848 - 990 Church St		School - Dolores Huerta - Room 4	990 Church St	Btw 22nd St & Hill Sts	8.0 % Slope	7848   	Pct 7848	7848   		3  
+2020PRI   	2988	1131 - 666 Morse St		Garage	666 Morse St	Btw Lowell & Guttenberg	6.3% Slope	1131   	Pct 1131	1131   		1  
+2020PRI   	2992	7547 -1525 Waller St (loc 7546)		Waller Center	1525 Waller St	Btw Clayton & Belvedere	5.5% Slope	7547   	Pct 7547	7547   		2  
+2020PRI   	3001	7873 - 126 Chenery St		Garage	126 Chenery St	Btw Randell & Fairmont Sts	4.2% Slope	7873   	Pct 7873	7873   		3  
+2020PRI   	3009	7628 - 1346 Folsom St		Tenderloin Neighborhood Develop - Lobby	1346 Folsom St	Btw 9th St And Dore St	2.2% Slope	7628   	Pct 7628	7628   		3  
+2020PRI   	3015	9503/04 - 1550 Scott St		Western Addition Library - Program Rm	1550 Scott St	Btw Post St & Geary Blvd	4.3% Slope	9503   	Pct 9503/9504	9503   		5  
+2020PRI   	3015	9503/04 - 1550 Scott St		Western Addition Library - Program Rm	1550 Scott St	Btw Post St & Geary Blvd	4.3% Slope	9503   	Pct 9503/9504	9504   		5  
+2020PRI   	3018	7334 - 1751 Sacramento St (loc 7332)		Old First Presbyterian Church - Fellowship Hall	1751 Sacramento St	Btw Polk St & Van Ness Ave	8.3% Slope	7334   	Pct 7334	7334   		2  
+2020PRI   	3020	9751 - 1298 Ocean Ave		Ingleside Branch Library - Program Room	1298 Ocean Ave	Btw Plymouth And Brighton Aves	1.7% Slope	9751   	Pct 9751	9751   		1  
+2020PRI   	3026	7346 - 1082 Post St		1082 Post Street Apartments	1082 Post St	Btw Polk & Larkin	1.2% Slope	7346   	Pct 7346	7346   		2  
+2020PRI   	3027	1121 - 2850 Alemany Blvd (loc 1126)		Spanish Cultural Center	2850 Alemany Blvd	Enter Off Farragut At Alemany	8.3% Slope	1121   	Pct 1121	1121   		1  
+2020PRI   	3028	7637 - 425 1st Street		Rincon Hill Apartment Bldg - Lobby	425 1st Street	At Harrison Street	0.8% Slope	7637   	Pct 7637	7637   		3  
+2020PRI   	3029	9137 - 6220 Fulton St		Garage	6220 Fulton St	Btw 38th & 39th Aves	3.8% Slope	9137   	Pct 9137	9137   		5  
+2020PRI   	3030	1146 - 5051 Mission St		5051 Mission - Hall Of Mirrors	5051 Mission St	Between Amazon & Italy	2.4% Slope	1146   	Pct 1146	1146   		2  
+2020PRI   	3035	7926- 28 Mirabel Avenue		Garage	28 Mirabel Ave	Btw Coso Ave & Shotwell St	8.3% Slope	7926   	Pct 7926	7926   		2  
+2020PRI   	3037	9141 - 855 27th Ave		Fulton Playground - Fieldhouse	855 27th Ave	Btw Fulton & Cabrillo Sts	4.6% Slope	9141   	Pct 9141	9141   		5  
+2020PRI   	3052	7348 - 450 Sutter Street		450 Sutter Building - Mayan Room 310	450 Sutter St	Btw Powell & Stockton	3.6% Slope	7348   	Pct 7348	7348   		2  
+2020PRI   	3055	9421 - 2201 Lawton St.		Sunset Recreation Ctr. - Club Room B	2201 Lawton St.	Enter At Corner Of Lawton & 28th Ave	5.4% Slope	9421   	Pct 9421	9421   		6  
+2020PRI   	3059	7024 - 1101 Fairfax Ave		Hunters View - Community Rm	1101 Fairfax Ave	Enter On Fairfax Ave Near Acacia Ave	2.9 % Slope	7024   	Pct 7024	7024   		3  
+2020PRI   	3068	1145 - 950 Avalon Ave		Swaminarayan Temple - Lobby	950 Avalon Ave	At Corner Of LA Grande Ave	2.0 % Slope	1145   	Pct 1145	1145   		2  
+2020PRI   	3077	7635 - 615 7th Street		Hoogasian Flowers - Display Area	615 7th St	Btw Townsend & Brannan	8.3% Ramped Access	7635   	Pct 7635	7635   		3  
+2020PRI   	3084	9149 - 278 Willard North St		Garage	276 Willard North St	Btw Golden Gate Ave & Mcallister St	6.4% Slope	9149   	Pct 9149	9149   		5  
+2020PRI   	3093	9717 - 2243 14th Ave		Garage	2243 14th Ave	Btw Rivera And Santiago	7.5% Slope At Entrance	9717   	Pct 9717	9717   		5  
+2020PRI   	3095	9735 - 112 Robinhood Drive		Garage	112 Robinhood Drive	Cross Street Lansdale Ave	3.9% Slope	9735   	Pct 9735	9735   		1  
+2020PRI   	3106	7053 - 150 Executive Park Blvd		Office Building - 1st Floor Conf Room	150 Executive Park Blvd, Suite 4000	Enter Rear Parking Lot Btw Thomas Mellon & Candlestick Cove	7.2% Slope	7053   	Pct 7053	7053   		3  
+2020PRI   	3110	1108 - 583 Victoria Street		Garage	583 Victoria St	Enter Btw Holloway Ave & Garfield St	7.1% Slope	1108   	Pct 1108	1108   		1  
+2020PRI   	3124	7834 - 3590 19th St.		Apartamentos De La Esperanza - Comm Room	3590 19th St.	Btw Guerrero St & Linda St	2.7% Slope	7834   	Pct 7834	7834   		3  
+2020PRI   	3139	9444 - 2650 42nd Ave (loc 9443)		School - Ulloa - Gymnasium	2650 42nd Ave	Enter Off Vicente Between 41st & 42nd Ave.	8.3% Slope - Ramped Access	9444   	Pct 9444	9444   		6  
+2020PRI   	3143	9414 - 1570 31st Ave (loc 9419)		Lawton School - Auditorium	1570 31st Ave	Enter Off Lawton Between 30th And 31st Ave	5.0% Slope	9414   	Pct 9414	9414   		6  
+2020PRI   	3153	7303 - 850 Columbus Ave - (loc 7307)		North Beach Library - Community Rm	850 Columbus Ave	Btw Lombard & Greenwich Sts	0.6 % Slope	7303   	Pct 7303	7303   		2  
+2020PRI   	3162	9213 - 1259 Bay Street		Garage	1259 Bay St	Enter Btw Gough & Franklin Sts	0.8% Slope At Entrance	9213   	Pct 9213	9213   		6  
+2020PRI   	3163	9227 - 211 27th Avenue		Garage (on Left Side)	211 27th Ave	Btw Lake & California Sts	6.8% Slope	9227   	Pct 9227	9227   		6  
+2020PRI   	3167	9405 - 1330 29th Ave		Garage	1330 29th Ave	Btw Irving & Judah	5% Slope	9405   	Pct 9405	9405   		6  
+2020PRI   	3171	9712 - 250 Laguna Honda Blvd		Church Lobby	250 Laguna Honda Blvd	Enter Off Laguna Honda Between Plaza And Clarendon	8.3% Slope - Ramped Access	9712   	Pct 9712	9712   		1  
+2020PRI   	3181	1103 - 2 San Gabriel Avenue		Garage	2 San Gabriel Ave	Btw Capistrano & Santa Rosa	5.0% Slope	1103   	Pct 1103	1103   		1  
+2020PRI   	3187	7934 - 3469 Mission St		S F Taekwondo Center	3469 Mission St	Btw Kingston St & Cortland Ave	5.7% Slope	7934   	Pct 7934	7934   		2  
+2020PRI   	3188	7875 - 68 Park St		Garage	68 Park St	Btw Mission & Dead End Of Park	5.6% Slope	7875   	Pct 7875	7875   		3  
+2020PRI   	3189	7626 - 201 3rd St.		Starbucks Cafe	201 3rd St.	Btw Howard And Folsom	4.4% Slope	7626   	Pct 7626	7626   		3  
+2020PRI   	3191	9119 - 687 40th Ave		Garage	687 40th Ave	Btw Balboa & Anza Sts	4.2% Slope	9119   	Pct 9119	9119   		5  
+2020PRI   	3193	9438 - 2162 24th Ave (loc. 9439)		Abraham Lincoln School - Teachers' Lounge	2162 24th Ave	Between Rivera & Quintara	4.7% Slope	9438   	Pct 9438	9438   		6  
+2020PRI   	3208	9452 - 2695 19th Ave		Sava Pool - Multipurpose Room	2695 19th Ave	Corner Of 19th Ave & Wawona	5.0 % Slope	9452   	Pct 9452	9452   		6  
+2020PRI   	3209	9205 - 1526 Francisco		Garage	1526 Francisco St	Btw Octavia & Laguna Sts	1.5% Slope	9205   	Pct 9205	9205   		6  
+2020PRI   	3211	9109 - 249 17th Ave (loc 9108)		Garage	249 17th Ave	Between California And Clement	0.6% Slope	9109   	Pct 9109	9109   		5  
+2020PRI   	3212	7803 - 38 Ord St		Garage	38 Ord St	Btw 17th St & Ord CT	1.8% Slope	7803   	Pct 7803	7803   		3  
+2020PRI   	3214	7629 - 1028 Howard St (loc 7623)		Mercy Housing - Community Room	1028 Howard St	Btw Russ St & 6th St	2.5% Slope	7629   	Pct 7629	7629   		3  
+2020PRI   	3216	7874 - 130 Milton St		Garage	130 Milton St.	Btw Bosworth St. & Mirando Way	6.5 % Slope	7874   	Pct 7874	7874   		3  
+2020PRI   	3220	1125 - 8 Capitol Ave		Firehouse #33	8 Capitol Ave	Btw Sagamore And End Of Capitol Ave	7.8% Slope Ramped Access	1125   	Pct 1125	1125   		1  
+2020PRI   	3222	7529 - 1035 Hayes St		Garage	1035 Hayes St	Btw Steiner & Pierce	8.1% Slope At Right Side Of Garage	7529   	Pct 7529	7529   		2  
+2020PRI   	3226	7031 - 1728 Bancroft Ave		3rd St Youth Center	1728 Bancroft Ave	Enter Bancroft Btw 3rd St & Mendell St	2.6% Slope	7031   	Pct 7031	7031   		3  
+2020PRI   	3231	7625 - 701 Mission St		Yerba Buena Center For The Arts - Grand Lobby	701 Mission St	Enter Mission St. Near 3rd St	7.9% Slope - Ramped Access	7625   	Pct 7625	7625   		3  
+2020PRI   	3234	7709 - 682 Monterey Blvd		Garage	682 Monterey Blvd	Btw Foerster & Gennessee	7.1% Slope	7709   	Pct 7709	7709   		2  
+2020PRI   	3240	9211 - 3201 Baker St (loc 9206)		Garage	3201 Baker St	Corner Of Francisco & Baker Sts	5.8% Slope	9211   	Pct 9211	9211   		6  
+2020PRI   	3242	7321 - 1430 Mason St		True Sunshine Episcopal Church - Garage	1430 Mason St.	Btw Broadway And Pacific Ave	8.3% Slope For 4 feet	7321   	Pct 7321	7321   		2  
+2020PRI   	3244	9221 - 2835 Broadway St		Garage	2835 Broadway St	Btw Baker & Broderick Sts	8.3% Slope	9221   	Pct 9221	9221   		6  
+2020PRI   	3246	7051 - 201 Leland Ave		Visitacion Valley Branch Library	201 Leland Ave	Btw Cora & Rutland Sts	8.3% Slope - Ramped Access	7051   	Pct 7051	7051   		3  
+2020PRI   	3249	9228 - 511 El Camino Del Mar		Garage	511 El Camino Del Mar	Near Corner Of 28th Ave	3.5% Slope	9228   	Pct 9228	9228   		6  
+2020PRI   	3250	7835 - 264 Glenview Dr		Garage	264 Glenview Dr	Near Corner Of Burnett Ave	8.3% Slope	7835   	Pct 7835	7835   		3  
+2020PRI   	3251	7034 - 90 Kiska Road		Westbrook House - Community Room	90 Kiska Road	Corner Of Kiska Rd & Ingalls St	6.8% Slope	7034   	Pct 7034	7034   		3  
+2020PRI   	3252	7862 - 1456 Church St.		Garage	1456 Church St	Btw Cesar Chavez St And 27th St	2% Slope	7862   	Pct 7862	7862   		3  
+2020PRI   	3258	9215 - 3155 Scott St		Edward I I Youth Housing - Program Room	3155 Scott St	Enter Scott St. Near Corner Of Lombard St.	0.4% Slope	9215   	Pct 9215	9215   		6  
+2020PRI   	3262	7638 - 375 Beale St		Metropolitan Transportation Commission - Ohlone Room 107	375 Beale St	Btw Harrison & Folsom	1.5% Slope	7638   	Pct 7638	7638   		3  
+2020PRI   	3263	7941 - 612 Moultrie St		Garage	612 Moultrie St	Btw Ogden Ave And Tompkins Ave	1% Slope	7941   	Pct 7941	7941   		2  
+2020PRI   	3269	9705 - 1539 10th Ave		Garage	1539 10th Ave	Btw Kirkham St. And Lawton St.	7.9% Slope	9705   	Pct 9705	9705   		5  
+2020PRI   	3271	9134 - 740 Anza St		Garage	740 Anza St.	Btw Beaumont & Parker Aves	4.2% Slope	9134   	Pct 9134	9134   		5  
+2020PRI   	3280	9441 - 2618 45th Ave		Garage	2618 45th Ave	Between Vicente & Wawona	5.0% Slope	9441   	Pct 9441	9441   		6  
+2020PRI   	3281	9708 - 1831 8th Ave		Garage	1831 8th Ave	Btw Noriega & Ortega	6.2% Slope	9708   	Pct 9708	9708   		5  
+2020PRI   	3290	7813 - 71 Landers St		Garage	71 Landers St	Btw 14th St & 15th St	5.7% Slope	7813   	Pct 7813	7813   		3  
+2020PRI   	3291	9237 - 2938 Washington St		Waldorf School - Dakin Hall Lobby	2938 Washington St	Bttw Broderick & Divisadero Sts	1.3% Slope	9237   	Pct 9237	9237   		6  
+2020PRI   	3292	9216 - 2444 Greenwich St		Garage	2444 Greenwich St	Btw Pierce & Scott Sts	3.6% Slope	9216   	Pct 9216	9216   		6  
+2020PRI   	3295	7323 - 1755 Clay St		St Luke's Episcopal Church - Sanctuary	1755 Clay St	Enter Van Ness Ave Btw Clay & Sacramento	2.6% Slope Wheelchair Lift Access	7323   	Pct 7323	7323   		2  
+2020PRI   	3296	9144 - 1437 Cabrillo St		Garage	1437 Cabrillo St	Btw 15th & 16th Ave	7.1% Slope	9144   	Pct 9144	9144   		5  
+2020PRI   	3302	9246 - 2340 Jackson St (loc 9238)		S F Public Montessori School - Auditorium	2340 Jackson St	Between Webster And Fillmore	8.3% Slope - Ramped Access	9246   	Pct 9246	9246   		6  
+2020PRI   	3303	9245 - 2262 California St		Congr. Sherith Israel - Newman Lobby	2262 California St	Between Webster & Buchanan St	8.3% Slope	9245   	Pct 9245	9245   		6  
+2020PRI   	3306	9719 - 29 Rockaway Ave		St Brendan's Parish - Parish Hall	29 Rockaway Ave	Enter On Ulloa Btwn Rockaway & Waithman Way	7.1% Slope Ramped Access	9719   	Pct 9719	9719   		1  
+2020PRI   	3307	7319 - 1965 Larkin St		Helen Wills Park - Garden Room	1965 Larkin St	Enter At Corner Of Larkin & Broadway	8.3% Slope Ramped Access	7319   	Pct 7319	7319   		2  
+2020PRI   	3308	1142 - 260 Madrid St (loc 1144)		Monroe School - Multipurpose Room	260 Madrid St	Btw Avalon & Excelsior	2.0% Slope	1142   	Pct 1142	1142   		2  
+2020PRI   	3309	7605 - 330 Ellis St		Glide Memorial United Church - Freedom Hall	330 Ellis St	Enter On Taylor Btwn Ellis & O' Farrell	8.0% Slope - Ramped Access	7605   	Pct 7605	7605   		3  
+2020PRI   	3310	7938 - 176 Highland Ave		Garage	176 Highland Ave	Between Holly Park & Patton	5.9% Slope	7938   	Pct 7938	7938   		2  
+2020PRI   	3311	7309 - 2041 Larkin St (loc 7318)		The Church For The Fellowship Of All Peoples	2041 Larkin St	Btw Broadway & Vallejo	3.2% Slope	7309   	Pct 7309	7309   		2  
+2020PRI   	3313	7711 - 236 Monterey Blvd (loc 7712)		Sunnyside Conservatory	236 Monterey Blvd	Btw Baden & Congo Sts	8.3% Slope - Ramped Access	7711   	Pct 7711	7711   		2  
+2020PRI   	3316	7842 - 3531 22nd St (loc 7841)		School - Edison Charter- Auditorium	3531 22nd St	Enter 22nd St Btw Dolores Ave & Chattanooga St	1.5% Slope	7842   	Pct 7842	7842   		3  
+2020PRI   	3317	9433 - 1201 Ortega St		Lycee Francais School	1201 Ortega St	Enter On 19th Ave. Between Ortega & Pacheco	5% Slope	9433   	Pct 9433	9433   		6  
+2020PRI   	3318	7328 - 808 Kearny St		C C S F - Chinatown North Beach Campus - Lobby	808 Kearny St	Between Washington & Jackson	1.6% Slope	7328   	Pct 7328	7328   		2  
+2020PRI   	3320	9411 - 4242 Lawton St		Garage	4242 Lawton St	Between 48th Ave & Great Hwy	4.8% Slope	9411   	Pct 9411	9411   		6  
+2020PRI   	3321	7932 - 685 Peralta Ave		Garage	685 Peralta Ave	Btw Powhattan & Esmerelda	5.6% Slope	7932   	Pct 7932	7932   		2  
+2020PRI   	3328	7935 - 246 Bocana St		Garage	246 Bocana St	Btw Cortland St & Eugenia Ave	2% Slope	7935   	Pct 7935	7935   		2  
+2020PRI   	3336	9207 - 3500 Fillmore St (loc 9208)		Marina Middle School - Auditorium Lobby	3500 Fillmore St	Between Bay And Fillmore Streets	8.3% Slope - Ramped Access	9207   	Pct 9207	9207   		6  
+2020PRI   	3342	7055 - 1111 8th St		California College Of The Arts - Student Lounge	1111 8th St	Btw Irwin & Hooper	3.5% Slope	7055   	Pct 7055	7055   		3  
+2020PRI   	3343	7649 - 758 Natoma St		Hostwell Warehouse	758 Natoma St	Btw 8th St & 9th St	8.3% Slope	7649   	Pct 7649	7649   		3  
+2020PRI   	3344	7651 - 44 Tehama St		Galvanize	44 Tehama St	Btw 1st & 2nd Sts	2.8% Slope	7651   	Pct 7651	7651   		3  
+2020PRI   	3345	7652 - 25 Essex St		Rene Cazenave Apartments - Program Rm	25 Essex St	Btw Folsom & Harrison	0.4% Slope	7652   	Pct 7652	7652   		3  
+2020PRI   	3346	7653 - 1180 4th St		1180 Fourth St Apartments - Comm Rm	1180 4th St	Enter On Channel St Near 4th St	4.6% Slope	7653   	Pct 7653	7653   		3  
+2020PRI   	3347	7876 - 1800 Market St		The S F  L G B T Center	1800 Market St	Between Octavia Blvd & Laguna St	1.2% Slope	7876   	Pct 7876	7876   		3  
+2020PRI   	3349	7044 - 2600 Arelious Walker Dr		Alice Griffith Apartments - Multi - Purpose Rm	2600 Arelious Walker Dr	Enter Egbert At Arelious Walker	2% Slope	7044   	Pct 7044	7044   		3  
+2020PRI   	3350	9754 - 250 Foerster St		Sunnyside Elementary - Main Hallway	250 Foerster St	Btw Hearst & Flood	8.3% - Ramped Access	9754   	Pct 9754	9754   		1  
+2020PRI   	3351	7008 - 465 Missouri St		Daniel Webster Elementary School - Flex Room	465 Missouri St	Btw 19th & 20th Sts	8.3% Slope - Ramped Access	7008   	Pct 7008	7008   		3  
+2020PRI   	3355	7512 - 1025 Fillmore Street		El Bethel Arms	1025 Fillmore St	Btw Mcallister & Golden Gate Ave	5.0% Slope	7512   	Pct 7512	7512   		2  
+2020PRI   	3357	9412 - 1558 47th Ave		Garage	1558 47th Ave	Between Lawton And Kirkham St	1.4% Slope	9412   	Pct 9412	9412   		6  
+2020PRI   	3360	7514 - 1050 Mcallister St		Ella Hill Hutch Center - Conference Rm	1050 Mcallister St	Btw Webster & Laguna	7.3% Slope - Ramped Access	7514   	Pct 7514	7514   		2  
+2020PRI   	3362	7526 - 624 Laguna St		The Village At Hayes Valley - Rooftop Lounge	624 Laguna St	Btw  Grove & Ivy	3% Slope	7526   	Pct 7526	7526   		2  
+2020PRI   	3364	7614 - 220 Golden Gate Ave		Kelly Cullen Community - 2nd Floor Auditorium	220 Golden Gate Ave	Btw Leavenworth & Hyde	2.2% Slope	7614   	Pct 7614	7614   		3  
+2020PRI   	3365	7616 - 150 Van Ness Ave		150 Van Ness Apartments - Yoga Room	150 Van Ness Ave	Enter Hayes Btw Polk & Van Ness Ave	0.7% Slope	7616   	Pct 7616	7616   		3  
+2020PRI   	3367	9217 - 3150 Steiner St (loc 9216)		Garage	3150 Steiner St	Btw Greenwich & Pixley Sts	8.2% Slope	9217   	Pct 9217	9217   		6  
+2020PRI   	3373	1122 - 721 Delano Ave		Garage	721 Delano Ave	Between Geneva And Seminole	5.1% Slope	1122   	Pct 1122	1122   		1  
+2020PRI   	3375	1147 - 437 Lisbon St		Garage	437 Lisbon St	Btw Russia Ave & Persia Ave	3.9% Slope	1147   	Pct 1147	1147   		2  
+2020PRI   	3379	7541 - 254 Laussat St		Garage	254 Laussat St	Btw Fillmore & Steiner	0.1% Slope	7541   	Pct 7541	7541   		2  
+2020PRI   	3384	9218 - 3020 Laguna St		Garage	3020 Laguna St	Btw Greenwich St & Harris Pl	4.0% Slope	9218   	Pct 9218	9218   		6  
+2020PRI   	3385	9226 - 1745 Vallejo St		Garage	1745 Vallejo St	Btw Franklin & Gough Sts	1.8% Slope	9226   	Pct 9226	9226   		6  
+2020PRI   	3388	9432 - 1851 Noriega St		Adath Israel Synagogue	1851 Noriega St	Btw 25th Ave & 26th Ave	2.8% Slope	9432   	Pct 9432	9432   		6  
+2020PRI   	3390	9724 - 84 Middlefield Dr		Garage	84 Middlefield Dr	Btw Ocean & Sloat	2.5% Slope	9724   	Pct 9724	9724   		1  
+2020PRI   	3394	7047 - 66 Raymond Ave (loc 7051)		Asian Pacific American Community Center - Rm 3	66 Raymond Ave	Btw Alpha St & Bayshore Blvd	8.3% Slope - Ramped Access	7047   	Pct 7047	7047   		3  
+2020PRI   	3398	9517 - 1364 12th Ave		Garage	1364 12th Ave	Btw Irving & Judah	4.2% Slope	9517   	Pct 9517	9517   		5  
+2020PRI   	3399	9738 - 1300 Junipero Serra Blvd		Saint Thomas More Church - Scanlan Hall	1300 Junipero Serra Blvd	Entrance Btw Thomas More Way & Junipero Serra	6.6% Slope - Ramped Access	9738   	Pct 9738	9738   		1  
+2020PRI   	3401	9435 - 3045 Santiago St		S F U S D Special Ed Center - Multi Purpose Rm	3045 Santiago St	Btw 41st Ave & 42nd Ave	3.9% Slope - Ramped Access	9435   	Pct 9435	9435   		6  
+2020PRI   	3404	7549 - 321 Carl St		Carl Street Free Library - Garage	321 Carl St	Between Willard & Hillway	5.0% Slope	7549   	Pct 7549	7549   		2  
+2020PRI   	3408	7832 - 4046 20th St		Garage	4046 20th St	Btw Sanchez & Noe St	2.2% Slope	7832   	Pct 7832	7832   		3  
+2020PRI   	3410	9115 - 251 6th Ave		School - George Peabody - Library	251 6th Ave - Enter On 7th Ave	Enter Off 7th Ave Btw Clement & California Sts	4.5 % Slope	9115   	Pct 9115	9115   		5  
+2020PRI   	3411	9214 - 3002 Baker St		Garage	3002 Baker St	Enter On Lombard Near Corner Of Baker St	2.7% Slope	9214   	Pct 9214	9214   		6  
+2020PRI   	3413	9135 - 837 47th Ave		Garage	837 47th Ave	Btw Fulton And Cabrillo Sts	6.0% Slope For 2 Feet	9135   	Pct 9135	9135   		5  
+2020PRI   	3416	7953 - 363 Princeton St		Garage	363 Princeton St	Princeton St Near Bacon St	4.8% Slope	7953   	Pct 7953	7953   		2  
+2020PRI   	3419	7324 - 1451 Jackson St		Spring Valley Elementary School - Lobby	1451 Jackson St	Btw Hyde & Larkin	8% Slope - Ramped Access	7324   	Pct 7324	7324   		2  
+2020PRI   	3422	7531 - 634 Oak St		Garage	634 Oak St	Btw Fillmore & Webster	4.3% Slope	7531   	Pct 7531	7531   		2  
+2020PRI   	3423	9132 - 560 4th Ave		Garage	560 4th Ave	Btw Anza & Balboa Sts	6.0% Slope	9132   	Pct 9132	9132   		5  
+2020PRI   	3424	7519 - 1854 Grove St		Garage	1854 Grove St	Between Masonic & Ashbury	6.5% Slope	7519   	Pct 7519	7519   		2  
+2020PRI   	3426	7011 - 524 Connecticut St (loc 7008)		Garage	524 Connecticut St	Btw 20th St & Dead End	2.9% Slope	7011   	Pct 7011	7011   		3  
+2020PRI   	3428	7861 - 422 Day St		Garage	422 Day St	Btw Noe & Day	7.1% Slope	7861   	Pct 7861	7861   		3  
+2020PRI   	3429	9437 - 2271 35th Ave		Garage	2271 35th Ave	Btw Santiago & Rivera St	6.5% Slope	9437   	Pct 9437	9437   		6  
+2020PRI   	3434	7014 - 904 22nd St		Rickshaw Bagworks	904 22nd St	Btw Minnesota & Indiana Sts	2.8% Slope	7014   	Pct 7014	7014   		3  
+2020PRI   	3438	9446 - 2550 25th Ave		Dianne Feinstein Elementary School - Cafeteria Hallway	2550 25th Ave	Between Vicente & Ulloa	8.3% Slope - Ramped Access	9446   	Pct 9446	9446   		6  
+2020PRI   	3440	9748 - 168 Dorado Ter		Garage	168 Dorado Ter	Between Dorado Terrace And Dead End	7.7% Slope	9748   	Pct 9748	9748   		1  
+2020PRI   	3442	1133 - 494 Pope St		Garage	494 Pope St	Corner Of Pope St And Bellevue Ave	4.8% Slope	1133   	Pct 1133	1133   		1  
+2020PRI   	3443	7805 - 46 Beaver St		Garage	46 Beaver St	Between Castro & Noe	6.0% Slope	7805   	Pct 7805	7805   		3  
+2020PRI   	3444	9722 - 261 Wawona St		Garage	261 Wawona St	Between 14th Ave And Vicente St.	6.4% Slope	9722   	Pct 9722	9722   		1  
+2020PRI   	3447	9709 - 1877 17th Ave		Garage	1877 17th Ave	Between Noriega And Ortega St	2.6% Slope	9709   	Pct 9709	9709   		5  
+2020PRI   	3448	9734 - 19 Maywood Dr		Garage	19 Maywood Dr	Between Yerba Buena And Ravenwood	5.9% Slope	9734   	Pct 9734	9734   		1  
+2020PRI   	3451	7349 - 333 Bush St		333 Bush Street - Lobby	333 Bush St	Between Kearny St & Trinity Pl	4.9% Slope	7349   	Pct 7349	7349   		2  
+2020PRI   	3452	9425 - 3223 Ortega St		Ortega Branch Library - Program Room	3223 Ortega St	Between 39th And 40th Ave	3.0% Slope	9425   	Pct 9425	9425   		6  
+2020PRI   	3456	9139 - 3245 Cabrillo St		Garage	3245 Cabrillo St	Between 33rd And 34th Aves	3.8% Slope	9139   	Pct 9139	9139   		5  
+2020PRI   	3457	7056 - 1275 Minnesota St		Minnesota Street Project - Lounge	1275 Minnesota St	Btw 23rd & 24th Sts	0.4% Slope	7056   	Pct 7056	7056   		3  
+2020PRI   	3458	7654 - 1390 Market St		Fox Plaza - Fitness Center	1390 Market St	Enter On Polk St Btw Market & Hayes	8.3% Slope - Ramped Access	7654   	Pct 7654	7654   		3  
+2020PRI   	3459	7655 - 255 Fremont St		Natalie Gubb Commons - Community Room	255 Fremont St	Btw Folsom & Howard	7.9% Slope - Ramped Access	7655   	Pct 7655	7655   		3  
+2020PRI   	3460	7656 - Pier 24 - Embarcadero		Pier 24 Photography	Pier 24 - The Embarcadero	On Embaradero Btw Harrison & Bryant	5.7% Slope	7656   	Pct 7656	7656   		3  
+2020PRI   	3461	7657 - 701 China Basin St		M B 360 - Business Center Lobby	701 China Basin St	Btw Merrimac & Long Bridge	3.9% Slope	7657   	Pct 7657	7657   		3  
+2020PRI   	3462	7947 - 311 Gaven St		Garage	311 Gaven St	Btw Boylston & Bowdoin Sts	8.1% Slope	7947   	Pct 7947	7947   		2  
+2020PRI   	3467	7552 - 1055 Ashbury St		Garage	1055 Ashbury St	Btw Clayton And Downey	2.5% Slope	7552   	Pct 7552	7552   		2  
+2020PRI   	3470	9148 - 700 3rd Ave		Garage	700 3rd Ave	Entrance On Cabrillo Btw 2nd & 3rd Avenues	1.7% Slope	9148   	Pct 9148	9148   		5  
+2020PRI   	3472	9102 - 3749 Clement St		Garage	3749 Clement St	Btw 38th & 39th Avenues	4.3% Slope	9102   	Pct 9102	9102   		5  
+2020PRI   	3475	9428 - 1770 23rd Ave		Garage	1770 23rd Ave	Btw Noriega & Moraga	4.5% Slope	9428   	Pct 9428	9428   		6  
+2020PRI   	3477	7914 - 2836 22nd St		Garage	2836 22nd St	Btw Alabama & Florida	8.3% Slope	7914   	Pct 7914	7914   		2  
+2020PRI   	3479	7612 - 627 Turk St		Tenderloin Community School	627 Turk St	Btw Van Ness & Polk	0.5% Slope	7612   	Pct 7612	7612   		3  
+2020PRI   	3480	7957 - 801 University St.		Garage	801 University St	Corner Of University & Olmstead Sts	7.3% Slope	7957   	Pct 7957	7957   		2  
+2020PRI   	3481	7816 - 130 Douglass St		Garage	130 Douglass St	Btw Market & 17th St	6.1% Slope	7816   	Pct 7816	7816   		3  
+2020PRI   	3483	7859 - 1421 Diamond St		Garage	1421 Diamond St	Btw Duncan & 27th St	1.5% Slope	7859   	Pct 7859	7859   		3  
+2020PRI   	3484	9753 - 50 Frida Kahlo Way		City College - Visual Arts Building - Lobby	50 Frida Kahlo Way	Enter On Judson Btw Gennessee & Forester	8.3% Slope - Ramped Access	9753   	Pct 9753	9753   		1  
+2020PRI   	3485	7823 - 3887 17th St		Garage	3887 17th St	Btw Noe & Sanchez	5.1% Slope	7823   	Pct 7823	7823   		3  
+2020PRI   	3486	7857 - 1165 Dolores St		Garage	1165 Dolores St	Btw Jersey & 25th St	3% Slope	7857   	Pct 7857	7857   		3  
+2020PRI   	3487	9741 - 1 North State Dr		Annex 1 - Student Event Center	1 North State Dr	Between Lake Merced Blvd And Campus Cir	7.1% Slope	9741   	Pct 9741	9741   		1  
+2020PRI   	3488	9151 - 281 Masonic Ave		Leo T Mc Carthy Center - Room 116	281 Masonic Ave	Btw Turk St & Ewing Terrace	8.3% Slope - Ramped Access - No Parking Avail	9151   	Pct 9151	9151   		5  
+2020PRI   	3489	7851 - 96 Turquoise Way		Garage	96 Turquoise Way	Between Amber & Quartz	1.0% Slope	7851   	Pct 7851	7851   		3  
+2020PRI   	3490	7949 - 1010 Silliman St		Garage	1010 Silliman St	Between University & Princeton	3.9% Slope	7949   	Pct 7949	7949   		2  
+2020PRI   	3491	9101 - 110 Seal Rock Dr		Garage	110 Seal Rock Dr	Between Alta Mar & El Camino Del Mar	3.9% Slope	9101   	Pct 9101	9101   		5  
+2020PRI   	3494	7501 - 1975 Post St. (loc 7504)		Jones Memorial Church - Multi Purpose Rm	1975 Post St	Btn Boswell & Steiner	1.0% Slope	7501   	Pct 7501	7501   		2  
+2020PRI   	3495	7535 - 1099 Masonic Ave		Arc Mercy Community Building - Community Room	1099 Masonic Ave	Btw Page & Oak	5.0% Slope	7535   	Pct 7535	7535   		2  
+2020PRI   	3496	7209 - 1337 Sutter St		Lighthouse Church - Main Lobby	1337 Sutter St	Btw Van Ness & Franklin	0.5% Slope	7209   	Pct 7209	7209   		3  
+2020PRI   	3497	9747 - 1 Pico Ave		Garage	1 Pico Ave	Btw Ashton & Urbano	6.4% Slope	9747   	Pct 9747	9747   		1  
+2020PRI   	3498	7955 - 430 Somerset St		Garage	430 Somerset St	Between Bacon & Wayland	2.5% Slope	7955   	Pct 7955	7955   		2  
+2020PRI   	3499	7919 - 3359 26th St		The Laundry	3359 26th St	Btw Mission & Capp	0.4% Slope	7919   	Pct 7919	7919   		2  
+2020PRI   	3500	9124 - 735 24th Ave (loc 9142)		Academic & Professional Dev - Room 118	735 24th Ave	Between Balboa & Cabrillo	3.3% Slope	9124   	Pct 9124	9124   		5  
+2020PRI   	3502	7831 - 395 Collingwood St		Garage	395 Collingwood St	Between 20th & 21st St	3.9% Slope	7831   	Pct 7831	7831   		3  
+2020PRI   	3503	9121 - 561 34th Ave		Garage	561 34th Ave	Between Geary & Anza	2.5% Slope	9121   	Pct 9121	9121   		5  
+2020PRI   	3504	9801 - 1392 Alemany Blvd		Garage	1392 Alemany Blvd	Between Tingley & Silver	6.7% Slope	9801   	Pct 9801	9801   		4  
+2020PRI   	3505	1128 - 5228 Mission St		Venice Pizza	5228 Mission St	Btw Niagara & Mt. Vernon	2.5% Slope	1128   	Pct 1128	1128   		1  
+2020PRI   	3506	7922 - 3059 25th St		Garage	3059 25th St	Btw Alabama & Harrison	7% Slope	7922   	Pct 7922	7922   		2  
+2020PRI   	3507	9727 - 2690 Ocean Ave		Unity Spiritual Center	2690 Ocean Ave	Btw 19th Ave & Lagunitas Dr	5.6% Slope	9727   	Pct 9727	9727   		1  
+2020PRI   	3508	1132 - 143 Pope St		Garage	143 Pope St	Between Cross & Morse	7.7% Slope	1132   	Pct 1132	1132   		1  
+2020PRI   	3509	7538 - 141 Scott St		Garage	141 Scott St	Btw Waller & Haight	5.0% Slope	7538   	Pct 7538	7538   		2  
+2020PRI   	3510	7627 - 115 Steuart St		The Commonwealth Club	115 Steuart St	Btw Mission & Howard	0.7% Slope	7627   	Pct 7627	7627   		3  
+2020PRI   	3511	9756 - 3609 Alemany Blvd		Garage	3609 Alemany Blvd	Between Victoria & Head	7.1% Slope	9756   	Pct 9756	9756   		1  
+2020PRI   	3512	7206 - 1928 Webster St		Garage	1928 Webster St	Btw California & Pine	1.5% Slope	7206   	Pct 7206	7206   		3  
+2020PRI   	3513	7929 - 30 Coleridge St		Garage	30 Coleridge St	Btw Fair And Powers	3.4% Slope	7929   	Pct 7929	7929   		2  
+2020PRI   	3514	9415 - 1422 23rd Ave		Garage	1422 23rd Ave	Btw Judah And Kirkham	2.2% Slope	9415   	Pct 9415	9415   		6  
+2020PRI   	3515	9736 - 32 Burlwood St		Garage	32 Burlwood Dr	Enter On Los Palmos Near Burlwood	6.9% Slope	9736   	Pct 9736	9736   		1  
+2020PRI   	3517	1107 - 400 Sargent St (loc 1116)		Jose Ortega Elementary School - Lobby	400 Sargent St	Btw Arch And Ramsell Sts	8.2% Slope	1107   	Pct 1107	1107   		1  
+2020PRI   	3518	9746 - 105 Aptos Ave (loc 9728)		Aptos Middle School - Room 231	105 Aptos Ave	Enter Off Upland Btw Aptos & San Aleso	5.5% Slope	9746   	Pct 9746	9746   		1  
+2020PRI   	3522	1134 - 39 Naylor St		Garage	39 Naylor St	Corner Of Prague And Naylor	8.0% Slope	1134   	Pct 1134	1134   		1  
+2020PRI   	3523	7641 - 501 3rd St		Gallery 16	501 3rd St	Enter On Bryant Between 3rd And Jack London Alley	8.0% Slope	7641   	Pct 7641	7641   		3  
+2020PRI   	3524	9127 - 542 16th Ave		Garage	542 16th Ave	Btw Anza & Balboa	2.5% Slope	9127   	Pct 9127	9127   		5  
+2020PRI   	3529	9403 - 1259 41st Ave		Garage	1259 41st Ave	Btw Lincoln And Irving	3% Slope	9403   	Pct 9403	9403   		6  
+2020PRI   	3530	7833 - 708 Guerrero St.		Garage	708 Guerrero St	Btw 19th St & Cumberland St	6.3% Slope	7833   	Pct 7833	7833   		3  
+2020PRI   	3531	7603 - 939 Post St (loc 7602)		Kindel & Graham - S F Party	939 Post St	Btw Larking & Hyde	8.0% Slope	7603   	Pct 7603	7603   		3  
+2020PRI   	3532	7811 - 170 Valencia St		S F Gay Men's Chorus - Lobby	170 Valencia St	Btw Mc Coppin St & Duboce Ave	4.4% Slope	7811   	Pct 7811	7811   		3  
+2020PRI   	3534	7815 - 40 Danvers St		Garage	40 Danvers St	Btw Merritt & Market Sts	6.3% Slope	7815   	Pct 7815	7815   		3  
+2020PRI   	3535	7023 - 3 Carpenter Ct		Garage	3 Carpenter Ct	Cul DE Sac Off Whitney Young Cir	4.6% Slope	7023   	Pct 7023	7023   		3  
+2020PRI   	3536	7867 - 291 Sussex St		Garage	291 Sussex St	Btw Swiss & Conrad	3.5% Slope	7867   	Pct 7867	7867   		3  
+2020PRI   	3537	9145 - 632 11th Ave		Garage	632 11th Ave	Btw Cabrillo & Balboa St's	1.5% Slope	9145   	Pct 9145	9145   		5  
+2020PRI   	3538	1117 - 265 Minerva St		Garage	265 Minerva St	Btw Capitol & Orizaba St	2.7% Slope	1117   	Pct 1117	1117   		1  
+2020PRI   	3539	7335 - 1356 Sacramento St		Garage	1356 Sacramento St	Btw Leavenworth & Jones	5% Slope	7335   	Pct 7335	7335   		2  
+2020PRI   	3540	7022 - 4301 3rd St		College Track - Kitchen	4301 3rd St	Btw Jerrold & Kirkwood Aves	1% Slope	7022   	Pct 7022	7022   		3  
+2020PRI   	3542	9426 - 1859 34th Ave		Garage	1859 34th Ave	Btw Noriega & Ortega St	4.7% Slope	9426   	Pct 9426	9426   		6  
+2020PRI   	3543	7347 - 550 Geary Blvd		Hotel Adagio - Ensemble Room	550 Geary St	Btw Jones St & Shannon St	1% Slope	7347   	Pct 7347	7347   		2  
+2020PRI   	3545	7872 - 2825 Diamond St		Glen Park Library - Program Room	2825 Diamond St	Btw Bosworth & Kern	0.3% Slope	7872   	Pct 7872	7872   		3  
+2020PRI   	3546	7546 - 728 Cole St		Eco-home - Garage	728 Cole St	Btw Beulah & Waller	2.6% Slope	7546   	Pct 7546	7546   		2  

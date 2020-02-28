@@ -1,0 +1,45 @@
+sequence	type	contest_id	external_id	vote_for	title	text	approval_required	contest_party_id
+001	text	98590	5ff01b7d-8106-4aa5-b2d4-367f77542ba6			<p><strong>Party-Nominated Offices</strong></p><p>Only voters who disclosed a preference upon registering to vote for the same party as the candidate seeking the nomination of any party for the Presidency or election to a party committee may vote for that candidate at the primary election, unless the party has adopted a rule to permit non-party voters to vote in its primary elections.</p><p><strong>Voter-Nominated and Nonpartisan Offices</strong></p><p>All voters, regardless of the party preference they disclosed upon registration, or refusal to disclose a party preference, may vote for any candidate for a voter-nominated or nonpartisan office. The party preference, if any, designated by a candidate for a voter-nominated office is selected by the candidate and is shown for the information of the voters only. It does not imply that the candidate is nominated or endorsed by the party or that the party approves of the candidate. The party preference, if any, of a candidate for a nonpartisan office does not appear on the ballot.</p>		
+001	text	98596	95725405-a594-4319-813d-5320a4217bc0		Voter-Nominated and Nonpartisan Offices	All voters, regardless of the party preference they disclosed upon registration, or refusal to disclose a party preference, may vote for any candidate for a voter-nominated or nonpartisan office. The party preference, if any, designated by a candidate for a voter-nominated office is selected by the candidate and is shown for the information of the voters only. It does not imply that the candidate is nominated or endorsed by the party or that the party approves of the candidate. The party preference, if any, of a candidate for a nonpartisan office does not appear on the ballot.		
+002	text	98597	779a5fd6-fb71-49ab-b564-a544556ed286		This ballot does not	This ballot does not include a Presidential contest because you are registered to vote with no political party preference. To vote a ballot with a Presidential contest, contact the Department of Elections at (415) 554-4375 or ask a poll worker.		
+003	text	98592	b249c56f-4335-46c9-8848-121d9f97cb6d		This ballot lists th	This ballot lists the presidential contest of the party in your voter registration record. To vote a different ballot, contact the Department of Elections at (415) 554-4375 or ask a poll worker.		
+004	text	98593	10977346-d1c5-40a2-8c8a-5d170e455899		This ballot does not	This ballot does not include a contest for County Central Committee members because the number of nominated candidates is equal to or fewer than the number of seats to be elected.		
+004	text	98689	b8398353-999b-4b50-9bc1-77e99ad39c12		This ballot does not	This ballot does not include a contest for County Council because the number of nominated candidates is fewer than the number of seats to be elected.		
+004	text	98690	781bf541-e8a3-43bb-8d1f-5c9a28bf511d		The Libertarian Part	The Libertarian Party of California requested not to have its County Central Committee election included on the March 2020 ballot.		
+004	text	98691	bb6d9123-eb9d-4ef2-8dbb-354cc6053593		You are registered t	You are registered to vote with no political party preference and requested a ballot with a presidential contest. To vote a different party’s ballot, contact the Department of Elections at (415) 554-4375 or ask a poll worker.		
+007	header	98564	header-2		PARTY-NOMINATED OFFICES			
+008	header	98563	header-1		FEDERAL			
+010	contest	98539	7	1	PRESIDENT OF THE UNITED STATES~Presidential Preference			DEM
+020	contest	98540	8	1	PRESIDENT OF THE UNITED STATES~Presidential Preference			REP
+030	contest	98541	9	1	PRESIDENT OF THE UNITED STATES~Presidential Preference			AI
+040	contest	98542	10		PRESIDENT OF THE UNITED STATES~Presidential Candidate Preference~Vote for a candidate.~Delegates to the national convention will be selected after the primary election.			GRN
+050	contest	98543	11	1	PRESIDENT OF THE UNITED STATES~Presidential Preference			PF
+060	contest	98544	12	1	PRESIDENT OF THE UNITED STATES~Presidential Preference			LIB
+069	header	98565	header-3		CITY AND COUNTY			
+070	contest	98545	23		MEMBER, COUNTY CENTRAL COMMITTEE~ASSEMBLY DISTRICT 17			DEM
+080	contest	98546	22		MEMBER, COUNTY CENTRAL COMMITTEE~ASSEMBLY DISTRICT 19			DEM
+090	contest	98547	24		MEMBER, COUNTY CENTRAL COMMITTEE~ASSEMBLY DISTRICT 17			REP
+098	header	98566	header-4		VOTER-NOMINATED OFFICES			
+099	header	98567	header-5		FEDERAL			
+100	contest	98548	13	1	UNITED STATES REPRESENTATIVE, DISTRICT 12			
+110	contest	98549	14	1	UNITED STATES REPRESENTATIVE, DISTRICT 13			
+120	contest	98550	15	1	UNITED STATES REPRESENTATIVE, DISTRICT 14			
+129	header	98568	header-6		STATE			
+130	contest	98551	16	1	STATE SENATOR, DISTRICT 11			
+140	contest	98552	18	1	STATE ASSEMBLY MEMBER, DISTRICT 17			
+150	contest	98553	17	1	STATE ASSEMBLY MEMBER, DISTRICT 19			
+157	header	98570	header-8		NONPARTISAN OFFICES			
+158	header	98569	header-7		JUDICIAL			
+160	contest	98554	19	1	JUDGE OF THE SUPERIOR COURT, SEAT #1			
+170	contest	98555	20	1	JUDGE OF THE SUPERIOR COURT, SEAT #18			
+180	contest	98556	21	1	JUDGE OF THE SUPERIOR COURT, SEAT #21			
+187	header	98572	header-10		MEASURES SUBMITTED TO THE VOTERS			
+188	header	98571	header-9		STATE PROPOSITIONS			
+190	question	98557	1		13	<strong>AUTHORIZES BONDS FOR FACILITY REPAIR, CONSTRUCTION, AND MODERNIZATION AT PUBLIC PRESCHOOLS, K-12 SCHOOLS, COMMUNITY COLLEGES, AND UNIVERSITIES. LEGISLATIVE STATUTE</strong>. Authorizes $15 billion in state general obligation bonds for construction and modernization of public education facilities. Fiscal Impact: Increased state costs to repay bonds estimated at about $740 million per year (including interest) over the next 35 years.	Majority	
+198	header	98573	header-11		SCHOOL PROPOSITIONS			
+200	question	98558	2		A	CITY COLLEGE JOB TRAINING, REPAIR AND EARTHQUAKE SAFETY MEASURE. To fix/repair City College facilities; make necessary seismic retrofit/earthquake safety improvements; make the College more environmentally sustainable through energy efficient buildings/increased renewable energy use; and acquire, construct, repair facilities, sites/equipment to prepare students for well-paid, local science, technology, and arts related jobs, shall San Francisco Community College District’s measure authorizing $845,000,000 in bonds at legal rates, levying 1.1 cents/$100 assessed value ($47,500,000 annually until approximately 2053) be approved, requiring audits and citizen oversight?	55%	
+208	header	98575	header-13		CITY AND COUNTY PROPOSITIONS			
+210	question	98559	3		B	SAN FRANCISCO EARTHQUAKE SAFETY AND EMERGENCY RESPONSE BOND, 2020. To improve fire, earthquake, and emergency response by improving, constructing, and/or replacing: deteriorating cisterns, pipes, and tunnels, and related facilities to ensure firefighters a reliable water supply for fires and disasters; neighborhood fire and police stations and supporting facilities; the City’s 911 Call Center; and other disaster response and public safety facilities, and to pay related costs, shall the City and County of San Francisco issue $628,500,000 in general obligation bonds, with a duration up to 30 years from the time of issuance, an estimated average tax rate of $0.015/$100 of assessed property value, and projected average annual revenues of $40,000,000, subject to citizen oversight and regular audits?	2/3	
+220	question	98560	4		C	Shall the City amend the Charter to make retiree health care coverage available to certain City employees who previously worked for the San Francisco Housing Authority based on their combined years of service and date of hire?	Majority	
+230	question	98561	5		D	Shall the City tax owners or tenants who keep ground floor retail or other commercial space vacant in some areas of San Francisco, at rates of between $250 and $1,000 per street-facing foot, starting January 1, 2021 and without any expiration date, and use the annual revenues, estimated at a range of a minimal amount to $5 million, to assist small businesses?	2/3	
+240	question	98562	6		E	Shall the City tie annual square-footage allotment for certain Large Office Projects to whether the City is meeting its Affordable Housing Goals, and change the criteria for approving certain office projects?	Majority	

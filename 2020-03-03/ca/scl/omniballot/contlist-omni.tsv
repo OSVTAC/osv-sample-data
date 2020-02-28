@@ -1,0 +1,105 @@
+sequence	type	contest_id	external_id	vote_for	title	text	approval_required	contest_party_id
+001	header	103199	e4ad3bc8-0e0b-40e4-9982-6a989dc6bd85		Presidential Primary Election, March 3rd, 2020			
+010	text	99476	70		Party-Nominated Offices	Only voters who disclosed a preference upon registering to vote for the same party as the candidate seeking the nomination of any party for the Presidency or election to a party committee may vote for that candidate at the primary election, unless the party has adopted a rule to permit non-party voters to vote in its primary elections.		
+028	header	99659	header-1		PARTY-NOMINATED OFFICES			
+029	header	99660	header-2		PRESIDENT OF THE UNITED STATES			
+030	contest	99478	1	1	Presidential Preference			
+040	contest	99479	2	1	PRESIDENTIAL PREFERENCE			
+050	contest	99480	3	1	Presidential Preference			
+060	contest	99481	4	1	Presidential Candidate Preference~Vote for a candidate. Delegates to the national convention will be selected after the primary election.			
+070	contest	99482	5	1	Presidential Preference			
+080	contest	99483	6	1	Presidential Preference			
+088	header	99661	header-3		COUNTY COMMITTEE			
+090	contest	99484	20	6	Members of County Central Committee~24th Assembly District			
+100	contest	99485	21	6	Members of County Central Committee~25th Assembly District			
+110	contest	99486	22	6	Members of County Central Committee~27th Assembly District			
+120	contest	99487	23	6	Members of County Central Committee,~28th Assembly District			
+130	contest	99488	24	7	Members of County Central Committee~1st Supervisorial District			
+140	contest	99489	25	3	Members of County Central Committee~2nd Supervisorial District			
+150	contest	99490	26	5	Members of County Central Committee~3rd Supervisorial District			
+160	contest	99491	27	5	Members of County Central Committee~4th Supervisorial District			
+170	contest	99492	28	5	Members of County Central Committee~5th Supervisorial District			
+180	contest	99493	29	7	Member, County Council			
+250	text	99500	71		Voter-Nominated and Nonpartisan Offices	All voters, regardless of the party preference they disclosed upon registration, or refusal to disclose a party preference, may vote for any candidate for a voter-nominated or nonpartisan office. The party preference, if any, designated by a candidate for a voter-nominated office is selected by the candidate and is shown for the information of the voters only. It does not imply that the candidate is nominated or endorsed by the party or that the party approves of the candidate. The party preference, if any, of a candidate for a nonpartisan office does not appear on the ballot.		
+258	header	99663	header-5		VOTER-NOMINATED OFFICES			
+259	header	99664	header-6		UNITED STATES REPRESENTATIVE			
+260	contest	99501	7	1	District 17			
+270	contest	99502	8	1	District 18			
+280	contest	99503	9	1	District 19			
+290	contest	99504	10	1	District 20			
+299	header	99665	header-7		STATE SENATOR			
+300	contest	99505	11	1	District 13			
+310	contest	99506	12	1	District 15			
+320	contest	99507	13	1	District 17			
+329	header	99666	header-8		MEMBER OF THE STATE ASSEMBLY			
+330	contest	99508	14	1	District 24			
+340	contest	99509	15	1	District 25			
+350	contest	99510	16	1	District 27			
+360	contest	99511	17	1	District 28			
+370	contest	99512	18	1	District 29			
+380	contest	99513	19	1	District 30			
+398	header	99667	header-9		NONPARTISAN OFFICES			
+399	header	99668	header-10		JUDICIAL			
+400	contest	99515	30	1	Judge of the Superior Court, Office No. 7			
+410	contest	99516	31	1	Judge of the Superior Court, Office No. 27			
+419	header	99669	header-11		SCHOOL			
+420	contest	99517	32	1	MILPITAS UNIFIED SCHOOL DISTRICT~Governing Board Member, Short Term			
+429	header	99670	header-12		COUNTY			
+430	contest	99518	33	1	Member, Board of Supervisors, District 2			
+440	contest	99519	34	1	Member, Board of Supervisors, District 3			
+450	contest	99520	35	1	Member, Board of Supervisors, District 5			
+458	header	99671	header-13		CITY			
+459	header	99672	header-14		CITY OF SAN JOSÉ			
+460	contest	99521	36	1	Member, City Council, District 2			
+470	contest	99522	37	1	Member, City Council, District 4			
+480	contest	99523	38	1	Member, City Council, District 6			
+490	contest	99524	39	1	Member, City Council, District 8			
+500	contest	99525	40	1	Member, City Council, District 10			
+509	header	99673	header-15		CITY OF SANTA CLARA			
+510	contest	99526	41	1	Chief of Police, Short Term			
+518	header	99674	header-16		MEASURES SUBMITTED TO THE VOTERS			
+519	header	99675	header-17		STATE			
+520	question	99527	42		13	<strong>AUTHORIZES BONDS FOR FACILITY REPAIR, CONSTRUCTION, AND MODERNIZATION AT PUBLIC PRESCHOOLS, K-12 SCHOOLS, COMMUNITY COLLEGES, AND UNIVERSITIES. LEGISLATIVE STATUTE. </strong>Authorizes $15 billion in state general obligation bonds for construction and modernization of public education facilities. Fiscal Impact: Increased state costs to repay bonds estimated at about $740 million per year (including interest) over the next 35 years.	Majority	
+528	header	99676	header-18		CITY			
+529	header	99677	header-19		CITY OF MORGAN HILL			
+530	question	99528	43		A	Shall the ordinance No. 2295, amending a Planned Development Master Plan for "Madrone Village Shopping Center" located on the northwest corner of Madrone Parkway and Cochrane Road (APN's 726-33-029,030, and 031), to add hotels as an approved use, which is consistent with the City's General Plan and Economic Blueprint to encourage tourism, and that generates new City revenues for City services including public safety, street repairs and other infrastructure be adopted?	Majority	
+539	header	99678	header-20		CITY OF SUNNYVALE			
+540	question	99529	44		B	Shall Article VI of the City of Sunnyvale Charter be amended to establish "by-district" elections for six Council members required to be residents of a district and elected only by the voters of that district, and one Mayor who will be directly elected by all City voters; change term limits to permit service on the Council for three consecutive terms but only two as Council member or Mayor; and make other conforming amendments?	Majority	
+549	header	99679	header-21		CITY OF SANTA CLARA			
+550	question	99530	45		C	<strong>DISTRICT COUNCIL ELECTIONS.</strong> Shall the City Charter be amended to elect city council members by district, excepting the mayor, as follows: for the 2020 election to establish six districts for the election of one council member to represent each district; and, beginning in 2022 to establish three districts for the election of two council members to represent each district; and to require an independent redistricting committee?	Majority	
+559	header	99680	header-22		CITY OF MOUNTAIN VIEW			
+560	question	99531	46		D	Shall the City Charter be amended to: prohibit paying Rental Housing Committee (RHC) members; clarify the RHC independently implements the Community Stabilization and Fair Rent Act and related initiatives delegated by the City Council; clarify the City Council may remove RHC members for reasons including misconduct; allow annual rent increases up to 4%; authorize additional rent increases for critical housing improvements like seismic retrofits; clarify mobile homes are exempt; and make technical revisions?	Majority	
+569	header	99681	header-23		CITY OF SAN JOSÉ			
+570	question	99532	47		E	To fund general City of San José services, including affordable housing for seniors, veterans, disabled, and low-income families, and helping homeless residents move into shelters/permanent housing, shall an ordinance be adopted enacting a real property transfer tax including unrecorded transfers at these rates: EXEMPT transfers under $2,000,000 adjusted for inflation, $2,000,000 to $5,000,000 at 0.75%, $5,000,000.01 to $10,000,000 at 1.0%, and over $10,000,000 at 1.5%; generating approximately $70,000,000 annually, until repealed, with all money staying local?	Majority	
+577	header	99682	header-24		SCHOOL			
+578	header	99683	header-25		FOOTHILL-DE ANZA COMMUNITY COLLEGE DISTRICT			
+580	question	99533	48		G	<strong>FOOTHILL-DE ANZA COMMUNITY COLLEGE DISTRICT AFFORDABLE CAREER, COLLEGE TRANSFER, CLASSROOM REPAIR MEASURE.</strong> To upgrade facilities preparing students/veterans for university transfer/careers like healthcare, nursing, technology, engineering/sciences; upgrade/repair aging classrooms, labs for science, technology, engineering/math-related fields of instruction; acquire, construct, repair facilities, equipment/sites; shall Foothill-De Anza Community College District's measure authorizing $898,000,000 in bonds at legal rates, levying 1.6 cents/$100 assessed valuation ($48,000,000 annually) while bonds are outstanding, with audits/no money for administrators' salaries, be adopted?	55%	
+590	question	99534	49		H	<strong>FOOTHILL-DE ANZA COMMUNITY COLLEGE DISTRICT EDUCATIONAL AND TEACHER EXCELLENCE MEASURE. </strong>To provide funding for local colleges that cannot be taken by the State; keep college education affordable; attract and retain quality teachers; support homeless, hungry students; maintain science, technology, health-science programs; and prepare students for university transfer, career and job training, shall Foothill-De Anza Community College District's measure levying $48 per parcel for 5 years ($5,500,000 annually), be adopted, with citizens' oversight, and with no funds for administrator salaries?	2/3	
+598	header	99684	header-26		MORGAN HILL UNIFIED SCHOOL DISTRICT			
+600	question	99535	50		I	<strong>MORGAN HILL UNIFIED SCHOOL DISTRICT CLASSROOM UPGRADE/SAFETY MEASURE.</strong> To upgrade classrooms which retain/attract quality teachers; enhance student access to computer/modern technology; provide quality education; improve school safety, heating/cooling systems, restrooms, energy efficiency/handicapped accessibility; repair, construct, acquire classrooms, equipment, sites/facilities; shall Morgan Hill Unified School District's measure authorizing $900,000,000 in bonds at legal rates, levying, on average, 4.7 cents/$100 assessed value ($27,900,000 annually) while bonds are outstanding, be adopted, with annual audits, all funds spent locally?	55%	
+608	header	99686	header-28		EAST SIDE UNION HIGH SCHOOL DISTRICT			
+610	question	99536	51		J	To allow local high school teachers and staff members to live in the community in which they work and improve the school district's ability to attract and retain highly qualified employees by constructing teacher-staff rental housing, shall East Side Union High School District measure authorizing $60 million of bonds be adopted with legal rates raising approximately $4.1 million for annual repayment while bonds are outstanding, projected levies of less than $0.003 per $100 assessed valuation, annual audits, citizens' oversight?	2/3	
+618	header	99687	header-29		CAMPBELL UNION HIGH SCHOOL DISTRICT			
+620	question	99537	52		K	To attract and retain high-quality teachers; increase teacher salaries; improve preparation for careers in technical fields including engineering, computer science, and health care; provide student mental health and suicide prevention services; and provide local high school students academic opportunities comparable to neighboring school districts, shall the Campbell Union High School District assess an annual parcel tax of $298 for 8 years, exempting senior citizens, providing approximately $16,600,000 annually, subject to independent oversight, annual audits, and local control?	Majority	
+628	header	99688	header-30		SAN BENITO HIGH SCHOOL DISTRICT			
+630	question	99538	53		L	To strengthen student safety by installing secure school entrances, fencing/cameras; to construct a multipurpose building/cafeteria for assembly, nutrition and healthy meals to support learning; and to install solar panels for clean energy and lower utility costs, shall the San Benito High School District measure authorizing $30,000,000 in bonds at legal rates be adopted, levying approximately 1.3 cents per $100 assessed value ($1,650,000 annually) while bonds are outstanding, with citizen oversight, annual audits, and all funds staying local?	55%	
+639	header	99689	header-31		MORELAND SCHOOL DISTRICT			
+640	question	99539	54		M	<strong>MORELAND SCHOOL DISTRICT SAFETY MEASURE.</strong> To repair and update local elementary and middle schools, including student learning environments for 21st-century learning; make essential school safety improvements; repair leaky roofs; maintain technology; repair, acquire, construct classrooms, equipment, sites/facilities; shall Moreland School District's measure authorizing $80,000,000 in bonds at legal rates, levying approximately $30/$100,000 assessed value ($5,700,000 annually) while bonds are outstanding, be approved, with citizen oversight, audits, no funds for administrators, all funds for local schools?	55%	
+649	header	99690	header-32		PATTERSON JOINT UNIFIED SCHOOL DISTRICT			
+650	question	99540	55		N	To allow local high school teachers and staff members to live in the community in which they work and improve the school district's ability to attract and retain highly qualified employees by constructing teacher-staff rental housing, shall Patterson Joint Unified School District measure authorizing $32.5 million of bonds be adopted with legal rates raising approximately $2 million for annual repayment while bonds are outstanding, projected levies of less than $0.04 per $100 assessed valuation, annual audits, citizens' oversight?	55%	
+659	header	99691	header-33		CUPERTINO UNION SCHOOL DISTRICT			
+660	question	99541	56		O	<u>Quality Local Schools and Academic Excellence Measure</u>. To maintain strong academic programs in reading, writing, math, engineering/science for local elementary and middle school students, protect music and art programs, and retain highly qualified teachers shall Cupertino Union School District's measure to levy $125 per year for 5 years, be approved, raising $4,321,500 annually that cannot be taken by the State, with exemptions for seniors, independent community oversight, no funds for administrators, and all funds benefiting local schools?	2/3	
+669	header	99692	header-34		CAMPBELL UNION SCHOOL DISTRICT			
+670	question	99542	57		P	To help local elementary and middle schools attract/retain high performing teachers, sustain strong academic and advanced programs in reading, writing, math, arts and sciences, ensure every student reads at/above grade level, keep teacher salaries competitive and train/support new teachers, shall a Campbell Union Elementary School District measure levying $98/parcel annually, exempting senior citizens, be adopted, raising $2.36 million for 9 years, with independent community oversight, no funds for administrators, and all funds benefiting local schools?	2/3	
+679	header	99693	header-35		UNION SCHOOL DISTRICT			
+680	question	99543	58		Q	To protect academic excellence and maintain strong programs in reading, writing, science, technology, engineering, arts, and math for local elementary/middle school students; attract/retain high-quality teachers, and increase teacher resources, shall Union Elementary School District's measure to levy $149 per year for 6 years, raising $1.9 million annually that cannot be taken by the State, be adopted, with independent community oversight, no funds for administrators, exempting seniors, all funds locally-controlled benefiting local schools?	2/3	
+689	header	99694	header-36		FRANKLIN-MCKINLEY SCHOOL DISTRICT			
+690	question	99544	59		R	To improve the quality of education at local schools, shall Franklin-McKinley School District acquire/construct/modernize/repair classrooms, infrastructure, facilities, and fields improving all student access, including those with disabilities, to modern facilities, technology, teaching, and safety improvements, by issuing $80,000,000 of bonds at legal interest rates, raising approximately $5.2 million annually through 2050 at rates of approximately 3 cents per $100 assessed value, with annual audits, citizens' oversight, and No money taken by the State?	55%	
+699	header	99695	header-37		OAK GROVE SCHOOL DISTRICT			
+700	question	99545	60		S	<p>To improve education, student achievement, and safety in neighborhood schools by: </p><ul><li>Hiring, retaining, and training high-quality teachers; </li><li>Maintaining class sizes; </li><li>Expanding math, science and technology education; </li><li>Ensuring adequate student supervision and safety through appropriate staffing; and </li><li>Providing physical education programs.</li></ul><p>Shall the Oak Grove Elementary School District levy a parcel tax of $132 per parcel for nine years, providing $3.4 million ongoing annually, exempting seniors, with annual audits, citizens' oversight, and all funds used locally? </p>	2/3	
+709	header	99696	header-38		MOUNTAIN VIEW WHISMAN SCHOOL DISTRICT			
+710	question	99546	61		T	<strong>MOUNTAIN VIEW WHISMAN SCHOOL DISTRICT CLASSROOM REPAIR/OVERCROWDING MEASURE.</strong> To provide safe/modern classrooms, arts/science labs at neighborhood schools for quality education; relieve student overcrowding; replace aging roofs, inefficient heating/ventilation systems; upgrade, acquire, construct classrooms, facilities, sites/equipment; shall Mountain View Whisman School District's measure authorizing $259,000,000 in bonds at legal rates, levying $30/$100,000 assessed value ($18,600,000 annually) while bonds are outstanding, with independent oversight, audits, no funds for administrators, all funds controlled locally for Mountain View schools, be adopted?	55%	
+719	header	99697	header-39		BERRYESSA UNION SCHOOL DISTRICT			
+720	question	99547	62		U	<strong>BERRYESSA UNION SCHOOL DISTRICT CLASSROOM UPGRADE/SAFETY MEASURE.</strong> To repair/update local elementary/middle schools, including science, arts and math classrooms/labs for 21st-century learning; make essential safety and security improvements; replace aging fire alarms; repair, construct, acquire classrooms, equipment, sites/facilities; shall Berryessa Union School District's measure authorizing $98,000,000 in bonds at legal rates, levying $28.50/$100,000 assessed value ($6,300,000 annually) while bonds are outstanding, be approved, with citizen oversight, audits, no funds for administrators, all funds spent locally?	55%	
+729	header	99698	header-40		EVERGREEN SCHOOL DISTRICT			
+730	question	99548	63		V	To acquire computers and classroom technology for improved student access; install campus security/emergency notification and communication alarms and systems; and renovate and modernize aging classrooms and facilities throughout the District; shall Evergreen Elementary School District's measure authorizing $125,000,000 in bonds, with legal interest rates, projected yearly tax rates averaging less than $0.03 per $100 of assessed valuation raising an average $7.3 million per year for 18 years, annual audits and citizens' oversight, be adopted?	55%	

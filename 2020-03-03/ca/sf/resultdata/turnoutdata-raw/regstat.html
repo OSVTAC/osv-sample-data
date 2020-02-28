@@ -1,0 +1,3255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>SFDOE eData</title>
+
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->  
+	<style>
+		body{
+			font-family: "Arial","Microsoft JhengHei",wf_SegoeUI,"Segoe UI",Segoe,"Segoe WP","SF Pro TC","SF Pro Text","SF Pro Icons","PingFang TC",sans-serif;
+			padding-top: 60px;	/* 60px to make the container go all the way to the bottom of the topbar */
+			background: #f1f1f1 url(https://sfgov.org/elections/sites/all/themes/sf/img/background.jpg) no-repeat 4% 0;
+		}
+
+		.top_buffer{margin-top:20px;}
+
+		.container--main{
+			background-color: #fff;
+			border-radius: 10px 10px 10px 10px;
+		}
+
+		.glyphicon.glyphicon-block{	/*centered icon on seperate line*/
+			display: block;
+			text-align: center;
+		}
+
+		.tab-pane.panel.panel_bottom{margin-bottom:0px;}
+
+		/*change button group display*/
+		.nav.nav-pills.nav-justified.nav-group > li:not(:first-child):not(:last-child) > .btn {
+			border-radius: 0;
+			margin-bottom: 0;
+		}
+		@media(max-width:768px){	/*vertical button group*/
+			.nav.nav-pills.nav-justified.nav-group > li:first-child:not(:last-child) > .btn {
+				border-bottom-left-radius: 0;
+				border-bottom-right-radius: 0;
+				margin-bottom: 0;
+
+			}
+			.nav.nav-pills.nav-justified.nav-group > li:last-child:not(:first-child) > .btn {
+				border-top-left-radius: 0;
+				border-top-right-radius: 0;
+			}
+			.nav.nav-pills.nav-justified.nav-group li + li {
+				margin-left: 0;
+			}
+		}
+		@media(min-width:768px){	/*horizontal button group*/
+			.nav.nav-pills.nav-justified.nav-group > li:first-child:not(:last-child) > .btn {
+				border-top-right-radius: 0;
+				border-bottom-right-radius: 0;
+			}
+			.nav.nav-pills.nav-justified.nav-group > li:last-child:not(:first-child) > .btn {
+				border-top-left-radius: 0;
+				border-bottom-left-radius: 0;
+			}
+		}
+
+		/*make navbar collapse at 1200px*/
+		@media (max-width: 1200px) {
+			.navbar-header {float: none;}
+			.navbar-left,.navbar-right {float: none !important;}
+			.navbar-toggle {display: block;}
+			.navbar-collapse {
+				border-top: 1px solid transparent;
+				box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+			}
+			.navbar-fixed-top {
+				top: 0;
+				border-width: 0 0 1px;
+			}
+			.navbar-collapse.collapse {display: none!important;}
+			.navbar-nav {
+				float: none!important;
+				margin-top: 7.5px;
+			}
+			.navbar-nav>li {float: none;}
+			.navbar-nav>li>a {
+				padding-top: 10px;
+				padding-bottom: 10px;
+			}
+			.collapse.in{display:block !important;}
+		}
+	</style>
+</head>
+
+<body id="body">
+<script type='text/javascript'>
+		var OUTREACH_NAME=0;
+		var OUTREACH_SCHEDULED=1;
+		var OUTREACH_CONDUCTED=2;
+		</script><script type='text/javascript'>var jData_5_no=[['CityWide',24,50],['Supervisorial District 1',1,7],['Supervisorial District 2',2,1],['Supervisorial District 3',1,15],['Supervisorial District 4',0,1],['Supervisorial District 5',2,5],['Supervisorial District 6',0,14],['Supervisorial District 7',1,2],['Supervisorial District 8',2,9],['Supervisorial District 9',2,18],['Supervisorial District 10',3,20],['Supervisorial District 11',0,5],['Total',38,147]];</script><script type='text/javascript'>var jData_5=[{'title':'Outreach Events Conducted by District'},{'name':'string','scheduled':'number','conducted':'number'},['CityWide',24,50],['D1',1,7],['D2',2,1],['D3',1,15],['D4',0,1],['D5',2,5],['D6',0,14],['D7',1,2],['D8',2,9],['D9',2,18],['D10',3,20],['D11',0,5]];</script>
+<!-- Navbar
+================================================== -->
+	<nav class='navbar navbar-inverse navbar-fixed-top'>
+		<div class='container'>
+			<div class='navbar-header'>
+				<a class="navbar-brand" href="https://sfelections.sfgov.org/"><span class="glyphicon glyphicon-home" aria-hidden="true"></span></a>
+				<button type='button' class='navbar-toggle collapsed' data-toggle='collapse' data-target='.navbar-collapse' title='Toggle navigation'>
+					<span class='icon-bar'></span>
+					<span class='icon-bar'></span>
+					<span class='icon-bar'></span>
+				</button>
+			</div>
+			<div class='collapse navbar-collapse'>
+				<ul class='nav navbar-nav'>
+					<li><a href="https://sfelections.sfgov.org/registration">Registration</a></li>
+					<li><a href="https://sfelections.sfgov.org/voting-0">Voting</a></li>
+					<li><a href="https://sfelections.sfgov.org/campaign-services-0">Candidates Measures</a></li>
+					<li><a href="https://sfelections.sfgov.org/get-involved">Get Involved</a></li>
+					<li><a href='https://sfelections.sfgov.org/results'>Results</a></li>
+					<li><a href='https://sfelections.sfgov.org/data-and-maps'>Data and Maps</a></li>
+					<li><a href='https://sfelections.sfgov.org/about-us'>About Us</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+
+	<!-- 2nd Level Nav
+================================================== -->    
+	<div class="container container--main">
+		<div class="row top_buffer">
+			<div class='col-md-12'>
+				<ul id="tabs" class="nav nav-tabs">
+					<li class='active'><a href="index.php">Registration</a></li>
+					<li class='dropdown'>
+						<a class="dropdown-toggle" data-toggle="dropdown" role="button">Operations <span class="caret"></span></a>
+						<ul class="dropdown-menu">
+							<li><a href="pollworker.php">Poll Worker Recruitment</a></li>
+							<li><a href="index.php?ATAB=2">Outreach Events</a></li>
+							<li><a href="index.php?ATAB=3">Voter Information Pamphlet</a></li>
+							<li><a href="pollstation.php">Polling Place Recruitment</a></li>
+							<li><a href="index.php?ATAB=5">Status of Measures Proposed through Voter Initiative</a></li>
+						</ul>
+					</li>
+					<li class='dropdown'>
+						<a class="dropdown-toggle" data-toggle="dropdown" role="button">Turnout <span class="caret"></span></a>
+						<ul class="dropdown-menu">
+							<li><a href="vbm_turnout.php">Vote-By-Mail Turnout</a></li>
+							<!--<li><a href="vbm_master_report.php" target="_blank">Vote-By-Mail Processing - Daily Breakdown</a></li>-->
+							<li><a href="vbm_challenge_0.php">Vote-By-Mail Challenges Report</a></li>
+							<li><a href="vc.php">Voting Center Turnout</a></li>
+						</ul>
+					</li>
+					<li class='dropdown'>
+						<a class="dropdown-toggle" data-toggle="dropdown" role="button">Download Datasets <span class="caret"></span></a>
+						<ul class="dropdown-menu">
+							<li><a href='dataset.php?ATAB=d2020-03-03'>March 3, 2020, Consolidated Presidential Primary Election</a></li><li><a href='dataset.php?ATAB=d2019-11-05'>November 5, 2019, Municipal Election</a></li><li><a href='dataset.php?ATAB=d2018-11-06'>November 6, 2018, Consolidated General Election</a></li><li><a href='dataset.php?ATAB=d2018-06-05'>June 5, 2018, Consolidated Statewide Direct Primary Election</a></li><li><a href='dataset.php?ATAB=d2016-11-08'>November 8, 2016, Consolidated General Election</a></li><li><a href='dataset.php?ATAB=d2016-06-07'>June 7, 2016, Presidential Primary Election</a></li><li><a href='dataset.php?ATAB=d2015-11-03'>November 3, 2015, Municipal Election</a></li><li><a href='dataset.php?ATAB=d1970-01-01'>Data across multiple elections</a></li>						</ul>
+					</li>
+					<!-- <li><a href="../../results/20160607/" target="_blank">Results</a></li> -->
+					<li><a href="feedback.php">Feedback</a></li>
+				</ul>
+			</div>
+		</div>
+
+	<!-- Registration
+================================================== -->      
+		<div class="tab-content top_buffer">
+			<div class="tab-pane active " id="registration">
+				<div class="row"><div class="col-md-12 text-center"><h4>Current Registration Counts</h4></div></div>
+				<div class="row">
+					<div class="col-md-offset-4 col-md-4">
+						<ul class="nav nav-pills nav-justified">
+							<li class="dropdown active">
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Select District <span class="caret"></span></a>
+								<ul class="dropdown-menu" role="menu">
+									<li><a href="#district_all" data-toggle="tab">Citywide</a></li>
+									<li><a href='#ASSM17' data-toggle='tab' onclick="draw('draw_ASSM17');">Assembly District 17</a></li><li><a href='#ASSM19' data-toggle='tab' onclick="draw('draw_ASSM19');">Assembly District 19</a></li><li><a href='#BART7' data-toggle='tab' onclick="draw('draw_BART7');">BART District 7</a></li><li><a href='#BART8' data-toggle='tab' onclick="draw('draw_BART8');">BART District 8</a></li><li><a href='#BART9' data-toggle='tab' onclick="draw('draw_BART9');">BART District 9</a></li><li><a href='#CONG12' data-toggle='tab' onclick="draw('draw_CONG12');">Congressional District 12</a></li><li><a href='#CONG14' data-toggle='tab' onclick="draw('draw_CONG14');">Congressional District 14</a></li><li><a href='#EQUAL2' data-toggle='tab' onclick="draw('draw_EQUAL2');">Board of Equalization District 2</a></li><li><a href='#SEN11' data-toggle='tab' onclick="draw('draw_SEN11');">Senate District 11</a></li><li><a href='#SUPV1' data-toggle='tab' onclick="draw('draw_SUPV1');">Supervisorial District 1</a></li><li><a href='#SUPV2' data-toggle='tab' onclick="draw('draw_SUPV2');">Supervisorial District 2</a></li><li><a href='#SUPV3' data-toggle='tab' onclick="draw('draw_SUPV3');">Supervisorial District 3</a></li><li><a href='#SUPV4' data-toggle='tab' onclick="draw('draw_SUPV4');">Supervisorial District 4</a></li><li><a href='#SUPV5' data-toggle='tab' onclick="draw('draw_SUPV5');">Supervisorial District 5</a></li><li><a href='#SUPV6' data-toggle='tab' onclick="draw('draw_SUPV6');">Supervisorial District 6</a></li><li><a href='#SUPV7' data-toggle='tab' onclick="draw('draw_SUPV7');">Supervisorial District 7</a></li><li><a href='#SUPV8' data-toggle='tab' onclick="draw('draw_SUPV8');">Supervisorial District 8</a></li><li><a href='#SUPV9' data-toggle='tab' onclick="draw('draw_SUPV9');">Supervisorial District 9</a></li><li><a href='#SUPV10' data-toggle='tab' onclick="draw('draw_SUPV10');">Supervisorial District 10</a></li><li><a href='#SUPV11' data-toggle='tab' onclick="draw('draw_SUPV11');">Supervisorial District 11</a></li>								</ul>
+							</li>
+						</ul>
+					</div><!--Reg-District selection-->
+				</div>
+				<div class="tab-content">
+					<div class="tab-pane active" id="district_all">
+						<div class="row"><div class="col-md-12"><h4>Citywide</h4></div></div>
+						<div class="row">
+							<div class="col-md-4">
+								<table class="table table-striped table-bordered table-condensed">
+									<thead><tr><th colspan="2">Registration</th></tr></thead>
+									<tbody>
+										<tr>
+											<td>Total Registration</td>
+											<td>503,955</td>
+										</tr>
+																				<tr>
+											<td>Military and Overseas</td>
+											<td>8,006</td>
+										</tr>
+										<tr>
+											<td>Permanent Mail Voters</td>
+											<td>355,435</td>
+										</tr>
+									</tbody>
+									<thead><tr><th colspan="2">Registration by Party</th></tr></thead>
+									<tbody>
+										<tr>
+											<td>American Independent</td>
+											<td>8,617</td>
+										</tr>
+										<tr>
+											<td>Democratic</td>
+											<td>304,727</td>
+										</tr>
+										<tr>
+											<td>Green</td>
+											<td>3,102</td>
+										</tr>
+										<tr>
+											<td>Libertarian</td>
+											<td>3,108</td>
+										</tr>
+										<tr>
+											<td>Peace and Freedom</td>
+											<td>1,538</td>
+										</tr>
+										<tr>
+											<td>Republican</td>
+											<td>32,994</td>
+										</tr>
+										<tr>
+											<td>No Party Preference/Unknown</td>
+											<td>149,869</td>
+										</tr>
+									</tbody>
+									<thead><tr><th colspan="2">Registration by Language</th></tr></thead>
+									<tbody>
+										<tr>
+											<td>Chinese</td>
+											<td>27,052</td>
+										</tr>
+										<tr>
+											<td>English</td>
+											<td>466,869</td>
+										</tr>
+										<tr>
+											<td>Filipino</td>
+											<td>1,208</td>
+										</tr>
+										<tr>
+											<td>Hindi</td>
+											<td>61</td>
+										</tr>
+										<tr>
+											<td>Japanese</td>
+											<td>124</td>
+										</tr>
+										<tr>
+											<td>Khmer</td>
+											<td>6</td>
+										</tr>
+										<tr>
+											<td>Korean</td>
+											<td>550</td>
+										</tr>
+										<tr>
+											<td>Russian</td>
+											<td>3</td>
+										</tr>
+										<tr>
+											<td>Spanish</td>
+											<td>7,026</td>
+										</tr>
+										<tr>
+											<td>Thai</td>
+											<td>85</td>
+										</tr>
+										<tr>
+											<td>Vietnamese</td>
+											<td>958</td>
+										</tr>
+										<tr>
+											<td>Other</td>
+											<td>13</td>
+										</tr>
+									</tbody>
+									<thead><tr><th colspan="2">Pre-registration</th></tr></thead>
+									<tbody>
+										<tr>
+											<td>Pre-registered Under 18</td>
+											<td>1,875</td>            
+										</tr>
+									</tbody>
+	<!--								<thead>
+										<tr>
+											<th colspan="2">California Online Voter Registration</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td>Applications Received*</td>
+											<td>
+												566,305											</td>
+										</tr>
+									</tbody>-->
+								</table>
+							</div>
+							<div class="col-md-7">
+								<div class="tab-content">
+									<div class="tab-pane active panel panel-default panel_bottom" id="regchart_div"><img src="img/ajax-loader.gif"></div>
+									<div class="tab-pane panel panel-default panel_bottom" id="chart_reg_language"></div>
+									<div class="tab-pane panel panel-default panel_bottom" id="graph_line">
+									<div id="regchart_line_div"></div>
+									</div><!--RS!20121103-an additional 'div' inside 'tab-pane' 'div' is required for 'IE8' to display labels correctly-->
+								</div>
+								<ul class="nav nav-pills nav-justified nav-group">
+									<li class="active"><a href="#regchart_div" class="btn" data-toggle="tab">Political Party</a></li>
+									<li><a href="#chart_reg_language" class="btn" data-toggle="tab" onClick="draw('draw_reg_language');">Language</a></li>
+									<li><a href="#graph_line" class="btn" data-toggle="tab" onClick="draw('draw_reg_line');">Registration Trend</a></li>
+
+								<!--<li class="dropdown" id="registration_chart_select">
+									<a href="#" data-toggle="dropdown">Select Graph <span class="caret"></span></a>
+									<ul class="dropdown-menu" role="menu">
+										<li><a href="#regchart_div" data-toggle="tab">Voter Registration by Party</a></li>
+										<li><a href="#chart_reg_language" data-toggle="tab" onClick="draw('draw_reg_language');">Voter Registration by Language</a></li>
+										<li><a href="#graph_line" data-toggle="tab" onClick="draw('draw_reg_line');">Voter Registration Trend</a></li>
+									</ul>
+								</li>-->
+								</ul>
+							</div>
+<!--						<div class='col-md-12'>*The number of applications represents the number of completed and accepted voter registration applications, as well as pending, incomplete applications for which the Department of Elections awaits missing information from the applicants.</div>-->
+							<div class='col-md-12'>Last Updated:
+								02/26/2020							</div>
+						</div>
+					</div>
+					<!--end of distric_all-->
+					<div class='tab-pane' id='ASSM17'><!--table and chart begin--><div class='row'><div class='col-md-4'><h4>Assembly District 17</h4></div><div class='col-md-7'></div></div>
+									<div class='row'><div class='col-md-4'><!--table begin-->
+										<table class='table table-striped table-bordered table-condensed'>
+											<thead><tr><th colspan='2'>Registration</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Total Registration</td>
+													<td>292,419</td>            
+												</tr>
+												<tr>
+													<td>Military and Overseas</td>
+													<td>4,874</td>            
+												</tr>
+												<tr>
+													<td>Permanent Mail Voters</td>
+													<td>204,315</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Party</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>American Independent</td>
+													<td>4,687</td>            
+												</tr>
+												<tr>
+													<td>Democratic</td>
+													<td>184,245</td>            
+												</tr>
+												<tr>
+													<td>Green</td>
+													<td>1,957</td>            
+												</tr>
+												<tr>
+													<td>Libertarian</td>
+													<td>1,813</td>            
+												</tr>
+												<tr>
+													<td>Peace and Freedom</td>
+													<td>1,051</td>            
+												</tr>
+												<tr>
+													<td>Republican</td>
+													<td>14,766</td>            
+												</tr>
+												<tr>
+													<td>No Party Preference/Unknown</td>
+													<td>83,900</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Language</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Chinese</td>
+													<td>14,322</td>            
+												</tr>
+												<tr>
+													<td>English</td>
+													<td>270,968</td>            
+												</tr>
+												<tr>
+													<td>Filipino</td>
+													<td>777</td>            
+												</tr>
+												<tr>
+													<td>Hindi</td>
+													<td>38</td>            
+												</tr>
+												<tr>
+													<td>Japanese</td>
+													<td>66</td>            
+												</tr>
+												<tr>
+													<td>Khmer</td>
+													<td>3</td>            
+												</tr>
+												<tr>
+													<td>Korean</td>
+													<td>293</td>            
+												</tr>
+												<tr>
+													<td>Russian</td>
+													<td>2</td>            
+												</tr>
+												<tr>
+													<td>Spanish</td>
+													<td>5,321</td>            
+												</tr>
+												<tr>
+													<td>Thai</td>
+													<td>49</td>            
+												</tr>
+												<tr>
+													<td>Vietnamese</td>
+													<td>574</td>            
+												</tr>
+												<tr>
+													<td>Other</td>
+													<td>6</td>            
+												</tr>
+											</tbody>
+										</table>
+									</div><!--table end-->
+									<!--<div class='col-md-7 panel panel-default' id='chart_ASSM17'></div><!--chart end-->
+									<div class='col-md-7'>
+										<div class='tab-content'>
+											<div class='tab-pane active panel panel-default panel_bottom' id='chart_ASSM17'></div>
+											<div class='tab-pane panel panel-default panel_bottom' id='chart_reg_language_ASSM17'></div>
+										</div>
+										<ul class='nav nav-pills nav-justified nav-group'>
+											<li class='active'><a href='#chart_ASSM17' class='btn' data-toggle='tab'>Political Party</a></li>
+											<li><a href='#chart_reg_language_ASSM17' class='btn' data-toggle='tab' onClick='draw("draw_reg_language_ASSM17");'>Language</a></li>
+										</ul>
+									</div>
+									<div class='col-md-12'>Last Updated: 02/26/2020</div>
+								<!--table and chart end--></div></div><div class='tab-pane' id='ASSM19'><!--table and chart begin--><div class='row'><div class='col-md-4'><h4>Assembly District 19</h4></div><div class='col-md-7'></div></div>
+									<div class='row'><div class='col-md-4'><!--table begin-->
+										<table class='table table-striped table-bordered table-condensed'>
+											<thead><tr><th colspan='2'>Registration</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Total Registration</td>
+													<td>211,535</td>            
+												</tr>
+												<tr>
+													<td>Military and Overseas</td>
+													<td>3,132</td>            
+												</tr>
+												<tr>
+													<td>Permanent Mail Voters</td>
+													<td>151,119</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Party</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>American Independent</td>
+													<td>3,930</td>            
+												</tr>
+												<tr>
+													<td>Democratic</td>
+													<td>120,481</td>            
+												</tr>
+												<tr>
+													<td>Green</td>
+													<td>1,145</td>            
+												</tr>
+												<tr>
+													<td>Libertarian</td>
+													<td>1,295</td>            
+												</tr>
+												<tr>
+													<td>Peace and Freedom</td>
+													<td>487</td>            
+												</tr>
+												<tr>
+													<td>Republican</td>
+													<td>18,228</td>            
+												</tr>
+												<tr>
+													<td>No Party Preference/Unknown</td>
+													<td>65,969</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Language</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Chinese</td>
+													<td>12,730</td>            
+												</tr>
+												<tr>
+													<td>English</td>
+													<td>195,900</td>            
+												</tr>
+												<tr>
+													<td>Filipino</td>
+													<td>431</td>            
+												</tr>
+												<tr>
+													<td>Hindi</td>
+													<td>23</td>            
+												</tr>
+												<tr>
+													<td>Japanese</td>
+													<td>58</td>            
+												</tr>
+												<tr>
+													<td>Khmer</td>
+													<td>3</td>            
+												</tr>
+												<tr>
+													<td>Korean</td>
+													<td>257</td>            
+												</tr>
+												<tr>
+													<td>Russian</td>
+													<td>1</td>            
+												</tr>
+												<tr>
+													<td>Spanish</td>
+													<td>1,705</td>            
+												</tr>
+												<tr>
+													<td>Thai</td>
+													<td>36</td>            
+												</tr>
+												<tr>
+													<td>Vietnamese</td>
+													<td>384</td>            
+												</tr>
+												<tr>
+													<td>Other</td>
+													<td>7</td>            
+												</tr>
+											</tbody>
+										</table>
+									</div><!--table end-->
+									<!--<div class='col-md-7 panel panel-default' id='chart_ASSM19'></div><!--chart end-->
+									<div class='col-md-7'>
+										<div class='tab-content'>
+											<div class='tab-pane active panel panel-default panel_bottom' id='chart_ASSM19'></div>
+											<div class='tab-pane panel panel-default panel_bottom' id='chart_reg_language_ASSM19'></div>
+										</div>
+										<ul class='nav nav-pills nav-justified nav-group'>
+											<li class='active'><a href='#chart_ASSM19' class='btn' data-toggle='tab'>Political Party</a></li>
+											<li><a href='#chart_reg_language_ASSM19' class='btn' data-toggle='tab' onClick='draw("draw_reg_language_ASSM19");'>Language</a></li>
+										</ul>
+									</div>
+									<div class='col-md-12'>Last Updated: 02/26/2020</div>
+								<!--table and chart end--></div></div><div class='tab-pane' id='BART7'><!--table and chart begin--><div class='row'><div class='col-md-4'><h4>BART District 7</h4></div><div class='col-md-7'></div></div>
+									<div class='row'><div class='col-md-4'><!--table begin-->
+										<table class='table table-striped table-bordered table-condensed'>
+											<thead><tr><th colspan='2'>Registration</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Total Registration</td>
+													<td>39,605</td>            
+												</tr>
+												<tr>
+													<td>Military and Overseas</td>
+													<td>342</td>            
+												</tr>
+												<tr>
+													<td>Permanent Mail Voters</td>
+													<td>28,340</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Party</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>American Independent</td>
+													<td>718</td>            
+												</tr>
+												<tr>
+													<td>Democratic</td>
+													<td>23,306</td>            
+												</tr>
+												<tr>
+													<td>Green</td>
+													<td>148</td>            
+												</tr>
+												<tr>
+													<td>Libertarian</td>
+													<td>246</td>            
+												</tr>
+												<tr>
+													<td>Peace and Freedom</td>
+													<td>191</td>            
+												</tr>
+												<tr>
+													<td>Republican</td>
+													<td>2,085</td>            
+												</tr>
+												<tr>
+													<td>No Party Preference/Unknown</td>
+													<td>12,911</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Language</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Chinese</td>
+													<td>2,370</td>            
+												</tr>
+												<tr>
+													<td>English</td>
+													<td>36,303</td>            
+												</tr>
+												<tr>
+													<td>Filipino</td>
+													<td>65</td>            
+												</tr>
+												<tr>
+													<td>Hindi</td>
+													<td>9</td>            
+												</tr>
+												<tr>
+													<td>Japanese</td>
+													<td>9</td>            
+												</tr>
+												<tr>
+													<td>Khmer</td>
+													<td>0</td>            
+												</tr>
+												<tr>
+													<td>Korean</td>
+													<td>26</td>            
+												</tr>
+												<tr>
+													<td>Russian</td>
+													<td>0</td>            
+												</tr>
+												<tr>
+													<td>Spanish</td>
+													<td>689</td>            
+												</tr>
+												<tr>
+													<td>Thai</td>
+													<td>11</td>            
+												</tr>
+												<tr>
+													<td>Vietnamese</td>
+													<td>122</td>            
+												</tr>
+												<tr>
+													<td>Other</td>
+													<td>1</td>            
+												</tr>
+											</tbody>
+										</table>
+									</div><!--table end-->
+									<!--<div class='col-md-7 panel panel-default' id='chart_BART7'></div><!--chart end-->
+									<div class='col-md-7'>
+										<div class='tab-content'>
+											<div class='tab-pane active panel panel-default panel_bottom' id='chart_BART7'></div>
+											<div class='tab-pane panel panel-default panel_bottom' id='chart_reg_language_BART7'></div>
+										</div>
+										<ul class='nav nav-pills nav-justified nav-group'>
+											<li class='active'><a href='#chart_BART7' class='btn' data-toggle='tab'>Political Party</a></li>
+											<li><a href='#chart_reg_language_BART7' class='btn' data-toggle='tab' onClick='draw("draw_reg_language_BART7");'>Language</a></li>
+										</ul>
+									</div>
+									<div class='col-md-12'>Last Updated: 02/26/2020</div>
+								<!--table and chart end--></div></div><div class='tab-pane' id='BART8'><!--table and chart begin--><div class='row'><div class='col-md-4'><h4>BART District 8</h4></div><div class='col-md-7'></div></div>
+									<div class='row'><div class='col-md-4'><!--table begin-->
+										<table class='table table-striped table-bordered table-condensed'>
+											<thead><tr><th colspan='2'>Registration</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Total Registration</td>
+													<td>226,359</td>            
+												</tr>
+												<tr>
+													<td>Military and Overseas</td>
+													<td>3,396</td>            
+												</tr>
+												<tr>
+													<td>Permanent Mail Voters</td>
+													<td>162,570</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Party</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>American Independent</td>
+													<td>4,196</td>            
+												</tr>
+												<tr>
+													<td>Democratic</td>
+													<td>126,191</td>            
+												</tr>
+												<tr>
+													<td>Green</td>
+													<td>1,148</td>            
+												</tr>
+												<tr>
+													<td>Libertarian</td>
+													<td>1,422</td>            
+												</tr>
+												<tr>
+													<td>Peace and Freedom</td>
+													<td>533</td>            
+												</tr>
+												<tr>
+													<td>Republican</td>
+													<td>20,069</td>            
+												</tr>
+												<tr>
+													<td>No Party Preference/Unknown</td>
+													<td>72,800</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Language</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Chinese</td>
+													<td>16,975</td>            
+												</tr>
+												<tr>
+													<td>English</td>
+													<td>206,415</td>            
+												</tr>
+												<tr>
+													<td>Filipino</td>
+													<td>451</td>            
+												</tr>
+												<tr>
+													<td>Hindi</td>
+													<td>20</td>            
+												</tr>
+												<tr>
+													<td>Japanese</td>
+													<td>60</td>            
+												</tr>
+												<tr>
+													<td>Khmer</td>
+													<td>3</td>            
+												</tr>
+												<tr>
+													<td>Korean</td>
+													<td>224</td>            
+												</tr>
+												<tr>
+													<td>Russian</td>
+													<td>1</td>            
+												</tr>
+												<tr>
+													<td>Spanish</td>
+													<td>1,727</td>            
+												</tr>
+												<tr>
+													<td>Thai</td>
+													<td>35</td>            
+												</tr>
+												<tr>
+													<td>Vietnamese</td>
+													<td>438</td>            
+												</tr>
+												<tr>
+													<td>Other</td>
+													<td>10</td>            
+												</tr>
+											</tbody>
+										</table>
+									</div><!--table end-->
+									<!--<div class='col-md-7 panel panel-default' id='chart_BART8'></div><!--chart end-->
+									<div class='col-md-7'>
+										<div class='tab-content'>
+											<div class='tab-pane active panel panel-default panel_bottom' id='chart_BART8'></div>
+											<div class='tab-pane panel panel-default panel_bottom' id='chart_reg_language_BART8'></div>
+										</div>
+										<ul class='nav nav-pills nav-justified nav-group'>
+											<li class='active'><a href='#chart_BART8' class='btn' data-toggle='tab'>Political Party</a></li>
+											<li><a href='#chart_reg_language_BART8' class='btn' data-toggle='tab' onClick='draw("draw_reg_language_BART8");'>Language</a></li>
+										</ul>
+									</div>
+									<div class='col-md-12'>Last Updated: 02/26/2020</div>
+								<!--table and chart end--></div></div><div class='tab-pane' id='BART9'><!--table and chart begin--><div class='row'><div class='col-md-4'><h4>BART District 9</h4></div><div class='col-md-7'></div></div>
+									<div class='row'><div class='col-md-4'><!--table begin-->
+										<table class='table table-striped table-bordered table-condensed'>
+											<thead><tr><th colspan='2'>Registration</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Total Registration</td>
+													<td>237,990</td>            
+												</tr>
+												<tr>
+													<td>Military and Overseas</td>
+													<td>4,268</td>            
+												</tr>
+												<tr>
+													<td>Permanent Mail Voters</td>
+													<td>164,524</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Party</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>American Independent</td>
+													<td>3,703</td>            
+												</tr>
+												<tr>
+													<td>Democratic</td>
+													<td>155,229</td>            
+												</tr>
+												<tr>
+													<td>Green</td>
+													<td>1,806</td>            
+												</tr>
+												<tr>
+													<td>Libertarian</td>
+													<td>1,440</td>            
+												</tr>
+												<tr>
+													<td>Peace and Freedom</td>
+													<td>814</td>            
+												</tr>
+												<tr>
+													<td>Republican</td>
+													<td>10,840</td>            
+												</tr>
+												<tr>
+													<td>No Party Preference/Unknown</td>
+													<td>64,158</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Language</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Chinese</td>
+													<td>7,707</td>            
+												</tr>
+												<tr>
+													<td>English</td>
+													<td>224,150</td>            
+												</tr>
+												<tr>
+													<td>Filipino</td>
+													<td>692</td>            
+												</tr>
+												<tr>
+													<td>Hindi</td>
+													<td>32</td>            
+												</tr>
+												<tr>
+													<td>Japanese</td>
+													<td>55</td>            
+												</tr>
+												<tr>
+													<td>Khmer</td>
+													<td>3</td>            
+												</tr>
+												<tr>
+													<td>Korean</td>
+													<td>300</td>            
+												</tr>
+												<tr>
+													<td>Russian</td>
+													<td>2</td>            
+												</tr>
+												<tr>
+													<td>Spanish</td>
+													<td>4,610</td>            
+												</tr>
+												<tr>
+													<td>Thai</td>
+													<td>39</td>            
+												</tr>
+												<tr>
+													<td>Vietnamese</td>
+													<td>398</td>            
+												</tr>
+												<tr>
+													<td>Other</td>
+													<td>2</td>            
+												</tr>
+											</tbody>
+										</table>
+									</div><!--table end-->
+									<!--<div class='col-md-7 panel panel-default' id='chart_BART9'></div><!--chart end-->
+									<div class='col-md-7'>
+										<div class='tab-content'>
+											<div class='tab-pane active panel panel-default panel_bottom' id='chart_BART9'></div>
+											<div class='tab-pane panel panel-default panel_bottom' id='chart_reg_language_BART9'></div>
+										</div>
+										<ul class='nav nav-pills nav-justified nav-group'>
+											<li class='active'><a href='#chart_BART9' class='btn' data-toggle='tab'>Political Party</a></li>
+											<li><a href='#chart_reg_language_BART9' class='btn' data-toggle='tab' onClick='draw("draw_reg_language_BART9");'>Language</a></li>
+										</ul>
+									</div>
+									<div class='col-md-12'>Last Updated: 02/26/2020</div>
+								<!--table and chart end--></div></div><div class='tab-pane' id='CONG12'><!--table and chart begin--><div class='row'><div class='col-md-4'><h4>Congressional District 12</h4></div><div class='col-md-7'></div></div>
+									<div class='row'><div class='col-md-4'><!--table begin-->
+										<table class='table table-striped table-bordered table-condensed'>
+											<thead><tr><th colspan='2'>Registration</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Total Registration</td>
+													<td>445,889</td>            
+												</tr>
+												<tr>
+													<td>Military and Overseas</td>
+													<td>7,383</td>            
+												</tr>
+												<tr>
+													<td>Permanent Mail Voters</td>
+													<td>313,541</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Party</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>American Independent</td>
+													<td>7,614</td>            
+												</tr>
+												<tr>
+													<td>Democratic</td>
+													<td>272,359</td>            
+												</tr>
+												<tr>
+													<td>Green</td>
+													<td>2,807</td>            
+												</tr>
+												<tr>
+													<td>Libertarian</td>
+													<td>2,805</td>            
+												</tr>
+												<tr>
+													<td>Peace and Freedom</td>
+													<td>1,344</td>            
+												</tr>
+												<tr>
+													<td>Republican</td>
+													<td>28,072</td>            
+												</tr>
+												<tr>
+													<td>No Party Preference/Unknown</td>
+													<td>130,888</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Language</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Chinese</td>
+													<td>22,299</td>            
+												</tr>
+												<tr>
+													<td>English</td>
+													<td>415,356</td>            
+												</tr>
+												<tr>
+													<td>Filipino</td>
+													<td>895</td>            
+												</tr>
+												<tr>
+													<td>Hindi</td>
+													<td>54</td>            
+												</tr>
+												<tr>
+													<td>Japanese</td>
+													<td>111</td>            
+												</tr>
+												<tr>
+													<td>Khmer</td>
+													<td>4</td>            
+												</tr>
+												<tr>
+													<td>Korean</td>
+													<td>468</td>            
+												</tr>
+												<tr>
+													<td>Russian</td>
+													<td>3</td>            
+												</tr>
+												<tr>
+													<td>Spanish</td>
+													<td>5,776</td>            
+												</tr>
+												<tr>
+													<td>Thai</td>
+													<td>79</td>            
+												</tr>
+												<tr>
+													<td>Vietnamese</td>
+													<td>832</td>            
+												</tr>
+												<tr>
+													<td>Other</td>
+													<td>12</td>            
+												</tr>
+											</tbody>
+										</table>
+									</div><!--table end-->
+									<!--<div class='col-md-7 panel panel-default' id='chart_CONG12'></div><!--chart end-->
+									<div class='col-md-7'>
+										<div class='tab-content'>
+											<div class='tab-pane active panel panel-default panel_bottom' id='chart_CONG12'></div>
+											<div class='tab-pane panel panel-default panel_bottom' id='chart_reg_language_CONG12'></div>
+										</div>
+										<ul class='nav nav-pills nav-justified nav-group'>
+											<li class='active'><a href='#chart_CONG12' class='btn' data-toggle='tab'>Political Party</a></li>
+											<li><a href='#chart_reg_language_CONG12' class='btn' data-toggle='tab' onClick='draw("draw_reg_language_CONG12");'>Language</a></li>
+										</ul>
+									</div>
+									<div class='col-md-12'>Last Updated: 02/26/2020</div>
+								<!--table and chart end--></div></div><div class='tab-pane' id='CONG14'><!--table and chart begin--><div class='row'><div class='col-md-4'><h4>Congressional District 14</h4></div><div class='col-md-7'></div></div>
+									<div class='row'><div class='col-md-4'><!--table begin-->
+										<table class='table table-striped table-bordered table-condensed'>
+											<thead><tr><th colspan='2'>Registration</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Total Registration</td>
+													<td>58,065</td>            
+												</tr>
+												<tr>
+													<td>Military and Overseas</td>
+													<td>623</td>            
+												</tr>
+												<tr>
+													<td>Permanent Mail Voters</td>
+													<td>41,893</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Party</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>American Independent</td>
+													<td>1,003</td>            
+												</tr>
+												<tr>
+													<td>Democratic</td>
+													<td>32,367</td>            
+												</tr>
+												<tr>
+													<td>Green</td>
+													<td>295</td>            
+												</tr>
+												<tr>
+													<td>Libertarian</td>
+													<td>303</td>            
+												</tr>
+												<tr>
+													<td>Peace and Freedom</td>
+													<td>194</td>            
+												</tr>
+												<tr>
+													<td>Republican</td>
+													<td>4,922</td>            
+												</tr>
+												<tr>
+													<td>No Party Preference/Unknown</td>
+													<td>18,981</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Language</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Chinese</td>
+													<td>4,753</td>            
+												</tr>
+												<tr>
+													<td>English</td>
+													<td>51,512</td>            
+												</tr>
+												<tr>
+													<td>Filipino</td>
+													<td>313</td>            
+												</tr>
+												<tr>
+													<td>Hindi</td>
+													<td>7</td>            
+												</tr>
+												<tr>
+													<td>Japanese</td>
+													<td>13</td>            
+												</tr>
+												<tr>
+													<td>Khmer</td>
+													<td>2</td>            
+												</tr>
+												<tr>
+													<td>Korean</td>
+													<td>82</td>            
+												</tr>
+												<tr>
+													<td>Russian</td>
+													<td>0</td>            
+												</tr>
+												<tr>
+													<td>Spanish</td>
+													<td>1,250</td>            
+												</tr>
+												<tr>
+													<td>Thai</td>
+													<td>6</td>            
+												</tr>
+												<tr>
+													<td>Vietnamese</td>
+													<td>126</td>            
+												</tr>
+												<tr>
+													<td>Other</td>
+													<td>1</td>            
+												</tr>
+											</tbody>
+										</table>
+									</div><!--table end-->
+									<!--<div class='col-md-7 panel panel-default' id='chart_CONG14'></div><!--chart end-->
+									<div class='col-md-7'>
+										<div class='tab-content'>
+											<div class='tab-pane active panel panel-default panel_bottom' id='chart_CONG14'></div>
+											<div class='tab-pane panel panel-default panel_bottom' id='chart_reg_language_CONG14'></div>
+										</div>
+										<ul class='nav nav-pills nav-justified nav-group'>
+											<li class='active'><a href='#chart_CONG14' class='btn' data-toggle='tab'>Political Party</a></li>
+											<li><a href='#chart_reg_language_CONG14' class='btn' data-toggle='tab' onClick='draw("draw_reg_language_CONG14");'>Language</a></li>
+										</ul>
+									</div>
+									<div class='col-md-12'>Last Updated: 02/26/2020</div>
+								<!--table and chart end--></div></div><div class='tab-pane' id='EQUAL2'><!--table and chart begin--><div class='row'><div class='col-md-4'><h4>Board of Equalization District 2</h4></div><div class='col-md-7'><em>This district includes all of San Francisco; the registration numbers are the same as the “Citywide” view.</em></div></div>
+									<div class='row'><div class='col-md-4'><!--table begin-->
+										<table class='table table-striped table-bordered table-condensed'>
+											<thead><tr><th colspan='2'>Registration</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Total Registration</td>
+													<td>503,954</td>            
+												</tr>
+												<tr>
+													<td>Military and Overseas</td>
+													<td>8,006</td>            
+												</tr>
+												<tr>
+													<td>Permanent Mail Voters</td>
+													<td>355,434</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Party</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>American Independent</td>
+													<td>8,617</td>            
+												</tr>
+												<tr>
+													<td>Democratic</td>
+													<td>304,726</td>            
+												</tr>
+												<tr>
+													<td>Green</td>
+													<td>3,102</td>            
+												</tr>
+												<tr>
+													<td>Libertarian</td>
+													<td>3,108</td>            
+												</tr>
+												<tr>
+													<td>Peace and Freedom</td>
+													<td>1,538</td>            
+												</tr>
+												<tr>
+													<td>Republican</td>
+													<td>32,994</td>            
+												</tr>
+												<tr>
+													<td>No Party Preference/Unknown</td>
+													<td>149,869</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Language</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Chinese</td>
+													<td>27,052</td>            
+												</tr>
+												<tr>
+													<td>English</td>
+													<td>466,868</td>            
+												</tr>
+												<tr>
+													<td>Filipino</td>
+													<td>1,208</td>            
+												</tr>
+												<tr>
+													<td>Hindi</td>
+													<td>61</td>            
+												</tr>
+												<tr>
+													<td>Japanese</td>
+													<td>124</td>            
+												</tr>
+												<tr>
+													<td>Khmer</td>
+													<td>6</td>            
+												</tr>
+												<tr>
+													<td>Korean</td>
+													<td>550</td>            
+												</tr>
+												<tr>
+													<td>Russian</td>
+													<td>3</td>            
+												</tr>
+												<tr>
+													<td>Spanish</td>
+													<td>7,026</td>            
+												</tr>
+												<tr>
+													<td>Thai</td>
+													<td>85</td>            
+												</tr>
+												<tr>
+													<td>Vietnamese</td>
+													<td>958</td>            
+												</tr>
+												<tr>
+													<td>Other</td>
+													<td>13</td>            
+												</tr>
+											</tbody>
+										</table>
+									</div><!--table end-->
+									<!--<div class='col-md-7 panel panel-default' id='chart_EQUAL2'></div><!--chart end-->
+									<div class='col-md-7'>
+										<div class='tab-content'>
+											<div class='tab-pane active panel panel-default panel_bottom' id='chart_EQUAL2'></div>
+											<div class='tab-pane panel panel-default panel_bottom' id='chart_reg_language_EQUAL2'></div>
+										</div>
+										<ul class='nav nav-pills nav-justified nav-group'>
+											<li class='active'><a href='#chart_EQUAL2' class='btn' data-toggle='tab'>Political Party</a></li>
+											<li><a href='#chart_reg_language_EQUAL2' class='btn' data-toggle='tab' onClick='draw("draw_reg_language_EQUAL2");'>Language</a></li>
+										</ul>
+									</div>
+									<div class='col-md-12'>Last Updated: 02/26/2020</div>
+								<!--table and chart end--></div></div><div class='tab-pane' id='SEN11'><!--table and chart begin--><div class='row'><div class='col-md-4'><h4>Senate District 11</h4></div><div class='col-md-7'><em>This district includes all of San Francisco; the registration numbers are the same as the “Citywide” view.</em></div></div>
+									<div class='row'><div class='col-md-4'><!--table begin-->
+										<table class='table table-striped table-bordered table-condensed'>
+											<thead><tr><th colspan='2'>Registration</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Total Registration</td>
+													<td>503,954</td>            
+												</tr>
+												<tr>
+													<td>Military and Overseas</td>
+													<td>8,006</td>            
+												</tr>
+												<tr>
+													<td>Permanent Mail Voters</td>
+													<td>355,434</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Party</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>American Independent</td>
+													<td>8,617</td>            
+												</tr>
+												<tr>
+													<td>Democratic</td>
+													<td>304,726</td>            
+												</tr>
+												<tr>
+													<td>Green</td>
+													<td>3,102</td>            
+												</tr>
+												<tr>
+													<td>Libertarian</td>
+													<td>3,108</td>            
+												</tr>
+												<tr>
+													<td>Peace and Freedom</td>
+													<td>1,538</td>            
+												</tr>
+												<tr>
+													<td>Republican</td>
+													<td>32,994</td>            
+												</tr>
+												<tr>
+													<td>No Party Preference/Unknown</td>
+													<td>149,869</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Language</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Chinese</td>
+													<td>27,052</td>            
+												</tr>
+												<tr>
+													<td>English</td>
+													<td>466,868</td>            
+												</tr>
+												<tr>
+													<td>Filipino</td>
+													<td>1,208</td>            
+												</tr>
+												<tr>
+													<td>Hindi</td>
+													<td>61</td>            
+												</tr>
+												<tr>
+													<td>Japanese</td>
+													<td>124</td>            
+												</tr>
+												<tr>
+													<td>Khmer</td>
+													<td>6</td>            
+												</tr>
+												<tr>
+													<td>Korean</td>
+													<td>550</td>            
+												</tr>
+												<tr>
+													<td>Russian</td>
+													<td>3</td>            
+												</tr>
+												<tr>
+													<td>Spanish</td>
+													<td>7,026</td>            
+												</tr>
+												<tr>
+													<td>Thai</td>
+													<td>85</td>            
+												</tr>
+												<tr>
+													<td>Vietnamese</td>
+													<td>958</td>            
+												</tr>
+												<tr>
+													<td>Other</td>
+													<td>13</td>            
+												</tr>
+											</tbody>
+										</table>
+									</div><!--table end-->
+									<!--<div class='col-md-7 panel panel-default' id='chart_SEN11'></div><!--chart end-->
+									<div class='col-md-7'>
+										<div class='tab-content'>
+											<div class='tab-pane active panel panel-default panel_bottom' id='chart_SEN11'></div>
+											<div class='tab-pane panel panel-default panel_bottom' id='chart_reg_language_SEN11'></div>
+										</div>
+										<ul class='nav nav-pills nav-justified nav-group'>
+											<li class='active'><a href='#chart_SEN11' class='btn' data-toggle='tab'>Political Party</a></li>
+											<li><a href='#chart_reg_language_SEN11' class='btn' data-toggle='tab' onClick='draw("draw_reg_language_SEN11");'>Language</a></li>
+										</ul>
+									</div>
+									<div class='col-md-12'>Last Updated: 02/26/2020</div>
+								<!--table and chart end--></div></div><div class='tab-pane' id='SUPV1'><!--table and chart begin--><div class='row'><div class='col-md-4'><h4>Supervisorial District 1</h4></div><div class='col-md-7'></div></div>
+									<div class='row'><div class='col-md-4'><!--table begin-->
+										<table class='table table-striped table-bordered table-condensed'>
+											<thead><tr><th colspan='2'>Registration</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Total Registration</td>
+													<td>43,125</td>            
+												</tr>
+												<tr>
+													<td>Military and Overseas</td>
+													<td>640</td>            
+												</tr>
+												<tr>
+													<td>Permanent Mail Voters</td>
+													<td>30,191</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Party</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>American Independent</td>
+													<td>724</td>            
+												</tr>
+												<tr>
+													<td>Democratic</td>
+													<td>25,364</td>            
+												</tr>
+												<tr>
+													<td>Green</td>
+													<td>296</td>            
+												</tr>
+												<tr>
+													<td>Libertarian</td>
+													<td>242</td>            
+												</tr>
+												<tr>
+													<td>Peace and Freedom</td>
+													<td>97</td>            
+												</tr>
+												<tr>
+													<td>Republican</td>
+													<td>3,219</td>            
+												</tr>
+												<tr>
+													<td>No Party Preference/Unknown</td>
+													<td>13,183</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Language</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Chinese</td>
+													<td>2,511</td>            
+												</tr>
+												<tr>
+													<td>English</td>
+													<td>40,248</td>            
+												</tr>
+												<tr>
+													<td>Filipino</td>
+													<td>34</td>            
+												</tr>
+												<tr>
+													<td>Hindi</td>
+													<td>3</td>            
+												</tr>
+												<tr>
+													<td>Japanese</td>
+													<td>17</td>            
+												</tr>
+												<tr>
+													<td>Khmer</td>
+													<td>0</td>            
+												</tr>
+												<tr>
+													<td>Korean</td>
+													<td>54</td>            
+												</tr>
+												<tr>
+													<td>Russian</td>
+													<td>0</td>            
+												</tr>
+												<tr>
+													<td>Spanish</td>
+													<td>141</td>            
+												</tr>
+												<tr>
+													<td>Thai</td>
+													<td>10</td>            
+												</tr>
+												<tr>
+													<td>Vietnamese</td>
+													<td>103</td>            
+												</tr>
+												<tr>
+													<td>Other</td>
+													<td>4</td>            
+												</tr>
+											</tbody>
+										</table>
+									</div><!--table end-->
+									<!--<div class='col-md-7 panel panel-default' id='chart_SUPV1'></div><!--chart end-->
+									<div class='col-md-7'>
+										<div class='tab-content'>
+											<div class='tab-pane active panel panel-default panel_bottom' id='chart_SUPV1'></div>
+											<div class='tab-pane panel panel-default panel_bottom' id='chart_reg_language_SUPV1'></div>
+										</div>
+										<ul class='nav nav-pills nav-justified nav-group'>
+											<li class='active'><a href='#chart_SUPV1' class='btn' data-toggle='tab'>Political Party</a></li>
+											<li><a href='#chart_reg_language_SUPV1' class='btn' data-toggle='tab' onClick='draw("draw_reg_language_SUPV1");'>Language</a></li>
+										</ul>
+									</div>
+									<div class='col-md-12'>Last Updated: 02/26/2020</div>
+								<!--table and chart end--></div></div><div class='tab-pane' id='SUPV2'><!--table and chart begin--><div class='row'><div class='col-md-4'><h4>Supervisorial District 2</h4></div><div class='col-md-7'></div></div>
+									<div class='row'><div class='col-md-4'><!--table begin-->
+										<table class='table table-striped table-bordered table-condensed'>
+											<thead><tr><th colspan='2'>Registration</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Total Registration</td>
+													<td>50,047</td>            
+												</tr>
+												<tr>
+													<td>Military and Overseas</td>
+													<td>1,112</td>            
+												</tr>
+												<tr>
+													<td>Permanent Mail Voters</td>
+													<td>36,093</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Party</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>American Independent</td>
+													<td>1,256</td>            
+												</tr>
+												<tr>
+													<td>Democratic</td>
+													<td>28,358</td>            
+												</tr>
+												<tr>
+													<td>Green</td>
+													<td>136</td>            
+												</tr>
+												<tr>
+													<td>Libertarian</td>
+													<td>446</td>            
+												</tr>
+												<tr>
+													<td>Peace and Freedom</td>
+													<td>34</td>            
+												</tr>
+												<tr>
+													<td>Republican</td>
+													<td>5,888</td>            
+												</tr>
+												<tr>
+													<td>No Party Preference/Unknown</td>
+													<td>13,929</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Language</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Chinese</td>
+													<td>305</td>            
+												</tr>
+												<tr>
+													<td>English</td>
+													<td>49,592</td>            
+												</tr>
+												<tr>
+													<td>Filipino</td>
+													<td>12</td>            
+												</tr>
+												<tr>
+													<td>Hindi</td>
+													<td>5</td>            
+												</tr>
+												<tr>
+													<td>Japanese</td>
+													<td>13</td>            
+												</tr>
+												<tr>
+													<td>Khmer</td>
+													<td>0</td>            
+												</tr>
+												<tr>
+													<td>Korean</td>
+													<td>16</td>            
+												</tr>
+												<tr>
+													<td>Russian</td>
+													<td>0</td>            
+												</tr>
+												<tr>
+													<td>Spanish</td>
+													<td>94</td>            
+												</tr>
+												<tr>
+													<td>Thai</td>
+													<td>1</td>            
+												</tr>
+												<tr>
+													<td>Vietnamese</td>
+													<td>8</td>            
+												</tr>
+												<tr>
+													<td>Other</td>
+													<td>1</td>            
+												</tr>
+											</tbody>
+										</table>
+									</div><!--table end-->
+									<!--<div class='col-md-7 panel panel-default' id='chart_SUPV2'></div><!--chart end-->
+									<div class='col-md-7'>
+										<div class='tab-content'>
+											<div class='tab-pane active panel panel-default panel_bottom' id='chart_SUPV2'></div>
+											<div class='tab-pane panel panel-default panel_bottom' id='chart_reg_language_SUPV2'></div>
+										</div>
+										<ul class='nav nav-pills nav-justified nav-group'>
+											<li class='active'><a href='#chart_SUPV2' class='btn' data-toggle='tab'>Political Party</a></li>
+											<li><a href='#chart_reg_language_SUPV2' class='btn' data-toggle='tab' onClick='draw("draw_reg_language_SUPV2");'>Language</a></li>
+										</ul>
+									</div>
+									<div class='col-md-12'>Last Updated: 02/26/2020</div>
+								<!--table and chart end--></div></div><div class='tab-pane' id='SUPV3'><!--table and chart begin--><div class='row'><div class='col-md-4'><h4>Supervisorial District 3</h4></div><div class='col-md-7'></div></div>
+									<div class='row'><div class='col-md-4'><!--table begin-->
+										<table class='table table-striped table-bordered table-condensed'>
+											<thead><tr><th colspan='2'>Registration</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Total Registration</td>
+													<td>39,393</td>            
+												</tr>
+												<tr>
+													<td>Military and Overseas</td>
+													<td>831</td>            
+												</tr>
+												<tr>
+													<td>Permanent Mail Voters</td>
+													<td>27,963</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Party</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>American Independent</td>
+													<td>775</td>            
+												</tr>
+												<tr>
+													<td>Democratic</td>
+													<td>21,820</td>            
+												</tr>
+												<tr>
+													<td>Green</td>
+													<td>198</td>            
+												</tr>
+												<tr>
+													<td>Libertarian</td>
+													<td>329</td>            
+												</tr>
+												<tr>
+													<td>Peace and Freedom</td>
+													<td>107</td>            
+												</tr>
+												<tr>
+													<td>Republican</td>
+													<td>3,016</td>            
+												</tr>
+												<tr>
+													<td>No Party Preference/Unknown</td>
+													<td>13,148</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Language</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Chinese</td>
+													<td>4,268</td>            
+												</tr>
+												<tr>
+													<td>English</td>
+													<td>34,880</td>            
+												</tr>
+												<tr>
+													<td>Filipino</td>
+													<td>39</td>            
+												</tr>
+												<tr>
+													<td>Hindi</td>
+													<td>4</td>            
+												</tr>
+												<tr>
+													<td>Japanese</td>
+													<td>5</td>            
+												</tr>
+												<tr>
+													<td>Khmer</td>
+													<td>0</td>            
+												</tr>
+												<tr>
+													<td>Korean</td>
+													<td>9</td>            
+												</tr>
+												<tr>
+													<td>Russian</td>
+													<td>0</td>            
+												</tr>
+												<tr>
+													<td>Spanish</td>
+													<td>152</td>            
+												</tr>
+												<tr>
+													<td>Thai</td>
+													<td>5</td>            
+												</tr>
+												<tr>
+													<td>Vietnamese</td>
+													<td>30</td>            
+												</tr>
+												<tr>
+													<td>Other</td>
+													<td>1</td>            
+												</tr>
+											</tbody>
+										</table>
+									</div><!--table end-->
+									<!--<div class='col-md-7 panel panel-default' id='chart_SUPV3'></div><!--chart end-->
+									<div class='col-md-7'>
+										<div class='tab-content'>
+											<div class='tab-pane active panel panel-default panel_bottom' id='chart_SUPV3'></div>
+											<div class='tab-pane panel panel-default panel_bottom' id='chart_reg_language_SUPV3'></div>
+										</div>
+										<ul class='nav nav-pills nav-justified nav-group'>
+											<li class='active'><a href='#chart_SUPV3' class='btn' data-toggle='tab'>Political Party</a></li>
+											<li><a href='#chart_reg_language_SUPV3' class='btn' data-toggle='tab' onClick='draw("draw_reg_language_SUPV3");'>Language</a></li>
+										</ul>
+									</div>
+									<div class='col-md-12'>Last Updated: 02/26/2020</div>
+								<!--table and chart end--></div></div><div class='tab-pane' id='SUPV4'><!--table and chart begin--><div class='row'><div class='col-md-4'><h4>Supervisorial District 4</h4></div><div class='col-md-7'></div></div>
+									<div class='row'><div class='col-md-4'><!--table begin-->
+										<table class='table table-striped table-bordered table-condensed'>
+											<thead><tr><th colspan='2'>Registration</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Total Registration</td>
+													<td>44,119</td>            
+												</tr>
+												<tr>
+													<td>Military and Overseas</td>
+													<td>501</td>            
+												</tr>
+												<tr>
+													<td>Permanent Mail Voters</td>
+													<td>31,905</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Party</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>American Independent</td>
+													<td>709</td>            
+												</tr>
+												<tr>
+													<td>Democratic</td>
+													<td>23,668</td>            
+												</tr>
+												<tr>
+													<td>Green</td>
+													<td>279</td>            
+												</tr>
+												<tr>
+													<td>Libertarian</td>
+													<td>236</td>            
+												</tr>
+												<tr>
+													<td>Peace and Freedom</td>
+													<td>121</td>            
+												</tr>
+												<tr>
+													<td>Republican</td>
+													<td>3,559</td>            
+												</tr>
+												<tr>
+													<td>No Party Preference/Unknown</td>
+													<td>15,547</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Language</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Chinese</td>
+													<td>4,576</td>            
+												</tr>
+												<tr>
+													<td>English</td>
+													<td>39,112</td>            
+												</tr>
+												<tr>
+													<td>Filipino</td>
+													<td>56</td>            
+												</tr>
+												<tr>
+													<td>Hindi</td>
+													<td>5</td>            
+												</tr>
+												<tr>
+													<td>Japanese</td>
+													<td>16</td>            
+												</tr>
+												<tr>
+													<td>Khmer</td>
+													<td>1</td>            
+												</tr>
+												<tr>
+													<td>Korean</td>
+													<td>62</td>            
+												</tr>
+												<tr>
+													<td>Russian</td>
+													<td>1</td>            
+												</tr>
+												<tr>
+													<td>Spanish</td>
+													<td>146</td>            
+												</tr>
+												<tr>
+													<td>Thai</td>
+													<td>15</td>            
+												</tr>
+												<tr>
+													<td>Vietnamese</td>
+													<td>127</td>            
+												</tr>
+												<tr>
+													<td>Other</td>
+													<td>2</td>            
+												</tr>
+											</tbody>
+										</table>
+									</div><!--table end-->
+									<!--<div class='col-md-7 panel panel-default' id='chart_SUPV4'></div><!--chart end-->
+									<div class='col-md-7'>
+										<div class='tab-content'>
+											<div class='tab-pane active panel panel-default panel_bottom' id='chart_SUPV4'></div>
+											<div class='tab-pane panel panel-default panel_bottom' id='chart_reg_language_SUPV4'></div>
+										</div>
+										<ul class='nav nav-pills nav-justified nav-group'>
+											<li class='active'><a href='#chart_SUPV4' class='btn' data-toggle='tab'>Political Party</a></li>
+											<li><a href='#chart_reg_language_SUPV4' class='btn' data-toggle='tab' onClick='draw("draw_reg_language_SUPV4");'>Language</a></li>
+										</ul>
+									</div>
+									<div class='col-md-12'>Last Updated: 02/26/2020</div>
+								<!--table and chart end--></div></div><div class='tab-pane' id='SUPV5'><!--table and chart begin--><div class='row'><div class='col-md-4'><h4>Supervisorial District 5</h4></div><div class='col-md-7'></div></div>
+									<div class='row'><div class='col-md-4'><!--table begin-->
+										<table class='table table-striped table-bordered table-condensed'>
+											<thead><tr><th colspan='2'>Registration</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Total Registration</td>
+													<td>52,866</td>            
+												</tr>
+												<tr>
+													<td>Military and Overseas</td>
+													<td>1,081</td>            
+												</tr>
+												<tr>
+													<td>Permanent Mail Voters</td>
+													<td>36,157</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Party</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>American Independent</td>
+													<td>822</td>            
+												</tr>
+												<tr>
+													<td>Democratic</td>
+													<td>35,549</td>            
+												</tr>
+												<tr>
+													<td>Green</td>
+													<td>382</td>            
+												</tr>
+												<tr>
+													<td>Libertarian</td>
+													<td>326</td>            
+												</tr>
+												<tr>
+													<td>Peace and Freedom</td>
+													<td>148</td>            
+												</tr>
+												<tr>
+													<td>Republican</td>
+													<td>2,038</td>            
+												</tr>
+												<tr>
+													<td>No Party Preference/Unknown</td>
+													<td>13,601</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Language</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Chinese</td>
+													<td>887</td>            
+												</tr>
+												<tr>
+													<td>English</td>
+													<td>51,334</td>            
+												</tr>
+												<tr>
+													<td>Filipino</td>
+													<td>51</td>            
+												</tr>
+												<tr>
+													<td>Hindi</td>
+													<td>7</td>            
+												</tr>
+												<tr>
+													<td>Japanese</td>
+													<td>18</td>            
+												</tr>
+												<tr>
+													<td>Khmer</td>
+													<td>0</td>            
+												</tr>
+												<tr>
+													<td>Korean</td>
+													<td>251</td>            
+												</tr>
+												<tr>
+													<td>Russian</td>
+													<td>1</td>            
+												</tr>
+												<tr>
+													<td>Spanish</td>
+													<td>250</td>            
+												</tr>
+												<tr>
+													<td>Thai</td>
+													<td>7</td>            
+												</tr>
+												<tr>
+													<td>Vietnamese</td>
+													<td>58</td>            
+												</tr>
+												<tr>
+													<td>Other</td>
+													<td>2</td>            
+												</tr>
+											</tbody>
+										</table>
+									</div><!--table end-->
+									<!--<div class='col-md-7 panel panel-default' id='chart_SUPV5'></div><!--chart end-->
+									<div class='col-md-7'>
+										<div class='tab-content'>
+											<div class='tab-pane active panel panel-default panel_bottom' id='chart_SUPV5'></div>
+											<div class='tab-pane panel panel-default panel_bottom' id='chart_reg_language_SUPV5'></div>
+										</div>
+										<ul class='nav nav-pills nav-justified nav-group'>
+											<li class='active'><a href='#chart_SUPV5' class='btn' data-toggle='tab'>Political Party</a></li>
+											<li><a href='#chart_reg_language_SUPV5' class='btn' data-toggle='tab' onClick='draw("draw_reg_language_SUPV5");'>Language</a></li>
+										</ul>
+									</div>
+									<div class='col-md-12'>Last Updated: 02/26/2020</div>
+								<!--table and chart end--></div></div><div class='tab-pane' id='SUPV6'><!--table and chart begin--><div class='row'><div class='col-md-4'><h4>Supervisorial District 6</h4></div><div class='col-md-7'></div></div>
+									<div class='row'><div class='col-md-4'><!--table begin-->
+										<table class='table table-striped table-bordered table-condensed'>
+											<thead><tr><th colspan='2'>Registration</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Total Registration</td>
+													<td>43,682</td>            
+												</tr>
+												<tr>
+													<td>Military and Overseas</td>
+													<td>507</td>            
+												</tr>
+												<tr>
+													<td>Permanent Mail Voters</td>
+													<td>30,917</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Party</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>American Independent</td>
+													<td>851</td>            
+												</tr>
+												<tr>
+													<td>Democratic</td>
+													<td>25,244</td>            
+												</tr>
+												<tr>
+													<td>Green</td>
+													<td>258</td>            
+												</tr>
+												<tr>
+													<td>Libertarian</td>
+													<td>393</td>            
+												</tr>
+												<tr>
+													<td>Peace and Freedom</td>
+													<td>202</td>            
+												</tr>
+												<tr>
+													<td>Republican</td>
+													<td>2,586</td>            
+												</tr>
+												<tr>
+													<td>No Party Preference/Unknown</td>
+													<td>14,148</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Language</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Chinese</td>
+													<td>2,251</td>            
+												</tr>
+												<tr>
+													<td>English</td>
+													<td>40,484</td>            
+												</tr>
+												<tr>
+													<td>Filipino</td>
+													<td>247</td>            
+												</tr>
+												<tr>
+													<td>Hindi</td>
+													<td>19</td>            
+												</tr>
+												<tr>
+													<td>Japanese</td>
+													<td>18</td>            
+												</tr>
+												<tr>
+													<td>Khmer</td>
+													<td>1</td>            
+												</tr>
+												<tr>
+													<td>Korean</td>
+													<td>31</td>            
+												</tr>
+												<tr>
+													<td>Russian</td>
+													<td>1</td>            
+												</tr>
+												<tr>
+													<td>Spanish</td>
+													<td>412</td>            
+												</tr>
+												<tr>
+													<td>Thai</td>
+													<td>22</td>            
+												</tr>
+												<tr>
+													<td>Vietnamese</td>
+													<td>196</td>            
+												</tr>
+												<tr>
+													<td>Other</td>
+													<td>0</td>            
+												</tr>
+											</tbody>
+										</table>
+									</div><!--table end-->
+									<!--<div class='col-md-7 panel panel-default' id='chart_SUPV6'></div><!--chart end-->
+									<div class='col-md-7'>
+										<div class='tab-content'>
+											<div class='tab-pane active panel panel-default panel_bottom' id='chart_SUPV6'></div>
+											<div class='tab-pane panel panel-default panel_bottom' id='chart_reg_language_SUPV6'></div>
+										</div>
+										<ul class='nav nav-pills nav-justified nav-group'>
+											<li class='active'><a href='#chart_SUPV6' class='btn' data-toggle='tab'>Political Party</a></li>
+											<li><a href='#chart_reg_language_SUPV6' class='btn' data-toggle='tab' onClick='draw("draw_reg_language_SUPV6");'>Language</a></li>
+										</ul>
+									</div>
+									<div class='col-md-12'>Last Updated: 02/26/2020</div>
+								<!--table and chart end--></div></div><div class='tab-pane' id='SUPV7'><!--table and chart begin--><div class='row'><div class='col-md-4'><h4>Supervisorial District 7</h4></div><div class='col-md-7'></div></div>
+									<div class='row'><div class='col-md-4'><!--table begin-->
+										<table class='table table-striped table-bordered table-condensed'>
+											<thead><tr><th colspan='2'>Registration</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Total Registration</td>
+													<td>47,451</td>            
+												</tr>
+												<tr>
+													<td>Military and Overseas</td>
+													<td>735</td>            
+												</tr>
+												<tr>
+													<td>Permanent Mail Voters</td>
+													<td>33,993</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Party</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>American Independent</td>
+													<td>837</td>            
+												</tr>
+												<tr>
+													<td>Democratic</td>
+													<td>27,652</td>            
+												</tr>
+												<tr>
+													<td>Green</td>
+													<td>298</td>            
+												</tr>
+												<tr>
+													<td>Libertarian</td>
+													<td>267</td>            
+												</tr>
+												<tr>
+													<td>Peace and Freedom</td>
+													<td>103</td>            
+												</tr>
+												<tr>
+													<td>Republican</td>
+													<td>4,643</td>            
+												</tr>
+												<tr>
+													<td>No Party Preference/Unknown</td>
+													<td>13,651</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Language</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Chinese</td>
+													<td>1,736</td>            
+												</tr>
+												<tr>
+													<td>English</td>
+													<td>45,178</td>            
+												</tr>
+												<tr>
+													<td>Filipino</td>
+													<td>67</td>            
+												</tr>
+												<tr>
+													<td>Hindi</td>
+													<td>5</td>            
+												</tr>
+												<tr>
+													<td>Japanese</td>
+													<td>11</td>            
+												</tr>
+												<tr>
+													<td>Khmer</td>
+													<td>0</td>            
+												</tr>
+												<tr>
+													<td>Korean</td>
+													<td>87</td>            
+												</tr>
+												<tr>
+													<td>Russian</td>
+													<td>0</td>            
+												</tr>
+												<tr>
+													<td>Spanish</td>
+													<td>310</td>            
+												</tr>
+												<tr>
+													<td>Thai</td>
+													<td>4</td>            
+												</tr>
+												<tr>
+													<td>Vietnamese</td>
+													<td>53</td>            
+												</tr>
+												<tr>
+													<td>Other</td>
+													<td>0</td>            
+												</tr>
+											</tbody>
+										</table>
+									</div><!--table end-->
+									<!--<div class='col-md-7 panel panel-default' id='chart_SUPV7'></div><!--chart end-->
+									<div class='col-md-7'>
+										<div class='tab-content'>
+											<div class='tab-pane active panel panel-default panel_bottom' id='chart_SUPV7'></div>
+											<div class='tab-pane panel panel-default panel_bottom' id='chart_reg_language_SUPV7'></div>
+										</div>
+										<ul class='nav nav-pills nav-justified nav-group'>
+											<li class='active'><a href='#chart_SUPV7' class='btn' data-toggle='tab'>Political Party</a></li>
+											<li><a href='#chart_reg_language_SUPV7' class='btn' data-toggle='tab' onClick='draw("draw_reg_language_SUPV7");'>Language</a></li>
+										</ul>
+									</div>
+									<div class='col-md-12'>Last Updated: 02/26/2020</div>
+								<!--table and chart end--></div></div><div class='tab-pane' id='SUPV8'><!--table and chart begin--><div class='row'><div class='col-md-4'><h4>Supervisorial District 8</h4></div><div class='col-md-7'></div></div>
+									<div class='row'><div class='col-md-4'><!--table begin-->
+										<table class='table table-striped table-bordered table-condensed'>
+											<thead><tr><th colspan='2'>Registration</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Total Registration</td>
+													<td>58,183</td>            
+												</tr>
+												<tr>
+													<td>Military and Overseas</td>
+													<td>1,375</td>            
+												</tr>
+												<tr>
+													<td>Permanent Mail Voters</td>
+													<td>40,256</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Party</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>American Independent</td>
+													<td>670</td>            
+												</tr>
+												<tr>
+													<td>Democratic</td>
+													<td>41,346</td>            
+												</tr>
+												<tr>
+													<td>Green</td>
+													<td>449</td>            
+												</tr>
+												<tr>
+													<td>Libertarian</td>
+													<td>283</td>            
+												</tr>
+												<tr>
+													<td>Peace and Freedom</td>
+													<td>99</td>            
+												</tr>
+												<tr>
+													<td>Republican</td>
+													<td>2,053</td>            
+												</tr>
+												<tr>
+													<td>No Party Preference/Unknown</td>
+													<td>13,283</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Language</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Chinese</td>
+													<td>460</td>            
+												</tr>
+												<tr>
+													<td>English</td>
+													<td>56,986</td>            
+												</tr>
+												<tr>
+													<td>Filipino</td>
+													<td>39</td>            
+												</tr>
+												<tr>
+													<td>Hindi</td>
+													<td>4</td>            
+												</tr>
+												<tr>
+													<td>Japanese</td>
+													<td>6</td>            
+												</tr>
+												<tr>
+													<td>Khmer</td>
+													<td>1</td>            
+												</tr>
+												<tr>
+													<td>Korean</td>
+													<td>8</td>            
+												</tr>
+												<tr>
+													<td>Russian</td>
+													<td>0</td>            
+												</tr>
+												<tr>
+													<td>Spanish</td>
+													<td>650</td>            
+												</tr>
+												<tr>
+													<td>Thai</td>
+													<td>5</td>            
+												</tr>
+												<tr>
+													<td>Vietnamese</td>
+													<td>24</td>            
+												</tr>
+												<tr>
+													<td>Other</td>
+													<td>0</td>            
+												</tr>
+											</tbody>
+										</table>
+									</div><!--table end-->
+									<!--<div class='col-md-7 panel panel-default' id='chart_SUPV8'></div><!--chart end-->
+									<div class='col-md-7'>
+										<div class='tab-content'>
+											<div class='tab-pane active panel panel-default panel_bottom' id='chart_SUPV8'></div>
+											<div class='tab-pane panel panel-default panel_bottom' id='chart_reg_language_SUPV8'></div>
+										</div>
+										<ul class='nav nav-pills nav-justified nav-group'>
+											<li class='active'><a href='#chart_SUPV8' class='btn' data-toggle='tab'>Political Party</a></li>
+											<li><a href='#chart_reg_language_SUPV8' class='btn' data-toggle='tab' onClick='draw("draw_reg_language_SUPV8");'>Language</a></li>
+										</ul>
+									</div>
+									<div class='col-md-12'>Last Updated: 02/26/2020</div>
+								<!--table and chart end--></div></div><div class='tab-pane' id='SUPV9'><!--table and chart begin--><div class='row'><div class='col-md-4'><h4>Supervisorial District 9</h4></div><div class='col-md-7'></div></div>
+									<div class='row'><div class='col-md-4'><!--table begin-->
+										<table class='table table-striped table-bordered table-condensed'>
+											<thead><tr><th colspan='2'>Registration</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Total Registration</td>
+													<td>43,267</td>            
+												</tr>
+												<tr>
+													<td>Military and Overseas</td>
+													<td>631</td>            
+												</tr>
+												<tr>
+													<td>Permanent Mail Voters</td>
+													<td>29,329</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Party</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>American Independent</td>
+													<td>582</td>            
+												</tr>
+												<tr>
+													<td>Democratic</td>
+													<td>28,280</td>            
+												</tr>
+												<tr>
+													<td>Green</td>
+													<td>407</td>            
+												</tr>
+												<tr>
+													<td>Libertarian</td>
+													<td>199</td>            
+												</tr>
+												<tr>
+													<td>Peace and Freedom</td>
+													<td>198</td>            
+												</tr>
+												<tr>
+													<td>Republican</td>
+													<td>1,700</td>            
+												</tr>
+												<tr>
+													<td>No Party Preference/Unknown</td>
+													<td>11,901</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Language</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Chinese</td>
+													<td>1,753</td>            
+												</tr>
+												<tr>
+													<td>English</td>
+													<td>39,133</td>            
+												</tr>
+												<tr>
+													<td>Filipino</td>
+													<td>161</td>            
+												</tr>
+												<tr>
+													<td>Hindi</td>
+													<td>2</td>            
+												</tr>
+												<tr>
+													<td>Japanese</td>
+													<td>5</td>            
+												</tr>
+												<tr>
+													<td>Khmer</td>
+													<td>0</td>            
+												</tr>
+												<tr>
+													<td>Korean</td>
+													<td>3</td>            
+												</tr>
+												<tr>
+													<td>Russian</td>
+													<td>0</td>            
+												</tr>
+												<tr>
+													<td>Spanish</td>
+													<td>2,126</td>            
+												</tr>
+												<tr>
+													<td>Thai</td>
+													<td>3</td>            
+												</tr>
+												<tr>
+													<td>Vietnamese</td>
+													<td>81</td>            
+												</tr>
+												<tr>
+													<td>Other</td>
+													<td>0</td>            
+												</tr>
+											</tbody>
+										</table>
+									</div><!--table end-->
+									<!--<div class='col-md-7 panel panel-default' id='chart_SUPV9'></div><!--chart end-->
+									<div class='col-md-7'>
+										<div class='tab-content'>
+											<div class='tab-pane active panel panel-default panel_bottom' id='chart_SUPV9'></div>
+											<div class='tab-pane panel panel-default panel_bottom' id='chart_reg_language_SUPV9'></div>
+										</div>
+										<ul class='nav nav-pills nav-justified nav-group'>
+											<li class='active'><a href='#chart_SUPV9' class='btn' data-toggle='tab'>Political Party</a></li>
+											<li><a href='#chart_reg_language_SUPV9' class='btn' data-toggle='tab' onClick='draw("draw_reg_language_SUPV9");'>Language</a></li>
+										</ul>
+									</div>
+									<div class='col-md-12'>Last Updated: 02/26/2020</div>
+								<!--table and chart end--></div></div><div class='tab-pane' id='SUPV10'><!--table and chart begin--><div class='row'><div class='col-md-4'><h4>Supervisorial District 10</h4></div><div class='col-md-7'></div></div>
+									<div class='row'><div class='col-md-4'><!--table begin-->
+										<table class='table table-striped table-bordered table-condensed'>
+											<thead><tr><th colspan='2'>Registration</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Total Registration</td>
+													<td>43,124</td>            
+												</tr>
+												<tr>
+													<td>Military and Overseas</td>
+													<td>342</td>            
+												</tr>
+												<tr>
+													<td>Permanent Mail Voters</td>
+													<td>30,401</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Party</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>American Independent</td>
+													<td>749</td>            
+												</tr>
+												<tr>
+													<td>Democratic</td>
+													<td>25,826</td>            
+												</tr>
+												<tr>
+													<td>Green</td>
+													<td>202</td>            
+												</tr>
+												<tr>
+													<td>Libertarian</td>
+													<td>206</td>            
+												</tr>
+												<tr>
+													<td>Peace and Freedom</td>
+													<td>240</td>            
+												</tr>
+												<tr>
+													<td>Republican</td>
+													<td>1,952</td>            
+												</tr>
+												<tr>
+													<td>No Party Preference/Unknown</td>
+													<td>13,949</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Language</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Chinese</td>
+													<td>3,684</td>            
+												</tr>
+												<tr>
+													<td>English</td>
+													<td>38,077</td>            
+												</tr>
+												<tr>
+													<td>Filipino</td>
+													<td>132</td>            
+												</tr>
+												<tr>
+													<td>Hindi</td>
+													<td>4</td>            
+												</tr>
+												<tr>
+													<td>Japanese</td>
+													<td>7</td>            
+												</tr>
+												<tr>
+													<td>Khmer</td>
+													<td>0</td>            
+												</tr>
+												<tr>
+													<td>Korean</td>
+													<td>20</td>            
+												</tr>
+												<tr>
+													<td>Russian</td>
+													<td>0</td>            
+												</tr>
+												<tr>
+													<td>Spanish</td>
+													<td>1,022</td>            
+												</tr>
+												<tr>
+													<td>Thai</td>
+													<td>8</td>            
+												</tr>
+												<tr>
+													<td>Vietnamese</td>
+													<td>168</td>            
+												</tr>
+												<tr>
+													<td>Other</td>
+													<td>2</td>            
+												</tr>
+											</tbody>
+										</table>
+									</div><!--table end-->
+									<!--<div class='col-md-7 panel panel-default' id='chart_SUPV10'></div><!--chart end-->
+									<div class='col-md-7'>
+										<div class='tab-content'>
+											<div class='tab-pane active panel panel-default panel_bottom' id='chart_SUPV10'></div>
+											<div class='tab-pane panel panel-default panel_bottom' id='chart_reg_language_SUPV10'></div>
+										</div>
+										<ul class='nav nav-pills nav-justified nav-group'>
+											<li class='active'><a href='#chart_SUPV10' class='btn' data-toggle='tab'>Political Party</a></li>
+											<li><a href='#chart_reg_language_SUPV10' class='btn' data-toggle='tab' onClick='draw("draw_reg_language_SUPV10");'>Language</a></li>
+										</ul>
+									</div>
+									<div class='col-md-12'>Last Updated: 02/26/2020</div>
+								<!--table and chart end--></div></div><div class='tab-pane' id='SUPV11'><!--table and chart begin--><div class='row'><div class='col-md-4'><h4>Supervisorial District 11</h4></div><div class='col-md-7'></div></div>
+									<div class='row'><div class='col-md-4'><!--table begin-->
+										<table class='table table-striped table-bordered table-condensed'>
+											<thead><tr><th colspan='2'>Registration</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Total Registration</td>
+													<td>38,697</td>            
+												</tr>
+												<tr>
+													<td>Military and Overseas</td>
+													<td>251</td>            
+												</tr>
+												<tr>
+													<td>Permanent Mail Voters</td>
+													<td>28,229</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Party</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>American Independent</td>
+													<td>642</td>            
+												</tr>
+												<tr>
+													<td>Democratic</td>
+													<td>21,619</td>            
+												</tr>
+												<tr>
+													<td>Green</td>
+													<td>197</td>            
+												</tr>
+												<tr>
+													<td>Libertarian</td>
+													<td>181</td>            
+												</tr>
+												<tr>
+													<td>Peace and Freedom</td>
+													<td>189</td>            
+												</tr>
+												<tr>
+													<td>Republican</td>
+													<td>2,340</td>            
+												</tr>
+												<tr>
+													<td>No Party Preference/Unknown</td>
+													<td>13,529</td>            
+												</tr>
+											</tbody>
+											<thead><tr><th colspan='2'>Registration by Language</th></tr></thead>
+											<tbody>
+												<tr>
+													<td>Chinese</td>
+													<td>4,621</td>            
+												</tr>
+												<tr>
+													<td>English</td>
+													<td>31,844</td>            
+												</tr>
+												<tr>
+													<td>Filipino</td>
+													<td>370</td>            
+												</tr>
+												<tr>
+													<td>Hindi</td>
+													<td>3</td>            
+												</tr>
+												<tr>
+													<td>Japanese</td>
+													<td>8</td>            
+												</tr>
+												<tr>
+													<td>Khmer</td>
+													<td>3</td>            
+												</tr>
+												<tr>
+													<td>Korean</td>
+													<td>9</td>            
+												</tr>
+												<tr>
+													<td>Russian</td>
+													<td>0</td>            
+												</tr>
+												<tr>
+													<td>Spanish</td>
+													<td>1,723</td>            
+												</tr>
+												<tr>
+													<td>Thai</td>
+													<td>5</td>            
+												</tr>
+												<tr>
+													<td>Vietnamese</td>
+													<td>110</td>            
+												</tr>
+												<tr>
+													<td>Other</td>
+													<td>1</td>            
+												</tr>
+											</tbody>
+										</table>
+									</div><!--table end-->
+									<!--<div class='col-md-7 panel panel-default' id='chart_SUPV11'></div><!--chart end-->
+									<div class='col-md-7'>
+										<div class='tab-content'>
+											<div class='tab-pane active panel panel-default panel_bottom' id='chart_SUPV11'></div>
+											<div class='tab-pane panel panel-default panel_bottom' id='chart_reg_language_SUPV11'></div>
+										</div>
+										<ul class='nav nav-pills nav-justified nav-group'>
+											<li class='active'><a href='#chart_SUPV11' class='btn' data-toggle='tab'>Political Party</a></li>
+											<li><a href='#chart_reg_language_SUPV11' class='btn' data-toggle='tab' onClick='draw("draw_reg_language_SUPV11");'>Language</a></li>
+										</ul>
+									</div>
+									<div class='col-md-12'>Last Updated: 02/26/2020</div>
+								<!--table and chart end--></div></div>				</div>
+				<!--end tab-content-->
+
+			</div>
+			<!--end registration-->
+
+			<div class="tab-pane " id="Outreach">
+				<div class="row"><div class='col-md-12 text-center'><h4>Outreach Events: 1/1/2020 - 12/31/2020</h4></div></div>
+				<div class="row">
+					<div class='col-md-4'>
+						<table class='table table-striped table-bordered table-condensed'>
+							<thead>
+								<tr>
+									<th>Event Location</th>
+									<th>Scheduled</th>
+									<th>Conducted</th>
+								</tr>
+							</thead>
+							<tbody>
+								<script type='text/javascript'>
+									for (uiIndex in jData_5_no) document.write("<tr><td>" + jData_5_no[uiIndex][OUTREACH_NAME] + "</td><td>" + jData_5_no[uiIndex][OUTREACH_SCHEDULED] + "</td><td>" + jData_5_no[uiIndex][OUTREACH_CONDUCTED] + "</td></tr>");
+								</script>
+							</tbody>
+						</table>
+					</div>
+					<div class='col-md-7 panel panel-default' id='chart_outreach'></div>
+					<div class='col-md-12'>Last Updated:
+						02/26/2020					</div>
+				</div>
+			</div>
+			<!--end Outreach-->
+
+			<div class="tab-pane " id="vip">
+				<div class="row"><div class='col-md-12 text-center'><h4>Voter Information Pamphlet Opt-out</h4></div></div>
+				<div class="row">
+					<div class='col-md-4'>
+						<table class='table table-striped table-bordered table-condensed'>
+							<thead>
+								<tr>
+									<th colspan='2'>Status</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>Voters Receiving Paper Version</td>
+									<td>
+										472501									</td>
+								</tr>
+								<tr>
+									<td>Voters Receiving Electronic Version</td>
+									<td>
+										31454									</td>
+								</tr>
+							</tbody>
+						</table><br><br><br>
+					</div>
+					<div class='col-md-7 panel panel-default' id='chart_vip'></div>
+					<div class='col-md-12'>Last Updated:
+						02/27/2020					</div>
+				</div>
+			</div>
+			<!--end VIP-->
+
+			<div class="tab-pane " id="Petition">
+				<div class="row"><div class='col-md-12 text-center'><h4>Status of Measures Proposed through Voter Initiative</h4></div></div>
+				<div class="row"><div class="col-md-offset-4 col-md-4"><ul class="nav nav-pills nav-justified"><li class="active" id="petition_button_output"><a href="output_petition.php" role="button"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> TXT</a></li></ul></div></div>
+				<div class="row top_buffer">
+					<div class='col-md-12'>
+						<table class='table table-striped table-bordered table-condensed'>
+							<thead>
+								<tr>
+									<th>Title of Proposed Measure</th>
+									<th>Qualified for the ballot?</th>
+									<th>Filing Date</th>
+									<th>Verification Method</th>
+									<th>Signatures Required</th>
+									<th>Raw Count</th>
+									<th>Sample</th>
+									<th>Checked</th>
+									<th>Valid</th>
+									<th>Duplicate</th>
+									<th>Due</th>
+									<th>Completed</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr><td>Vapor Products</td><td>Qualified</td><td>07/02/2019</td><td>3% or 500 Random</td><td>9,485</td><td>20,341</td><td>610</td><td>610</td><td>515</td><td>0</td><td>07/12/2019</td><td>07/09/2019</td></tr><tr><td>Referendum to Overturn a 2018 Law that Replaced Money Bail System with a System Based on Public Safety Risk</td><td>Qualified</td><td>11/20/2018</td><td>3% or 500 Random</td><td>365,880</td><td>6,030</td><td>500</td><td>500</td><td>403</td><td>0</td><td>01/16/2019</td><td>12/07/2018</td></tr><tr><td>Requires Certain Commercial and Industrial Real Property to be Taxed Based on Fair-Market Value. Dedicates Portion of Any Increased Revenue to Education and Local Services. Initiative Constitutional Amendment.</td><td>Qualified</td><td>08/17/2018</td><td>3% or 500 Random</td><td>585,407</td><td>21,090</td><td>633</td><td>633</td><td>508</td><td>1</td><td>10/15/2018</td><td>09/10/2018</td></tr><tr><td>Additional Tax on Gross Receipts of Businesses to Fund Homeless Services</td><td>Qualified</td><td>07/09/2018</td><td>3% or 500 Random</td><td>9,485</td><td>28,761</td><td>863</td><td>863</td><td>691</td><td>0</td><td>07/16/2018</td><td>07/13/2018</td></tr><tr><td></td></tr><tr><td>Authorizes Bonds Funding Construction at Hospitals Providing Children's Health Care. Initiative Statute.</td><td>Qualified</td><td>05/02/2018</td><td>3% or 500 Random</td><td>365,880</td><td>10,943</td><td>500</td><td>500</td><td>394</td><td>0</td><td>06/01/2018</td><td>05/11/2018</td></tr><tr><td>Eliminates Certain Liability for Lead-Paint Manufacturers. Authorizes Bonds to Fund Structural and Environmental Remediation Projects. Initiative Statute.</td><td>Qualified</td><td>05/03/2018</td><td>3% or 500 Random</td><td>365,880</td><td>4,944</td><td>500</td><td>500</td><td>358</td><td>3</td><td>06/28/2018</td><td>05/29/2018</td></tr><tr><td>Eliminates Recently Enacted Road Repair and Transportation Funding by Repealing Revenues Dedicated for Those Purposes. . . Initiative Constitutional Amendment</td><td>Qualified</td><td>05/01/2018</td><td>3% or 500 Random</td><td>585,407</td><td>5,224</td><td>500</td><td>500</td><td>367</td><td>2</td><td>06/25/2018</td><td>05/22/2018</td></tr><tr><td>Establishes New Consumer Privacy Rights; Expands Liability For Consumer Data Breaches. Initiative Statute</td><td>Qualified</td><td>05/03/2018</td><td>3% or 500 Random</td><td>365,880</td><td>14,128</td><td>500</td><td>500</td><td>380</td><td>0</td><td>05/14/2018</td><td>05/11/2018</td></tr><tr><td>Establishes New Standards For Confinement of Certain Farm Animals; Bans Sale Of Certain Non-Complying Products. Initiative Statute</td><td>Qualified</td><td>04/30/2018</td><td>3% or 500 Random</td><td>365,880</td><td>20,832</td><td>625</td><td>625</td><td>453</td><td>0</td><td>06/22/2018</td><td>05/17/2018</td></tr><tr><td>Requires Private-Sector Emergency Ambulance Employees to Remain on Call During Work Breaks. Changes Other Conditions of Employment</td><td>Qualified</td><td>04/27/2018</td><td>3% or 500 Random</td><td>365,880</td><td>13,171</td><td>500</td><td>500</td><td>396</td><td>0</td><td>06/19/2018</td><td>05/16/2018</td></tr><tr><td>Expands Local Governments' Authority to Enact Rent Control on Residential Property. Initiative Statute.</td><td>Qualified</td><td>04/24/2018</td><td>3% or 500 Random</td><td>365,880</td><td>15,877</td><td>500</td><td>500</td><td>412</td><td>0</td><td>06/15/2018</td><td>05/16/2018</td></tr><tr><td>Division of California into Three States. Initiative Statute</td><td>Qualified</td><td>04/20/2018</td><td>3% or 500 Random</td><td>365,880</td><td>10,142</td><td>500</td><td>500</td><td>402</td><td>0</td><td>06/13/2018</td><td>05/16/2018</td></tr><tr><td>#1810 (17-0014A1) Authorizes State Regulation of Kidney Dialysis Clinics. Limits Charges for Patient Care. Initiative Statute</td><td>Qualified</td><td>04/05/2018</td><td>3% or 500 Random</td><td>365,880</td><td>17,659</td><td>530</td><td>530</td><td>450</td><td>0</td><td>05/31/2018</td><td>04/23/2018</td></tr><tr><td>Changes Requirements for Certain Property Owners to Transfer their Property Tax Base to Replacement Property. Initiative Constitutional Amendment and Statute.</td><td>Qualified</td><td>03/21/2018</td><td>3% or 500 Random</td><td>585,407</td><td>33,379</td><td>1,001</td><td>1,001</td><td>818</td><td>0</td><td>05/17/2018</td><td>04/20/2018</td></tr><tr><td>AUTHORIZES BONDS TO FUND PROJECTS FOR WATER SUPPLY AND QUALITY, WATERSHED, FISH, WILDLIFE, WATER CONVEYANCE, AND GROUNDWATER SUSTAINABILITY AND STORAGE, INITIATIVE STATUTE</td><td>Qualified</td><td>02/26/2018</td><td>3% or 500 Random</td><td>365,880</td><td>16,687</td><td>501</td><td>501</td><td>399</td><td>1</td><td>04/24/2018</td><td>03/20/2018</td></tr><tr><td>Tax on Commercial Rents to Fund Child Care and Education</td><td>Qualified</td><td>02/05/2018</td><td>3% or 500 Random</td><td>9,485</td><td>18,313</td><td>549</td><td>549</td><td>444</td><td>1</td><td>03/07/2018</td><td>02/13/2018</td></tr><tr><td>Use of Tasers by San Francisco Police Officers</td><td>Qualified</td><td>02/02/2018</td><td>3% or 500 Random</td><td>9,485</td><td>19,532</td><td>586</td><td>586</td><td>436</td><td>0</td><td>03/04/2018</td><td>02/09/2019</td></tr><tr><td>Parcel Tax For San Francisco Unified School District</td><td>Qualified</td><td>01/31/2018</td><td>3% or 500 Random</td><td>9,485</td><td>16,661</td><td>500</td><td>500</td><td>414</td><td>0</td><td>03/02/2018</td><td>02/07/2018</td></tr><tr><td>No Eviction Without Representation Act</td><td>Qualified</td><td>01/26/2018</td><td>3% or 500 Random</td><td>9,485</td><td>21,927</td><td>658</td><td>658</td><td>530</td><td>0</td><td>02/25/2018</td><td>02/05/2018</td></tr><tr><td>Increases Size of Legislature and Changes Legislative Process.Initiative Constitutional Amendment.</td><td>Failed to Qualify</td><td>10/25/2017</td><td>Full Check</td><td>585,407</td><td>27,933</td><td>27,933</td><td>27,933</td><td>19,316</td><td>742</td><td>11/17/2017</td><td>02/05/2018</td></tr><tr><td>Relocation of Professional Sports Teams</td><td>Qualified</td><td>10/18/2017</td><td>3% or 500 Random</td><td>9,485</td><td>14,767</td><td>500</td><td>500</td><td>354</td><td>0</td><td>10/26/2017</td><td>10/26/2017</td></tr><tr><td>Referendum Against the City and County of San Francisco's Ordinance  Prohibiting the Sale of Flavored Tobacco Products, Including Menthol Cigarettes</td><td>Qualified</td><td>07/31/2017</td><td>3% or 500 Random</td><td>19,040</td><td>33,941</td><td>1,018</td><td>1,018</td><td>789</td><td>0</td><td>08/07/2017</td><td>08/04/2017</td></tr><tr><td>Competitive Bidding for Affordable Housing Projects on City-Owned Property</td><td>Qualified</td><td>07/11/2016</td><td>3% or 500 Random</td><td>9,485</td><td>14,183</td><td>500</td><td>500</td><td>379</td><td>0</td><td>08/12/2016</td><td>07/19/2016</td></tr><tr><td>Affordable Housing Requirements for Market-Rate Development Projects</td><td>Qualified</td><td>07/11/2016</td><td>3% or 500 Random</td><td>9,485</td><td>14,563</td><td>500</td><td>500</td><td>379</td><td>0</td><td>08/12/2016</td><td>07/19/2016</td></tr><tr><td>Allocation of Hotel Tax Funds</td><td>Qualified</td><td>07/11/2016</td><td>3% or 500 Random</td><td>9,485</td><td>15,589</td><td>500</td><td>500</td><td>392</td><td>0</td><td>08/10/2016</td><td>07/19/2016</td></tr><tr><td>Office Development in Candlestick Point and Hunters Point</td><td>Qualified</td><td>07/08/2016</td><td>3% or 500 Random</td><td>9,485</td><td>17,757</td><td>533</td><td>533</td><td>422</td><td>2</td><td>08/12/2016</td><td>07/15/2016</td></tr><tr><td>Criminal Sentences. Juvenile Criminal. Proceedings and Sentencing. Initiative Const. Amend. and Statute</td><td>Qualified</td><td>05/23/2016</td><td>3% or 500 Random</td><td>585,407</td><td>19,255</td><td>578</td><td>578</td><td>448</td><td>0</td><td>07/12/2016</td><td>06/16/2016</td></tr><tr><td>Cigarette Tax to Fund Healthcare, Tobacco Use Prevention, Research and Law Enforcement. Initiative Const. Amendment.</td><td>Qualified</td><td>05/20/2016</td><td>3% or 500 Random</td><td>585,407</td><td>18,463</td><td>554</td><td>554</td><td>415</td><td>0</td><td>07/11/2016</td><td>06/16/2016</td></tr><tr><td>Carry-out Bags. Charges. Initiative Statute.</td><td>Qualified</td><td>05/19/2016</td><td>3% or 500 Random</td><td>365,880</td><td>9,309</td><td>500</td><td>500</td><td>390</td><td>2</td><td>07/11/2016</td><td>06/16/2016</td></tr><tr><td>Death Penalty. Procedures. Initiative Statute</td><td>Qualified</td><td>05/19/2016</td><td>3% or 500 Random</td><td>365,880</td><td>4,924</td><td>500</td><td>500</td><td>366</td><td>1</td><td>07/11/2016</td><td>06/16/2016</td></tr><tr><td>Tax Extension to Fund Education and Healthcare. Initiative Constitutional Amendment.</td><td>Qualified</td><td>05/18/2016</td><td>3% or 500 Random</td><td>585,407</td><td>19,789</td><td>594</td><td>594</td><td>449</td><td>3</td><td>07/08/2016</td><td>06/16/2016</td></tr><tr><td>Hospitals. Executive Compensation. Initiative Statute</td><td>Failed to Qualify</td><td>05/16/2016</td><td>3% or 500 Random</td><td>365,880</td><td>10,161</td><td>500</td><td>500</td><td>392</td><td>0</td><td>07/06/2016</td><td>06/06/2016</td></tr><tr><td>Marijuana Legalization. Initiative Statute</td><td>Qualified</td><td>05/04/2016</td><td>3% or 500 Random</td><td>365,880</td><td>11,044</td><td>500</td><td>500</td><td>373</td><td>0</td><td>06/30/2016</td><td>06/06/2016</td></tr><tr><td>Legislature. Legislation and Proceedings. Initiative Const. Amendment and Statute.</td><td>Qualified</td><td>05/13/2016</td><td>3% or 500 Random</td><td>585,407</td><td>14,866</td><td>500</td><td>500</td><td>409</td><td>1</td><td>06/30/2016</td><td>06/06/2016</td></tr><tr><td>Firearms. Ammunition Sales. Initiative Statute</td><td>Qualified</td><td>05/05/2016</td><td>3% or 500 Random</td><td>365,880</td><td>11,656</td><td>500</td><td>500</td><td>402</td><td>1</td><td>06/27/2016</td><td>06/06/2016</td></tr><tr><td>Death Penalty. Initiative Statute.Repeals death penalty</td><td>Qualified</td><td>04/28/2016</td><td>3% or 500 Random</td><td>365,880</td><td>13,996</td><td>500</td><td>500</td><td>407</td><td>1</td><td>06/06/2016</td><td>05/18/2016</td></tr><tr><td>Minimum wage. Increases and future adjustments. Initiative statute.</td><td>Qualified</td><td>01/19/2016</td><td>3% or 500 Random</td><td>365,880</td><td>13,949</td><td>500</td><td>500</td><td>424</td><td>1</td><td>02/11/2016</td><td>02/09/2016</td></tr><tr><td>State Prescription Drug Purchases. Pricing Standards. Initiative Statute</td><td>Qualified</td><td>10/30/2015</td><td>3% or 500 Random</td><td>365,880</td><td>17,250</td><td>518</td><td>518</td><td>399</td><td>0</td><td>11/20/2015</td><td>11/19/2015</td></tr><tr><td>Adult Films. Condoms. Health Requirements. Initiative Statute</td><td>Qualified</td><td>09/11/2015</td><td>3% or 500 Random</td><td>365,880</td><td>14,489</td><td>500</td><td>500</td><td>390</td><td>0</td><td>11/04/2015</td><td>10/20/2015</td></tr><tr><td>Revenue Bonds. Statewide Voter Approval. Initiative Constitutional Amendment</td><td>Qualified</td><td>09/08/2015</td><td>3% or 500 Random</td><td>585,407</td><td>24,391</td><td>732</td><td>732</td><td>578</td><td>1</td><td>09/28/2015</td><td>09/25/2015</td></tr><tr><td>School Bonds. Funding For K-12 School And Community College Facilities. Initiative Statutory Amendment.</td><td>Qualified</td><td>08/03/2015</td><td>3% or 500 Random</td><td>365,880</td><td>26,886</td><td>807</td><td>807</td><td>642</td><td>1</td><td>09/28/2015</td><td>08/18/2015</td></tr><tr><td>Mission District Housing Moratorium</td><td>Qualified</td><td>07/06/2015</td><td>3% or 500 Random</td><td>9,711</td><td>15,006</td><td>500</td><td>500</td><td>363</td><td>0</td><td>08/04/2015</td><td>07/14/2015</td></tr><tr><td>Disclosures Regarding Renewable Energy</td><td>Qualified</td><td>07/06/2015</td><td>Full Check</td><td>9,711</td><td>17,623</td><td>17,623</td><td>17,623</td><td>12,252</td><td>128</td><td>08/04/2015</td><td>07/22/2015</td></tr><tr><td>Short-Term Residential Rentals</td><td>Qualified</td><td>07/06/2015</td><td>3% or 500 Random</td><td>9,711</td><td>15,934</td><td>500</td><td>500</td><td>407</td><td>0</td><td>08/04/2015</td><td>07/13/2015</td></tr><tr><td>Requirements for Public Meetings of Local Policy Bodies</td><td>Qualified</td><td>07/01/2015</td><td>3% or 500 Random</td><td>9,711</td><td>16,653</td><td>500</td><td>500</td><td>381</td><td>1</td><td>07/30/2015</td><td>07/09/2015</td></tr><tr><td>Mission Rock Affordable Housing, Parks, Jobs and Historic Preservation Initiative</td><td>Qualified</td><td>06/30/2015</td><td>3% or 500 Random</td><td>9,711</td><td>16,524</td><td>500</td><td>500</td><td>401</td><td>0</td><td>07/29/2015</td><td>07/09/2015</td></tr><tr><td>Referendum to Overturn Ban on Single-Use Plastic Bags</td><td>Qualified</td><td>12/29/2014</td><td>3% or 500 Random</td><td>504,760</td><td>7,456</td><td>500</td><td>500</td><td>368</td><td>0</td><td>02/25/2015</td><td>01/20/2015</td></tr><tr><td>Division of California into Six States</td><td>Failed to Qualify</td><td>07/18/2014</td><td>3% or 500 Random</td><td>807,615</td><td>20,397</td><td>612</td><td>612</td><td>451</td><td>0</td><td>09/12/2014</td><td>08/07/2014</td></tr><tr><td>Requiring Certain Athletic Fields in Golden Gate Park to be Maintained as Natural Grass</td><td>Qualified</td><td>07/07/2014</td><td>3% or 500 Random</td><td>9,702</td><td>12,499</td><td>500</td><td>500</td><td>455</td><td>0</td><td>08/06/2014</td><td>07/21/2014</td></tr><tr><td>Pier 70 Development Site Height Limit Increase</td><td>Qualified</td><td>07/07/2014</td><td>3% or 500 Random</td><td>9,702</td><td>15,281</td><td>500</td><td>500</td><td>380</td><td>0</td><td>08/06/2014</td><td>07/15/2014</td></tr><tr><td>Policy Regarding Transportation Priorities (Restoring Transportation Balance)</td><td>Qualified</td><td>07/07/2014</td><td>3% or 500 Random</td><td>9,702</td><td>17,593</td><td>528</td><td>528</td><td>380</td><td>0</td><td>08/06/2014</td><td>07/11/2014</td></tr><tr><td>In-Home Supportive Services. Wages and Mandatory Training</td><td>Failed to Qualify</td><td>05/08/2014</td><td>3% or 500 Random</td><td>504,760</td><td>53,216</td><td>1,596</td><td>1,596</td><td>802</td><td>10</td><td>07/10/2014</td><td>06/10/2014</td></tr><tr><td>Criminal Sentences. Misdemeanor Penalties. Initiative Statute.</td><td>Qualified</td><td>05/05/2014</td><td>3% or 500 Random</td><td>504,760</td><td>11,367</td><td>500</td><td>500</td><td>363</td><td>0</td><td>06/26/2014</td><td>05/21/2014</td></tr><tr><td>State Fees on Hospitals. Federal Medi-Cal Matching Funds. Initiative Statutory and Constitutional Amendment</td><td>Qualified</td><td>05/01/2014</td><td>Full Check</td><td>807,615</td><td>24,030</td><td>24,030</td><td>24,030</td><td>15,418</td><td>2,522</td><td>08/01/2014</td><td>07/28/2014</td></tr><tr><td>DRUG & ALCOHOL TESTING OF DOCTORS, MEDICAL NEGL. LAWSUITS. INITIATIVE STATUTE.</td><td>Qualified</td><td>03/21/2014</td><td>3% or 500 Random</td><td>504</td><td>17,180</td><td>515</td><td>515</td><td>379</td><td>1</td><td>05/15/2014</td><td>04/09/2014</td></tr><tr><td>Voter Approval for Waterfront Development Height Increase</td><td>Qualified</td><td>02/03/2014</td><td>3% or 500 Random</td><td>9,702</td><td>21,045</td><td>631</td><td>631</td><td>481</td><td>1</td><td>03/04/2014</td><td>02/06/2014</td></tr><tr><td>Referendum to overturn non-discrimination requirements for school programs and activities</td><td>Failed to Qualify</td><td>11/08/2013</td><td>Full Check</td><td>504,760</td><td>4,968</td><td>4,968</td><td>4,968</td><td>3,475</td><td>62</td><td>02/24/2014</td><td>01/21/2014</td></tr><tr><td>Referendum to overturn indian gaming compacts</td><td>Qualified</td><td>10/01/2013</td><td>3% or 500 Random</td><td>504,760</td><td>12,478</td><td>500</td><td>500</td><td>372</td><td>1</td><td>11/25/2013</td><td>10/16/2013</td></tr><tr><td>8 Washington Street Special Use District Initiative</td><td>Qualified</td><td>07/08/2013</td><td>3% or 500 Random</td><td>9,702</td><td>26,539</td><td>796</td><td>796</td><td>600</td><td>0</td><td>08/06/2013</td><td>07/12/2013</td></tr><tr><td>Prescription Drug Purchasing</td><td>Qualified</td><td>02/14/2013</td><td>3% or 500 Random</td><td>9,702</td><td>17,868</td><td>536</td><td>536</td><td>431</td><td>0</td><td>03/15/2013</td><td>02/22/2013</td></tr><tr><td>Referendum Against Ordinance</td><td>Qualified</td><td>07/19/2012</td><td>3% or 500 Random</td><td>19,405</td><td>31,297</td><td>939</td><td>939</td><td>688</td><td>0</td><td>08/18/2011</td><td>07/29/2011</td></tr><tr><td>Water Environment and Plan</td><td>Qualified</td><td>07/09/2012</td><td>3% or 500 Random</td><td>9,702</td><td>15,837</td><td>500</td><td>500</td><td>387</td><td>0</td><td>03/04/2014</td><td>02/06/2014</td></tr><tr><td>Approval of healthcare insurance rate changes.  Initiative Statute.</td><td>Qualified</td><td>05/21/2012</td><td>Full Check</td><td>504,760</td><td>21,057</td><td>21,057</td><td>21,057</td><td>14,027</td><td>1,884</td><td>07/13/2012</td><td>06/04/2012</td></tr><tr><td>Temporary taxes to fund education.  Guaranteed local public safety funding.  Initiative constitutional amendment.</td><td>Qualified</td><td>05/11/2012</td><td>3% or 500 Random</td><td>807,615</td><td>37,544</td><td>1,126</td><td>1,126</td><td>793</td><td>1</td><td>07/06/2012</td><td>05/30/2012</td></tr><tr><td>State Budget.  State and Local Governament.  Initative Constitutional Amendment and Statute.</td><td>Qualified</td><td>05/07/2012</td><td>3% or 500 Random</td><td>807,615</td><td>21,235</td><td>637</td><td>637</td><td>427</td><td>3</td><td>07/02/2012</td><td>05/30/2012</td></tr><tr><td>Tax Treatment for multistate businesses.  Clean energy & energy efficiency funding.</td><td>Qualified</td><td>01/12/2012</td><td>3% or 500 Random</td><td>504,706</td><td>23,186</td><td>696</td><td>696</td><td>502</td><td>4</td><td>06/28/2012</td><td>05/25/2012</td></tr><tr><td>Tax Education & Early Childwood Programs. Initiative Statute</td><td>Qualified</td><td>02/17/2012</td><td>3% or 500 Random</td><td>504,760</td><td>20,104</td><td>603</td><td>603</td><td>399</td><td>1</td><td>06/27/2012</td><td>05/25/2012</td></tr><tr><td>Genetically Engineered Foods.  Mandatory Labeling.  Initiative Statute.</td><td>Qualified</td><td>05/02/2012</td><td>3% or 500 Random</td><td>504,760</td><td>28,493</td><td>855</td><td>855</td><td>630</td><td>6</td><td>06/25/2012</td><td>05/22/2012</td></tr><tr><td>Three Strikes Law.  Sentencing for repeat felony offenders.  Initiative Statute.</td><td>Qualified</td><td>04/23/2012</td><td>3% or 500 Random</td><td>504,760</td><td>17,401</td><td>522</td><td>522</td><td>366</td><td>3</td><td>06/15/2012</td><td>05/08/2012</td></tr><tr><td>Human Traficking Penalties Sex Offender Registration Initiative Statue</td><td>Qualified</td><td>03/29/2012</td><td>3% or 500 Random</td><td>504,760</td><td>17,007</td><td>510</td><td>510</td><td>401</td><td>1</td><td>05/22/2012</td><td>04/13/2012</td></tr><tr><td>Death Penalty Repeal. Initiative Statute</td><td>Qualified</td><td>03/01/2012</td><td>3% or 500 Random</td><td>504,760</td><td>30,033</td><td>901</td><td>901</td><td>688</td><td>3</td><td>04/23/2012</td><td>03/16/2012</td></tr><tr><td>Protect Coit Tower Initiative</td><td>Qualified</td><td>02/06/2012</td><td>3% or 500 Random</td><td>9,702</td><td>16,381</td><td>500</td><td>500</td><td>394</td><td>0</td><td>03/06/2012</td><td>04/14/2012</td></tr><tr><td>Changes law to allow auto insurance companies to set prices based on a driver's history of insurance coverage</td><td>Qualified</td><td>11/17/2011</td><td>3% or 500 Random</td><td>504,760</td><td>14,261</td><td>500</td><td>500</td><td>350</td><td>0</td><td>01/18/2012</td><td>12/09/2011</td></tr><tr><td>Redistricting.  State Senate Districts.  Referendum.</td><td>Qualified</td><td>11/13/2011</td><td>Full Check</td><td>504,760</td><td>11,210</td><td>11,210</td><td>11,210</td><td>7,703</td><td>849</td><td>02/24/2012</td><td>02/08/2012</td></tr><tr><td>Prohibits political contributions by payroll deduction.  Prohibitions on contributions to candidates. Initiative Statute</td><td>Qualified</td><td>10/11/2011</td><td>3% or 500 Random</td><td>504,760</td><td>19,988</td><td>600</td><td>600</td><td>446</td><td>5</td><td>12/06/2011</td><td>11/28/2011</td></tr><tr><td>AMERICAN ELECT</td><td>Qualified</td><td>08/23/2011</td><td>Full Check</td><td>0</td><td>56,436</td><td>56,436</td><td>56,436</td><td>34,555</td><td>3,218</td><td>01/09/2012</td><td>12/08/2011</td></tr>							</tbody>
+						</table>
+					</div>
+					<div class='col-md-12'>Last Updated:
+						02/26/2020					</div>
+				</div>
+			</div>
+			<!--end Petition-->
+		</div>
+		<!--end .tab-content-->
+
+		<footer>
+			<div class="row">
+				<div class="col-md-12">San Francisco Department of Elections City Hall 1 Dr. Carlton B. Goodlett Place, Room 48 San Francisco, CA 94102 415-554-4375 <a href="https://sfelections.sfgov.org/connect-with-us">Contact Us</a></div>
+			</div>
+		</footer>
+	</div>
+	<!-- end .container -->
+</body>
+</html>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>		<!--https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.js-->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script type="text/javascript" src="js/text_hide.js"></script>
+<!--<script src="js/bootstrap-tab.js"></script>-->
+<!--<script src="js/bootstrap-dropdown.js"></script>-->
+<script src="js/respond.min.js"></script><!--element width/height support for IE6~8-->
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript" src="js/chart.js"></script>
+
+
+<script type="text/javascript">
+	 var jData_0=[
+			{'title':'Current Registration by Political Party'},
+			{'Party':'string','Count':'number'},
+			['American Independent',8617],
+			['Democratic',304727],
+			['Green',3102],
+			['Libertarian',3108],
+			['Peace and Freedom',1538],
+			['Republican',32994],
+			['No Party Preference/Unknown',145842+4027]
+		];var jData_language=[
+			{'Language':'string','Count':'number'},
+			['English',466869],
+			['Chinese',27052],
+			['Spanish',7026],
+			['Vietnamese',958],
+			['Korean',550],
+			['Filipino',1208],
+			['Japanese',124],
+			['Thai',85],
+			['Hindi',61],
+			['Khmer',6],
+			['Russian',3],
+			['Other',13]
+		];var jData_ASSM17=[
+				{'Party':'string','Count':'number'},
+				['American Independent',4687],
+				['Democratic',184245],
+				['Green',1957],
+				['Libertarian',1813],
+				['Peace and Freedom',1051],
+				['Republican',14766],
+				['No Party Preference/Unknown',83900]
+			];var jData_ASSM19=[
+				{'Party':'string','Count':'number'},
+				['American Independent',3930],
+				['Democratic',120481],
+				['Green',1145],
+				['Libertarian',1295],
+				['Peace and Freedom',487],
+				['Republican',18228],
+				['No Party Preference/Unknown',65969]
+			];var jData_BART7=[
+				{'Party':'string','Count':'number'},
+				['American Independent',718],
+				['Democratic',23306],
+				['Green',148],
+				['Libertarian',246],
+				['Peace and Freedom',191],
+				['Republican',2085],
+				['No Party Preference/Unknown',12911]
+			];var jData_BART8=[
+				{'Party':'string','Count':'number'},
+				['American Independent',4196],
+				['Democratic',126191],
+				['Green',1148],
+				['Libertarian',1422],
+				['Peace and Freedom',533],
+				['Republican',20069],
+				['No Party Preference/Unknown',72800]
+			];var jData_BART9=[
+				{'Party':'string','Count':'number'},
+				['American Independent',3703],
+				['Democratic',155229],
+				['Green',1806],
+				['Libertarian',1440],
+				['Peace and Freedom',814],
+				['Republican',10840],
+				['No Party Preference/Unknown',64158]
+			];var jData_CONG12=[
+				{'Party':'string','Count':'number'},
+				['American Independent',7614],
+				['Democratic',272359],
+				['Green',2807],
+				['Libertarian',2805],
+				['Peace and Freedom',1344],
+				['Republican',28072],
+				['No Party Preference/Unknown',130888]
+			];var jData_CONG14=[
+				{'Party':'string','Count':'number'},
+				['American Independent',1003],
+				['Democratic',32367],
+				['Green',295],
+				['Libertarian',303],
+				['Peace and Freedom',194],
+				['Republican',4922],
+				['No Party Preference/Unknown',18981]
+			];var jData_EQUAL2=[
+				{'Party':'string','Count':'number'},
+				['American Independent',8617],
+				['Democratic',304726],
+				['Green',3102],
+				['Libertarian',3108],
+				['Peace and Freedom',1538],
+				['Republican',32994],
+				['No Party Preference/Unknown',149869]
+			];var jData_SEN11=[
+				{'Party':'string','Count':'number'},
+				['American Independent',8617],
+				['Democratic',304726],
+				['Green',3102],
+				['Libertarian',3108],
+				['Peace and Freedom',1538],
+				['Republican',32994],
+				['No Party Preference/Unknown',149869]
+			];var jData_SUPV1=[
+				{'Party':'string','Count':'number'},
+				['American Independent',724],
+				['Democratic',25364],
+				['Green',296],
+				['Libertarian',242],
+				['Peace and Freedom',97],
+				['Republican',3219],
+				['No Party Preference/Unknown',13183]
+			];var jData_SUPV2=[
+				{'Party':'string','Count':'number'},
+				['American Independent',1256],
+				['Democratic',28358],
+				['Green',136],
+				['Libertarian',446],
+				['Peace and Freedom',34],
+				['Republican',5888],
+				['No Party Preference/Unknown',13929]
+			];var jData_SUPV3=[
+				{'Party':'string','Count':'number'},
+				['American Independent',775],
+				['Democratic',21820],
+				['Green',198],
+				['Libertarian',329],
+				['Peace and Freedom',107],
+				['Republican',3016],
+				['No Party Preference/Unknown',13148]
+			];var jData_SUPV4=[
+				{'Party':'string','Count':'number'},
+				['American Independent',709],
+				['Democratic',23668],
+				['Green',279],
+				['Libertarian',236],
+				['Peace and Freedom',121],
+				['Republican',3559],
+				['No Party Preference/Unknown',15547]
+			];var jData_SUPV5=[
+				{'Party':'string','Count':'number'},
+				['American Independent',822],
+				['Democratic',35549],
+				['Green',382],
+				['Libertarian',326],
+				['Peace and Freedom',148],
+				['Republican',2038],
+				['No Party Preference/Unknown',13601]
+			];var jData_SUPV6=[
+				{'Party':'string','Count':'number'},
+				['American Independent',851],
+				['Democratic',25244],
+				['Green',258],
+				['Libertarian',393],
+				['Peace and Freedom',202],
+				['Republican',2586],
+				['No Party Preference/Unknown',14148]
+			];var jData_SUPV7=[
+				{'Party':'string','Count':'number'},
+				['American Independent',837],
+				['Democratic',27652],
+				['Green',298],
+				['Libertarian',267],
+				['Peace and Freedom',103],
+				['Republican',4643],
+				['No Party Preference/Unknown',13651]
+			];var jData_SUPV8=[
+				{'Party':'string','Count':'number'},
+				['American Independent',670],
+				['Democratic',41346],
+				['Green',449],
+				['Libertarian',283],
+				['Peace and Freedom',99],
+				['Republican',2053],
+				['No Party Preference/Unknown',13283]
+			];var jData_SUPV9=[
+				{'Party':'string','Count':'number'},
+				['American Independent',582],
+				['Democratic',28280],
+				['Green',407],
+				['Libertarian',199],
+				['Peace and Freedom',198],
+				['Republican',1700],
+				['No Party Preference/Unknown',11901]
+			];var jData_SUPV10=[
+				{'Party':'string','Count':'number'},
+				['American Independent',749],
+				['Democratic',25826],
+				['Green',202],
+				['Libertarian',206],
+				['Peace and Freedom',240],
+				['Republican',1952],
+				['No Party Preference/Unknown',13949]
+			];var jData_SUPV11=[
+				{'Party':'string','Count':'number'},
+				['American Independent',642],
+				['Democratic',21619],
+				['Green',197],
+				['Libertarian',181],
+				['Peace and Freedom',189],
+				['Republican',2340],
+				['No Party Preference/Unknown',13529]
+			];var jData_language_ASSM17=[
+				{'Language':'string','Count':'number'},
+				['English',270968],
+				['Chinese',14322],
+				['Spanish',5321],
+				['Vietnamese',574],
+				['Korean',293],
+				['Filipino',777],
+				['Japanese',66],
+				['Thai',49],
+				['Hindi',38],
+				['Khmer',3],
+				['Russian',2],
+				['Other',6]
+			];var jData_language_ASSM19=[
+				{'Language':'string','Count':'number'},
+				['English',195900],
+				['Chinese',12730],
+				['Spanish',1705],
+				['Vietnamese',384],
+				['Korean',257],
+				['Filipino',431],
+				['Japanese',58],
+				['Thai',36],
+				['Hindi',23],
+				['Khmer',3],
+				['Russian',1],
+				['Other',7]
+			];var jData_language_BART7=[
+				{'Language':'string','Count':'number'},
+				['English',36303],
+				['Chinese',2370],
+				['Spanish',689],
+				['Vietnamese',122],
+				['Korean',26],
+				['Filipino',65],
+				['Japanese',9],
+				['Thai',11],
+				['Hindi',9],
+				['Khmer',0],
+				['Russian',0],
+				['Other',1]
+			];var jData_language_BART8=[
+				{'Language':'string','Count':'number'},
+				['English',206415],
+				['Chinese',16975],
+				['Spanish',1727],
+				['Vietnamese',438],
+				['Korean',224],
+				['Filipino',451],
+				['Japanese',60],
+				['Thai',35],
+				['Hindi',20],
+				['Khmer',3],
+				['Russian',1],
+				['Other',10]
+			];var jData_language_BART9=[
+				{'Language':'string','Count':'number'},
+				['English',224150],
+				['Chinese',7707],
+				['Spanish',4610],
+				['Vietnamese',398],
+				['Korean',300],
+				['Filipino',692],
+				['Japanese',55],
+				['Thai',39],
+				['Hindi',32],
+				['Khmer',3],
+				['Russian',2],
+				['Other',2]
+			];var jData_language_CONG12=[
+				{'Language':'string','Count':'number'},
+				['English',415356],
+				['Chinese',22299],
+				['Spanish',5776],
+				['Vietnamese',832],
+				['Korean',468],
+				['Filipino',895],
+				['Japanese',111],
+				['Thai',79],
+				['Hindi',54],
+				['Khmer',4],
+				['Russian',3],
+				['Other',12]
+			];var jData_language_CONG14=[
+				{'Language':'string','Count':'number'},
+				['English',51512],
+				['Chinese',4753],
+				['Spanish',1250],
+				['Vietnamese',126],
+				['Korean',82],
+				['Filipino',313],
+				['Japanese',13],
+				['Thai',6],
+				['Hindi',7],
+				['Khmer',2],
+				['Russian',0],
+				['Other',1]
+			];var jData_language_EQUAL2=[
+				{'Language':'string','Count':'number'},
+				['English',466868],
+				['Chinese',27052],
+				['Spanish',7026],
+				['Vietnamese',958],
+				['Korean',550],
+				['Filipino',1208],
+				['Japanese',124],
+				['Thai',85],
+				['Hindi',61],
+				['Khmer',6],
+				['Russian',3],
+				['Other',13]
+			];var jData_language_SEN11=[
+				{'Language':'string','Count':'number'},
+				['English',466868],
+				['Chinese',27052],
+				['Spanish',7026],
+				['Vietnamese',958],
+				['Korean',550],
+				['Filipino',1208],
+				['Japanese',124],
+				['Thai',85],
+				['Hindi',61],
+				['Khmer',6],
+				['Russian',3],
+				['Other',13]
+			];var jData_language_SUPV1=[
+				{'Language':'string','Count':'number'},
+				['English',40248],
+				['Chinese',2511],
+				['Spanish',141],
+				['Vietnamese',103],
+				['Korean',54],
+				['Filipino',34],
+				['Japanese',17],
+				['Thai',10],
+				['Hindi',3],
+				['Khmer',0],
+				['Russian',0],
+				['Other',4]
+			];var jData_language_SUPV2=[
+				{'Language':'string','Count':'number'},
+				['English',49592],
+				['Chinese',305],
+				['Spanish',94],
+				['Vietnamese',8],
+				['Korean',16],
+				['Filipino',12],
+				['Japanese',13],
+				['Thai',1],
+				['Hindi',5],
+				['Khmer',0],
+				['Russian',0],
+				['Other',1]
+			];var jData_language_SUPV3=[
+				{'Language':'string','Count':'number'},
+				['English',34880],
+				['Chinese',4268],
+				['Spanish',152],
+				['Vietnamese',30],
+				['Korean',9],
+				['Filipino',39],
+				['Japanese',5],
+				['Thai',5],
+				['Hindi',4],
+				['Khmer',0],
+				['Russian',0],
+				['Other',1]
+			];var jData_language_SUPV4=[
+				{'Language':'string','Count':'number'},
+				['English',39112],
+				['Chinese',4576],
+				['Spanish',146],
+				['Vietnamese',127],
+				['Korean',62],
+				['Filipino',56],
+				['Japanese',16],
+				['Thai',15],
+				['Hindi',5],
+				['Khmer',1],
+				['Russian',1],
+				['Other',2]
+			];var jData_language_SUPV5=[
+				{'Language':'string','Count':'number'},
+				['English',51334],
+				['Chinese',887],
+				['Spanish',250],
+				['Vietnamese',58],
+				['Korean',251],
+				['Filipino',51],
+				['Japanese',18],
+				['Thai',7],
+				['Hindi',7],
+				['Khmer',0],
+				['Russian',1],
+				['Other',2]
+			];var jData_language_SUPV6=[
+				{'Language':'string','Count':'number'},
+				['English',40484],
+				['Chinese',2251],
+				['Spanish',412],
+				['Vietnamese',196],
+				['Korean',31],
+				['Filipino',247],
+				['Japanese',18],
+				['Thai',22],
+				['Hindi',19],
+				['Khmer',1],
+				['Russian',1],
+				['Other',0]
+			];var jData_language_SUPV7=[
+				{'Language':'string','Count':'number'},
+				['English',45178],
+				['Chinese',1736],
+				['Spanish',310],
+				['Vietnamese',53],
+				['Korean',87],
+				['Filipino',67],
+				['Japanese',11],
+				['Thai',4],
+				['Hindi',5],
+				['Khmer',0],
+				['Russian',0],
+				['Other',0]
+			];var jData_language_SUPV8=[
+				{'Language':'string','Count':'number'},
+				['English',56986],
+				['Chinese',460],
+				['Spanish',650],
+				['Vietnamese',24],
+				['Korean',8],
+				['Filipino',39],
+				['Japanese',6],
+				['Thai',5],
+				['Hindi',4],
+				['Khmer',1],
+				['Russian',0],
+				['Other',0]
+			];var jData_language_SUPV9=[
+				{'Language':'string','Count':'number'},
+				['English',39133],
+				['Chinese',1753],
+				['Spanish',2126],
+				['Vietnamese',81],
+				['Korean',3],
+				['Filipino',161],
+				['Japanese',5],
+				['Thai',3],
+				['Hindi',2],
+				['Khmer',0],
+				['Russian',0],
+				['Other',0]
+			];var jData_language_SUPV10=[
+				{'Language':'string','Count':'number'},
+				['English',38077],
+				['Chinese',3684],
+				['Spanish',1022],
+				['Vietnamese',168],
+				['Korean',20],
+				['Filipino',132],
+				['Japanese',7],
+				['Thai',8],
+				['Hindi',4],
+				['Khmer',0],
+				['Russian',0],
+				['Other',2]
+			];var jData_language_SUPV11=[
+				{'Language':'string','Count':'number'},
+				['English',31844],
+				['Chinese',4621],
+				['Spanish',1723],
+				['Vietnamese',110],
+				['Korean',9],
+				['Filipino',370],
+				['Japanese',8],
+				['Thai',5],
+				['Hindi',3],
+				['Khmer',3],
+				['Russian',0],
+				['Other',1]
+			];var jData_1=[{'Date':'date','Total Registration':'number'},[new Date(2019,10,29),498463],[new Date(2019,10,30),498460],[new Date(2019,11,01),498456],[new Date(2019,11,02),498487],[new Date(2019,11,03),498411],[new Date(2019,11,04),498565],[new Date(2019,11,05),498568],[new Date(2019,11,06),498607],[new Date(2019,11,07),498601],[new Date(2019,11,08),498599],[new Date(2019,11,09),498726],[new Date(2019,11,10),498651],[new Date(2019,11,11),498797],[new Date(2019,11,16),499061],[new Date(2019,11,17),499048],[new Date(2019,11,18),499191],[new Date(2019,11,19),499166],[new Date(2019,11,20),499262],[new Date(2019,11,21),499261],[new Date(2019,11,22),499259],[new Date(2019,11,23),499339],[new Date(2019,11,24),499380],[new Date(2019,11,25),499378],[new Date(2019,11,26),499446],[new Date(2019,11,27),499536],[new Date(2019,11,28),499531],[new Date(2019,11,29),499527],[new Date(2019,11,30),499644],[new Date(2019,11,31),499463],[new Date(2020,0,01),499457],[new Date(2020,0,02),499433],[new Date(2020,0,03),499567],[new Date(2020,0,04),499548],[new Date(2020,0,06),499864],[new Date(2020,0,07),499968],[new Date(2020,0,08),500152],[new Date(2020,0,09),500251],[new Date(2020,0,10),500410],[new Date(2020,0,11),500394],[new Date(2020,0,12),500384],[new Date(2020,0,13),500427],[new Date(2020,0,14),500436],[new Date(2020,0,15),500479],[new Date(2020,0,16),500545],[new Date(2020,0,17),500538],[new Date(2020,0,18),500528],[new Date(2020,0,20),500490],[new Date(2020,0,21),500646],[new Date(2020,0,22),500960],[new Date(2020,0,23),501299],[new Date(2020,0,24),501457],[new Date(2020,0,25),501423],[new Date(2020,0,26),501400],[new Date(2020,0,27),501701],[new Date(2020,0,28),501898],[new Date(2020,0,29),502083],[new Date(2020,0,30),502252],[new Date(2020,0,31),502400],[new Date(2020,1,01),502365],[new Date(2020,1,02),502325],[new Date(2020,1,03),502726],[new Date(2020,1,04),502971],[new Date(2020,1,05),503273],[new Date(2020,1,06),503393],[new Date(2020,1,07),503696],[new Date(2020,1,08),503656],[new Date(2020,1,09),503614],[new Date(2020,1,10),504616],[new Date(2020,1,11),504651],[new Date(2020,1,12),505034],[new Date(2020,1,13),504189],[new Date(2020,1,14),503640],[new Date(2020,1,15),503533],[new Date(2020,1,16),503465],[new Date(2020,1,17),503345],[new Date(2020,1,18),504639],[new Date(2020,1,19),504563],[new Date(2020,1,20),504558],[new Date(2020,1,21),504563],[new Date(2020,1,22),504378],[new Date(2020,1,23),504383],[new Date(2020,1,24),504288],[new Date(2020,1,25),504107],[new Date(2020,1,26),503955]];jData_5.splice(2,1);var jData_7=[
+			{'Title':'string','Count':'number'},
+			['Electronic Delivery',31454],
+			['Paper Delivery',472501]
+		];
+	//display charts on unhide elements, to work around Google API not compatiable with hide elements
+	$(function(){
+		//display charts
+		chart.initialize;
+		chart.pie('regchart_div',jData_0);
+		//document.getElementById('english_sidebar').innerHTML=sHtmlSidebarEnglish;
+		//document.getElementById('chinese_sidebar').innerHTML=sHtmlSidebarChinese;
+		//document.getElementById('spanish_sidebar').innerHTML=sHtmlSidebarSpanish;
+	});
+
+	function draw(sChart){
+		if(window[sChart]===undefined){
+			switch(sChart){
+				case 'draw_ASSM17': setTimeout("chart.pie('chart_ASSM17',jData_ASSM17)",0);break;case 'draw_reg_language_ASSM17': setTimeout("chart.pie('chart_reg_language_ASSM17',jData_language_ASSM17)",0);break;case 'draw_ASSM19': setTimeout("chart.pie('chart_ASSM19',jData_ASSM19)",0);break;case 'draw_reg_language_ASSM19': setTimeout("chart.pie('chart_reg_language_ASSM19',jData_language_ASSM19)",0);break;case 'draw_BART7': setTimeout("chart.pie('chart_BART7',jData_BART7)",0);break;case 'draw_reg_language_BART7': setTimeout("chart.pie('chart_reg_language_BART7',jData_language_BART7)",0);break;case 'draw_BART8': setTimeout("chart.pie('chart_BART8',jData_BART8)",0);break;case 'draw_reg_language_BART8': setTimeout("chart.pie('chart_reg_language_BART8',jData_language_BART8)",0);break;case 'draw_BART9': setTimeout("chart.pie('chart_BART9',jData_BART9)",0);break;case 'draw_reg_language_BART9': setTimeout("chart.pie('chart_reg_language_BART9',jData_language_BART9)",0);break;case 'draw_CONG12': setTimeout("chart.pie('chart_CONG12',jData_CONG12)",0);break;case 'draw_reg_language_CONG12': setTimeout("chart.pie('chart_reg_language_CONG12',jData_language_CONG12)",0);break;case 'draw_CONG14': setTimeout("chart.pie('chart_CONG14',jData_CONG14)",0);break;case 'draw_reg_language_CONG14': setTimeout("chart.pie('chart_reg_language_CONG14',jData_language_CONG14)",0);break;case 'draw_EQUAL2': setTimeout("chart.pie('chart_EQUAL2',jData_EQUAL2)",0);break;case 'draw_reg_language_EQUAL2': setTimeout("chart.pie('chart_reg_language_EQUAL2',jData_language_EQUAL2)",0);break;case 'draw_SEN11': setTimeout("chart.pie('chart_SEN11',jData_SEN11)",0);break;case 'draw_reg_language_SEN11': setTimeout("chart.pie('chart_reg_language_SEN11',jData_language_SEN11)",0);break;case 'draw_SUPV1': setTimeout("chart.pie('chart_SUPV1',jData_SUPV1)",0);break;case 'draw_reg_language_SUPV1': setTimeout("chart.pie('chart_reg_language_SUPV1',jData_language_SUPV1)",0);break;case 'draw_SUPV2': setTimeout("chart.pie('chart_SUPV2',jData_SUPV2)",0);break;case 'draw_reg_language_SUPV2': setTimeout("chart.pie('chart_reg_language_SUPV2',jData_language_SUPV2)",0);break;case 'draw_SUPV3': setTimeout("chart.pie('chart_SUPV3',jData_SUPV3)",0);break;case 'draw_reg_language_SUPV3': setTimeout("chart.pie('chart_reg_language_SUPV3',jData_language_SUPV3)",0);break;case 'draw_SUPV4': setTimeout("chart.pie('chart_SUPV4',jData_SUPV4)",0);break;case 'draw_reg_language_SUPV4': setTimeout("chart.pie('chart_reg_language_SUPV4',jData_language_SUPV4)",0);break;case 'draw_SUPV5': setTimeout("chart.pie('chart_SUPV5',jData_SUPV5)",0);break;case 'draw_reg_language_SUPV5': setTimeout("chart.pie('chart_reg_language_SUPV5',jData_language_SUPV5)",0);break;case 'draw_SUPV6': setTimeout("chart.pie('chart_SUPV6',jData_SUPV6)",0);break;case 'draw_reg_language_SUPV6': setTimeout("chart.pie('chart_reg_language_SUPV6',jData_language_SUPV6)",0);break;case 'draw_SUPV7': setTimeout("chart.pie('chart_SUPV7',jData_SUPV7)",0);break;case 'draw_reg_language_SUPV7': setTimeout("chart.pie('chart_reg_language_SUPV7',jData_language_SUPV7)",0);break;case 'draw_SUPV8': setTimeout("chart.pie('chart_SUPV8',jData_SUPV8)",0);break;case 'draw_reg_language_SUPV8': setTimeout("chart.pie('chart_reg_language_SUPV8',jData_language_SUPV8)",0);break;case 'draw_SUPV9': setTimeout("chart.pie('chart_SUPV9',jData_SUPV9)",0);break;case 'draw_reg_language_SUPV9': setTimeout("chart.pie('chart_reg_language_SUPV9',jData_language_SUPV9)",0);break;case 'draw_SUPV10': setTimeout("chart.pie('chart_SUPV10',jData_SUPV10)",0);break;case 'draw_reg_language_SUPV10': setTimeout("chart.pie('chart_reg_language_SUPV10',jData_language_SUPV10)",0);break;case 'draw_SUPV11': setTimeout("chart.pie('chart_SUPV11',jData_SUPV11)",0);break;case 'draw_reg_language_SUPV11': setTimeout("chart.pie('chart_reg_language_SUPV11',jData_language_SUPV11)",0);break;				case 'draw_reg_all': setTimeout("chart.pie('regchart_div',jData_0)",0);break;		//pie city wide
+				case 'draw_reg_language': setTimeout("chart.pie('chart_reg_language',jData_language)",0);break;		//pie vip option
+				case 'draw_reg_line': setTimeout("chart.line('regchart_line_div',jData_1)",0);break;		//line registration history
+				case 'draw_outreach': setTimeout("chart.bar('chart_outreach',jData_5,true)",0);break;		//bar outreach
+				case 'draw_vip': setTimeout("chart.pie('chart_vip',jData_7)",0);break;		//pie vip option
+				default:
+					alert('unexpected call');
+			}
+			window[sChart]=null;		//breadcrumb to identify this chart has been drew
+		}
+	}
+</script>
+<!-- Google Analytics --> 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-60044249-1', 'auto');
+  ga('send', 'pageview');
+</script>

@@ -1,0 +1,290 @@
+sequence	cont_external_id	cand_seq	cand_id	external_id	title	party	designation	cand_type
+030	1	010	150290	0304	MARIANNE WILLIAMSON			default
+030	1	020	150291	0305	ANDREW YANG			default
+030	1	030	150292	0306	ROQUE "ROCKY" DE LA FUENTE III			default
+030	1	040	150293	0307	JOHN K. DELANEY			default
+030	1	050	150294	0308	AMY KLOBUCHAR			default
+030	1	060	150295	0309	BERNIE SANDERS			default
+030	1	070	150296	03010	JOE SESTAK			default
+030	1	080	150297	03011	TOM STEYER			default
+030	1	090	150298	03012	DEVAL PATRICK			default
+030	1	100	150299	03013	MICHAEL BENNET			default
+030	1	110	150300	03014	MICHAEL R. BLOOMBERG			default
+030	1	120	150301	03015	MOSIE BOYD			default
+030	1	130	150302	03016	CORY BOOKER			default
+030	1	140	150303	03017	PETE BUTTIGIEG			default
+030	1	150	150304	03018	JOSEPH R. BIDEN			default
+030	1	160	150305	03019	TULSI GABBARD			default
+030	1	170	150306	03020	MARK STEWART GREENSTEIN			default
+030	1	180	150287	0301	JULIÁN CASTRO			default
+030	1	190	150288	0302	MICHAEL A. ELLINGER			default
+030	1	200	150289	0303	ELIZABETH WARREN			default
+040	2	010	150309	04023	BILL WELD			default
+040	2	020	150310	04024	ROQUE "ROCKY" DE LA FUENTE			default
+040	2	030	150311	04025	MATTHEW JOHN MATERN			default
+040	2	040	150312	04026	ZOLTAN G. ISTVAN			default
+040	2	050	150313	04027	DONALD J. TRUMP			default
+040	2	060	150307	04021	ROBERT ARDINI			default
+040	2	070	150308	04022	JOE WALSH			default
+050	3	010	150317	05031	J.R. MYERS			default
+050	3	020	150318	05032	DON BLANKENSHIP			default
+050	3	030	150314	05028	PHIL COLLINS			default
+050	3	040	150315	05029	ROQUE "ROCKY" DE LA FUENTE			default
+050	3	050	150316	05030	CHARLES KRAUT			default
+060	4	010	150322	06036	DENNIS LAMBERT			default
+060	4	020	150323	06037	SEDINAM MOYOWASIFZA-CURRY			default
+060	4	030	150319	06033	DAVID ROLDE			default
+060	4	040	150320	06034	HOWIE HAWKINS			default
+060	4	050	150321	06035	DARIO HUNTER			default
+070	5	010	150334	07048	JO JORGENSEN			default
+070	5	020	150335	07049	DAN BEHRMAN			default
+070	5	030	150336	07050	ERIK CHASE GERHARDT			default
+070	5	040	150324	07038	KEN ARMSTRONG			default
+070	5	050	150325	07039	MAX ABRAMSON			default
+070	5	060	150326	07040	SAM ROBB			default
+070	5	070	150327	07041	KIM RUFF			default
+070	5	080	150328	07042	STEVEN A RICHEY			default
+070	5	090	150329	07043	JACOB HORNBERGER			default
+070	5	100	150330	07044	SOURAYA FAAS			default
+070	5	110	150331	07045	KEENAN WALLACE DUNHAM			default
+070	5	120	150332	07046	ADAM KOKESH			default
+070	5	130	150333	07047	VERMIN SUPREME			default
+080	6	010	150338	08052	GLORIA LA RIVA			default
+080	6	020	150337	08051	HOWIE HAWKINS			default
+090	20	590	150339	090109	ALYSON L. ABRAMOWITZ		Incumbent	default
+090	20	600	150340	090110	EMILY ANN RAMOS		Research Associate	default
+090	20	610	150341	090111	STEPHEN A. CHESSIN		Software Engineer	default
+090	20	620	150342	090112	PETER Y. CHIU		Incumbent	default
+090	20	630	150343	090113	GILBERT WONG		Member of County Central Committee, 24th Assembly District	default
+090	20	640	150344	090114	MARGARET OKUZUMI		Community Volunteer	default
+090	20	650	150345	090115	JOE SIMITIAN		County Supervisor	default
+090	20	660	150346	090116	JOHANNES MUENZEL		Appointed Incumbent	default
+090	20	670	150347	090117	BILL JAMES		Incumbent	default
+090	20	680	150348	090118	PRAMEELA BARTHOLOMEUSZ		Social Impact Entrepreneur	default
+090	20	690	150349	090119	MARIAM GHAZVINI		Educator	default
+090	20	700	150350	090120	EMILY THURBER		Community Volunteer	default
+090	20	710	150351	090121	CARI TEMPLETON		Community Volunteer	default
+100	21	730	150352	100122	DIANNA ZAMORA-MARROQUIN		Nonprofit Director	default
+100	21	740	150353	100123	DAVID COHEN		Governing Board Member, Berryessa Union School District	default
+100	21	750	150354	100124	MICHELLE HUA		Student	default
+100	21	760	150355	100125	DEEPKA LALWANI		Incumbent	default
+100	21	770	150356	100126	ALEX LEE		Legislative Policy Advisor	default
+100	21	780	150357	100127	TIM OROZCO		Senior Legislative Assistant	default
+100	21	790	150358	100128	DAVID DONALDSON		Retired Salesman	default
+100	21	800	150359	100129	CHRISTOPHER R. STAMPOLIS		Incumbent	default
+100	21	810	150360	100130	CLARENCE MADRILEJOS		Appointed Incumbent	default
+100	21	820	150361	100131	ANTHONY PHAN		Councilmember/Businessman	default
+100	21	830	150362	100132	MICHAEL VARGAS		Appointed Incumbent	default
+110	22	850	150363	110133	JEAN COHEN		Union Organizer	default
+110	22	860	150364	110134	ALLIE HUGHES		Communications Director	default
+110	22	870	150365	110135	MAYA ESPARZA		City of San José Councilmember, District 7	default
+110	22	880	150366	110136	RICHARD L. WONG		Entrepreneur	default
+110	22	890	150367	110137	PETER ORTIZ		Governing Board Member, Santa Clara County Board of Education Trustee Area 6	default
+110	22	900	150368	110138	CLAUDIA SHOPE		Community Advocate	default
+110	22	910	150369	110139	DIEGO ALFREDO MARTINEZ		Legal Assistant	default
+110	22	920	150370	110140	FRANK PONCIANO REYES		Housing Community Organizer	default
+110	22	930	150371	110141	ANDRÉS QUINTERO		College Professor	default
+110	22	940	150372	110142	ROXANNE		Civil Rights Advocate	default
+110	22	950	150373	110143	CAROL GARVEY		Retired Emergency Dispatcher	default
+110	22	960	150374	110144	GINA MARIE GATES		Small Business Owner	default
+110	22	970	150375	110145	EMILIE G. GATFIELD		Incumbent	default
+110	22	980	150376	110146	OMAR TORRES		Community Relations Director	default
+120	23	1000	150377	120147	PATRICK AHRENS		Governing Board Member, Foothill-De Anza College District	default
+120	23	1010	150378	120148	ANGELICA RAMOS		Public Policy Director	default
+120	23	1020	150379	120149	HELEN CHAPMAN		Public Policy Advisor	default
+120	23	1030	150380	120150	AVA CHIAO		High School Teacher	default
+120	23	1040	150381	120151	JESSE HOEFER		Musical Instrument Salesman	default
+120	23	1050	150382	120152	HERB ENGSTROM		Retired Physicist	default
+120	23	1060	150383	120153	JUSTIN LARDINOIS		Software Engineer	default
+120	23	1070	150384	120154	SHAY FRANCO-CLAUSEN		Director, Santa Clara Valley Open Space Authority	default
+120	23	1080	150385	120155	RUBEN NAVARRO		Father/Coach/Commissioner	default
+120	23	1090	150386	120156	OLIVIA NAVARRO		Mother/Insurance Agent	default
+120	23	1100	150387	120157	HEIDI OWENS		Senior Management Analyst	default
+120	23	1110	150388	120158	PIERLUIGI OLIVERIO		Incumbent	default
+120	23	1120	150389	120159	JAMES KIM		Engineer/Parent/Artist	default
+120	23	1130	150390	120160	PAMELA SCHURE		Director/Author	default
+120	23	1140	150391	120161	JESSICA MATTHEW		Customer Experience Associate	default
+120	23	1150	150392	120162	MICHAEL MELILLO		Engineer	default
+120	23	1160	150393	120163	DAVID BINI		Nonprofit Executive Director	default
+120	23	1170	150394	120164	ADRIENNE GREY		Governing Board Member, West Valley-Mission Community College District	default
+130	24	1190	150395	130165	KARL RYAN		Pilot/Businessman	default
+130	24	1200	150396	130166	LINDA ROST		Small Business Owner	default
+130	24	1210	150397	130167	JIM RUSSELL		Retired School Principal	default
+130	24	1220	150398	130168	ROBERT PAUL HOWELL		Mechanical Equipment Manufacturer	default
+130	24	1230	150399	130169	TIMUR ENGIN		Incumbent	default
+130	24	1240	150400	130170	CHRISTINE WALDICK		Program Manager	default
+130	24	1250	150401	130171	HELEN P. WANG		Incumbent	default
+130	24	1260	150402	130172	BENSON YEUNG		Entrepreneur	default
+130	24	1270	150403	130173	MICHELE DEXTER		Businesswoman/Policy Advisor	default
+130	24	1280	150404	130174	CYNDI SHEEHAN		Realtor	default
+130	24	1290	150405	130175	STEPHANIE SHOQUIST		Non Profit Executive	default
+130	24	1300	150406	130176	DANEAN SMITH		Community Volunteer	default
+130	24	1310	150407	130177	LISA MARSHIK		Tasting Room Associate	default
+130	24	1320	150408	130178	NATHAN MALLAMACE		Technology Solutions Engineer	default
+130	24	1330	150409	130179	WENDY BRUKWINSKI		Retired Aerospace Engineer	default
+140	25	1350	150410	140180	SHANE PATRICK CONNOLLY		Chief of Staff	default
+140	25	1360	150411	140181	DAVID WESTERMAN		Retired Electronic Engineer	default
+140	25	1370	150412	140182	ENRIQUE NAVARRO-DONNELLAN		Policy Legislative Analyst	default
+140	25	1380	150413	140183	DIANE OWEN		Sales Associate	default
+140	25	1390	150414	140184	ANTHONY MACIAS		Law Student/Manager	default
+150	26	1410	150415	150185	JIM ZITO		School Trustee/Teacher	default
+150	26	1420	150416	150186	ED RIFFLE		Incumbent	default
+150	26	1430	150417	150187	KHANH HOANG		Engineer	default
+150	26	1440	150418	150188	VICKY HUEI JIUAN LAN		Small Business Owner	default
+150	26	1450	150419	150189	DAVID MAC		Incumbent	default
+150	26	1460	150420	150190	MAYVID MACLAY		Retired Teacher	default
+160	27	1480	150421	160191	PHIL REYNOLDS		Engineer	default
+160	27	1490	150422	160192	MICHAEL RODGERS		Technology Executive/Engineer	default
+160	27	1500	150423	160193	JAMES P. RINCON		Father	default
+160	27	1510	150424	160194	CARLOS RAFAEL CRUZ		Real Estate Advisor	default
+160	27	1520	150425	160195	MARY DOERING		Property Manager	default
+160	27	1530	150426	160196	CHARLIE SCHADEWITZ		Appointed Incumbent	default
+160	27	1540	150427	160197	MICHAEL L. SNYDER		Elementary School Teacher	default
+160	27	1550	150428	160198	JAN SOULE		Retired Marketing Executive	default
+160	27	1560	150429	160199	C. JEFFREY STANLEY		Bail Bondsman/Businessowner	default
+160	27	1570	150430	160200	GUY POUND		Retired Contract Manager	default
+160	27	1580	150431	160201	ROBERT VARICH		Business Owner	default
+170	28	1600	150432	170202	JOHN RUCKSTUHL		Manufacturing Electrical Engineer	default
+170	28	1610	150433	170203	ROGER RIFFENBURGH		Editor	default
+170	28	1620	150434	170204	JAYNE HAM		Business Owner	default
+170	28	1630	150435	170205	VITO A. DIMUCCI		Retired Engineer	default
+170	28	1640	150436	170206	JOYCE STANFORD		California Licensed Fiduciary	default
+170	28	1650	150437	170207	CHUCK PAGE		Small Business Owner	default
+170	28	1660	150438	170208	LUIS BUHLER		Small Business Owner	default
+180	29	010	150439	180209	DAVID JANGHO HAN		Pharmacy Store Manager	default
+180	29	020	150440	180210	NADIA NOURI		High-tech Sales Director	default
+180	29	030	150441	180211	NASSIM NOURI		Community Volunteer	default
+180	29	040	150442	180212	TANYA KHALEDI		Operations Manager	default
+180	29	050	150443	180213	GEORGE MARCUSSEN		Retired Financial Analyst	default
+180	29	060	150444	180214	MICHELE MASHBURN		Nonprofit Director	default
+180	29	070	150445	180215	CHRISTINE PEPIN		Telecommunications Engineer	default
+180	29	080	150446	180216	BRIAN C. GOOD		Retired Litigation Analyst	default
+260	7	1770	150447	26053	STEPHEN FORBES	Democratic	Business Analyst	default
+260	7	1780	150448	26054	JOE DEHN	Libertarian	Square Dance Caller	default
+260	7	1790	150449	26055	RO KHANNA	Democratic	United States Congressman	default
+260	7	1800	150450	26056	RITESH TANDON	Republican	Independent Small Businessman	default
+270	8	1820	150451	27057	PHIL REYNOLDS	Republican	Engineer/Father/Businessman	default
+270	8	1830	150452	27058	ANNA G. ESHOO	Democratic	Member of Congress	default
+270	8	1840	150453	27059	RICHARD B. FOX	Republican	Physician/Attorney	default
+270	8	1850	150454	27060	RISHI KUMAR	Democratic	Councilmember/Hi-Tech Executive	default
+270	8	1860	150455	27061	BOB GOODWYN	Libertarian	Pilot	default
+280	9	1880	150456	28062	JUSTIN JAMES AGUILERA	Republican	Businessman	default
+280	9	1890	150457	28063	IGNACIO CRUZ	Republican	Economic Development Director	default
+280	9	1900	150458	28064	ZOE LOFGREN	Democratic	Congresswoman	default
+280	9	1910	150459	28065	JASON MALLORY	None		default
+280	9	1920	150460	28066	IVAN TORRES	Democratic	Healthcare Worker	default
+290	10	1940	150461	29067	ADAM BOLAÑOS SCOW	Democratic	Environmental Advocate	default
+290	10	1950	150462	29068	JIMMY PANETTA	Democratic	United States Representative	default
+290	10	1960	150463	29069	JEFF GORMAN	Republican	Small Business Owner	default
+300	11	1980	150464	30070	SALLY J. LIEBER	Democratic	Environmental Advocate	default
+300	11	1990	150465	30071	MIKE BROWNRIGG	Democratic	Burlingame City Councilmember	default
+300	11	2000	150466	30072	JOSH BECKER	Democratic	Educator/Non-Profit Director	default
+300	11	2010	150467	30073	JOHN H. WEBSTER	Libertarian	Software Engineer	default
+300	11	2020	150468	30074	ANNIE OLIVA	Democratic	Housing Advocate/Councilwoman	default
+300	11	2030	150469	30075	SHELLY MASUR	Democratic	Redwood City Vice Mayor	default
+300	11	2040	150470	30076	ALEXANDER GLEW	Republican	Engineer/Business Owner	default
+310	12	2060	150471	31077	ANN M. RAVEL	Democratic	Public Interest Attorney	default
+310	12	2070	150472	31078	NORA CAMPOS	Democratic	Public Policy Advocate	default
+310	12	2080	150473	31079	DAVE CORTESE	Democratic	County Supervisor, Santa Clara County Board of Supervisors	default
+310	12	2090	150474	31080	ROBERT HOWELL	Republican	Mechanical Equipment Manufacturer	default
+310	12	2100	150475	31081	KEN DEL VALLE	Republican	Army Staff Sergeant	default
+310	12	2110	150476	31082	JOHNNY KHAMIS	None	Small Businessman/Councilmember	default
+310	12	2120	150477	31083	TIM GILDERSLEEVE	None	Paratransit Operator	default
+320	13	2140	150478	32084	JOHN LAIRD	Democratic	Natural Resources Secretary	default
+320	13	2150	150479	32085	JOHN M. NEVILL	Democratic	Rancher/Respiratory Therapist	default
+320	13	2160	150480	32086	VICKI NOHRDEN	Republican	Businesswoman	default
+320	13	2170	150481	32087	MARIA CADENAS	Democratic	Nonprofit Executive Director	default
+330	14	2190	150482	33088	MARC BERMAN	Democratic	State Assemblymember	default
+330	14	2200	150483	33089	KENNITA WATSON	Libertarian	Retired Software Professional	default
+330	14	2210	150484	33090	PETER OHTAKI	Republican	Financial Management VP	default
+340	15	2230	150485	34091	ALEX LEE	Democratic	Legislative Policy Advisor	default
+340	15	2240	150486	34092	ROMAN REED	Democratic	Stem Cell Researcher	default
+340	15	2250	150487	34093	BOB BRUNTON	Republican	Businessman/Electronic Manufacturer	default
+340	15	2260	150488	34094	ANTHONY PHAN	Democratic	City Councilmember/Businessman	default
+340	15	2270	150489	34095	ANNE KEPNER	Democratic	College Trustee/Attorney	default
+340	15	2280	150490	34096	CARMEN MONTANO	Democratic	Teacher/Business Owner	default
+340	15	2290	150491	34097	NATASHA GUPTA	Democratic	Technology Manager	default
+340	15	2300	150492	34098	ANNA E. SONG	Democratic	Governing Board Member, Santa Clara County Board of Education	default
+340	15	2310	150493	34099	JIM CANOVA	Democratic	Governing Board Member, Santa Clara Unified School District	default
+350	16	2330	150494	350100	G. BURT LANCASTER	Republican	Business Consultant	default
+350	16	2340	150495	350101	ASH KALRA	Democratic	Assemblymember	default
+360	17	2360	150496	360102	SAM ROSS	None	Student/Entertainment Creator	default
+360	17	2370	150497	360103	CARLOS RAFAEL CRUZ	Republican	Real Estate Advisor	default
+360	17	2380	150498	360104	EVAN LOW	Democratic	Assemblymember	default
+370	18	2400	150499	370105	SHOMIR BANERJEE	Republican	Physician/Engineer	default
+370	18	2410	150500	370106	MARK STONE	Democratic	Assemblymember	default
+380	19	2430	150501	380107	ROBERT RIVAS	Democratic	State Assemblymember	default
+380	19	2440	150502	380108	GREGORY SWETT	Republican	Walnut Grower/Trustee	default
+400	30	2460	150503	400217	LUIS RAMOS		Deputy District Attorney	default
+410	31	2480	150504	410218	CHRISTINE GARCIA-SEN		Deputy District Attorney	default
+420	32	2500	150505	420219	MINH NGO		Parent/Investment Director	default
+420	32	2510	150506	420220	LING KONG		Engineer/Technical Lead	default
+420	32	2520	150507	420221	VANCE VUONG		Business Manager	default
+430	33	2540	150508	430222	CINDY CHÁVEZ		County Supervisor/Mother	default
+430	33	2550	150509	430223	JENNIFER M. CELAYA		Health Service Representative	default
+430	33	2560	150510	430224	ANTHONY MACIAS		Law Student/Manager	default
+440	34	2580	150511	440225	MAGDALENA CARRASCO		San José Councilmember/Mother	default
+440	34	2590	150512	440226	KANSEN CHU		State Assemblymember	default
+440	34	2600	150513	440227	OTTO LEE		Small Business Owner	default
+440	34	2610	150514	440228	JOHN LEYBA		Budget Manager/Father	default
+450	35	2630	150515	450229	JOE SIMITIAN		County Supervisor	default
+460	36	2650	150516	460230	JONATHAN FLEMING		Engineer/Business Owner	default
+460	36	2660	150517	460231	SERGIO JIMENEZ		Member, City of San José City Council, District 2	default
+470	37	2680	150518	470232	DAVID COHEN		Governing Board Member, Berryessa Union School District	default
+470	37	2690	150519	470233	LAN DIEP		City Councilmember	default
+470	37	2700	150520	470234	JAMAL KHAN		Attorney	default
+470	37	2710	150521	470235	HUY TRAN		Worker's Rights Attorney	default
+480	38	2730	150522	480236	MARSHALL WOODMANSEE		Community Volunteer	default
+480	38	2740	150523	480237	RUBEN NAVARRO		Father/Coach/Commissioner	default
+480	38	2750	150524	480238	DEVORA "DEV" DAVIS		Councilwoman/Mother	default
+480	38	2760	150525	480239	JAKE TONKEL		Senior Biomedical Engineer	default
+490	39	2780	150526	490240	SYLVIA ARENAS		City Councilmember/Parent	default
+490	39	2790	150527	490241	JIM ZITO		Board Trustee/Teacher	default
+500	40	2810	150528	500242	HELEN P. WANG		Retired Businessperson	default
+500	40	2820	150529	500243	MATT MAHAN		Businessperson	default
+500	40	2830	150530	500244	JENNY HIGGINS BRADANINI		Director of Development	default
+510	41	2850	150531	510245	♦ PAT NIKOLAI		Police Lieutenant	default
+520	42	2870	150532	520246	YES			default
+520	42	2880	150533	520247	NO			default
+530	43	2870	150532	530246	YES			default
+530	43	2880	150533	530247	NO			default
+540	44	2870	150532	540246	YES			default
+540	44	2880	150533	540247	NO			default
+550	45	2870	150532	550246	YES			default
+550	45	2880	150533	550247	NO			default
+560	46	2870	150532	560246	YES			default
+560	46	2880	150533	560247	NO			default
+570	47	2870	150532	570246	YES			default
+570	47	2880	150533	570247	NO			default
+580	48	2990	150534	580258	BONDS—YES			default
+580	48	3000	150535	580259	BONDS—NO			default
+590	49	2870	150532	590246	YES			default
+590	49	2880	150533	590247	NO			default
+600	50	2990	150534	600258	BONDS—YES			default
+600	50	3000	150535	600259	BONDS—NO			default
+610	51	2990	150534	610258	BONDS—YES			default
+610	51	3000	150535	610259	BONDS—NO			default
+620	52	2870	150532	620246	YES			default
+620	52	2880	150533	620247	NO			default
+630	53	2990	150534	630258	BONDS—YES			default
+630	53	3000	150535	630259	BONDS—NO			default
+640	54	2990	150534	640258	BONDS—YES			default
+640	54	3000	150535	640259	BONDS—NO			default
+650	55	2990	150534	650258	BONDS—YES			default
+650	55	3000	150535	650259	BONDS—NO			default
+660	56	2870	150532	660246	YES			default
+660	56	2880	150533	660247	NO			default
+670	57	2870	150532	670246	YES			default
+670	57	2880	150533	670247	NO			default
+680	58	2870	150532	680246	YES			default
+680	58	2880	150533	680247	NO			default
+690	59	2990	150534	690258	BONDS—YES			default
+690	59	3000	150535	690259	BONDS—NO			default
+700	60	2870	150532	700246	YES			default
+700	60	2880	150533	700247	NO			default
+710	61	2990	150534	710258	BONDS—YES			default
+710	61	3000	150535	710259	BONDS—NO			default
+720	62	2990	150534	720258	BONDS—YES			default
+720	62	3000	150535	720259	BONDS—NO			default
+730	63	2990	150534	730258	BONDS—YES			default
+730	63	3000	150535	730259	BONDS—NO			default
