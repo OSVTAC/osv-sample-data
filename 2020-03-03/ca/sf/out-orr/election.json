@@ -2412,6 +2412,15 @@
                             "tl": "Miyembro ng Asembleya",
                             "zh": "州眾議員"
                         }
+                    },
+                    {
+                        "_id": "X01402",
+                        "_id_ext": "WIX01402",
+                        "ballot_title": {
+                            "en": "Starchild"
+                        },
+                        "is_writein": true,
+                        "sequence": 2
                     }
                 ],
                 "writeins_allowed": 1,
