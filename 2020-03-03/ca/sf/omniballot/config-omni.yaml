@@ -33,6 +33,24 @@ approval_required:
     '55%':
         - A
 
+runoff:
+    2020-11-03:
+        top_2:
+            - GOVERNOR
+            - SECRETARY OF STATE
+            - CONTROLLER
+            - TREASURER
+            - ATTORNEY GENERAL
+            - INSURANCE COMMISSIONER
+            - BOARD OF EQUALIZATION
+            - SENATE
+            - ASSEMBLY
+            - STATE SENATOR
+            - UNITED STATES REPRESENTATIVE
+            - SUPERINTENDENT OF PUBLIC INSTRUCTION
+        non_majority:
+            - JUDGE OF THE SUPERIOR COURT
+
 # Short descriptions (for proposition/measures) by contest name
 short_description:
     Proposition 13: School Repair Bond
