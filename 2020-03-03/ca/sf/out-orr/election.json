@@ -7,7 +7,12 @@
             "tl": "Lungsod at County ng San Francisco",
             "zh": "舊金山市"
         },
-        "ballot_title": "Consolidated Presidential Primary Election -",
+        "ballot_title": {
+	       "en": "Consolidated Presidential Primary Election -",
+	       "es": "",
+	       "tl": "",
+	       "zh": ""
+	},
         "headers": [
             {
                 "_id": "001",
