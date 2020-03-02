@@ -1,4 +1,4 @@
-area_id	subtotal_type	RSReg	RSCst	RSRej	RSOvr	RSUnd	RSTot	X01901:YES	X01902:NO
+area_id	subtotal_type	RSReg	RSCst	RSRej	RSOvr	RSUnd	RSTot	9:YES	10:NO
 ALLPCTS	TO	0	0	0	0	0	0	0	0
 ALLPCTS	ED	0	0	0	0	0	0	0	0
 ALLPCTS	MV	0	0	0	0	0	0	0	0

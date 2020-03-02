@@ -7,4 +7,5 @@ sha512sum * >sha512sum.txt
 sha256sum -b * >sha256sum.txt
 zip ../resultdata-raw.zip *
 cd ..
-checksfsha.py
+# SF no longer includes sha in the download
+#checksfsha.py

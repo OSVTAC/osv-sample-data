@@ -7,7 +7,11 @@
             "tl": "Lungsod at County ng San Francisco",
             "zh": "舊金山市"
         },
-        "ballot_title": "Consolidated Presidential Primary Election -",
+        "ballot_title": {
+            "en": "Consolidated Presidential Primary Election",
+            "es": "",
+            "tl": ""
+        },
         "headers": [
             {
                 "_id": "001",
@@ -206,7 +210,7 @@
         ],
         "contests": [
             {
-                "_id": "X001",
+                "_id": "7",
                 "_id_ext": "7",
                 "_type": "office",
                 "header_id": "008",
@@ -237,7 +241,7 @@
                 "number_elected": 1,
                 "choices": [
                     {
-                        "_id": "X00101",
+                        "_id": "13",
                         "_id_ext": "01013",
                         "ballot_title": {
                             "en": "JULIÁN CASTRO"
@@ -245,7 +249,7 @@
                         "sequence": "01"
                     },
                     {
-                        "_id": "X00102",
+                        "_id": "14",
                         "_id_ext": "01014",
                         "ballot_title": {
                             "en": "MICHAEL A. ELLINGER"
@@ -253,7 +257,7 @@
                         "sequence": "02"
                     },
                     {
-                        "_id": "X00103",
+                        "_id": "15",
                         "_id_ext": "01015",
                         "ballot_title": {
                             "en": "ELIZABETH WARREN"
@@ -261,7 +265,7 @@
                         "sequence": "03"
                     },
                     {
-                        "_id": "X00104",
+                        "_id": "16",
                         "_id_ext": "01016",
                         "ballot_title": {
                             "en": "MARIANNE WILLIAMSON"
@@ -269,7 +273,7 @@
                         "sequence": "04"
                     },
                     {
-                        "_id": "X00105",
+                        "_id": "17",
                         "_id_ext": "01017",
                         "ballot_title": {
                             "en": "ANDREW YANG"
@@ -277,7 +281,7 @@
                         "sequence": "05"
                     },
                     {
-                        "_id": "X00106",
+                        "_id": "18",
                         "_id_ext": "01018",
                         "ballot_title": {
                             "en": "ROQUE \"ROCKY\" DE LA FUENTE III"
@@ -285,7 +289,7 @@
                         "sequence": "06"
                     },
                     {
-                        "_id": "X00107",
+                        "_id": "19",
                         "_id_ext": "01019",
                         "ballot_title": {
                             "en": "JOHN K. DELANEY"
@@ -293,7 +297,7 @@
                         "sequence": "07"
                     },
                     {
-                        "_id": "X00108",
+                        "_id": "20",
                         "_id_ext": "01020",
                         "ballot_title": {
                             "en": "AMY KLOBUCHAR"
@@ -301,7 +305,7 @@
                         "sequence": "08"
                     },
                     {
-                        "_id": "X00109",
+                        "_id": "21",
                         "_id_ext": "01021",
                         "ballot_title": {
                             "en": "BERNIE SANDERS"
@@ -309,7 +313,7 @@
                         "sequence": "09"
                     },
                     {
-                        "_id": "X00110",
+                        "_id": "22",
                         "_id_ext": "01022",
                         "ballot_title": {
                             "en": "JOE SESTAK"
@@ -317,7 +321,7 @@
                         "sequence": "10"
                     },
                     {
-                        "_id": "X00111",
+                        "_id": "23",
                         "_id_ext": "01023",
                         "ballot_title": {
                             "en": "TOM STEYER"
@@ -325,7 +329,7 @@
                         "sequence": "11"
                     },
                     {
-                        "_id": "X00112",
+                        "_id": "24",
                         "_id_ext": "01024",
                         "ballot_title": {
                             "en": "DEVAL PATRICK"
@@ -333,7 +337,7 @@
                         "sequence": "12"
                     },
                     {
-                        "_id": "X00113",
+                        "_id": "25",
                         "_id_ext": "01025",
                         "ballot_title": {
                             "en": "MICHAEL BENNET"
@@ -341,7 +345,7 @@
                         "sequence": "13"
                     },
                     {
-                        "_id": "X00114",
+                        "_id": "26",
                         "_id_ext": "01026",
                         "ballot_title": {
                             "en": "MICHAEL R. BLOOMBERG"
@@ -349,7 +353,7 @@
                         "sequence": "14"
                     },
                     {
-                        "_id": "X00115",
+                        "_id": "27",
                         "_id_ext": "01027",
                         "ballot_title": {
                             "en": "MOSIE BOYD"
@@ -357,7 +361,7 @@
                         "sequence": "15"
                     },
                     {
-                        "_id": "X00116",
+                        "_id": "28",
                         "_id_ext": "01028",
                         "ballot_title": {
                             "en": "CORY BOOKER"
@@ -365,7 +369,7 @@
                         "sequence": "16"
                     },
                     {
-                        "_id": "X00117",
+                        "_id": "29",
                         "_id_ext": "01029",
                         "ballot_title": {
                             "en": "PETE BUTTIGIEG"
@@ -373,7 +377,7 @@
                         "sequence": "17"
                     },
                     {
-                        "_id": "X00118",
+                        "_id": "30",
                         "_id_ext": "01030",
                         "ballot_title": {
                             "en": "JOSEPH R. BIDEN"
@@ -381,7 +385,7 @@
                         "sequence": "18"
                     },
                     {
-                        "_id": "X00119",
+                        "_id": "31",
                         "_id_ext": "01031",
                         "ballot_title": {
                             "en": "TULSI GABBARD"
@@ -389,21 +393,86 @@
                         "sequence": "19"
                     },
                     {
-                        "_id": "X00120",
+                        "_id": "32",
                         "_id_ext": "01032",
                         "ballot_title": {
                             "en": "MARK STEWART GREENSTEIN"
                         },
                         "sequence": "20"
+                    },
+                    {
+                        "_id": "179",
+                        "_id_ext": "",
+                        "ballot_title": {
+                            "en": "DAPHNE DENISE BRADFORD"
+                        },
+                        "is_writein": true,
+                        "sequence": 21
+                    },
+                    {
+                        "_id": "184",
+                        "_id_ext": "",
+                        "ballot_title": {
+                            "en": "HEATHER MARIE STAGG"
+                        },
+                        "is_writein": true,
+                        "sequence": 22
+                    },
+                    {
+                        "_id": "182",
+                        "_id_ext": "",
+                        "ballot_title": {
+                            "en": "JEFFREY H. DROBMAN"
+                        },
+                        "is_writein": true,
+                        "sequence": 23
+                    },
+                    {
+                        "_id": "181",
+                        "_id_ext": "",
+                        "ballot_title": {
+                            "en": "MICHAEL DENAME"
+                        },
+                        "is_writein": true,
+                        "sequence": 24
+                    },
+                    {
+                        "_id": "178",
+                        "_id_ext": "",
+                        "ballot_title": {
+                            "en": "NAKIA L. ANTHONY"
+                        },
+                        "is_writein": true,
+                        "sequence": 25
+                    },
+                    {
+                        "_id": "183",
+                        "_id_ext": "",
+                        "ballot_title": {
+                            "en": "ROBERT JORDAN"
+                        },
+                        "is_writein": true,
+                        "sequence": 26
+                    },
+                    {
+                        "_id": "180",
+                        "_id_ext": "",
+                        "ballot_title": {
+                            "en": "WILLIE FELIX CARTER"
+                        },
+                        "is_writein": true,
+                        "sequence": 27
                     }
                 ],
                 "contest_party_id": "DEM",
+                "contest_party_crossover": true,
+                "url_state_results": "https://enr-prime.sos.ca.gov/returns/president/party/democratic",
                 "writeins_allowed": 1,
                 "voting_district": "0",
                 "result_style": "EMSW"
             },
             {
-                "_id": "X002",
+                "_id": "8",
                 "_id_ext": "8",
                 "_type": "office",
                 "header_id": "008",
@@ -434,7 +503,7 @@
                 "number_elected": 1,
                 "choices": [
                     {
-                        "_id": "X00201",
+                        "_id": "33",
                         "_id_ext": "02033",
                         "ballot_title": {
                             "en": "ROBERT ARDINI"
@@ -442,7 +511,7 @@
                         "sequence": "01"
                     },
                     {
-                        "_id": "X00202",
+                        "_id": "34",
                         "_id_ext": "02034",
                         "ballot_title": {
                             "en": "JOE WALSH"
@@ -450,7 +519,7 @@
                         "sequence": "02"
                     },
                     {
-                        "_id": "X00203",
+                        "_id": "35",
                         "_id_ext": "02035",
                         "ballot_title": {
                             "en": "BILL WELD"
@@ -458,7 +527,7 @@
                         "sequence": "03"
                     },
                     {
-                        "_id": "X00204",
+                        "_id": "36",
                         "_id_ext": "02036",
                         "ballot_title": {
                             "en": "ROQUE \"ROCKY\" DE LA FUENTE"
@@ -466,7 +535,7 @@
                         "sequence": "04"
                     },
                     {
-                        "_id": "X00205",
+                        "_id": "37",
                         "_id_ext": "02037",
                         "ballot_title": {
                             "en": "MATTHEW JOHN MATERN"
@@ -474,7 +543,7 @@
                         "sequence": "05"
                     },
                     {
-                        "_id": "X00206",
+                        "_id": "38",
                         "_id_ext": "02038",
                         "ballot_title": {
                             "en": "ZOLTAN G. ISTVAN"
@@ -482,21 +551,41 @@
                         "sequence": "06"
                     },
                     {
-                        "_id": "X00207",
+                        "_id": "39",
                         "_id_ext": "02039",
                         "ballot_title": {
                             "en": "DONALD J. TRUMP"
                         },
                         "sequence": "07"
+                    },
+                    {
+                        "_id": "185",
+                        "_id_ext": "",
+                        "ballot_title": {
+                            "en": "DENIS C. GRASSKA"
+                        },
+                        "is_writein": true,
+                        "sequence": 8
+                    },
+                    {
+                        "_id": "186",
+                        "_id_ext": "",
+                        "ballot_title": {
+                            "en": "ROBERT LEE MANNING JR."
+                        },
+                        "is_writein": true,
+                        "sequence": 9
                     }
                 ],
                 "contest_party_id": "REP",
+                "contest_party_crossover": false,
+                "url_state_results": "https://enr-prime.sos.ca.gov/returns/president/party/republican",
                 "writeins_allowed": 1,
                 "voting_district": "0",
                 "result_style": "EMSW"
             },
             {
-                "_id": "X003",
+                "_id": "9",
                 "_id_ext": "9",
                 "_type": "office",
                 "header_id": "008",
@@ -527,7 +616,7 @@
                 "number_elected": 1,
                 "choices": [
                     {
-                        "_id": "X00301",
+                        "_id": "40",
                         "_id_ext": "03040",
                         "ballot_title": {
                             "en": "PHIL COLLINS"
@@ -535,7 +624,7 @@
                         "sequence": "01"
                     },
                     {
-                        "_id": "X00302",
+                        "_id": "41",
                         "_id_ext": "03041",
                         "ballot_title": {
                             "en": "ROQUE \"ROCKY\" DE LA FUENTE"
@@ -543,7 +632,7 @@
                         "sequence": "02"
                     },
                     {
-                        "_id": "X00303",
+                        "_id": "42",
                         "_id_ext": "03042",
                         "ballot_title": {
                             "en": "CHARLES KRAUT"
@@ -551,7 +640,7 @@
                         "sequence": "03"
                     },
                     {
-                        "_id": "X00304",
+                        "_id": "43",
                         "_id_ext": "03043",
                         "ballot_title": {
                             "en": "J.R. MYERS",
@@ -561,7 +650,7 @@
                         "sequence": "04"
                     },
                     {
-                        "_id": "X00305",
+                        "_id": "44",
                         "_id_ext": "03044",
                         "ballot_title": {
                             "en": "DON BLANKENSHIP"
@@ -570,12 +659,14 @@
                     }
                 ],
                 "contest_party_id": "AI",
+                "contest_party_crossover": true,
+                "url_state_results": "https://enr-prime.sos.ca.gov/returns/president/party/american-independent",
                 "writeins_allowed": 1,
                 "voting_district": "0",
                 "result_style": "EMSW"
             },
             {
-                "_id": "X004",
+                "_id": "10",
                 "_id_ext": "10",
                 "_type": "office",
                 "header_id": "008",
@@ -599,7 +690,7 @@
                 },
                 "choices": [
                     {
-                        "_id": "X00401",
+                        "_id": "45",
                         "_id_ext": "04045",
                         "ballot_title": {
                             "en": "DAVID ROLDE"
@@ -607,7 +698,7 @@
                         "sequence": "01"
                     },
                     {
-                        "_id": "X00402",
+                        "_id": "46",
                         "_id_ext": "04046",
                         "ballot_title": {
                             "en": "HOWIE HAWKINS"
@@ -615,7 +706,7 @@
                         "sequence": "02"
                     },
                     {
-                        "_id": "X00403",
+                        "_id": "47",
                         "_id_ext": "04047",
                         "ballot_title": {
                             "en": "DARIO HUNTER"
@@ -623,7 +714,7 @@
                         "sequence": "03"
                     },
                     {
-                        "_id": "X00404",
+                        "_id": "48",
                         "_id_ext": "04048",
                         "ballot_title": {
                             "en": "DENNIS LAMBERT"
@@ -631,21 +722,32 @@
                         "sequence": "04"
                     },
                     {
-                        "_id": "X00405",
+                        "_id": "49",
                         "_id_ext": "04049",
                         "ballot_title": {
                             "en": "SEDINAM MOYOWASIFZA-CURRY"
                         },
                         "sequence": "05"
+                    },
+                    {
+                        "_id": "187",
+                        "_id_ext": "",
+                        "ballot_title": {
+                            "en": "KENT MESPLAY"
+                        },
+                        "is_writein": true,
+                        "sequence": 6
                     }
                 ],
                 "contest_party_id": "GRN",
+                "contest_party_crossover": false,
+                "url_state_results": "https://enr-prime.sos.ca.gov/returns/president/party/green",
                 "writeins_allowed": 1,
                 "voting_district": "0",
                 "result_style": "EMSW"
             },
             {
-                "_id": "X005",
+                "_id": "11",
                 "_id_ext": "11",
                 "_type": "office",
                 "header_id": "008",
@@ -676,7 +778,7 @@
                 "number_elected": 1,
                 "choices": [
                     {
-                        "_id": "X00501",
+                        "_id": "50",
                         "_id_ext": "05050",
                         "ballot_title": {
                             "en": "HOWIE HAWKINS"
@@ -684,7 +786,7 @@
                         "sequence": "01"
                     },
                     {
-                        "_id": "X00502",
+                        "_id": "51",
                         "_id_ext": "05051",
                         "ballot_title": {
                             "en": "GLORIA LA RIVA"
@@ -693,12 +795,14 @@
                     }
                 ],
                 "contest_party_id": "PF",
+                "contest_party_crossover": false,
+                "url_state_results": "https://enr-prime.sos.ca.gov/returns/president/party/peace-and-freedom",
                 "writeins_allowed": 1,
                 "voting_district": "0",
                 "result_style": "EMSW"
             },
             {
-                "_id": "X006",
+                "_id": "12",
                 "_id_ext": "12",
                 "_type": "office",
                 "header_id": "008",
@@ -729,7 +833,7 @@
                 "number_elected": 1,
                 "choices": [
                     {
-                        "_id": "X00601",
+                        "_id": "52",
                         "_id_ext": "06052",
                         "ballot_title": {
                             "en": "KEN ARMSTRONG"
@@ -737,7 +841,7 @@
                         "sequence": "01"
                     },
                     {
-                        "_id": "X00602",
+                        "_id": "53",
                         "_id_ext": "06053",
                         "ballot_title": {
                             "en": "MAX ABRAMSON"
@@ -745,7 +849,7 @@
                         "sequence": "02"
                     },
                     {
-                        "_id": "X00603",
+                        "_id": "54",
                         "_id_ext": "06054",
                         "ballot_title": {
                             "en": "SAM ROBB"
@@ -753,7 +857,7 @@
                         "sequence": "03"
                     },
                     {
-                        "_id": "X00604",
+                        "_id": "55",
                         "_id_ext": "06055",
                         "ballot_title": {
                             "en": "KIM RUFF"
@@ -761,7 +865,7 @@
                         "sequence": "04"
                     },
                     {
-                        "_id": "X00605",
+                        "_id": "56",
                         "_id_ext": "06056",
                         "ballot_title": {
                             "en": "STEVEN A RICHEY"
@@ -769,7 +873,7 @@
                         "sequence": "05"
                     },
                     {
-                        "_id": "X00606",
+                        "_id": "57",
                         "_id_ext": "06057",
                         "ballot_title": {
                             "en": "JACOB HORNBERGER"
@@ -777,7 +881,7 @@
                         "sequence": "06"
                     },
                     {
-                        "_id": "X00607",
+                        "_id": "58",
                         "_id_ext": "06058",
                         "ballot_title": {
                             "en": "SOURAYA FAAS"
@@ -785,7 +889,7 @@
                         "sequence": "07"
                     },
                     {
-                        "_id": "X00608",
+                        "_id": "59",
                         "_id_ext": "06059",
                         "ballot_title": {
                             "en": "KEENAN WALLACE DUNHAM"
@@ -793,7 +897,7 @@
                         "sequence": "08"
                     },
                     {
-                        "_id": "X00609",
+                        "_id": "60",
                         "_id_ext": "06060",
                         "ballot_title": {
                             "en": "ADAM KOKESH"
@@ -801,7 +905,7 @@
                         "sequence": "09"
                     },
                     {
-                        "_id": "X00610",
+                        "_id": "61",
                         "_id_ext": "06061",
                         "ballot_title": {
                             "en": "VERMIN SUPREME"
@@ -809,7 +913,7 @@
                         "sequence": "10"
                     },
                     {
-                        "_id": "X00611",
+                        "_id": "62",
                         "_id_ext": "06062",
                         "ballot_title": {
                             "en": "JO JORGENSEN"
@@ -817,7 +921,7 @@
                         "sequence": "11"
                     },
                     {
-                        "_id": "X00612",
+                        "_id": "63",
                         "_id_ext": "06063",
                         "ballot_title": {
                             "en": "DAN BEHRMAN"
@@ -825,21 +929,59 @@
                         "sequence": "12"
                     },
                     {
-                        "_id": "X00613",
+                        "_id": "64",
                         "_id_ext": "06064",
                         "ballot_title": {
                             "en": "ERIK CHASE GERHARDT"
                         },
                         "sequence": "13"
+                    },
+                    {
+                        "_id": "189",
+                        "_id_ext": "",
+                        "ballot_title": {
+                            "en": "GEBY EVA ESPINOSA"
+                        },
+                        "is_writein": true,
+                        "sequence": 14
+                    },
+                    {
+                        "_id": "190",
+                        "_id_ext": "",
+                        "ballot_title": {
+                            "en": "JAMES ORLANDO OGLE"
+                        },
+                        "is_writein": true,
+                        "sequence": 15
+                    },
+                    {
+                        "_id": "188",
+                        "_id_ext": "",
+                        "ballot_title": {
+                            "en": "NICHOLAS D'ARTAGNAN DUMAS"
+                        },
+                        "is_writein": true,
+                        "sequence": 16
+                    },
+                    {
+                        "_id": "191",
+                        "_id_ext": "",
+                        "ballot_title": {
+                            "en": "SORINNE ARDELEANU"
+                        },
+                        "is_writein": true,
+                        "sequence": 17
                     }
                 ],
                 "contest_party_id": "LIB",
+                "contest_party_crossover": true,
+                "url_state_results": "https://enr-prime.sos.ca.gov/returns/president/party/libertarian",
                 "writeins_allowed": 1,
                 "voting_district": "0",
                 "result_style": "EMSW"
             },
             {
-                "_id": "X007",
+                "_id": "23",
                 "_id_ext": "23",
                 "_type": "office",
                 "header_id": "069",
@@ -867,11 +1009,9 @@
                     "tl": "Bumoto ng hindi hihigit sa 14",
                     "zh": "選不超過14人"
                 },
-                "runoff_date": "2020-11-03",
-                "runoff_type": "top_2",
                 "choices": [
                     {
-                        "_id": "X00701",
+                        "_id": "110",
                         "_id_ext": "070110",
                         "ballot_title": {
                             "en": "KRISTEN ASATO-WEBB"
@@ -885,7 +1025,7 @@
                         }
                     },
                     {
-                        "_id": "X00702",
+                        "_id": "111",
                         "_id_ext": "070111",
                         "ballot_title": {
                             "en": "JOHN AVALOS"
@@ -899,7 +1039,7 @@
                         }
                     },
                     {
-                        "_id": "X00703",
+                        "_id": "112",
                         "_id_ext": "070112",
                         "ballot_title": {
                             "en": "NIMA RAHIMI"
@@ -913,7 +1053,7 @@
                         }
                     },
                     {
-                        "_id": "X00704",
+                        "_id": "113",
                         "_id_ext": "070113",
                         "ballot_title": {
                             "en": "HILLARY RONEN"
@@ -927,7 +1067,7 @@
                         }
                     },
                     {
-                        "_id": "X00705",
+                        "_id": "114",
                         "_id_ext": "070114",
                         "ballot_title": {
                             "en": "DAVID CAMPOS"
@@ -941,7 +1081,7 @@
                         }
                     },
                     {
-                        "_id": "X00706",
+                        "_id": "115",
                         "_id_ext": "070115",
                         "ballot_title": {
                             "en": "CHRISTOPHER CHRISTENSEN"
@@ -955,7 +1095,7 @@
                         }
                     },
                     {
-                        "_id": "X00707",
+                        "_id": "116",
                         "_id_ext": "070116",
                         "ballot_title": {
                             "en": "MIKE CHEN"
@@ -969,7 +1109,7 @@
                         }
                     },
                     {
-                        "_id": "X00708",
+                        "_id": "117",
                         "_id_ext": "070117",
                         "ballot_title": {
                             "en": "MATT HANEY"
@@ -983,7 +1123,7 @@
                         }
                     },
                     {
-                        "_id": "X00709",
+                        "_id": "118",
                         "_id_ext": "070118",
                         "ballot_title": {
                             "en": "RICK HAUPTMAN"
@@ -997,7 +1137,7 @@
                         }
                     },
                     {
-                        "_id": "X00710",
+                        "_id": "119",
                         "_id_ext": "070119",
                         "ballot_title": {
                             "en": "SHAUN HAINES"
@@ -1011,7 +1151,7 @@
                         }
                     },
                     {
-                        "_id": "X00711",
+                        "_id": "120",
                         "_id_ext": "070120",
                         "ballot_title": {
                             "en": "FRANCES HSIEH"
@@ -1025,7 +1165,7 @@
                         }
                     },
                     {
-                        "_id": "X00712",
+                        "_id": "121",
                         "_id_ext": "070121",
                         "ballot_title": {
                             "en": "AUSTIN HUNTER"
@@ -1039,7 +1179,7 @@
                         }
                     },
                     {
-                        "_id": "X00713",
+                        "_id": "122",
                         "_id_ext": "070122",
                         "ballot_title": {
                             "en": "SHAMANN WALTON"
@@ -1053,7 +1193,7 @@
                         }
                     },
                     {
-                        "_id": "X00714",
+                        "_id": "123",
                         "_id_ext": "070123",
                         "ballot_title": {
                             "en": "SHANELL WILLIAMS"
@@ -1067,7 +1207,7 @@
                         }
                     },
                     {
-                        "_id": "X00715",
+                        "_id": "124",
                         "_id_ext": "070124",
                         "ballot_title": {
                             "en": "TYRA FENNELL"
@@ -1081,7 +1221,7 @@
                         }
                     },
                     {
-                        "_id": "X00716",
+                        "_id": "125",
                         "_id_ext": "070125",
                         "ballot_title": {
                             "en": "KEVIN ORTIZ"
@@ -1095,7 +1235,7 @@
                         }
                     },
                     {
-                        "_id": "X00717",
+                        "_id": "126",
                         "_id_ext": "070126",
                         "ballot_title": {
                             "en": "VICTOR OLIVIERI"
@@ -1109,7 +1249,7 @@
                         }
                     },
                     {
-                        "_id": "X00718",
+                        "_id": "127",
                         "_id_ext": "070127",
                         "ballot_title": {
                             "en": "NOMVULA O'MEARA"
@@ -1123,7 +1263,7 @@
                         }
                     },
                     {
-                        "_id": "X00719",
+                        "_id": "128",
                         "_id_ext": "070128",
                         "ballot_title": {
                             "en": "WILLIAM (ANUBIS) DAUGHERTY"
@@ -1137,7 +1277,7 @@
                         }
                     },
                     {
-                        "_id": "X00720",
+                        "_id": "129",
                         "_id_ext": "070129",
                         "ballot_title": {
                             "en": "MICK DEL ROSARIO"
@@ -1151,7 +1291,7 @@
                         }
                     },
                     {
-                        "_id": "X00721",
+                        "_id": "130",
                         "_id_ext": "070130",
                         "ballot_title": {
                             "en": "BEVAN DUFTY"
@@ -1165,7 +1305,7 @@
                         }
                     },
                     {
-                        "_id": "X00722",
+                        "_id": "131",
                         "_id_ext": "070131",
                         "ballot_title": {
                             "en": "JANE KIM"
@@ -1179,7 +1319,7 @@
                         }
                     },
                     {
-                        "_id": "X00723",
+                        "_id": "134",
                         "_id_ext": "070134",
                         "ballot_title": {
                             "en": "HONEY MAHOGANY"
@@ -1193,7 +1333,7 @@
                         }
                     },
                     {
-                        "_id": "X00724",
+                        "_id": "132",
                         "_id_ext": "070132",
                         "ballot_title": {
                             "en": "RAFAEL MANDELMAN"
@@ -1207,7 +1347,7 @@
                         }
                     },
                     {
-                        "_id": "X00725",
+                        "_id": "133",
                         "_id_ext": "070133",
                         "ballot_title": {
                             "en": "SOPHIE MAXWELL"
@@ -1221,7 +1361,7 @@
                         }
                     },
                     {
-                        "_id": "X00726",
+                        "_id": "135",
                         "_id_ext": "070135",
                         "ballot_title": {
                             "en": "CAROLE MIGDEN"
@@ -1235,7 +1375,7 @@
                         }
                     },
                     {
-                        "_id": "X00727",
+                        "_id": "136",
                         "_id_ext": "070136",
                         "ballot_title": {
                             "en": "DAVID VILLA-LOBOS"
@@ -1249,7 +1389,7 @@
                         }
                     },
                     {
-                        "_id": "X00728",
+                        "_id": "137",
                         "_id_ext": "070137",
                         "ballot_title": {
                             "en": "BIVETT BRACKETT"
@@ -1263,7 +1403,7 @@
                         }
                     },
                     {
-                        "_id": "X00729",
+                        "_id": "138",
                         "_id_ext": "070138",
                         "ballot_title": {
                             "en": "TAMI BRYANT"
@@ -1277,7 +1417,7 @@
                         }
                     },
                     {
-                        "_id": "X00730",
+                        "_id": "139",
                         "_id_ext": "070139",
                         "ballot_title": {
                             "en": "VALLIE BROWN"
@@ -1291,7 +1431,7 @@
                         }
                     },
                     {
-                        "_id": "X00731",
+                        "_id": "140",
                         "_id_ext": "070140",
                         "ballot_title": {
                             "en": "GLORIA BERRY"
@@ -1305,7 +1445,7 @@
                         }
                     },
                     {
-                        "_id": "X00732",
+                        "_id": "141",
                         "_id_ext": "070141",
                         "ballot_title": {
                             "en": "STEVEN BUSS"
@@ -1319,7 +1459,7 @@
                         }
                     },
                     {
-                        "_id": "X00733",
+                        "_id": "142",
                         "_id_ext": "070142",
                         "ballot_title": {
                             "en": "PETER GALLOTTA"
@@ -1333,7 +1473,7 @@
                         }
                     },
                     {
-                        "_id": "X00734",
+                        "_id": "143",
                         "_id_ext": "070143",
                         "ballot_title": {
                             "en": "ANABELL IBÁÑEZ"
@@ -1347,7 +1487,7 @@
                         }
                     },
                     {
-                        "_id": "X00735",
+                        "_id": "144",
                         "_id_ext": "070144",
                         "ballot_title": {
                             "en": "NANCY TUNG"
@@ -1362,12 +1502,13 @@
                     }
                 ],
                 "contest_party_id": "DEM",
+                "contest_party_crossover": false,
                 "writeins_allowed": 14,
                 "voting_district": "ASSM17",
                 "result_style": "EMSW"
             },
             {
-                "_id": "X008",
+                "_id": "22",
                 "_id_ext": "22",
                 "_type": "office",
                 "header_id": "069",
@@ -1395,11 +1536,9 @@
                     "tl": "Bumoto ng hindi hihigit sa 10",
                     "zh": "選不超過10人"
                 },
-                "runoff_date": "2020-11-03",
-                "runoff_type": "top_2",
                 "choices": [
                     {
-                        "_id": "X00801",
+                        "_id": "89",
                         "_id_ext": "08089",
                         "ballot_title": {
                             "en": "KAT ANDERSON"
@@ -1413,7 +1552,7 @@
                         }
                     },
                     {
-                        "_id": "X00802",
+                        "_id": "90",
                         "_id_ext": "08090",
                         "ballot_title": {
                             "en": "NADIA RAHMAN"
@@ -1427,7 +1566,7 @@
                         }
                     },
                     {
-                        "_id": "X00803",
+                        "_id": "91",
                         "_id_ext": "08091",
                         "ballot_title": {
                             "en": "MANO RAJU"
@@ -1441,7 +1580,7 @@
                         }
                     },
                     {
-                        "_id": "X00804",
+                        "_id": "92",
                         "_id_ext": "08092",
                         "ballot_title": {
                             "en": "ABRA PAULINE CASTLE"
@@ -1455,7 +1594,7 @@
                         }
                     },
                     {
-                        "_id": "X00805",
+                        "_id": "93",
                         "_id_ext": "08093",
                         "ballot_title": {
                             "en": "QUEENA CHEN"
@@ -1469,7 +1608,7 @@
                         }
                     },
                     {
-                        "_id": "X00806",
+                        "_id": "94",
                         "_id_ext": "08094",
                         "ballot_title": {
                             "en": "CYN WANG"
@@ -1483,7 +1622,7 @@
                         }
                     },
                     {
-                        "_id": "X00807",
+                        "_id": "95",
                         "_id_ext": "08095",
                         "ballot_title": {
                             "en": "LEAH LACROIX"
@@ -1497,7 +1636,7 @@
                         }
                     },
                     {
-                        "_id": "X00808",
+                        "_id": "96",
                         "_id_ext": "08096",
                         "ballot_title": {
                             "en": "SUZY LOFTUS"
@@ -1511,7 +1650,7 @@
                         }
                     },
                     {
-                        "_id": "X00809",
+                        "_id": "97",
                         "_id_ext": "08097",
                         "ballot_title": {
                             "en": "LI MIAO LOVETT"
@@ -1525,7 +1664,7 @@
                         }
                     },
                     {
-                        "_id": "X00810",
+                        "_id": "98",
                         "_id_ext": "08098",
                         "ballot_title": {
                             "en": "JANICE LI"
@@ -1539,7 +1678,7 @@
                         }
                     },
                     {
-                        "_id": "X00811",
+                        "_id": "99",
                         "_id_ext": "08099",
                         "ballot_title": {
                             "en": "JANE NATOLI"
@@ -1553,7 +1692,7 @@
                         }
                     },
                     {
-                        "_id": "X00812",
+                        "_id": "100",
                         "_id_ext": "080100",
                         "ballot_title": {
                             "en": "AHSHA SAFAI"
@@ -1567,7 +1706,7 @@
                         }
                     },
                     {
-                        "_id": "X00813",
+                        "_id": "101",
                         "_id_ext": "080101",
                         "ballot_title": {
                             "en": "GORDON MAR"
@@ -1581,7 +1720,7 @@
                         }
                     },
                     {
-                        "_id": "X00814",
+                        "_id": "102",
                         "_id_ext": "080102",
                         "ballot_title": {
                             "en": "SEEYEW MO"
@@ -1595,7 +1734,7 @@
                         }
                     },
                     {
-                        "_id": "X00815",
+                        "_id": "103",
                         "_id_ext": "080103",
                         "ballot_title": {
                             "en": "FAAUUGA MOLIGA"
@@ -1609,7 +1748,7 @@
                         }
                     },
                     {
-                        "_id": "X00816",
+                        "_id": "104",
                         "_id_ext": "080104",
                         "ballot_title": {
                             "en": "PAUL MIYAMOTO"
@@ -1623,7 +1762,7 @@
                         }
                     },
                     {
-                        "_id": "X00817",
+                        "_id": "105",
                         "_id_ext": "080105",
                         "ballot_title": {
                             "en": "MARY JUNG"
@@ -1637,7 +1776,7 @@
                         }
                     },
                     {
-                        "_id": "X00818",
+                        "_id": "106",
                         "_id_ext": "080106",
                         "ballot_title": {
                             "en": "KEITH BARAKA"
@@ -1651,7 +1790,7 @@
                         }
                     },
                     {
-                        "_id": "X00819",
+                        "_id": "107",
                         "_id_ext": "080107",
                         "ballot_title": {
                             "en": "KELLY AKEMI GROTH"
@@ -1665,7 +1804,7 @@
                         }
                     },
                     {
-                        "_id": "X00820",
+                        "_id": "108",
                         "_id_ext": "080108",
                         "ballot_title": {
                             "en": "A. J. THOMAS"
@@ -1679,7 +1818,7 @@
                         }
                     },
                     {
-                        "_id": "X00821",
+                        "_id": "109",
                         "_id_ext": "080109",
                         "ballot_title": {
                             "en": "MAWULI TUGBENYOH"
@@ -1694,12 +1833,13 @@
                     }
                 ],
                 "contest_party_id": "DEM",
+                "contest_party_crossover": false,
                 "writeins_allowed": 10,
                 "voting_district": "ASSM19",
                 "result_style": "EMSW"
             },
             {
-                "_id": "X009",
+                "_id": "24",
                 "_id_ext": "24",
                 "_type": "office",
                 "header_id": "069",
@@ -1727,11 +1867,9 @@
                     "tl": "Bumoto ng hindi hihigit sa 11",
                     "zh": "選不超過11人"
                 },
-                "runoff_date": "2020-11-03",
-                "runoff_type": "top_2",
                 "choices": [
                     {
-                        "_id": "X00901",
+                        "_id": "145",
                         "_id_ext": "090145",
                         "ballot_title": {
                             "en": "LISA REMMER"
@@ -1745,7 +1883,7 @@
                         }
                     },
                     {
-                        "_id": "X00902",
+                        "_id": "146",
                         "_id_ext": "090146",
                         "ballot_title": {
                             "en": "JOSEPH C ROBERTS"
@@ -1759,7 +1897,7 @@
                         }
                     },
                     {
-                        "_id": "X00903",
+                        "_id": "147",
                         "_id_ext": "090147",
                         "ballot_title": {
                             "en": "STEPHEN WAID"
@@ -1773,7 +1911,7 @@
                         }
                     },
                     {
-                        "_id": "X00904",
+                        "_id": "148",
                         "_id_ext": "090148",
                         "ballot_title": {
                             "en": "LEO LACAYO"
@@ -1787,7 +1925,7 @@
                         }
                     },
                     {
-                        "_id": "X00905",
+                        "_id": "149",
                         "_id_ext": "090149",
                         "ballot_title": {
                             "en": "RYAN LAM"
@@ -1801,7 +1939,7 @@
                         }
                     },
                     {
-                        "_id": "X00906",
+                        "_id": "150",
                         "_id_ext": "090150",
                         "ballot_title": {
                             "en": "CHRISTIAN FOSTER"
@@ -1815,7 +1953,7 @@
                         }
                     },
                     {
-                        "_id": "X00907",
+                        "_id": "151",
                         "_id_ext": "090151",
                         "ballot_title": {
                             "en": "JOSH YORK"
@@ -1829,7 +1967,7 @@
                         }
                     },
                     {
-                        "_id": "X00908",
+                        "_id": "152",
                         "_id_ext": "090152",
                         "ballot_title": {
                             "en": "EVE DEL CASTELLO"
@@ -1843,7 +1981,7 @@
                         }
                     },
                     {
-                        "_id": "X00909",
+                        "_id": "153",
                         "_id_ext": "090153",
                         "ballot_title": {
                             "en": "CHRIS WARD KLINE"
@@ -1857,7 +1995,7 @@
                         }
                     },
                     {
-                        "_id": "X00910",
+                        "_id": "154",
                         "_id_ext": "090154",
                         "ballot_title": {
                             "en": "ERIN SMITH"
@@ -1871,7 +2009,7 @@
                         }
                     },
                     {
-                        "_id": "X00911",
+                        "_id": "155",
                         "_id_ext": "090155",
                         "ballot_title": {
                             "en": "LARRY MARSO"
@@ -1885,7 +2023,7 @@
                         }
                     },
                     {
-                        "_id": "X00912",
+                        "_id": "156",
                         "_id_ext": "090156",
                         "ballot_title": {
                             "en": "NICOLE GARAY"
@@ -1899,7 +2037,7 @@
                         }
                     },
                     {
-                        "_id": "X00913",
+                        "_id": "157",
                         "_id_ext": "090157",
                         "ballot_title": {
                             "en": "CALE GARVERICK"
@@ -1913,7 +2051,7 @@
                         }
                     },
                     {
-                        "_id": "X00914",
+                        "_id": "158",
                         "_id_ext": "090158",
                         "ballot_title": {
                             "en": "KRISTA GARVERICK"
@@ -1928,12 +2066,13 @@
                     }
                 ],
                 "contest_party_id": "REP",
+                "contest_party_crossover": false,
                 "writeins_allowed": 11,
                 "voting_district": "ASSM17",
                 "result_style": "EMSW"
             },
             {
-                "_id": "X010",
+                "_id": "13",
                 "_id_ext": "13",
                 "_type": "office",
                 "header_id": "099",
@@ -1960,7 +2099,7 @@
                 "runoff_type": "top_2",
                 "choices": [
                     {
-                        "_id": "X01001",
+                        "_id": "70",
                         "_id_ext": "10070",
                         "ballot_title": {
                             "en": "DEANNA LORRAINE"
@@ -1980,7 +2119,7 @@
                         }
                     },
                     {
-                        "_id": "X01002",
+                        "_id": "65",
                         "_id_ext": "10065",
                         "ballot_title": {
                             "en": "JOHN DENNIS"
@@ -2000,7 +2139,7 @@
                         }
                     },
                     {
-                        "_id": "X01003",
+                        "_id": "66",
                         "_id_ext": "10066",
                         "ballot_title": {
                             "en": "NANCY PELOSI"
@@ -2020,7 +2159,7 @@
                         }
                     },
                     {
-                        "_id": "X01004",
+                        "_id": "67",
                         "_id_ext": "10067",
                         "ballot_title": {
                             "en": "AGATHA BACELAR"
@@ -2040,7 +2179,7 @@
                         }
                     },
                     {
-                        "_id": "X01005",
+                        "_id": "68",
                         "_id_ext": "10068",
                         "ballot_title": {
                             "en": "SHAHID BUTTAR"
@@ -2060,7 +2199,7 @@
                         }
                     },
                     {
-                        "_id": "X01006",
+                        "_id": "69",
                         "_id_ext": "10069",
                         "ballot_title": {
                             "en": "TOM GALLAGHER",
@@ -2082,12 +2221,13 @@
                         }
                     }
                 ],
+                "url_state_results": "https://enr-prime.sos.ca.gov/returns/us-rep/district/12",
                 "writeins_allowed": 1,
                 "voting_district": "CONG12",
                 "result_style": "EMSW"
             },
             {
-                "_id": "X011",
+                "_id": "14",
                 "_id_ext": "14",
                 "_type": "office",
                 "header_id": "099",
@@ -2114,7 +2254,7 @@
                 "runoff_type": "top_2",
                 "choices": [
                     {
-                        "_id": "X01101",
+                        "_id": "71",
                         "_id_ext": "11071",
                         "ballot_title": {
                             "en": "BARBARA LEE"
@@ -2134,7 +2274,7 @@
                         }
                     },
                     {
-                        "_id": "X01102",
+                        "_id": "72",
                         "_id_ext": "11072",
                         "ballot_title": {
                             "en": "NIKKA PITERMAN",
@@ -2156,12 +2296,13 @@
                         }
                     }
                 ],
+                "url_state_results": "https://enr-prime.sos.ca.gov/returns/us-rep/district/13",
                 "writeins_allowed": 1,
                 "voting_district": "CONG13",
                 "result_style": "EMSW"
             },
             {
-                "_id": "X012",
+                "_id": "15",
                 "_id_ext": "15",
                 "_type": "office",
                 "header_id": "099",
@@ -2188,7 +2329,7 @@
                 "runoff_type": "top_2",
                 "choices": [
                     {
-                        "_id": "X01201",
+                        "_id": "73",
                         "_id_ext": "12073",
                         "ballot_title": {
                             "en": "JACKIE SPEIER"
@@ -2208,7 +2349,7 @@
                         }
                     },
                     {
-                        "_id": "X01202",
+                        "_id": "74",
                         "_id_ext": "12074",
                         "ballot_title": {
                             "en": "RAN S. PETEL",
@@ -2230,7 +2371,7 @@
                         }
                     },
                     {
-                        "_id": "X01203",
+                        "_id": "75",
                         "_id_ext": "12075",
                         "ballot_title": {
                             "en": "CRISTOS GOODROW"
@@ -2250,7 +2391,7 @@
                         }
                     },
                     {
-                        "_id": "X01204",
+                        "_id": "76",
                         "_id_ext": "12076",
                         "ballot_title": {
                             "en": "ERIC TAYLOR"
@@ -2270,12 +2411,13 @@
                         }
                     }
                 ],
+                "url_state_results": "https://enr-prime.sos.ca.gov/returns/us-rep/district/14",
                 "writeins_allowed": 1,
                 "voting_district": "CONG14",
                 "result_style": "EMSW"
             },
             {
-                "_id": "X013",
+                "_id": "16",
                 "_id_ext": "16",
                 "_type": "office",
                 "header_id": "129",
@@ -2302,7 +2444,7 @@
                 "runoff_type": "top_2",
                 "choices": [
                     {
-                        "_id": "X01301",
+                        "_id": "78",
                         "_id_ext": "13078",
                         "ballot_title": {
                             "en": "SCOTT WIENER"
@@ -2322,7 +2464,7 @@
                         }
                     },
                     {
-                        "_id": "X01302",
+                        "_id": "77",
                         "_id_ext": "13077",
                         "ballot_title": {
                             "en": "ERIN SMITH"
@@ -2342,7 +2484,7 @@
                         }
                     },
                     {
-                        "_id": "X01303",
+                        "_id": "79",
                         "_id_ext": "13079",
                         "ballot_title": {
                             "en": "JACKIE FIELDER"
@@ -2362,12 +2504,13 @@
                         }
                     }
                 ],
+                "url_state_results": "https://enr-prime.sos.ca.gov/returns/state-senate/district/11",
                 "writeins_allowed": 1,
                 "voting_district": "SEN11",
                 "result_style": "EMSW"
             },
             {
-                "_id": "X014",
+                "_id": "18",
                 "_id_ext": "18",
                 "_type": "office",
                 "header_id": "129",
@@ -2394,7 +2537,7 @@
                 "runoff_type": "top_2",
                 "choices": [
                     {
-                        "_id": "X01401",
+                        "_id": "82",
                         "_id_ext": "14082",
                         "ballot_title": {
                             "en": "DAVID CHIU"
@@ -2414,21 +2557,31 @@
                         }
                     },
                     {
-                        "_id": "X01402",
-                        "_id_ext": "WIX01402",
+                        "_id": "177",
+                        "_id_ext": "",
+                        "ballot_title": {
+                            "en": "STARCHILD"
+                        },
+                        "is_writein": true,
+                        "sequence": 2
+                    },
+                    {
+                        "_id": "177",
+                        "_id_ext": "WI177",
                         "ballot_title": {
                             "en": "Starchild"
                         },
                         "is_writein": true,
-                        "sequence": 2
+                        "sequence": 3
                     }
                 ],
+                "url_state_results": "https://enr-prime.sos.ca.gov/returns/state-assembly/district/17",
                 "writeins_allowed": 1,
                 "voting_district": "ASSM17",
                 "result_style": "EMSW"
             },
             {
-                "_id": "X015",
+                "_id": "17",
                 "_id_ext": "17",
                 "_type": "office",
                 "header_id": "129",
@@ -2455,7 +2608,7 @@
                 "runoff_type": "top_2",
                 "choices": [
                     {
-                        "_id": "X01501",
+                        "_id": "80",
                         "_id_ext": "15080",
                         "ballot_title": {
                             "en": "JOHN P. MCDONNELL"
@@ -2475,7 +2628,7 @@
                         }
                     },
                     {
-                        "_id": "X01502",
+                        "_id": "81",
                         "_id_ext": "15081",
                         "ballot_title": {
                             "en": "PHIL TING"
@@ -2495,12 +2648,13 @@
                         }
                     }
                 ],
+                "url_state_results": "https://enr-prime.sos.ca.gov/returns/state-assembly/district/19",
                 "writeins_allowed": 1,
                 "voting_district": "ASSM19",
                 "result_style": "EMSW"
             },
             {
-                "_id": "X016",
+                "_id": "19",
                 "_id_ext": "19",
                 "_type": "office",
                 "header_id": "158",
@@ -2527,7 +2681,7 @@
                 "runoff_type": "non_majority",
                 "choices": [
                     {
-                        "_id": "X01601",
+                        "_id": "83",
                         "_id_ext": "16083",
                         "ballot_title": {
                             "en": "MARIA ELENA EVANGELISTA",
@@ -2543,7 +2697,7 @@
                         }
                     },
                     {
-                        "_id": "X01602",
+                        "_id": "84",
                         "_id_ext": "16084",
                         "ballot_title": {
                             "en": "PANG LY"
@@ -2562,7 +2716,7 @@
                 "result_style": "EMSW"
             },
             {
-                "_id": "X017",
+                "_id": "20",
                 "_id_ext": "20",
                 "_type": "office",
                 "header_id": "158",
@@ -2589,7 +2743,7 @@
                 "runoff_type": "non_majority",
                 "choices": [
                     {
-                        "_id": "X01701",
+                        "_id": "85",
                         "_id_ext": "17085",
                         "ballot_title": {
                             "en": "DOROTHY CHOU PROUDFOOT"
@@ -2603,7 +2757,7 @@
                         }
                     },
                     {
-                        "_id": "X01702",
+                        "_id": "86",
                         "_id_ext": "17086",
                         "ballot_title": {
                             "en": "MICHELLE TONG"
@@ -2622,7 +2776,7 @@
                 "result_style": "EMSW"
             },
             {
-                "_id": "X018",
+                "_id": "21",
                 "_id_ext": "21",
                 "_type": "office",
                 "header_id": "158",
@@ -2649,7 +2803,7 @@
                 "runoff_type": "non_majority",
                 "choices": [
                     {
-                        "_id": "X01801",
+                        "_id": "87",
                         "_id_ext": "18087",
                         "ballot_title": {
                             "en": "KULVINDAR \"RANI\" SINGH"
@@ -2663,7 +2817,7 @@
                         }
                     },
                     {
-                        "_id": "X01802",
+                        "_id": "88",
                         "_id_ext": "18088",
                         "ballot_title": {
                             "en": "CAROLYN GOLD"
@@ -2682,7 +2836,7 @@
                 "result_style": "EMSW"
             },
             {
-                "_id": "X019",
+                "_id": "1",
                 "_id_ext": "1",
                 "_type": "measure",
                 "header_id": "188",
@@ -2706,7 +2860,7 @@
                 "approval_required": "Majority",
                 "choices": [
                     {
-                        "_id": "X01901",
+                        "_id": "1",
                         "_id_ext": "1901",
                         "ballot_title": {
                             "en": "YES",
@@ -2717,7 +2871,7 @@
                         "sequence": "01"
                     },
                     {
-                        "_id": "X01902",
+                        "_id": "2",
                         "_id_ext": "1902",
                         "ballot_title": {
                             "en": "NO",
@@ -2732,7 +2886,7 @@
                 "result_style": "EMS"
             },
             {
-                "_id": "X020",
+                "_id": "2",
                 "_id_ext": "2",
                 "_type": "measure",
                 "header_id": "198",
@@ -2759,7 +2913,7 @@
                 "approval_required": "55%",
                 "choices": [
                     {
-                        "_id": "X02001",
+                        "_id": "3",
                         "_id_ext": "2001",
                         "ballot_title": {
                             "en": "YES",
@@ -2770,7 +2924,7 @@
                         "sequence": "01"
                     },
                     {
-                        "_id": "X02002",
+                        "_id": "4",
                         "_id_ext": "2002",
                         "ballot_title": {
                             "en": "NO",
@@ -2785,7 +2939,7 @@
                 "result_style": "EMS"
             },
             {
-                "_id": "X021",
+                "_id": "3",
                 "_id_ext": "3",
                 "_type": "measure",
                 "header_id": "208",
@@ -2812,7 +2966,7 @@
                 "approval_required": "2/3",
                 "choices": [
                     {
-                        "_id": "X02101",
+                        "_id": "5",
                         "_id_ext": "2101",
                         "ballot_title": {
                             "en": "YES",
@@ -2823,7 +2977,7 @@
                         "sequence": "01"
                     },
                     {
-                        "_id": "X02102",
+                        "_id": "6",
                         "_id_ext": "2102",
                         "ballot_title": {
                             "en": "NO",
@@ -2838,7 +2992,7 @@
                 "result_style": "EMS"
             },
             {
-                "_id": "X022",
+                "_id": "4",
                 "_id_ext": "4",
                 "_type": "measure",
                 "header_id": "208",
@@ -2865,7 +3019,7 @@
                 "approval_required": "Majority",
                 "choices": [
                     {
-                        "_id": "X02201",
+                        "_id": "7",
                         "_id_ext": "2201",
                         "ballot_title": {
                             "en": "YES",
@@ -2876,7 +3030,7 @@
                         "sequence": "01"
                     },
                     {
-                        "_id": "X02202",
+                        "_id": "8",
                         "_id_ext": "2202",
                         "ballot_title": {
                             "en": "NO",
@@ -2891,7 +3045,7 @@
                 "result_style": "EMS"
             },
             {
-                "_id": "X023",
+                "_id": "5",
                 "_id_ext": "5",
                 "_type": "measure",
                 "header_id": "208",
@@ -2918,7 +3072,7 @@
                 "approval_required": "2/3",
                 "choices": [
                     {
-                        "_id": "X02301",
+                        "_id": "9",
                         "_id_ext": "2301",
                         "ballot_title": {
                             "en": "YES",
@@ -2929,7 +3083,7 @@
                         "sequence": "01"
                     },
                     {
-                        "_id": "X02302",
+                        "_id": "10",
                         "_id_ext": "2302",
                         "ballot_title": {
                             "en": "NO",
@@ -2944,7 +3098,7 @@
                 "result_style": "EMS"
             },
             {
-                "_id": "X024",
+                "_id": "6",
                 "_id_ext": "6",
                 "_type": "measure",
                 "header_id": "208",
@@ -2971,7 +3125,7 @@
                 "approval_required": "Majority",
                 "choices": [
                     {
-                        "_id": "X02401",
+                        "_id": "11",
                         "_id_ext": "2401",
                         "ballot_title": {
                             "en": "YES",
@@ -2982,7 +3136,7 @@
                         "sequence": "01"
                     },
                     {
-                        "_id": "X02402",
+                        "_id": "12",
                         "_id_ext": "2402",
                         "ballot_title": {
                             "en": "NO",
@@ -3006,7 +3160,8 @@
             "voting_district": "0",
             "result_style": "EMTE"
         },
-        "no_voter_precincts": []
+        "no_voter_precincts": [],
+        "url_state_results": "https://enr-prime.sos.ca.gov/"
     },
     "languages": [
         "en",
@@ -7099,31 +7254,70 @@
     "party_names": [
         {
             "_id": "AI",
-            "heading": "American Independent"
+            "heading": "American Independent",
+            "name": {
+                "en": "American Independent",
+                "es": "Independiente Americano",
+                "tl": "Amerikanong Independiyente",
+                "zh": "美國獨立黨"
+            }
         },
         {
             "_id": "DEM",
-            "heading": "Democratic"
+            "heading": "Democratic",
+            "name": {
+                "en": "Democratic",
+                "es": "Demócrata",
+                "tl": "Demokratiko",
+                "zh": "民主黨"
+            }
         },
         {
             "_id": "GRN",
-            "heading": "Green"
+            "heading": "Green",
+            "name": {
+                "en": "Green",
+                "es": "Verde",
+                "tl": "Luntian",
+                "zh": "綠黨"
+            }
         },
         {
             "_id": "LIB",
-            "heading": "Libertarian"
+            "heading": "Libertarian",
+            "name": {
+                "en": "Libertarian",
+                "es": "Libertario",
+                "tl": "Libertaryan",
+                "zh": "自由黨"
+            }
         },
         {
             "_id": "PF",
-            "heading": "Peace & Freedom"
+            "heading": "Peace & Freedom",
+            "name": {
+                "en": "Peace and Freedom",
+                "es": "Paz y Libertad",
+                "tl": "Kapayapaan at Kalayaan",
+                "zh": "和平與自由黨"
+            }
         },
         {
             "_id": "REP",
-            "heading": "Republican"
+            "heading": "Republican",
+            "name": {
+                "en": "Republican",
+                "es": "Republicano",
+                "tl": "Republikano",
+                "zh": "共和黨"
+            }
         },
         {
             "_id": "NPP",
-            "heading": "No Party Preference"
+            "heading": "No Party Preference",
+            "name": {
+                "en": "No Party Preference"
+            }
         }
     ],
     "result_stat_types": [
@@ -7277,6 +7471,12 @@
         "exhausted_ballots": {
             "en": "Exhausted Ballots"
         },
+        "no": {
+            "en": "NO",
+            "es": "NO",
+            "tl": "HINDI",
+            "zh": "反對"
+        },
         "overvotes": {
             "en": "Overvotes"
         },
@@ -7303,12 +7503,6 @@
             "es": "SÍ",
             "tl": "OO",
             "zh": "贊成"
-        },
-        "no": {
-            "en": "NO",
-            "es": "NO",
-            "tl": "HINDI",
-            "zh": "反對"
         }
     },
     "voting_groups": [

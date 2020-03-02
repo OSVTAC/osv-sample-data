@@ -1,25 +1,25 @@
 contest_order	contest_id_sov	contest_id_ext	contest_full_name	vote_for	max_ranked
-001	X001	0	President DEM	1	0
-002	X002	0	President REP	1	0
-003	X003	0	President AI	1	0
-004	X004	0	President GRN	1	0
-005	X005	0	President P&F	1	0
-006	X006	0	President LIB	1	0
-007	X007	0	CCC District 17 DEM	1	0
-008	X008	0	CCC District 19 DEM	1	0
-009	X009	0	CCC District 17 REP	1	0
-010	X010	0	US House of Rep District 12	1	0
-011	X011	0	US House of Rep District 13	1	0
-012	X012	0	US House of Rep District 14	1	0
-013	X013	0	STATE SENATOR District 11	1	0
-014	X014	0	STATE ASSEMBLY MEMBER District 17	1	0
-015	X015	0	STATE ASSEMBLY MEMBER District 19	1	0
-016	X016	0	Superior Court Judge Seat 1	1	0
-017	X017	0	Superior Court Judge Seat 18	1	0
-018	X018	0	Superior Court Judge Seat 21	1	0
-019	X019	0	Proposition 13	1	0
-020	X020	0	Proposition A	1	0
-021	X021	0	Proposition B	1	0
-022	X022	0	Proposition C	1	0
-023	X023	0	Proposition D	1	0
-024	X024	0	Proposition E	1	0
+001	7	100	President DEM	1	0
+002	8	101	President REP	1	0
+003	9	102	President AI	1	0
+004	10	104	President GRN	1	0
+005	11	105	President P&F	1	0
+006	12	106	President LIB	1	0
+007	23	3010	CCC District 17 DEM	14	0
+008	22	3000	CCC District 19 DEM	10	0
+009	24	3110	CCC District 17 REP	11	0
+010	13	1020	US House of Rep District 12	1	0
+011	14	1030	US House of Rep District 13	1	0
+012	15	1040	US House of Rep District 14	1	0
+013	16	1130	STATE SENATOR District 11	1	0
+014	18	1310	STATE ASSEMBLY MEMBER District 17	1	0
+015	17	1210	STATE ASSEMBLY MEMBER District 19	1	0
+016	19	2200	Superior Court Judge Seat 1	1	0
+017	20	2318	Superior Court Judge Seat 18	1	0
+018	21	2321	Superior Court Judge Seat 21	1	0
+019	1	1	Proposition 13	1	0
+020	2	2	Proposition A	1	0
+021	3	3	Proposition B	1	0
+022	4	4	Proposition C	1	0
+023	5	5	Proposition D	1	0
+024	6	6	Proposition E	1	0

@@ -26,6 +26,24 @@ contest_party_pats:
     - PRESIDENT OF THE UNITED STATES
     - MEMBER, COUNTY CENTRAL COMMITTEE
 
+contest_party_crossover_pats:
+    - PRESIDENT OF THE UNITED STATES{any}DEM
+    - PRESIDENT OF THE UNITED STATES{any}LIB
+    - PRESIDENT OF THE UNITED STATES{any}AI
+
+url_state_results: https://enr-prime.sos.ca.gov/
+url_state_results_map:
+    - PRESIDENT OF THE UNITED STATES{any}DEM=https://enr-prime.sos.ca.gov/returns/president/party/democratic
+    - PRESIDENT OF THE UNITED STATES{any}REP=https://enr-prime.sos.ca.gov/returns/president/party/republican
+    - PRESIDENT OF THE UNITED STATES{any}AI=https://enr-prime.sos.ca.gov/returns/president/party/american-independent
+    - PRESIDENT OF THE UNITED STATES{any}PF=https://enr-prime.sos.ca.gov/returns/president/party/peace-and-freedom
+    - PRESIDENT OF THE UNITED STATES{any}LIB=https://enr-prime.sos.ca.gov/returns/president/party/libertarian
+    - PRESIDENT OF THE UNITED STATES{any}GRN=https://enr-prime.sos.ca.gov/returns/president/party/green
+    - Proposition 13=https://enr-prime.sos.ca.gov/returns/ballot-measures
+    - UNITED STATES REPRESENTATIVE, DISTRICT {number}=https://enr-prime.sos.ca.gov/returns/us-rep/district/{number}
+    - STATE ASSEMBLY MEMBER, DISTRICT {number}=https://enr-prime.sos.ca.gov/returns/state-assembly/district/{number}
+    - STATE SENATOR, DISTRICT {number}=https://enr-prime.sos.ca.gov/returns/state-senate/district/{number}
+
 approval_required:
     '2/3':
         - B
@@ -44,7 +62,7 @@ runoff:
             - INSURANCE COMMISSIONER
             - BOARD OF EQUALIZATION
             - SENATE
-            - ASSEMBLY
+            - STATE ASSEMBLY MEMBER
             - STATE SENATOR
             - UNITED STATES REPRESENTATIVE
             - SUPERINTENDENT OF PUBLIC INSTRUCTION
