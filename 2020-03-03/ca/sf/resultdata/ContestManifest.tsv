@@ -1,0 +1,25 @@
+Description	DistrictId	Id	ExternalId	VoteFor	NumOfRanks
+CCC District 17 DEM	116	23	3010	14	0
+CCC District 17 REP	116	24	3110	11	0
+CCC District 19 DEM	117	22	3000	10	0
+President AI	101	9	102	1	0
+President DEM	101	7	100	1	0
+President GRN	101	10	104	1	0
+President LIB	101	12	106	1	0
+President P&F	101	11	105	1	0
+President REP	101	8	101	1	0
+Proposition 13	103	1	1	1	0
+Proposition A	103	2	2	1	0
+Proposition B	103	3	3	1	0
+Proposition C	103	4	4	1	0
+Proposition D	103	5	5	1	0
+Proposition E	103	6	6	1	0
+STATE ASSEMBLY MEMBER District 17	116	18	1310	1	0
+STATE ASSEMBLY MEMBER District 19	117	17	1210	1	0
+STATE SENATOR District 11	118	16	1130	1	0
+Superior Court Judge Seat 1	103	19	2200	1	0
+Superior Court Judge Seat 18	103	20	2318	1	0
+Superior Court Judge Seat 21	103	21	2321	1	0
+US House of Rep District 12	119	13	1020	1	0
+US House of Rep District 13	120	14	1030	1	0
+US House of Rep District 14	121	15	1040	1	0
