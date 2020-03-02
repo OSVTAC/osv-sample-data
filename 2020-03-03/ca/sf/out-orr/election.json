@@ -17,9 +17,6 @@
                 "_id": "001",
                 "classification": "Instructions",
                 "header_id": "",
-                "ballot_title": {
-                    "en": ""
-                },
                 "heading_text": {
                     "en": "<p><strong>Party-Nominated Offices</strong></p><p>Only voters who disclosed a preference upon registering to vote for the same party as the candidate seeking the nomination of any party for the Presidency or election to a party committee may vote for that candidate at the primary election, unless the party has adopted a rule to permit non-party voters to vote in its primary elections.</p><p><strong>Voter-Nominated and Nonpartisan Offices</strong></p><p>All voters, regardless of the party preference they disclosed upon registration, or refusal to disclose a party preference, may vote for any candidate for a voter-nominated or nonpartisan office. The party preference, if any, designated by a candidate for a voter-nominated office is selected by the candidate and is shown for the information of the voters only. It does not imply that the candidate is nominated or endorsed by the party or that the party approves of the candidate. The party preference, if any, of a candidate for a nonpartisan office does not appear on the ballot.</p>",
                     "es": "<p><strong>Cargos Nominados por los Partidos</strong></p><p>Solo los electores que, al inscribirse para votar, hayan revelado una preferencia por el mismo partido del candidato que busca la nominación de cualquier partido a la presidencia o la elección a un comité partidario, pueden votar por ese candidato en las elecciones primarias, a menos que el partido haya adoptado una regla que permita a los electores no partidarios votar en sus elecciones primarias.</p><p><strong>Cargos Nominados por los Electores y Cargos No Partidarios</strong></p><p>Todos los electores, sin importar la preferencia por partido que hayan revelado al inscribirse, o su negativa de revelar una preferencia por partido, pueden votar por cualquier candidato a un cargo nominado por los electores o no partidario. La preferencia por partido, si la hubiera, designada por un candidato a un cargo nominado por los electores, es seleccionada por el candidato y se muestra solo para la información de los electores. No implica que el candidato esté nominado ni ratificado por el partido ni que el partido apruebe al candidato. La preferencia por partido, si la hubiera, de un candidato por un cargo no partidario, no aparece en la boleta electoral.</p>",
@@ -31,11 +28,6 @@
                 "_id": "002",
                 "classification": "Instructions",
                 "header_id": "",
-                "ballot_title": {
-                    "en": "This ballot does not",
-                    "es": "",
-                    "tl": ""
-                },
                 "heading_text": {
                     "en": "This ballot does not include a Presidential contest because you are registered to vote with no political party preference. To vote a ballot with a Presidential contest, contact the Department of Elections at (415) 554-4375 or ask a poll worker.",
                     "es": "Esta boleta no incluye una contienda presidencial ya que usted está inscrito para votar sin preferencia por un partido político calificado. Para votar con una boleta que incluya una contienda presidencial, llame al Departamento de Elecciones al (415) 554-4366 o pregunte a un trabajador electoral.",
@@ -47,11 +39,6 @@
                 "_id": "003",
                 "classification": "Instructions",
                 "header_id": "",
-                "ballot_title": {
-                    "en": "This ballot lists th",
-                    "es": "",
-                    "tl": ""
-                },
                 "heading_text": {
                     "en": "This ballot lists the presidential contest of the party in your voter registration record. To vote a different ballot, contact the Department of Elections at (415) 554-4375 or ask a poll worker.",
                     "es": "Esta boleta incluye la contienda presidencial del partido político que aparece en su registro de inscripción electoral. Para votar con la boleta de un partido diferente, llame al Departamento de Elecciones al (415) 554-4366 o pregunte a un trabajador electoral.",
@@ -63,11 +50,6 @@
                 "_id": "004",
                 "classification": "Instructions",
                 "header_id": "",
-                "ballot_title": {
-                    "en": "You are registered t",
-                    "es": "",
-                    "tl": ""
-                },
                 "heading_text": {
                     "en": "You are registered to vote with no political party preference and requested a ballot with a presidential contest. To vote a different party’s ballot, contact the Department of Elections at (415) 554-4375 or ask a poll worker.",
                     "es": "Usted está inscrito para votar sin preferencia por un partido político calificado y solicitó una boleta con una contienda presidencial. Para votar con la boleta de un partido diferente, llame al Departamento de Elecciones al (415) 554-4366 o pregunte a un trabajador electoral.",
@@ -3155,7 +3137,10 @@
             "_id": "TURNOUT",
             "_type": "turnout",
             "ballot_title": {
-                "en": "Registration and Turnout"
+                "en": "Registration and Turnout",
+                "es": "Inscripción y participación total",
+                "tl": "Kabuuan ng Rehistrasyon at Nagsidalo",
+                "zh": "總登記和投票率"
             },
             "voting_district": "0",
             "result_style": "EMTE"
