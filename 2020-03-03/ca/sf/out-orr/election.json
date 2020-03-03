@@ -381,69 +381,6 @@
                             "en": "MARK STEWART GREENSTEIN"
                         },
                         "sequence": "20"
-                    },
-                    {
-                        "_id": "179",
-                        "_id_ext": "",
-                        "ballot_title": {
-                            "en": "DAPHNE DENISE BRADFORD"
-                        },
-                        "is_writein": true,
-                        "sequence": 21
-                    },
-                    {
-                        "_id": "184",
-                        "_id_ext": "",
-                        "ballot_title": {
-                            "en": "HEATHER MARIE STAGG"
-                        },
-                        "is_writein": true,
-                        "sequence": 22
-                    },
-                    {
-                        "_id": "182",
-                        "_id_ext": "",
-                        "ballot_title": {
-                            "en": "JEFFREY H. DROBMAN"
-                        },
-                        "is_writein": true,
-                        "sequence": 23
-                    },
-                    {
-                        "_id": "181",
-                        "_id_ext": "",
-                        "ballot_title": {
-                            "en": "MICHAEL DENAME"
-                        },
-                        "is_writein": true,
-                        "sequence": 24
-                    },
-                    {
-                        "_id": "178",
-                        "_id_ext": "",
-                        "ballot_title": {
-                            "en": "NAKIA L. ANTHONY"
-                        },
-                        "is_writein": true,
-                        "sequence": 25
-                    },
-                    {
-                        "_id": "183",
-                        "_id_ext": "",
-                        "ballot_title": {
-                            "en": "ROBERT JORDAN"
-                        },
-                        "is_writein": true,
-                        "sequence": 26
-                    },
-                    {
-                        "_id": "180",
-                        "_id_ext": "",
-                        "ballot_title": {
-                            "en": "WILLIE FELIX CARTER"
-                        },
-                        "is_writein": true,
-                        "sequence": 27
                     }
                 ],
                 "contest_party_id": "DEM",
@@ -539,24 +476,6 @@
                             "en": "DONALD J. TRUMP"
                         },
                         "sequence": "07"
-                    },
-                    {
-                        "_id": "185",
-                        "_id_ext": "",
-                        "ballot_title": {
-                            "en": "DENIS C. GRASSKA"
-                        },
-                        "is_writein": true,
-                        "sequence": 8
-                    },
-                    {
-                        "_id": "186",
-                        "_id_ext": "",
-                        "ballot_title": {
-                            "en": "ROBERT LEE MANNING JR."
-                        },
-                        "is_writein": true,
-                        "sequence": 9
                     }
                 ],
                 "contest_party_id": "REP",
@@ -710,15 +629,6 @@
                             "en": "SEDINAM MOYOWASIFZA-CURRY"
                         },
                         "sequence": "05"
-                    },
-                    {
-                        "_id": "187",
-                        "_id_ext": "",
-                        "ballot_title": {
-                            "en": "KENT MESPLAY"
-                        },
-                        "is_writein": true,
-                        "sequence": 6
                     }
                 ],
                 "contest_party_id": "GRN",
@@ -917,42 +827,6 @@
                             "en": "ERIK CHASE GERHARDT"
                         },
                         "sequence": "13"
-                    },
-                    {
-                        "_id": "189",
-                        "_id_ext": "",
-                        "ballot_title": {
-                            "en": "GEBY EVA ESPINOSA"
-                        },
-                        "is_writein": true,
-                        "sequence": 14
-                    },
-                    {
-                        "_id": "190",
-                        "_id_ext": "",
-                        "ballot_title": {
-                            "en": "JAMES ORLANDO OGLE"
-                        },
-                        "is_writein": true,
-                        "sequence": 15
-                    },
-                    {
-                        "_id": "188",
-                        "_id_ext": "",
-                        "ballot_title": {
-                            "en": "NICHOLAS D'ARTAGNAN DUMAS"
-                        },
-                        "is_writein": true,
-                        "sequence": 16
-                    },
-                    {
-                        "_id": "191",
-                        "_id_ext": "",
-                        "ballot_title": {
-                            "en": "SORINNE ARDELEANU"
-                        },
-                        "is_writein": true,
-                        "sequence": 17
                     }
                 ],
                 "contest_party_id": "LIB",
@@ -2540,9 +2414,9 @@
                     },
                     {
                         "_id": "177",
-                        "_id_ext": "",
+                        "_id_ext": "WI177",
                         "ballot_title": {
-                            "en": "STARCHILD"
+                            "en": "Starchild"
                         },
                         "is_writein": true,
                         "sequence": 2
