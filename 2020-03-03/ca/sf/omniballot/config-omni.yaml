@@ -31,18 +31,18 @@ contest_party_crossover_pats:
     - PRESIDENT OF THE UNITED STATES{any}LIB
     - PRESIDENT OF THE UNITED STATES{any}AI
 
-url_state_results: https://enr-prime.sos.ca.gov/
+url_state_results: https://electionresults.sos.ca.gov/
 url_state_results_map:
-    - PRESIDENT OF THE UNITED STATES{any}DEM=https://enr-prime.sos.ca.gov/returns/president/party/democratic
-    - PRESIDENT OF THE UNITED STATES{any}REP=https://enr-prime.sos.ca.gov/returns/president/party/republican
-    - PRESIDENT OF THE UNITED STATES{any}AI=https://enr-prime.sos.ca.gov/returns/president/party/american-independent
-    - PRESIDENT OF THE UNITED STATES{any}PF=https://enr-prime.sos.ca.gov/returns/president/party/peace-and-freedom
-    - PRESIDENT OF THE UNITED STATES{any}LIB=https://enr-prime.sos.ca.gov/returns/president/party/libertarian
-    - PRESIDENT OF THE UNITED STATES{any}GRN=https://enr-prime.sos.ca.gov/returns/president/party/green
-    - Proposition 13=https://enr-prime.sos.ca.gov/returns/ballot-measures
-    - UNITED STATES REPRESENTATIVE, DISTRICT {number}=https://enr-prime.sos.ca.gov/returns/us-rep/district/{number}
-    - STATE ASSEMBLY MEMBER, DISTRICT {number}=https://enr-prime.sos.ca.gov/returns/state-assembly/district/{number}
-    - STATE SENATOR, DISTRICT {number}=https://enr-prime.sos.ca.gov/returns/state-senate/district/{number}
+    - PRESIDENT OF THE UNITED STATES{any}DEM=https://electionresults.sos.ca.gov/returns/president/party/democratic
+    - PRESIDENT OF THE UNITED STATES{any}REP=https://electionresults.sos.ca.gov/returns/president/party/republican
+    - PRESIDENT OF THE UNITED STATES{any}AI=https://electionresults.sos.ca.gov/returns/president/party/american-independent
+    - PRESIDENT OF THE UNITED STATES{any}PF=https://electionresults.sos.ca.gov/returns/president/party/peace-and-freedom
+    - PRESIDENT OF THE UNITED STATES{any}LIB=https://electionresults.sos.ca.gov/returns/president/party/libertarian
+    - PRESIDENT OF THE UNITED STATES{any}GRN=https://electionresults.sos.ca.gov/returns/president/party/green
+    - Proposition 13=https://electionresults.sos.ca.gov/returns/ballot-measures
+    - UNITED STATES REPRESENTATIVE, DISTRICT {number}=https://electionresults.sos.ca.gov/returns/us-rep/district/{number}
+    - STATE ASSEMBLY MEMBER, DISTRICT {number}=https://electionresults.sos.ca.gov/returns/state-assembly/district/{number}
+    - STATE SENATOR, DISTRICT {number}=https://electionresults.sos.ca.gov/returns/state-senate/district/{number}
 
 approval_required:
     '2/3':

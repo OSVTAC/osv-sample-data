@@ -448,7 +448,7 @@
                 ],
                 "contest_party_id": "DEM",
                 "contest_party_crossover": true,
-                "url_state_results": "https://enr-prime.sos.ca.gov/returns/president/party/democratic",
+                "url_state_results": "https://electionresults.sos.ca.gov/returns/president/party/democratic",
                 "writeins_allowed": 1,
                 "voting_district": "0",
                 "result_style": "EMSW"
@@ -561,7 +561,7 @@
                 ],
                 "contest_party_id": "REP",
                 "contest_party_crossover": false,
-                "url_state_results": "https://enr-prime.sos.ca.gov/returns/president/party/republican",
+                "url_state_results": "https://electionresults.sos.ca.gov/returns/president/party/republican",
                 "writeins_allowed": 1,
                 "voting_district": "0",
                 "result_style": "EMSW"
@@ -642,7 +642,7 @@
                 ],
                 "contest_party_id": "AI",
                 "contest_party_crossover": true,
-                "url_state_results": "https://enr-prime.sos.ca.gov/returns/president/party/american-independent",
+                "url_state_results": "https://electionresults.sos.ca.gov/returns/president/party/american-independent",
                 "writeins_allowed": 1,
                 "voting_district": "0",
                 "result_style": "EMSW"
@@ -723,7 +723,7 @@
                 ],
                 "contest_party_id": "GRN",
                 "contest_party_crossover": false,
-                "url_state_results": "https://enr-prime.sos.ca.gov/returns/president/party/green",
+                "url_state_results": "https://electionresults.sos.ca.gov/returns/president/party/green",
                 "writeins_allowed": 1,
                 "voting_district": "0",
                 "result_style": "EMSW"
@@ -778,7 +778,7 @@
                 ],
                 "contest_party_id": "PF",
                 "contest_party_crossover": false,
-                "url_state_results": "https://enr-prime.sos.ca.gov/returns/president/party/peace-and-freedom",
+                "url_state_results": "https://electionresults.sos.ca.gov/returns/president/party/peace-and-freedom",
                 "writeins_allowed": 1,
                 "voting_district": "0",
                 "result_style": "EMSW"
@@ -957,7 +957,7 @@
                 ],
                 "contest_party_id": "LIB",
                 "contest_party_crossover": true,
-                "url_state_results": "https://enr-prime.sos.ca.gov/returns/president/party/libertarian",
+                "url_state_results": "https://electionresults.sos.ca.gov/returns/president/party/libertarian",
                 "writeins_allowed": 1,
                 "voting_district": "0",
                 "result_style": "EMSW"
@@ -2203,7 +2203,7 @@
                         }
                     }
                 ],
-                "url_state_results": "https://enr-prime.sos.ca.gov/returns/us-rep/district/12",
+                "url_state_results": "https://electionresults.sos.ca.gov/returns/us-rep/district/12",
                 "writeins_allowed": 1,
                 "voting_district": "CONG12",
                 "result_style": "EMSW"
@@ -2278,7 +2278,7 @@
                         }
                     }
                 ],
-                "url_state_results": "https://enr-prime.sos.ca.gov/returns/us-rep/district/13",
+                "url_state_results": "https://electionresults.sos.ca.gov/returns/us-rep/district/13",
                 "writeins_allowed": 1,
                 "voting_district": "CONG13",
                 "result_style": "EMSW"
@@ -2393,7 +2393,7 @@
                         }
                     }
                 ],
-                "url_state_results": "https://enr-prime.sos.ca.gov/returns/us-rep/district/14",
+                "url_state_results": "https://electionresults.sos.ca.gov/returns/us-rep/district/14",
                 "writeins_allowed": 1,
                 "voting_district": "CONG14",
                 "result_style": "EMSW"
@@ -2486,7 +2486,7 @@
                         }
                     }
                 ],
-                "url_state_results": "https://enr-prime.sos.ca.gov/returns/state-senate/district/11",
+                "url_state_results": "https://electionresults.sos.ca.gov/returns/state-senate/district/11",
                 "writeins_allowed": 1,
                 "voting_district": "SEN11",
                 "result_style": "EMSW"
@@ -2548,7 +2548,7 @@
                         "sequence": 2
                     }
                 ],
-                "url_state_results": "https://enr-prime.sos.ca.gov/returns/state-assembly/district/17",
+                "url_state_results": "https://electionresults.sos.ca.gov/returns/state-assembly/district/17",
                 "writeins_allowed": 1,
                 "voting_district": "ASSM17",
                 "result_style": "EMSW"
@@ -2621,7 +2621,7 @@
                         }
                     }
                 ],
-                "url_state_results": "https://enr-prime.sos.ca.gov/returns/state-assembly/district/19",
+                "url_state_results": "https://electionresults.sos.ca.gov/returns/state-assembly/district/19",
                 "writeins_allowed": 1,
                 "voting_district": "ASSM19",
                 "result_style": "EMSW"
@@ -3137,7 +3137,7 @@
             "result_style": "EMTE"
         },
         "no_voter_precincts": [],
-        "url_state_results": "https://enr-prime.sos.ca.gov/"
+        "url_state_results": "https://electionresults.sos.ca.gov/"
     },
     "languages": [
         "en",
