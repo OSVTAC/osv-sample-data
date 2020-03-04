@@ -9,8 +9,9 @@
         },
         "ballot_title": {
             "en": "Consolidated Presidential Primary Election",
-            "es": "",
-            "tl": ""
+            "es": "Elecciones Presidenciales Primarias Consolidadas",
+            "tl": "Pinagsamang Primaryang Eleksyon para sa Pagkapangulo",
+            "zh": "聯合總統初選"
         },
         "headers": [
             {
@@ -7175,8 +7176,11 @@
             "_id": "RSTot",
             "heading": "Ballots Counted",
             "text": {
-                "_desc": "RSTot",
-                "en": "Ballots Counted"
+                "_desc": "RSTot: Total votes for choices",
+                "en": "Total Votes",
+                "es": "Total",
+                "tl": "Kabuuan",
+                "zh": "總共"
             }
         },
         {
