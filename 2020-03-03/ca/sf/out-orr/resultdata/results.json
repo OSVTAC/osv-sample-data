@@ -3219,8 +3219,8 @@
                         "51209",
                         "44171"
                     ],
-                    "success": false,
-                    "winning_status": "not_winning"
+                    "success": true,
+                    "winning_status": "winning"
                 },
                 {
                     "_id": "4",
@@ -3230,8 +3230,8 @@
                         "15873",
                         "23546"
                     ],
-                    "success": true,
-                    "winning_status": "winning"
+                    "success": false,
+                    "winning_status": "not_winning"
                 }
             ],
             "no_voter_precincts": [],
@@ -3293,7 +3293,7 @@
                     ]
                 }
             ],
-            "success": false,
+            "success": true,
             "total_precincts": 609
         },
         {
