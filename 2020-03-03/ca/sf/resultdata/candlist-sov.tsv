@@ -6,6 +6,7 @@ contest_id	candidate_order	candidate_id	candidate_type	candidate_full_name	candi
 10	03	47	Regular	DARIO HUNTER		N
 10	04	48	Regular	DENNIS LAMBERT		N
 10	05	49	Regular	SEDINAM MOYOWASIFZA-CURRY		N
+10	06	187	QualifiedWriteIn	KENT MESPLAY		Y
 11	01	50	Regular	HOWIE HAWKINS		N
 11	02	51	Regular	GLORIA LA RIVA		N
 12	01	52	Regular	KEN ARMSTRONG		N
@@ -21,6 +22,10 @@ contest_id	candidate_order	candidate_id	candidate_type	candidate_full_name	candi
 12	11	62	Regular	JO JORGENSEN		N
 12	12	63	Regular	DAN BEHRMAN		N
 12	13	64	Regular	ERIK CHASE GERHARDT		N
+12	14	188	QualifiedWriteIn	NICHOLAS D'ARTAGNAN DUMAS		Y
+12	15	189	QualifiedWriteIn	GEBY EVA ESPINOSA		Y
+12	16	190	QualifiedWriteIn	JAMES ORLANDO OGLE		Y
+12	17	191	QualifiedWriteIn	SORINNE ARDELEANU		Y
 13	01	70	Regular	DEANNA LORRAINE		N
 13	02	65	Regular	JOHN DENNIS		N
 13	03	66	Regular	NANCY PELOSI		N
@@ -146,6 +151,13 @@ contest_id	candidate_order	candidate_id	candidate_type	candidate_full_name	candi
 7	18	30	Regular	JOSEPH R. BIDEN		N
 7	19	31	Regular	TULSI GABBARD		N
 7	20	32	Regular	MARK STEWART GREENSTEIN		N
+7	21	178	QualifiedWriteIn	NAKIA L. ANTHONY		Y
+7	22	179	QualifiedWriteIn	DAPHNE DENISE BRADFORD		Y
+7	23	180	QualifiedWriteIn	WILLIE FELIX CARTER		Y
+7	24	181	QualifiedWriteIn	MICHAEL DENAME		Y
+7	25	182	QualifiedWriteIn	JEFFREY H. DROBMAN		Y
+7	26	183	QualifiedWriteIn	ROBERT JORDAN		Y
+7	27	184	QualifiedWriteIn	HEATHER MARIE STAGG		Y
 8	01	33	Regular	ROBERT ARDINI		N
 8	02	34	Regular	JOE WALSH		N
 8	03	35	Regular	BILL WELD		N
@@ -153,6 +165,8 @@ contest_id	candidate_order	candidate_id	candidate_type	candidate_full_name	candi
 8	05	37	Regular	MATTHEW JOHN MATERN		N
 8	06	38	Regular	ZOLTAN G. ISTVAN		N
 8	07	39	Regular	DONALD J. TRUMP		N
+8	08	185	QualifiedWriteIn	DENIS C. GRASSKA		Y
+8	09	186	QualifiedWriteIn	ROBERT LEE MANNING JR.		Y
 9	01	40	Regular	PHIL COLLINS		N
 9	02	41	Regular	ROQUE "ROCKY" DE LA FUENTE		N
 9	03	42	Regular	CHARLES KRAUT		N
