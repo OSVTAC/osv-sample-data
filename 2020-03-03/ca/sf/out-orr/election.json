@@ -626,9 +626,7 @@
                         "_id": "43",
                         "_id_ext": "03043",
                         "ballot_title": {
-                            "en": "J.R. MYERS",
-                            "es": "",
-                            "tl": ""
+                            "en": "J.R. MYERS"
                         },
                         "sequence": "04"
                     },
@@ -2185,9 +2183,7 @@
                         "_id": "69",
                         "_id_ext": "10069",
                         "ballot_title": {
-                            "en": "TOM GALLAGHER",
-                            "es": "",
-                            "tl": ""
+                            "en": "TOM GALLAGHER"
                         },
                         "sequence": "06",
                         "candidate_party": {
@@ -2260,9 +2256,7 @@
                         "_id": "72",
                         "_id_ext": "11072",
                         "ballot_title": {
-                            "en": "NIKKA PITERMAN",
-                            "es": "",
-                            "tl": ""
+                            "en": "NIKKA PITERMAN"
                         },
                         "sequence": "02",
                         "candidate_party": {
@@ -2335,9 +2329,7 @@
                         "_id": "74",
                         "_id_ext": "12074",
                         "ballot_title": {
-                            "en": "RAN S. PETEL",
-                            "es": "",
-                            "tl": ""
+                            "en": "RAN S. PETEL"
                         },
                         "sequence": "02",
                         "candidate_party": {
@@ -2658,9 +2650,7 @@
                         "_id": "83",
                         "_id_ext": "16083",
                         "ballot_title": {
-                            "en": "MARIA ELENA EVANGELISTA",
-                            "es": "",
-                            "tl": ""
+                            "en": "MARIA ELENA EVANGELISTA"
                         },
                         "sequence": "01",
                         "ballot_designation": {
@@ -2815,9 +2805,7 @@
                 "_type": "measure",
                 "header_id": "188",
                 "ballot_title": {
-                    "en": "13",
-                    "es": "",
-                    "tl": ""
+                    "en": "13"
                 },
                 "name": {
                     "en": "State Proposition 13",
@@ -2865,9 +2853,7 @@
                 "_type": "measure",
                 "header_id": "198",
                 "ballot_title": {
-                    "en": "A",
-                    "es": "",
-                    "tl": ""
+                    "en": "A"
                 },
                 "name": {
                     "en": "Proposition A",
@@ -2918,9 +2904,7 @@
                 "_type": "measure",
                 "header_id": "208",
                 "ballot_title": {
-                    "en": "B",
-                    "es": "",
-                    "tl": ""
+                    "en": "B"
                 },
                 "name": {
                     "en": "Proposition B",
@@ -2971,9 +2955,7 @@
                 "_type": "measure",
                 "header_id": "208",
                 "ballot_title": {
-                    "en": "C",
-                    "es": "",
-                    "tl": ""
+                    "en": "C"
                 },
                 "name": {
                     "en": "Proposition C",
@@ -3024,9 +3006,7 @@
                 "_type": "measure",
                 "header_id": "208",
                 "ballot_title": {
-                    "en": "D",
-                    "es": "",
-                    "tl": ""
+                    "en": "D"
                 },
                 "name": {
                     "en": "Proposition D",
@@ -3077,9 +3057,7 @@
                 "_type": "measure",
                 "header_id": "208",
                 "ballot_title": {
-                    "en": "E",
-                    "es": "",
-                    "tl": ""
+                    "en": "E"
                 },
                 "name": {
                     "en": "Proposition E",
