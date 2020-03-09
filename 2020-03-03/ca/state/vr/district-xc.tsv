@@ -1,0 +1,174 @@
+District_Code|County_List|Registration_List
+usrep01|Butte; Shasta; Nevada; Tehama; Placer; Siskiyou; Lassen; Plumas; Modoc; Sierra; Glenn|116182; 103883; 58172; 35087; 30489; 27662; 14028; 12688; 4984; 2123; 1177
+usrep02|Marin; Sonoma; Humboldt; Mendocino; Del Norte; Trinity|166260; 117312; 79198; 52602; 15182; 7897
+usrep03|Solano; Yolo; Sutter; Yuba; Sacramento; Lake; Glenn; Colusa|153288; 88697; 48423; 36707; 18253; 15876; 12277; 9093
+usrep04|Placer; El Dorado; Tuolumne; Calaveras; Amador; Madera; Mariposa; Nevada; Fresno; Alpine|217443; 124979; 32562; 29889; 23717; 17207; 10916; 9979; 9757; 788
+usrep05|Sonoma; Solano; Napa; Contra Costa; Lake|162026; 85979; 80667; 57574; 18029
+usrep06|Sacramento; Yolo|351484; 28681
+usrep07|Sacramento|434278
+usrep08|San Bernardino; Inyo; Mono|335685; 10029; 7095
+usrep09|San Joaquin; Contra Costa; Sacramento|225616; 116308; 14641
+usrep10|Stanislaus; San Joaquin|261326; 100854
+usrep11|Contra Costa|436511
+usrep12|San Francisco|447027
+usrep13|Alameda; San Francisco|460319; 0
+usrep14|San Mateo; San Francisco|344629; 58219
+usrep15|Alameda; Contra Costa|366874; 46880
+usrep16|Fresno; Merced; Madera|142178; 104706; 44644
+usrep17|Santa Clara; Alameda|256212; 92982
+usrep18|Santa Clara; San Mateo; Santa Cruz|315065; 72670; 36377
+usrep19|Santa Clara|371893
+usrep20|Monterey; Santa Cruz; San Benito; Santa Clara|195245; 127227; 32453; 8122
+usrep21|Kern; Fresno; Kings; Tulare|102486; 78307; 55738; 7702
+usrep22|Fresno; Tulare|241142; 138513
+usrep23|Kern; Los Angeles; Tulare|296668; 47031; 36871
+usrep24|Santa Barbara; San Luis Obispo; Ventura|226923; 176343; 5687
+usrep25|Los Angeles; Ventura|348968; 71960
+usrep26|Ventura; Los Angeles|384210; 6344
+usrep27|Los Angeles; San Bernardino|385015; 23742
+usrep28|Los Angeles|451809
+usrep29|Los Angeles|343799
+usrep30|Los Angeles; Ventura|457360; 1370
+usrep31|San Bernardino|366805
+usrep32|Los Angeles|356124
+usrep33|Los Angeles|495794
+usrep34|Los Angeles|334731
+usrep35|San Bernardino; Los Angeles|247416; 69207
+usrep36|Riverside|347687
+usrep37|Los Angeles|446388
+usrep38|Los Angeles; Orange|386166; 8675
+usrep39|Orange; Los Angeles; San Bernardino|239180; 108614; 42542
+usrep40|Los Angeles|300433
+usrep41|Riverside|323197
+usrep42|Riverside|398999
+usrep43|Los Angeles|401333
+usrep44|Los Angeles|362052
+usrep45|Orange|440760
+usrep46|Orange|269160
+usrep47|Los Angeles; Orange|245617; 145195
+usrep48|Orange|423952
+usrep49|San Diego; Orange|315795; 107485
+usrep50|San Diego; Riverside|365087; 46434
+usrep51|San Diego; Imperial|259079; 77111
+usrep52|San Diego|444192
+usrep53|San Diego|441985
+caasm01|Shasta; Nevada; Placer; Siskiyou; Lassen; Plumas; Butte; Modoc; Sierra|103883; 68151; 37421; 27662; 14028; 12688; 10054; 4984; 2123
+caasm02|Sonoma; Humboldt; Mendocino; Del Norte; Trinity|117808; 79198; 52602; 15182; 7897
+caasm03|Butte; Sutter; Yuba; Tehama; Glenn; Colusa|106128; 48423; 36707; 35087; 13454; 4679
+caasm04|Yolo; Napa; Sonoma; Lake; Solano; Colusa|88697; 80667; 38047; 33905; 18646; 4414
+caasm05|El Dorado; Madera; Tuolumne; Calaveras; Amador; Placer; Mariposa; Mono; Alpine|78299; 61851; 32562; 29889; 23717; 14651; 10916; 7095; 788
+caasm06|Placer; Sacramento; El Dorado|195860; 88247; 46680
+caasm07|Sacramento; Yolo|230632; 28681
+caasm08|Sacramento|273244
+caasm09|Sacramento; San Joaquin|224353; 35611
+caasm10|Marin; Sonoma|166260; 123483
+caasm11|Contra Costa; Solano; Sacramento|138763; 134632; 2180
+caasm12|Stanislaus; San Joaquin|167788; 85323
+caasm13|San Joaquin|205536
+caasm14|Contra Costa; Solano|193640; 85989
+caasm15|Alameda; Contra Costa|173455; 133625
+caasm16|Contra Costa; Alameda|191245; 133502
+caasm17|San Francisco|293158
+caasm18|Alameda|286142
+caasm19|San Francisco; San Mateo|212088; 65338
+caasm20|Alameda|249332
+caasm21|Merced; Stanislaus|104706; 93538
+caasm22|San Mateo|279577
+caasm23|Fresno; Tulare|283163; 3549
+caasm24|Santa Clara; San Mateo|183469; 72384
+caasm25|Santa Clara; Alameda|154028; 77744
+caasm26|Tulare; Inyo; Kern|179537; 10029; 8914
+caasm27|Santa Clara|219977
+caasm28|Santa Clara|273081
+caasm29|Santa Cruz; Monterey; Santa Clara|136785; 101075; 56871
+caasm30|Monterey; Santa Clara; San Benito; Santa Cruz|94170; 63866; 32453; 26819
+caasm31|Fresno|188221
+caasm32|Kern; Kings|103159; 55738
+caasm33|San Bernardino|231503
+caasm34|Kern|267368
+caasm35|San Luis Obispo; Santa Barbara|176343; 85686
+caasm36|Los Angeles; Kern; San Bernardino|223104; 19713; 10033
+caasm37|Santa Barbara; Ventura; San Luis Obispo|141237; 140223; 0
+caasm38|Los Angeles; Ventura|225293; 77269
+caasm39|Los Angeles|244380
+caasm40|San Bernardino|248237
+caasm41|Los Angeles; San Bernardino|240699; 59766
+caasm42|Riverside; San Bernardino|191195; 64321
+caasm43|Los Angeles|294001
+caasm44|Ventura; Los Angeles|244365; 6344
+caasm45|Los Angeles; Ventura|285523; 1370
+caasm46|Los Angeles|261154
+caasm47|San Bernardino|215505
+caasm48|Los Angeles|239440
+caasm49|Los Angeles|225979
+caasm50|Los Angeles|341073
+caasm51|Los Angeles|239331
+caasm52|San Bernardino; Los Angeles|144612; 69517
+caasm53|Los Angeles|201581
+caasm54|Los Angeles|310723
+caasm55|Orange; Los Angeles; San Bernardino|129848; 90090; 42213
+caasm56|Riverside; Imperial|116964; 77111
+caasm57|Los Angeles|255044
+caasm58|Los Angeles|250822
+caasm59|Los Angeles|210566
+caasm60|Riverside|226737
+caasm61|Riverside|219628
+caasm62|Los Angeles|283027
+caasm63|Los Angeles|220210
+caasm64|Los Angeles|248831
+caasm65|Orange|222864
+caasm66|Los Angeles|301171
+caasm67|Riverside|269651
+caasm68|Orange|278033
+caasm69|Orange|163430
+caasm70|Los Angeles|278882
+caasm71|San Diego; Riverside|249363; 22163
+caasm72|Orange|252810
+caasm73|Orange|298244
+caasm74|Orange|289178
+caasm75|San Diego; Riverside|199365; 69979
+caasm76|San Diego|268724
+caasm77|San Diego|301468
+caasm78|San Diego|294211
+caasm79|San Diego|279457
+caasm80|San Diego|233550
+casen01|Placer; El Dorado; Shasta; Sacramento; Nevada; Siskiyou; Lassen; Plumas; Modoc; Sierra; Alpine|155487; 124979; 103883; 94468; 68151; 27662; 14028; 12688; 4984; 2123; 788
+casen02|Sonoma; Marin; Humboldt; Mendocino; Lake; Del Norte; Trinity|196110; 166260; 79198; 52602; 33905; 15182; 7897
+casen03|Solano; Yolo; Sonoma; Napa; Contra Costa; Sacramento|239267; 88697; 83228; 80667; 54522; 3355
+casen04|Sacramento; Butte; Placer; Sutter; Yuba; Tehama; Glenn; Colusa|170832; 116182; 92445; 48423; 36707; 35087; 13454; 9093
+casen05|San Joaquin; Stanislaus; Sacramento|326470; 123511; 14903
+casen06|Sacramento; Yolo|505177; 28681
+casen07|Contra Costa; Alameda|463575; 135019
+casen08|Fresno; Stanislaus; Tuolumne; Sacramento; Calaveras; Amador; Madera; Mariposa; Inyo; Mono; Tulare|312809; 77820; 32562; 29921; 29889; 23717; 17207; 10916; 10029; 7095; 2583
+casen09|Alameda; Contra Costa|455879; 139176
+casen10|Alameda; Santa Clara|329277; 153508
+casen11|San Francisco; San Mateo|505246; 63124
+casen12|Merced; Monterey; Stanislaus; Fresno; Madera; San Benito|104706; 85861; 59995; 49529; 44644; 32453
+casen13|San Mateo; Santa Clara|354175; 180733
+casen14|Fresno; Kern; Tulare; Kings|109046; 92388; 69809; 55738
+casen15|Santa Clara|498633
+casen16|Kern; Tulare; San Bernardino|306766; 110694; 63775
+casen17|San Luis Obispo; Santa Cruz; Santa Clara; Monterey|176343; 163604; 118418; 109384
+casen18|Los Angeles|503382
+casen19|Ventura; Santa Barbara|264130; 226923
+casen20|San Bernardino; Los Angeles|360117; 69517
+casen21|Los Angeles; San Bernardino|350227; 164976
+casen22|Los Angeles|451407
+casen23|San Bernardino; Riverside; Los Angeles|339453; 181798; 38
+casen24|Los Angeles|446742
+casen25|Los Angeles; San Bernardino|547965; 45656
+casen26|Los Angeles|658624
+casen27|Los Angeles; Ventura|392551; 199097
+casen28|Riverside|488154
+casen29|Orange; Los Angeles; San Bernardino|347029; 90091; 42213
+casen30|Los Angeles|545033
+casen31|Riverside|446365
+casen32|Los Angeles; Orange|491234; 28324
+casen33|Los Angeles|439252
+casen34|Orange; Los Angeles|390505; 45620
+casen35|Los Angeles|515102
+casen36|Orange; San Diego|298244; 274506
+casen37|Orange|570305
+casen38|San Diego|557435
+casen39|San Diego|589426
+casen40|San Diego; Imperial|404771; 77111
