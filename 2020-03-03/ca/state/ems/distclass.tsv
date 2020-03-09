@@ -1,0 +1,243 @@
+District_Code	Classification	District_Name	District_Short_Name
+ca	State	State of California	California
+ca/alm	County	Alameda County	Alameda
+ca/alp	County	Alpine County	Alpine
+ca/am	County	Amador County	Amador
+ca/bt	County	Butte County	Butte
+ca/clv	County	Calaveras County	Calaveras
+ca/cls	County	Colusa County	Colusa
+ca/cc	County	Contra Costa County	Contra Costa
+ca/dn	County	Del Norte County	Del Norte
+ca/ed	County	El Dorado County	El Dorado
+ca/fr	County	Fresno County	Fresno
+ca/gl	County	Glenn County	Glenn
+ca/hm	County	Humboldt County	Humboldt
+ca/im	County	Imperial County	Imperial
+ca/in	County	Inyo County	Inyo
+ca/kr	County	Kern County	Kern
+ca/kn	County	Kings County	Kings
+ca/lk	County	Lake County	Lake
+ca/ls	County	Lassen County	Lassen
+ca/la	County	Los Angeles County	Los Angeles
+ca/mdr	County	Madera County	Madera
+ca/mrn	County	Marin County	Marin
+ca/mrp	County	Mariposa County	Mariposa
+ca/mnd	County	Mendocino County	Mendocino
+ca/mrc	County	Merced County	Merced
+ca/mdc	County	Modoc County	Modoc
+ca/mon	County	Mono County	Mono
+ca/mnt	County	Monterey County	Monterey
+ca/np	County	Napa County	Napa
+ca/nv	County	Nevada County	Nevada
+ca/or	County	Orange County	Orange
+ca/plc	County	Placer County	Placer
+ca/plm	County	Plumas County	Plumas
+ca/rv	County	Riverside County	Riverside
+ca/sac	County	Sacramento County	Sacramento
+ca/sbn	County	San Benito County	San Benito
+ca/sbo	County	San Bernardino County	San Bernardino
+ca/sd	County	San Diego County	San Diego
+ca/sf	County	San Francisco County	San Francisco
+ca/sj	County	San Joaquin County	San Joaquin
+ca/slo	County	San Luis Obispo County	San Luis Obispo
+ca/sm	County	San Mateo County	San Mateo
+ca/sba	County	Santa Barbara County	Santa Barbara
+ca/scl	County	Santa Clara County	Santa Clara
+ca/scz	County	Santa Cruz County	Santa Cruz
+ca/sh	County	Shasta County	Shasta
+ca/sr	County	Sierra County	Sierra
+ca/ss	County	Siskiyou County	Siskiyou
+ca/sln	County	Solano County	Solano
+ca/sn	County	Sonoma County	Sonoma
+ca/stn	County	Stanislaus County	Stanislaus
+ca/str	County	Sutter County	Sutter
+ca/th	County	Tehama County	Tehama
+ca/tr	County	Trinity County	Trinity
+ca/tlr	County	Tulare County	Tulare
+ca/tlm	County	Tuolumne County	Tuolumne
+ca/vn	County	Ventura County	Ventura
+ca/yl	County	Yolo County	Yolo
+ca/yb	County	Yuba County	Yuba
+caasm01	Assembly District	California State Assembly District  1	Assembly District  1
+caasm02	Assembly District	California State Assembly District  2	Assembly District  2
+caasm03	Assembly District	California State Assembly District  3	Assembly District  3
+caasm04	Assembly District	California State Assembly District  4	Assembly District  4
+caasm05	Assembly District	California State Assembly District  5	Assembly District  5
+caasm06	Assembly District	California State Assembly District  6	Assembly District  6
+caasm07	Assembly District	California State Assembly District  7	Assembly District  7
+caasm08	Assembly District	California State Assembly District  8	Assembly District  8
+caasm09	Assembly District	California State Assembly District  9	Assembly District  9
+caasm10	Assembly District	California State Assembly District 10	Assembly District 10
+caasm11	Assembly District	California State Assembly District 11	Assembly District 11
+caasm12	Assembly District	California State Assembly District 12	Assembly District 12
+caasm13	Assembly District	California State Assembly District 13	Assembly District 13
+caasm14	Assembly District	California State Assembly District 14	Assembly District 14
+caasm15	Assembly District	California State Assembly District 15	Assembly District 15
+caasm16	Assembly District	California State Assembly District 16	Assembly District 16
+caasm17	Assembly District	California State Assembly District 17	Assembly District 17
+caasm18	Assembly District	California State Assembly District 18	Assembly District 18
+caasm19	Assembly District	California State Assembly District 19	Assembly District 19
+caasm20	Assembly District	California State Assembly District 20	Assembly District 20
+caasm21	Assembly District	California State Assembly District 21	Assembly District 21
+caasm22	Assembly District	California State Assembly District 22	Assembly District 22
+caasm23	Assembly District	California State Assembly District 23	Assembly District 23
+caasm24	Assembly District	California State Assembly District 24	Assembly District 24
+caasm25	Assembly District	California State Assembly District 25	Assembly District 25
+caasm26	Assembly District	California State Assembly District 26	Assembly District 26
+caasm27	Assembly District	California State Assembly District 27	Assembly District 27
+caasm28	Assembly District	California State Assembly District 28	Assembly District 28
+caasm29	Assembly District	California State Assembly District 29	Assembly District 29
+caasm30	Assembly District	California State Assembly District 30	Assembly District 30
+caasm31	Assembly District	California State Assembly District 31	Assembly District 31
+caasm32	Assembly District	California State Assembly District 32	Assembly District 32
+caasm33	Assembly District	California State Assembly District 33	Assembly District 33
+caasm34	Assembly District	California State Assembly District 34	Assembly District 34
+caasm35	Assembly District	California State Assembly District 35	Assembly District 35
+caasm36	Assembly District	California State Assembly District 36	Assembly District 36
+caasm37	Assembly District	California State Assembly District 37	Assembly District 37
+caasm38	Assembly District	California State Assembly District 38	Assembly District 38
+caasm39	Assembly District	California State Assembly District 39	Assembly District 39
+caasm40	Assembly District	California State Assembly District 40	Assembly District 40
+caasm41	Assembly District	California State Assembly District 41	Assembly District 41
+caasm42	Assembly District	California State Assembly District 42	Assembly District 42
+caasm43	Assembly District	California State Assembly District 43	Assembly District 43
+caasm44	Assembly District	California State Assembly District 44	Assembly District 44
+caasm45	Assembly District	California State Assembly District 45	Assembly District 45
+caasm46	Assembly District	California State Assembly District 46	Assembly District 46
+caasm47	Assembly District	California State Assembly District 47	Assembly District 47
+caasm48	Assembly District	California State Assembly District 48	Assembly District 48
+caasm49	Assembly District	California State Assembly District 49	Assembly District 49
+caasm50	Assembly District	California State Assembly District 50	Assembly District 50
+caasm51	Assembly District	California State Assembly District 51	Assembly District 51
+caasm52	Assembly District	California State Assembly District 52	Assembly District 52
+caasm53	Assembly District	California State Assembly District 53	Assembly District 53
+caasm54	Assembly District	California State Assembly District 54	Assembly District 54
+caasm55	Assembly District	California State Assembly District 55	Assembly District 55
+caasm56	Assembly District	California State Assembly District 56	Assembly District 56
+caasm57	Assembly District	California State Assembly District 57	Assembly District 57
+caasm58	Assembly District	California State Assembly District 58	Assembly District 58
+caasm59	Assembly District	California State Assembly District 59	Assembly District 59
+caasm60	Assembly District	California State Assembly District 60	Assembly District 60
+caasm61	Assembly District	California State Assembly District 61	Assembly District 61
+caasm62	Assembly District	California State Assembly District 62	Assembly District 62
+caasm63	Assembly District	California State Assembly District 63	Assembly District 63
+caasm64	Assembly District	California State Assembly District 64	Assembly District 64
+caasm65	Assembly District	California State Assembly District 65	Assembly District 65
+caasm66	Assembly District	California State Assembly District 66	Assembly District 66
+caasm67	Assembly District	California State Assembly District 67	Assembly District 67
+caasm68	Assembly District	California State Assembly District 68	Assembly District 68
+caasm69	Assembly District	California State Assembly District 69	Assembly District 69
+caasm70	Assembly District	California State Assembly District 70	Assembly District 70
+caasm71	Assembly District	California State Assembly District 71	Assembly District 71
+caasm72	Assembly District	California State Assembly District 72	Assembly District 72
+caasm73	Assembly District	California State Assembly District 73	Assembly District 73
+caasm74	Assembly District	California State Assembly District 74	Assembly District 74
+caasm75	Assembly District	California State Assembly District 75	Assembly District 75
+caasm76	Assembly District	California State Assembly District 76	Assembly District 76
+caasm77	Assembly District	California State Assembly District 77	Assembly District 77
+caasm78	Assembly District	California State Assembly District 78	Assembly District 78
+caasm79	Assembly District	California State Assembly District 79	Assembly District 79
+caasm80	Assembly District	California State Assembly District 80	Assembly District 80
+usrep01	Congressional District	California Congressional District  1	Congressional District  1
+usrep02	Congressional District	California Congressional District  2	Congressional District  2
+usrep03	Congressional District	California Congressional District  3	Congressional District  3
+usrep04	Congressional District	California Congressional District  4	Congressional District  4
+usrep05	Congressional District	California Congressional District  5	Congressional District  5
+usrep06	Congressional District	California Congressional District  6	Congressional District  6
+usrep07	Congressional District	California Congressional District  7	Congressional District  7
+usrep08	Congressional District	California Congressional District  8	Congressional District  8
+usrep09	Congressional District	California Congressional District  9	Congressional District  9
+usrep10	Congressional District	California Congressional District 10	Congressional District 10
+usrep11	Congressional District	California Congressional District 11	Congressional District 11
+usrep12	Congressional District	California Congressional District 12	Congressional District 12
+usrep13	Congressional District	California Congressional District 13	Congressional District 13
+usrep14	Congressional District	California Congressional District 14	Congressional District 14
+usrep15	Congressional District	California Congressional District 15	Congressional District 15
+usrep16	Congressional District	California Congressional District 16	Congressional District 16
+usrep17	Congressional District	California Congressional District 17	Congressional District 17
+usrep18	Congressional District	California Congressional District 18	Congressional District 18
+usrep19	Congressional District	California Congressional District 19	Congressional District 19
+usrep20	Congressional District	California Congressional District 20	Congressional District 20
+usrep21	Congressional District	California Congressional District 21	Congressional District 21
+usrep22	Congressional District	California Congressional District 22	Congressional District 22
+usrep23	Congressional District	California Congressional District 23	Congressional District 23
+usrep24	Congressional District	California Congressional District 24	Congressional District 24
+usrep25	Congressional District	California Congressional District 25	Congressional District 25
+usrep26	Congressional District	California Congressional District 26	Congressional District 26
+usrep27	Congressional District	California Congressional District 27	Congressional District 27
+usrep28	Congressional District	California Congressional District 28	Congressional District 28
+usrep29	Congressional District	California Congressional District 29	Congressional District 29
+usrep30	Congressional District	California Congressional District 30	Congressional District 30
+usrep31	Congressional District	California Congressional District 31	Congressional District 31
+usrep32	Congressional District	California Congressional District 32	Congressional District 32
+usrep33	Congressional District	California Congressional District 33	Congressional District 33
+usrep34	Congressional District	California Congressional District 34	Congressional District 34
+usrep35	Congressional District	California Congressional District 35	Congressional District 35
+usrep36	Congressional District	California Congressional District 36	Congressional District 36
+usrep37	Congressional District	California Congressional District 37	Congressional District 37
+usrep38	Congressional District	California Congressional District 38	Congressional District 38
+usrep39	Congressional District	California Congressional District 39	Congressional District 39
+usrep40	Congressional District	California Congressional District 40	Congressional District 40
+usrep41	Congressional District	California Congressional District 41	Congressional District 41
+usrep42	Congressional District	California Congressional District 42	Congressional District 42
+usrep43	Congressional District	California Congressional District 43	Congressional District 43
+usrep44	Congressional District	California Congressional District 44	Congressional District 44
+usrep45	Congressional District	California Congressional District 45	Congressional District 45
+usrep46	Congressional District	California Congressional District 46	Congressional District 46
+usrep47	Congressional District	California Congressional District 47	Congressional District 47
+usrep48	Congressional District	California Congressional District 48	Congressional District 48
+usrep49	Congressional District	California Congressional District 49	Congressional District 49
+usrep50	Congressional District	California Congressional District 50	Congressional District 50
+usrep51	Congressional District	California Congressional District 51	Congressional District 51
+usrep52	Congressional District	California Congressional District 52	Congressional District 52
+usrep53	Congressional District	California Congressional District 53	Congressional District 53
+casen01	Senate District	California State Senate District  1	Senate District  1
+casen02	Senate District	California State Senate District  2	Senate District  2
+casen03	Senate District	California State Senate District  3	Senate District  3
+casen04	Senate District	California State Senate District  4	Senate District  4
+casen05	Senate District	California State Senate District  5	Senate District  5
+casen06	Senate District	California State Senate District  6	Senate District  6
+casen07	Senate District	California State Senate District  7	Senate District  7
+casen08	Senate District	California State Senate District  8	Senate District  8
+casen09	Senate District	California State Senate District  9	Senate District  9
+casen10	Senate District	California State Senate District 10	Senate District 10
+casen11	Senate District	California State Senate District 11	Senate District 11
+casen12	Senate District	California State Senate District 12	Senate District 12
+casen13	Senate District	California State Senate District 13	Senate District 13
+casen14	Senate District	California State Senate District 14	Senate District 14
+casen15	Senate District	California State Senate District 15	Senate District 15
+casen16	Senate District	California State Senate District 16	Senate District 16
+casen17	Senate District	California State Senate District 17	Senate District 17
+casen18	Senate District	California State Senate District 18	Senate District 18
+casen19	Senate District	California State Senate District 19	Senate District 19
+casen20	Senate District	California State Senate District 20	Senate District 20
+casen21	Senate District	California State Senate District 21	Senate District 21
+casen22	Senate District	California State Senate District 22	Senate District 22
+casen23	Senate District	California State Senate District 23	Senate District 23
+casen24	Senate District	California State Senate District 24	Senate District 24
+casen25	Senate District	California State Senate District 25	Senate District 25
+casen26	Senate District	California State Senate District 26	Senate District 26
+casen27	Senate District	California State Senate District 27	Senate District 27
+casen28	Senate District	California State Senate District 28	Senate District 28
+casen29	Senate District	California State Senate District 29	Senate District 29
+casen30	Senate District	California State Senate District 30	Senate District 30
+casen31	Senate District	California State Senate District 31	Senate District 31
+casen32	Senate District	California State Senate District 32	Senate District 32
+casen33	Senate District	California State Senate District 33	Senate District 33
+casen34	Senate District	California State Senate District 34	Senate District 34
+casen35	Senate District	California State Senate District 35	Senate District 35
+casen36	Senate District	California State Senate District 36	Senate District 36
+casen37	Senate District	California State Senate District 37	Senate District 37
+casen38	Senate District	California State Senate District 38	Senate District 38
+casen39	Senate District	California State Senate District 39	Senate District 39
+casen40	Senate District	California State Senate District 40	Senate District 40
+bdeq1	State Tax Board	California State Board of Equalization District 1	Board of Equalization District 1
+bdeq2	State Tax Board	California State Board of Equalization District 2	Board of Equalization District 2
+bdeq3	State Tax Board	California State Board of Equalization District 3	Board of Equalization District 3
+bdeq4	State Tax Board	California State Board of Equalization District 4	Board of Equalization District 4
+appct1	State Appellate Court District	California State Court of Appeal District 1	Court of Appeal District 1
+appct2	State Appellate Court District	California State Court of Appeal District 2	Court of Appeal District 2
+appct3	State Appellate Court District	California State Court of Appeal District 3	Court of Appeal District 3
+appct4	State Appellate Court District	California State Court of Appeal District 4	Court of Appeal District 4
+appct5	State Appellate Court District	California State Court of Appeal District 5	Court of Appeal District 5
+appct6	State Appellate Court District	California State Court of Appeal District 6	Court of Appeal District 6
