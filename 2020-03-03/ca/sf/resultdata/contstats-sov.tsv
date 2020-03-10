@@ -4,6 +4,7 @@ contest_id	registration	ballots_cast	ballots_uncounted	computed_ballots	overvote
 11	503899	332	0	332	1	94	237	1	President P&F
 12	503899	1069	0	1069	7	390	672	1	President LIB
 13	445848	245717	0	245717	567	10921	234229	1	US House of Rep District 12
+14	0	0	0	0	0	0	0	1	US House of Rep District 13
 15	58051	29296	0	29296	63	2140	27093	1	US House of Rep District 14
 16	503899	275013	0	275013	224	24400	250389	1	STATE SENATOR District 11
 17	211477	116747	0	116747	24	14126	102597	1	STATE ASSEMBLY MEMBER District 19
