@@ -1,36 +1,36 @@
 contest_id	candidate_order	candidate_id	candidate_type	candidate_full_name	candidate_party_id	is_writein_candidate
-334	1	1	Regular	JOEL VENTRESCA		N
-334	2	2	Regular	WILMA PANG		N
-334	3	3	Regular	ROBERT L. JORDAN, JR.		N
-334	4	4	Regular	PAUL YBARRA ROBERTSON		N
-334	5	5	Regular	ELLEN LEE ZHOU		N
-334	6	6	Regular	LONDON N. BREED		N
-334	7	53	QualifiedWriteIn	MARC ROTH		Y
-339	1	15	Regular	SUZY LOFTUS		N
-339	2	16	Regular	LEIF DAUTCH		N
-339	3	17	Regular	NANCY TUNG		N
-339	4	18	Regular	CHESA BOUDIN		N
-342	1	32	Regular	YES		N
-342	2	33	Regular	NO		N
-343	1	34	Regular	YES		N
-343	2	35	Regular	NO		N
-344	1	36	Regular	YES		N
-344	2	37	Regular	NO		N
-345	1	38	Regular	YES		N
-345	2	39	Regular	NO		N
-346	1	40	Regular	YES		N
-346	2	41	Regular	NO		N
-349	1	24	Regular	JOSÉ CISNEROS		N
-350	1	22	Regular	PAUL MIYAMOTO		N
-351	1	30	Regular	IVY LEE		N
-352	1	13	Regular	DENNIS J. HERRERA		N
-353	1	8	Regular	RYAN LAM		N
-353	2	9	Regular	DEAN PRESTON		N
-353	3	10	Regular	NOMVULA O'MEARA		N
-353	4	11	Regular	VALLIE BROWN		N
-354	1	42	Regular	YES		N
-354	2	43	Regular	NO		N
-360	1	20	Regular	MANOHAR "MANO" RAJU		N
-361	1	26	Regular	JENNY LAM		N
-361	2	27	Regular	KIRSTEN STROBEL		N
-361	3	28	Regular	ROBERT K. COLEMAN		N
+334	01	1	Regular	JOEL VENTRESCA		N
+334	02	2	Regular	WILMA PANG		N
+334	03	3	Regular	ROBERT L. JORDAN, JR.		N
+334	04	4	Regular	PAUL YBARRA ROBERTSON		N
+334	05	5	Regular	ELLEN LEE ZHOU		N
+334	06	6	Regular	LONDON N. BREED		N
+334	07	53	QualifiedWriteIn	MARC ROTH		Y
+339	01	15	Regular	SUZY LOFTUS		N
+339	02	16	Regular	LEIF DAUTCH		N
+339	03	17	Regular	NANCY TUNG		N
+339	04	18	Regular	CHESA BOUDIN		N
+342	01	32	Regular	YES		N
+342	02	33	Regular	NO		N
+343	01	34	Regular	YES		N
+343	02	35	Regular	NO		N
+344	01	36	Regular	YES		N
+344	02	37	Regular	NO		N
+345	01	38	Regular	YES		N
+345	02	39	Regular	NO		N
+346	01	40	Regular	YES		N
+346	02	41	Regular	NO		N
+349	01	24	Regular	JOSÉ CISNEROS		N
+350	01	22	Regular	PAUL MIYAMOTO		N
+351	01	30	Regular	IVY LEE		N
+352	01	13	Regular	DENNIS J. HERRERA		N
+353	01	8	Regular	RYAN LAM		N
+353	02	9	Regular	DEAN PRESTON		N
+353	03	10	Regular	NOMVULA O'MEARA		N
+353	04	11	Regular	VALLIE BROWN		N
+354	01	42	Regular	YES		N
+354	02	43	Regular	NO		N
+360	01	20	Regular	MANOHAR "MANO" RAJU		N
+361	01	26	Regular	JENNY LAM		N
+361	02	27	Regular	KIRSTEN STROBEL		N
+361	03	28	Regular	ROBERT K. COLEMAN		N
