@@ -310,7 +310,14 @@
                     "winning_status": "not_winning"
                 }
             ],
-            "no_voter_precincts": [],
+            "no_voter_precincts": [
+                "PCT1151",
+                "PCT1154",
+                "PCT7954",
+                "PCT9900",
+                "PCT9901",
+                "PCT9902"
+            ],
             "precincts_reporting": 609,
             "rcv_rounds": 0,
             "result_stats": [
@@ -483,7 +490,14 @@
                     "winning_status": "not_winning"
                 }
             ],
-            "no_voter_precincts": [],
+            "no_voter_precincts": [
+                "PCT1151",
+                "PCT1154",
+                "PCT7954",
+                "PCT9900",
+                "PCT9901",
+                "PCT9902"
+            ],
             "precincts_reporting": 609,
             "rcv_rounds": 0,
             "result_stats": [
@@ -612,7 +626,14 @@
                     "winning_status": "not_winning"
                 }
             ],
-            "no_voter_precincts": [],
+            "no_voter_precincts": [
+                "PCT1151",
+                "PCT1154",
+                "PCT7954",
+                "PCT9900",
+                "PCT9901",
+                "PCT9902"
+            ],
             "precincts_reporting": 609,
             "rcv_rounds": 0,
             "result_stats": [
@@ -752,7 +773,14 @@
                     "winning_status": "not_winning"
                 }
             ],
-            "no_voter_precincts": [],
+            "no_voter_precincts": [
+                "PCT1151",
+                "PCT1154",
+                "PCT7954",
+                "PCT9900",
+                "PCT9901",
+                "PCT9902"
+            ],
             "precincts_reporting": 609,
             "rcv_rounds": 0,
             "result_stats": [
@@ -848,7 +876,14 @@
                     "winning_status": "winning"
                 }
             ],
-            "no_voter_precincts": [],
+            "no_voter_precincts": [
+                "PCT1151",
+                "PCT1154",
+                "PCT7954",
+                "PCT9900",
+                "PCT9901",
+                "PCT9902"
+            ],
             "precincts_reporting": 609,
             "rcv_rounds": 0,
             "result_stats": [
@@ -1109,7 +1144,14 @@
                     "winning_status": "not_winning"
                 }
             ],
-            "no_voter_precincts": [],
+            "no_voter_precincts": [
+                "PCT1151",
+                "PCT1154",
+                "PCT7954",
+                "PCT9900",
+                "PCT9901",
+                "PCT9902"
+            ],
             "precincts_reporting": 609,
             "rcv_rounds": 0,
             "result_stats": [
@@ -1568,7 +1610,14 @@
                     "winning_status": "winning"
                 }
             ],
-            "no_voter_precincts": [],
+            "no_voter_precincts": [
+                "PCT1151",
+                "PCT1154",
+                "PCT7954",
+                "PCT9900",
+                "PCT9901",
+                "PCT9902"
+            ],
             "precincts_reporting": 358,
             "rcv_rounds": 0,
             "result_stats": [
@@ -2101,7 +2150,14 @@
                     "winning_status": "winning"
                 }
             ],
-            "no_voter_precincts": [],
+            "no_voter_precincts": [
+                "PCT1151",
+                "PCT1154",
+                "PCT7954",
+                "PCT9900",
+                "PCT9901",
+                "PCT9902"
+            ],
             "precincts_reporting": 358,
             "rcv_rounds": 0,
             "result_stats": [
@@ -2241,7 +2297,11 @@
                     "winning_status": "not_winning"
                 }
             ],
-            "no_voter_precincts": [],
+            "no_voter_precincts": [
+                "PCT1151",
+                "PCT1154",
+                "PCT7954"
+            ],
             "precincts_reporting": 534,
             "rcv_rounds": 0,
             "result_stats": [
@@ -2313,102 +2373,6 @@
             "total_precincts": 534
         },
         {
-            "_id": "14",
-            "choices": [
-                {
-                    "_id": "71",
-                    "ballot_title": "BARBARA LEE",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "72",
-                    "ballot_title": "NIKKA PITERMAN",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [],
-            "precincts_reporting": 1,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSWri",
-                    "heading": "Writein Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
-            ],
-            "total_precincts": 1
-        },
-        {
             "_id": "15",
             "choices": [
                 {
@@ -2456,7 +2420,10 @@
                     "winning_status": "not_winning"
                 }
             ],
-            "no_voter_precincts": [],
+            "no_voter_precincts": [
+                "PCT9901",
+                "PCT9902"
+            ],
             "precincts_reporting": 74,
             "rcv_rounds": 0,
             "result_stats": [
@@ -2564,7 +2531,14 @@
                     "winning_status": "to_runoff"
                 }
             ],
-            "no_voter_precincts": [],
+            "no_voter_precincts": [
+                "PCT1151",
+                "PCT1154",
+                "PCT7954",
+                "PCT9900",
+                "PCT9901",
+                "PCT9902"
+            ],
             "precincts_reporting": 609,
             "rcv_rounds": 0,
             "result_stats": [
@@ -2661,7 +2635,14 @@
                     "winning_status": "to_runoff"
                 }
             ],
-            "no_voter_precincts": [],
+            "no_voter_precincts": [
+                "PCT1151",
+                "PCT1154",
+                "PCT7954",
+                "PCT9900",
+                "PCT9901",
+                "PCT9902"
+            ],
             "precincts_reporting": 358,
             "rcv_rounds": 0,
             "result_stats": [
@@ -2855,7 +2836,14 @@
                     "winning_status": "not_winning"
                 }
             ],
-            "no_voter_precincts": [],
+            "no_voter_precincts": [
+                "PCT1151",
+                "PCT1154",
+                "PCT7954",
+                "PCT9900",
+                "PCT9901",
+                "PCT9902"
+            ],
             "precincts_reporting": 609,
             "rcv_rounds": 0,
             "result_stats": [
@@ -2952,7 +2940,14 @@
                     "winning_status": "to_runoff"
                 }
             ],
-            "no_voter_precincts": [],
+            "no_voter_precincts": [
+                "PCT1151",
+                "PCT1154",
+                "PCT7954",
+                "PCT9900",
+                "PCT9901",
+                "PCT9902"
+            ],
             "precincts_reporting": 609,
             "rcv_rounds": 0,
             "result_stats": [
@@ -3049,7 +3044,14 @@
                     "winning_status": "to_runoff"
                 }
             ],
-            "no_voter_precincts": [],
+            "no_voter_precincts": [
+                "PCT1151",
+                "PCT1154",
+                "PCT7954",
+                "PCT9900",
+                "PCT9901",
+                "PCT9902"
+            ],
             "precincts_reporting": 609,
             "rcv_rounds": 0,
             "result_stats": [
@@ -3146,7 +3148,14 @@
                     "winning_status": "not_winning"
                 }
             ],
-            "no_voter_precincts": [],
+            "no_voter_precincts": [
+                "PCT1151",
+                "PCT1154",
+                "PCT7954",
+                "PCT9900",
+                "PCT9901",
+                "PCT9902"
+            ],
             "precincts_reporting": 609,
             "rcv_rounds": 0,
             "result_stats": [
@@ -3234,7 +3243,14 @@
                     "winning_status": "not_winning"
                 }
             ],
-            "no_voter_precincts": [],
+            "no_voter_precincts": [
+                "PCT1151",
+                "PCT1154",
+                "PCT7954",
+                "PCT9900",
+                "PCT9901",
+                "PCT9902"
+            ],
             "precincts_reporting": 609,
             "rcv_rounds": 0,
             "result_stats": [
@@ -3322,7 +3338,14 @@
                     "winning_status": "not_winning"
                 }
             ],
-            "no_voter_precincts": [],
+            "no_voter_precincts": [
+                "PCT1151",
+                "PCT1154",
+                "PCT7954",
+                "PCT9900",
+                "PCT9901",
+                "PCT9902"
+            ],
             "precincts_reporting": 609,
             "rcv_rounds": 0,
             "result_stats": [
@@ -3410,7 +3433,14 @@
                     "winning_status": "not_winning"
                 }
             ],
-            "no_voter_precincts": [],
+            "no_voter_precincts": [
+                "PCT1151",
+                "PCT1154",
+                "PCT7954",
+                "PCT9900",
+                "PCT9901",
+                "PCT9902"
+            ],
             "precincts_reporting": 609,
             "rcv_rounds": 0,
             "result_stats": [
@@ -3498,7 +3528,14 @@
                     "winning_status": "not_winning"
                 }
             ],
-            "no_voter_precincts": [],
+            "no_voter_precincts": [
+                "PCT1151",
+                "PCT1154",
+                "PCT7954",
+                "PCT9900",
+                "PCT9901",
+                "PCT9902"
+            ],
             "precincts_reporting": 609,
             "rcv_rounds": 0,
             "result_stats": [
@@ -3586,7 +3623,14 @@
                     "winning_status": "not_winning"
                 }
             ],
-            "no_voter_precincts": [],
+            "no_voter_precincts": [
+                "PCT1151",
+                "PCT1154",
+                "PCT7954",
+                "PCT9900",
+                "PCT9901",
+                "PCT9902"
+            ],
             "precincts_reporting": 609,
             "rcv_rounds": 0,
             "result_stats": [
@@ -3652,7 +3696,14 @@
     "turnout": {
         "_id": "TURNOUT",
         "no_voter_precincts": [
-            []
+            [
+                "PCT1151",
+                "PCT1154",
+                "PCT7954",
+                "PCT9900",
+                "PCT9901",
+                "PCT9902"
+            ]
         ],
         "precincts_reporting": 609,
         "result_stats": [

@@ -40,10 +40,10 @@ cons_precinct_id	cons_precinct_name	is_vbm	no_voters	precinct_ids
 1147	Precinct 1147	N	N	1147
 1148	Precinct 1148	N	N	1148
 1149	Precinct 1149	N	N	1149
-1151	Precinct 1151 MB	Y	N	1151
+1151	Precinct 1151 MB	Y	Y	1151
 1152	Precinct 1152	N	N	1152
 1153	Precinct 1153	N	N	1153
-1154	Precinct 1154 MB	Y	N	1154
+1154	Precinct 1154 MB	Y	Y	1154
 7001	Precinct 7001	N	N	7001
 7002	Precinct 7002	N	N	7002
 7003	Precinct 7003	N	N	7003
@@ -380,7 +380,7 @@ cons_precinct_id	cons_precinct_name	is_vbm	no_voters	precinct_ids
 7951	Precinct 7951	N	N	7951
 7952	Precinct 7952	N	N	7952
 7953	Precinct 7953	N	N	7953
-7954	Precinct 7954 MB	Y	N	7954
+7954	Precinct 7954 MB	Y	Y	7954
 7955	Precinct 7955	N	N	7955
 7956	Precinct 7956	N	N	7956
 7957	Precinct 7957	N	N	7957
@@ -605,6 +605,6 @@ cons_precinct_id	cons_precinct_name	is_vbm	no_voters	precinct_ids
 9755	Precinct 9755	N	N	9755
 9756	Precinct 9756	N	N	9756
 9801	Precinct 9801	N	N	9801
-9900	Precinct 9900 MB	Y	N	9900
-9901	Precinct 9901 MB	Y	N	9901
-9902	Precinct 9902 MB	Y	N	9902
+9900	Precinct 9900 MB	Y	Y	9900
+9901	Precinct 9901 MB	Y	Y	9901
+9902	Precinct 9902 MB	Y	Y	9902
