@@ -6894,7 +6894,7 @@
             "name": "California Congressional District 13",
             "short_name": "Congressional District 13",
             "classification": "Congressional District",
-            "reporting_group_ids": "ALLPCTS~TO ALLPCTS~ED ALLPCTS~MV PCT9900~MV PCT9900~ED PCT9900~TO ASSM17~MV ASSM17~ED ASSM17~TO SUPV10~MV SUPV10~ED SUPV10~TO NEIG1~MV NEIG1~ED NEIG1~TO ASSM17~MV ASSM17~ED ASSM17~TO SUPV10~MV SUPV10~ED SUPV10~TO NEIG1~MV NEIG1~ED NEIG1~TO"
+            "reporting_group_ids": "ALLPCTS~TO ALLPCTS~ED ALLPCTS~MV PCT9900~MV PCT9900~ED PCT9900~TO"
         },
         {
             "_id": "CONG14",
