@@ -221,6 +221,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一人"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "choices": [
                     {
@@ -483,6 +484,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一人"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "choices": [
                     {
@@ -596,6 +598,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一人"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "choices": [
                     {
@@ -669,6 +672,7 @@
                     "tl": "Kinakatigang Kandidato sa pagka-Presidente",
                     "zh": "選擇總統候選人"
                 },
+                "votes_allowed": 1,
                 "choices": [
                     {
                         "_id": "45",
@@ -756,6 +760,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一人"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "choices": [
                     {
@@ -811,6 +816,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一人"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "choices": [
                     {
@@ -990,6 +996,8 @@
                     "tl": "Bumoto ng hindi hihigit sa 14",
                     "zh": "選不超過14人"
                 },
+                "votes_allowed": 14,
+                "number_elected": 14,
                 "choices": [
                     {
                         "_id": "110",
@@ -1517,6 +1525,8 @@
                     "tl": "Bumoto ng hindi hihigit sa 10",
                     "zh": "選不超過10人"
                 },
+                "votes_allowed": 10,
+                "number_elected": 10,
                 "choices": [
                     {
                         "_id": "89",
@@ -1848,6 +1858,8 @@
                     "tl": "Bumoto ng hindi hihigit sa 11",
                     "zh": "選不超過11人"
                 },
+                "votes_allowed": 11,
+                "number_elected": 11,
                 "choices": [
                     {
                         "_id": "145",
@@ -2075,6 +2087,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一人"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "runoff_date": "2020-11-03",
                 "runoff_type": "top_2",
@@ -2092,6 +2105,7 @@
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向： 共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Consultant / Author",
                             "es": "Consultora / Autora",
@@ -2112,6 +2126,7 @@
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向： 共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Independent Businessman",
                             "es": "Hombre de negocios independiente",
@@ -2132,6 +2147,7 @@
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向： 民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Member of Congress",
                             "es": "Miembro del congreso",
@@ -2152,6 +2168,7 @@
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向： 民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Documentary Filmmaker",
                             "es": "Cineasta de documentales",
@@ -2172,6 +2189,7 @@
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向： 民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Public Interest Lawyer",
                             "es": "Abogado de interés público",
@@ -2192,6 +2210,7 @@
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向： 民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Teacher / Writer",
                             "es": "Maestro / Escritor",
@@ -2228,6 +2247,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一人"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "runoff_date": "2020-11-03",
                 "runoff_type": "top_2",
@@ -2245,6 +2265,7 @@
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向： 民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "United States Representative",
                             "es": "Representante de Estados Unidos",
@@ -2265,6 +2286,7 @@
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向： 共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Teacher / Software Engineer",
                             "es": "Maestra / Ingeniera de sistemas",
@@ -2301,6 +2323,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一人"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "runoff_date": "2020-11-03",
                 "runoff_type": "top_2",
@@ -2318,6 +2341,7 @@
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向： 民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Congresswoman",
                             "es": "Congresista",
@@ -2338,6 +2362,7 @@
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向： 共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Financial Executive",
                             "es": "Ejecutivo financiero",
@@ -2358,6 +2383,7 @@
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向： 民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Technology Executive",
                             "es": "Ejecutivo de tecnología",
@@ -2378,6 +2404,7 @@
                             "tl": "Kinakatigang Partido: Wala",
                             "zh": "政黨傾向： 沒有"
                         },
+                        "candidate_party_id": "",
                         "ballot_designation": {
                             "en": "Research Manager",
                             "es": "Gerente de investigación",
@@ -2414,6 +2441,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一人"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "runoff_date": "2020-11-03",
                 "runoff_type": "top_2",
@@ -2431,6 +2459,7 @@
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向： 民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "State Senator",
                             "es": "Senador Estatal",
@@ -2451,6 +2480,7 @@
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向： 共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Small Business Owner",
                             "es": "Propietaria de pequeño negocio",
@@ -2471,6 +2501,7 @@
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向： 民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Educator / Nonprofit Organizer",
                             "es": "Educadora / Coordinadora de organización sin fines de lucro",
@@ -2507,6 +2538,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一人"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "runoff_date": "2020-11-03",
                 "runoff_type": "top_2",
@@ -2524,6 +2556,7 @@
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向： 民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Assemblymember",
                             "es": "Miembro de la asamblea",
@@ -2569,6 +2602,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一人"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "runoff_date": "2020-11-03",
                 "runoff_type": "top_2",
@@ -2586,6 +2620,7 @@
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向： 共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Attorney",
                             "es": "Abogado",
@@ -2606,6 +2641,7 @@
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向： 民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Assemblymember",
                             "es": "Miembro de la asamblea",
@@ -2642,6 +2678,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一人"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "runoff_date": "2020-11-03",
                 "runoff_type": "non_majority",
@@ -2702,6 +2739,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一人"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "runoff_date": "2020-11-03",
                 "runoff_type": "non_majority",
@@ -2762,6 +2800,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一人"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "runoff_date": "2020-11-03",
                 "runoff_type": "non_majority",
@@ -2813,10 +2852,11 @@
                     "tl": "13",
                     "zh": "13"
                 },
+                "votes_allowed": 1,
                 "question_text": {
                     "en": "<strong>AUTHORIZES BONDS FOR FACILITY REPAIR, CONSTRUCTION, AND MODERNIZATION AT PUBLIC PRESCHOOLS, K-12 SCHOOLS, COMMUNITY COLLEGES, AND UNIVERSITIES. LEGISLATIVE STATUTE</strong>. Authorizes $15 billion in state general obligation bonds for construction and modernization of public education facilities. Fiscal Impact: Increased state costs to repay bonds estimated at about $740 million per year (including interest) over the next 35 years.",
-                    "es": "<p><strong>AUTORIZA BONOS PARA LA REPARACIÓN, CONSTRUCCIÓN Y MODERNIZACIÓN DE LAS INSTALACIONES DE LAS ESCUELAS PÚBLICAS DE EDUCACIÓN PREESCOLAR, ESCUELAS DE NIVELES K-12, COLEGIOS COMUNITARIOS Y UNIVERSIDADES. ESTATUTO LEGISLATIVO</strong>. Autoriza $15 mil millones en bonos de obligación general del estado para la construcción y modernización de instalaciones de educación pública. Impacto fiscal: Se calcula que el aumento de los costos del estado para pagar los bonos es de alrededor de $740 millones por año (incluidos los intereses) durante los próximos 35 años.</p><p><br></p>",
-                    "tl": "<p><strong>NAGPAPAHINTULOT NG MGA BONO PARA SA PAGKUKUMPUNI, KONSTRUKSIYON, AT PAGSASAMODERNO NG PASILIDAD SA MGA PAMPUBLIKONG PRESCHOOL, K-12 NA PAARALAN, KOLEHIYO NG KOMUNIDAD, AT UNIBERSIDAD. BATAS NG LEHISLATURA.</strong><br>Nagpapahintulot ng $15 bilyon na mga pangkalahatang obligasyong bono ng estado para sa konstruksiyon at pagsasamoderno ng mga pasilidad ng pampublikong edukasyon. Epekto sa Pananalapi: Tumaas na mga gastos ng estado upang bayaran ang mga bonong tinantiyang nasa mga $740 milyon kada taon (kabilang ang interes) sa loob ng susunod na 35 taon.</p><p><br></p>",
+                    "es": "<strong>AUTORIZA BONOS PARA LA REPARACIÓN, CONSTRUCCIÓN Y MODERNIZACIÓN DE LAS INSTALACIONES DE LAS ESCUELAS PÚBLICAS DE EDUCACIÓN PREESCOLAR, ESCUELAS DE NIVELES K-12, COLEGIOS COMUNITARIOS Y UNIVERSIDADES. ESTATUTO LEGISLATIVO</strong>. Autoriza $15 mil millones en bonos de obligación general del estado para la construcción y modernización de instalaciones de educación pública. Impacto fiscal: Se calcula que el aumento de los costos del estado para pagar los bonos es de alrededor de $740 millones por año (incluidos los intereses) durante los próximos 35 años.",
+                    "tl": "<strong>NAGPAPAHINTULOT NG MGA BONO PARA SA PAGKUKUMPUNI, KONSTRUKSIYON, AT PAGSASAMODERNO NG PASILIDAD SA MGA PAMPUBLIKONG PRESCHOOL, K-12 NA PAARALAN, KOLEHIYO NG KOMUNIDAD, AT UNIBERSIDAD. BATAS NG LEHISLATURA.</strong><br>Nagpapahintulot ng $15 bilyon na mga pangkalahatang obligasyong bono ng estado para sa konstruksiyon at pagsasamoderno ng mga pasilidad ng pampublikong edukasyon. Epekto sa Pananalapi: Tumaas na mga gastos ng estado upang bayaran ang mga bonong tinantiyang nasa mga $740 milyon kada taon (kabilang ang interes) sa loob ng susunod na 35 taon.",
                     "zh": "<strong>授權發行債券用於為公立學前班、幼稚園到12年級的學校、社區學院及大學進行設施的修理、建造及現代化。立法法規。</strong>授權發行150億美元的州政府一般義務債券，用於公共教育設施的建造和現代化。財政影響：在接下來的35年，州政府用於償還債券的費用預計每年將增加約7億4千萬美元（含利息在內）。"
                 },
                 "approval_required": "Majority",
@@ -2844,6 +2884,7 @@
                         "sequence": "02"
                     }
                 ],
+                "url_state_results": "https://electionresults.sos.ca.gov/returns/ballot-measures",
                 "voting_district": "0",
                 "result_style": "EMS"
             },
@@ -2864,6 +2905,7 @@
                 "short_description": {
                     "en": "City College Job Training, Repair and Earthquake Safety Measure"
                 },
+                "votes_allowed": 1,
                 "question_text": {
                     "en": "CITY COLLEGE JOB TRAINING, REPAIR AND EARTHQUAKE SAFETY MEASURE. To fix/repair City College facilities; make necessary seismic retrofit/earthquake safety improvements; make the College more environmentally sustainable through energy efficient buildings/increased renewable energy use; and acquire, construct, repair facilities, sites/equipment to prepare students for well-paid, local science, technology, and arts related jobs, shall San Francisco Community College District’s measure authorizing $845,000,000 in bonds at legal rates, levying 1.1 cents/$100 assessed value ($47,500,000 annually until approximately 2053) be approved, requiring audits and citizen oversight?",
                     "es": "INICIATIVA DE LEY PARA LA CAPACITACIÓN LABORAL, REPARACIÓN Y SEGURIDAD EN CASO DE TERREMOTOS DE CITY COLLEGE. Con el fin de arreglar/reparar las instalaciones de City College; hacer mejoras necesarias de retroadaptación antisísmica/seguridad en caso de terremotos; hacer que City College sea más sostenible ambientalmente mediante edificios eficientes con el uso de energía/mayor uso de energía renovable; y de adquirir, construir, reparar instalaciones, sitios/equipo para preparar a los estudiantes para empleos bien remunerados relacionados con las ciencias, la tecnología y las artes locales, ¿se debería aprobar la iniciativa de ley del Distrito del Colegio Comunitario de San Francisco que autoriza $845,000,000 en bonos con tasas legales, que impone 1.1 centavos/$100 de valor tasado ($47,500,000 anuales hasta aproximadamente el año 2053) y que exige auditorías y supervisión de los ciudadanos?",
@@ -2915,6 +2957,7 @@
                 "short_description": {
                     "en": "San Francisco Earthquake Safety and Emergency Response Bond, 2020"
                 },
+                "votes_allowed": 1,
                 "question_text": {
                     "en": "SAN FRANCISCO EARTHQUAKE SAFETY AND EMERGENCY RESPONSE BOND, 2020. To improve fire, earthquake, and emergency response by improving, constructing, and/or replacing: deteriorating cisterns, pipes, and tunnels, and related facilities to ensure firefighters a reliable water supply for fires and disasters; neighborhood fire and police stations and supporting facilities; the City’s 911 Call Center; and other disaster response and public safety facilities, and to pay related costs, shall the City and County of San Francisco issue $628,500,000 in general obligation bonds, with a duration up to 30 years from the time of issuance, an estimated average tax rate of $0.015/$100 of assessed property value, and projected average annual revenues of $40,000,000, subject to citizen oversight and regular audits?",
                     "es": "BONO PARA LA SEGURIDAD EN CASO DE TERREMOTOS Y PARA LA RESPUESTA A EMERGENCIAS DE SAN FRANCISCO, 2020. Para mejorar la respuesta en caso de incendios, terremotos y emergencias al renovar, construir o reemplazar: cisternas, tuberías, túneles e instalaciones afines que se están deteriorando, para asegurar que los bomberos tengan una fuente fiable de agua para incendios y desastres; estaciones de bomberos y de policía de los vecindarios e instalaciones de apoyo; el Centro de Llamadas al 911 de la Ciudad; y otras instalaciones de respuesta en caso de desastres y de seguridad pública, y para pagar los gastos correspondientes, ¿debería la Ciudad y Condado de San Francisco emitir $628,500,000 en bonos de obligación general, con una duración de hasta 30 años desde la fecha de emisión, una tasa promedio de impuestos calculada en $0.015/$100 del valor tasado de la propiedad e ingresos anuales promedio calculados en $40,000,000, sujetos a la supervisión de los ciudadanos y auditorías regulares?",
@@ -2966,6 +3009,7 @@
                 "short_description": {
                     "en": "Retiree Health Care Benefits for Former Employees of the San Francisco Housing Authority"
                 },
+                "votes_allowed": 1,
                 "question_text": {
                     "en": "Shall the City amend the Charter to make retiree health care coverage available to certain City employees who previously worked for the San Francisco Housing Authority based on their combined years of service and date of hire?",
                     "es": "¿Debería la Ciudad enmendar la Carta Constitucional para que la cobertura de atención médica para jubilados esté disponible para ciertos empleados de la Ciudad que trabajaron anteriormente para la Autoridad de Vivienda de San Francisco con base en sus años de servicio combinados y su fecha de contratación?",
@@ -3017,6 +3061,7 @@
                 "short_description": {
                     "en": "Vacancy Tax"
                 },
+                "votes_allowed": 1,
                 "question_text": {
                     "en": "Shall the City tax owners or tenants who keep ground floor retail or other commercial space vacant in some areas of San Francisco, at rates of between $250 and $1,000 per street-facing foot, starting January 1, 2021 and without any expiration date, and use the annual revenues, estimated at a range of a minimal amount to $5 million, to assist small businesses?",
                     "es": "¿Debería la Ciudad aplicar impuestos a los dueños o inquilinos que mantienen desocupados espacios de venta minorista u otros espacios comerciales en la planta baja en algunas áreas de San Francisco, con tasas de entre $250 y $1,000 por pie que da a la calle, a partir del 1 de enero de 2021 y sin ninguna fecha de vencimiento, y usar los ingresos anuales, que se calcula que variarán desde una cantidad mínima hasta $5 millones, para ayudar a pequeñas empresas?",
@@ -3068,6 +3113,7 @@
                 "short_description": {
                     "en": "Limits on Office Development"
                 },
+                "votes_allowed": 1,
                 "question_text": {
                     "en": "Shall the City tie annual square-footage allotment for certain Large Office Projects to whether the City is meeting its Affordable Housing Goals, and change the criteria for approving certain office projects?",
                     "es": "¿Debería la Ciudad hacer que la asignación anual del número de pies cuadrados para ciertos proyectos grandes de oficinas dependa del desempeño de la Ciudad en alcanzar sus metas de Viviendas a Precios Asequibles, y cambiar los criterios para aprobar ciertos proyectos de oficinas?",
@@ -7315,7 +7361,8 @@
     "result_stat_types": [
         {
             "_id": "RSTot",
-            "heading": "Ballots Counted",
+            "heading": "Total Votes",
+            "description": "Number of valid votes included in totals",
             "text": {
                 "_desc": "RSTot: Label for the number of valid votes (i.e. votes for candidates, and not including undervotes and overvotes).",
                 "en": "Total Votes",
@@ -7327,6 +7374,7 @@
         {
             "_id": "RSVot",
             "heading": "Voters Participating",
+            "description": "Number of voters checking in at a poll site or returning a mail ballot",
             "text": {
                 "_desc": "RSVot",
                 "en": "Voters Participating"
@@ -7335,6 +7383,7 @@
         {
             "_id": "RSCst",
             "heading": "Ballots Cast",
+            "description": "Number of ballots submitted by votes",
             "text": {
                 "_desc": "RSCst",
                 "en": "Ballots Cast",
@@ -7346,6 +7395,7 @@
         {
             "_id": "RSCd1",
             "heading": "Card 1 Ballots Cast",
+            "description": "Number of ballot cards 1 submitted by votes",
             "text": {
                 "en": "Card 1 Ballots Cast"
             }
@@ -7353,12 +7403,14 @@
         {
             "_id": "RSCd2",
             "heading": "Card 2 Ballots Cast",
+            "description": "Number of ballot cards 2 submitted by votes",
             "text": {
                 "en": "Card 2 Ballots Cast"
             }
         },
         {
             "_id": "RSCd3",
+            "description": "Number of ballot cards 3 submitted by votes",
             "heading": "Card 3 Ballots Cast",
             "text": {
                 "en": "Card 3 Ballots Cast"
@@ -7367,6 +7419,7 @@
         {
             "_id": "RSCd4",
             "heading": "Card 4 Ballots Cast",
+            "description": "Number of ballot cards 4 submitted by votes",
             "text": {
                 "en": "Card 4 Ballots Cast"
             }
@@ -7374,6 +7427,7 @@
         {
             "_id": "RSCd5",
             "heading": "Card 5 Ballots Cast",
+            "description": "Number of ballot cards 5 submitted by votes",
             "text": {
                 "en": "Card 5 Ballots Cast"
             }
@@ -7381,6 +7435,7 @@
         {
             "_id": "RSCd6",
             "heading": "Card 6 Ballots Cast",
+            "description": "Number of ballot cards 6 submitted by votes",
             "text": {
                 "en": "Card 6 Ballots Cast"
             }
@@ -7388,6 +7443,7 @@
         {
             "_id": "RSCd7",
             "heading": "Card 7 Ballots Cast",
+            "description": "Number of ballot cards 7 submitted by votes",
             "text": {
                 "en": "Card 7 Ballots Cast"
             }
@@ -7395,6 +7451,7 @@
         {
             "_id": "RSCd8",
             "heading": "Card 8 Ballots Cast",
+            "description": "Number of ballot cards 8 submitted by votes",
             "text": {
                 "en": "Card 8 Ballots Cast"
             }
@@ -7402,6 +7459,7 @@
         {
             "_id": "RSCd9",
             "heading": "Card 9 Ballots Cast",
+            "description": "Number of ballot cards 9 submitted by votes",
             "text": {
                 "en": "Card 9 Ballots Cast"
             }
@@ -7409,6 +7467,7 @@
         {
             "_id": "RSReg",
             "heading": "Registered Voters",
+            "description": "Number of registerd voters in the election",
             "text": {
                 "_desc": "RSReg",
                 "en": "Registered Voters",
@@ -7420,6 +7479,7 @@
         {
             "_id": "RSEli",
             "heading": "Eligible Voters",
+            "description": "Estimated number of people who may register to vote",
             "text": {
                 "_desc": "RSEli: Label for the number of people eligible to register to vote.",
                 "en": "Eligible Voters"
@@ -7428,6 +7488,7 @@
         {
             "_id": "RSTrn",
             "heading": "Voter Turnout",
+            "description": "Percentage of voters participating / registered",
             "is_percent": true,
             "text": {
                 "_desc": "RSTrn: Label for the number of people that voted",
@@ -7437,6 +7498,7 @@
         {
             "_id": "RSRej",
             "heading": "Ballots Rejected",
+            "description": "Ballots cast that are challenged or rejected",
             "text": {
                 "_desc": "RSRej",
                 "en": "Ballots Rejected"
@@ -7445,6 +7507,7 @@
         {
             "_id": "RSUnc",
             "heading": "Ballots Uncounted",
+            "description": "Ballots received but not included in totals",
             "text": {
                 "_desc": "RSUnc",
                 "en": "Ballots Uncounted"
@@ -7453,14 +7516,24 @@
         {
             "_id": "RSWri",
             "heading": "Writein Votes",
+            "description": "Undetermined write-in votes",
             "text": {
                 "_desc": "RSWri: Label for the number of write-in votes",
                 "en": "Write-in Votes"
             }
         },
         {
+            "_id": "RSIWr",
+            "heading": "Invalid Writein Votes",
+            "description": "Write-in vote with a blank or ineligible candidate name",
+            "text": {
+                "en": "Invalid Write-in Votes"
+            }
+        },
+        {
             "_id": "RSUnd",
             "heading": "Undervotes",
+            "description": "Number of votes allowed not voted, excluding blank ballots reported",
             "text": {
                 "_desc": "RSUnd",
                 "en": "Undervotes",
@@ -7470,8 +7543,17 @@
             }
         },
         {
+            "_id": "RSBla",
+            "heading": "Blank Ballots",
+            "description": "Number of ballots with no votes selected",
+            "text": {
+                "en": "Blank Ballots"
+            }
+        },
+        {
             "_id": "RSOvr",
             "heading": "Overvotes",
+            "description": "Number of ballots with more votes selected than allowed",
             "text": {
                 "_desc": "RSOvr",
                 "en": "Overvotes",
@@ -7483,6 +7565,7 @@
         {
             "_id": "RSSki",
             "heading": "Skipped Votes",
+            "description": "Number of votes explicitly marked as skip-this-contest",
             "text": {
                 "_desc": "RSSki",
                 "en": "Skipped Votes"
@@ -7491,6 +7574,7 @@
         {
             "_id": "RSExh",
             "heading": "Exhausted Ballots",
+            "description": "Number of RCV ballots where all choices are eliminated",
             "text": {
                 "_desc": "RSExh: Exhausted votes, for use in RCV contests.",
                 "en": "Exhausted Ballots"
@@ -7506,10 +7590,24 @@
             "voting_group_ids": "TO ED MV"
         },
         {
+            "_id": "EMSN",
+            "description": "Plurality N-of-M voting, subtotal by Election Day/VBM",
+            "is_rcv": false,
+            "result_stat_type_ids": "RSReg RSCst RSRej RSOvr RSUnd RSBla RSTot",
+            "voting_group_ids": "TO ED MV"
+        },
+        {
             "_id": "EMSW",
             "description": "Plurality voting, subtotal by Election Day/VBM, with writeins",
             "is_rcv": false,
             "result_stat_type_ids": "RSReg RSCst RSRej RSOvr RSUnd RSTot RSWri",
+            "voting_group_ids": "TO ED MV"
+        },
+        {
+            "_id": "EMSWN",
+            "description": "Pluralityy N-of-M voting, subtotal by Election Day/VBM, with writeins",
+            "is_rcv": false,
+            "result_stat_type_ids": "RSReg RSCst RSRej RSOvr RSUnd RSBla RSTot RSWri",
             "voting_group_ids": "TO ED MV"
         },
         {
@@ -7539,123 +7637,6 @@
             "is_rcv": false,
             "result_stat_type_ids": "RSReg RSCst RSRej",
             "voting_group_ids": "TO ED MV"
-        }
-    ],
-    "translations": {
-        "ballots_cast": {
-            "en": "Ballots Cast"
-        },
-        "ballots_counted": {
-            "en": "Ballots Counted"
-        },
-        "ballots_rejected": {
-            "en": "Ballots Rejected"
-        },
-        "ballots_uncounted": {
-            "en": "Ballots Uncounted"
-        },
-        "exhausted_ballots": {
-            "en": "Exhausted Ballots"
-        },
-        "no": {
-            "en": "NO",
-            "es": "NO",
-            "tl": "HINDI",
-            "zh": "反對"
-        },
-        "overvotes": {
-            "en": "Overvotes"
-        },
-        "registered_voters": {
-            "en": "Registered Voters"
-        },
-        "undervotes": {
-            "en": "Undervotes"
-        },
-        "voter_turnout": {
-            "en": "Voter Turnout"
-        },
-        "writein": {
-            "en": "Write-In",
-            "es": "NO LISTADO",
-            "tl": "ISINUSULAT-LAMANG",
-            "zh": "補寫候選人"
-        },
-        "writein_votes": {
-            "en": "Writein Votes"
-        },
-        "yes": {
-            "en": "YES",
-            "es": "SÍ",
-            "tl": "OO",
-            "zh": "贊成"
-        }
-    },
-    "voting_groups": [
-        {
-            "_id": "TO",
-            "heading": "Total",
-            "text": {
-                "_desc": "TO",
-                "en": "Total",
-                "es": "Total",
-                "tl": "Kabuuan",
-                "zh": "總共"
-            }
-        },
-        {
-            "_id": "ED",
-            "heading": "Election Day",
-            "text": {
-                "_desc": "ED",
-                "en": "Election Day",
-                "es": "Día de las Elecciones",
-                "tl": "Araw ng Eleksyon",
-                "zh": "投票日"
-            }
-        },
-        {
-            "_id": "MV",
-            "heading": "Vote By Mail",
-            "text": {
-                "_desc": "MV",
-                "en": "Vote By Mail",
-                "es": "Voto por correo",
-                "tl": "Pagboto sa pamamagitan ng Koreo",
-                "zh": "郵寄投票"
-            }
-        },
-        {
-            "_id": "EV",
-            "heading": "Early Voting",
-            "text": {
-                "_desc": "EV",
-                "en": "Early Voting"
-            }
-        },
-        {
-            "_id": "IA",
-            "heading": "In-County",
-            "text": {
-                "_desc": "IA",
-                "en": "In-County"
-            }
-        },
-        {
-            "_id": "XA",
-            "heading": "Other Counties",
-            "text": {
-                "_desc": "XA",
-                "en": "Other Counties"
-            }
-        },
-        {
-            "_id": "PV",
-            "heading": "Provisional Voting",
-            "text": {
-                "_desc": "PV",
-                "en": "Provisional Voting"
-            }
         }
     ]
 }

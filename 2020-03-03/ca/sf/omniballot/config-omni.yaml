@@ -39,7 +39,7 @@ url_state_results_map:
     - PRESIDENT OF THE UNITED STATES{any}PF=https://electionresults.sos.ca.gov/returns/president/party/peace-and-freedom
     - PRESIDENT OF THE UNITED STATES{any}LIB=https://electionresults.sos.ca.gov/returns/president/party/libertarian
     - PRESIDENT OF THE UNITED STATES{any}GRN=https://electionresults.sos.ca.gov/returns/president/party/green
-    - Proposition 13=https://electionresults.sos.ca.gov/returns/ballot-measures
+    - State Proposition 13=https://electionresults.sos.ca.gov/returns/ballot-measures
     - UNITED STATES REPRESENTATIVE, DISTRICT {number}=https://electionresults.sos.ca.gov/returns/us-rep/district/{number}
     - STATE ASSEMBLY MEMBER, DISTRICT {number}=https://electionresults.sos.ca.gov/returns/state-assembly/district/{number}
     - STATE SENATOR, DISTRICT {number}=https://electionresults.sos.ca.gov/returns/state-senate/district/{number}
