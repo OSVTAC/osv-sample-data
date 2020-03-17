@@ -3,7 +3,7 @@
 # It can be modified to change the path or add options
 
 # First, preprocess the turnout data:
-convvbmprecinct.py -p
+convvbmprecinct.py
 
 # Create the ../out-orr/resultdata files:
 convsfresults.py -v -P $*
