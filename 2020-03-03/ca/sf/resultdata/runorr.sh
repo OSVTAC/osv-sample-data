@@ -6,5 +6,5 @@ orr --input-dir ../out-orr \
     --template-dir $orrdir/templates/demo-template \
     --extra-template-dirs $orrdir/templates/demo-template/extra \
     --output-parent .. \
-    --output-subdir html \
+    --output-subdir html  --verbose \
     --skip-pdf
