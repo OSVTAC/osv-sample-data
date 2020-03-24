@@ -7,4 +7,4 @@ orr --input-dir ../out-orr \
     --extra-template-dirs $orrdir/templates/demo-template/extra \
     --output-parent .. \
     --output-subdir html  --verbose \
-    --skip-pdf
+    --skip-pdf --delete-okay

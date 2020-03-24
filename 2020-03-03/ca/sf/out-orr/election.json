@@ -7646,14 +7646,6 @@
             "text": {
                 "en": "Challenged Ballots"
             }
-        },
-        {
-            "_id": "RSExh",
-            "heading": "Exhausted Ballots",
-            "description": "Number of RCV ballots where all choices are eliminated",
-            "text": {
-                "en": "Exhausted Ballots"
-            }
         }
     ],
     "result_styles": [
