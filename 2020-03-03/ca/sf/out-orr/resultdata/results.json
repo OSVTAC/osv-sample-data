@@ -14,7 +14,7 @@
             "choices": [
                 {
                     "_id": "13",
-                    "ballot_title": "JULIÁN CASTRO",
+                    "heading": "JULIÁN CASTRO",
                     "results": [
                         "150",
                         "48",
@@ -25,7 +25,7 @@
                 },
                 {
                     "_id": "14",
-                    "ballot_title": "MICHAEL A. ELLINGER",
+                    "heading": "MICHAEL A. ELLINGER",
                     "results": [
                         "63",
                         "30",
@@ -36,7 +36,7 @@
                 },
                 {
                     "_id": "15",
-                    "ballot_title": "ELIZABETH WARREN",
+                    "heading": "ELIZABETH WARREN",
                     "results": [
                         "58726",
                         "21621",
@@ -47,7 +47,7 @@
                 },
                 {
                     "_id": "16",
-                    "ballot_title": "MARIANNE WILLIAMSON",
+                    "heading": "MARIANNE WILLIAMSON",
                     "results": [
                         "104",
                         "29",
@@ -58,7 +58,7 @@
                 },
                 {
                     "_id": "17",
-                    "ballot_title": "ANDREW YANG",
+                    "heading": "ANDREW YANG",
                     "results": [
                         "2822",
                         "436",
@@ -69,7 +69,7 @@
                 },
                 {
                     "_id": "18",
-                    "ballot_title": "ROQUE \"ROCKY\" DE LA FUENTE III",
+                    "heading": "ROQUE \"ROCKY\" DE LA FUENTE III",
                     "results": [
                         "54",
                         "14",
@@ -80,7 +80,7 @@
                 },
                 {
                     "_id": "19",
-                    "ballot_title": "JOHN K. DELANEY",
+                    "heading": "JOHN K. DELANEY",
                     "results": [
                         "69",
                         "30",
@@ -91,7 +91,7 @@
                 },
                 {
                     "_id": "20",
-                    "ballot_title": "AMY KLOBUCHAR",
+                    "heading": "AMY KLOBUCHAR",
                     "results": [
                         "3611",
                         "124",
@@ -102,7 +102,7 @@
                 },
                 {
                     "_id": "21",
-                    "ballot_title": "BERNIE SANDERS",
+                    "heading": "BERNIE SANDERS",
                     "results": [
                         "89202",
                         "38599",
@@ -113,7 +113,7 @@
                 },
                 {
                     "_id": "22",
-                    "ballot_title": "JOE SESTAK",
+                    "heading": "JOE SESTAK",
                     "results": [
                         "38",
                         "15",
@@ -124,7 +124,7 @@
                 },
                 {
                     "_id": "23",
-                    "ballot_title": "TOM STEYER",
+                    "heading": "TOM STEYER",
                     "results": [
                         "1699",
                         "187",
@@ -135,7 +135,7 @@
                 },
                 {
                     "_id": "24",
-                    "ballot_title": "DEVAL PATRICK",
+                    "heading": "DEVAL PATRICK",
                     "results": [
                         "31",
                         "4",
@@ -146,7 +146,7 @@
                 },
                 {
                     "_id": "25",
-                    "ballot_title": "MICHAEL BENNET",
+                    "heading": "MICHAEL BENNET",
                     "results": [
                         "128",
                         "37",
@@ -157,7 +157,7 @@
                 },
                 {
                     "_id": "26",
-                    "ballot_title": "MICHAEL R. BLOOMBERG",
+                    "heading": "MICHAEL R. BLOOMBERG",
                     "results": [
                         "28931",
                         "8096",
@@ -168,7 +168,7 @@
                 },
                 {
                     "_id": "27",
-                    "ballot_title": "MOSIE BOYD",
+                    "heading": "MOSIE BOYD",
                     "results": [
                         "20",
                         "4",
@@ -179,7 +179,7 @@
                 },
                 {
                     "_id": "28",
-                    "ballot_title": "CORY BOOKER",
+                    "heading": "CORY BOOKER",
                     "results": [
                         "119",
                         "32",
@@ -190,7 +190,7 @@
                 },
                 {
                     "_id": "29",
-                    "ballot_title": "PETE BUTTIGIEG",
+                    "heading": "PETE BUTTIGIEG",
                     "results": [
                         "10359",
                         "304",
@@ -201,7 +201,7 @@
                 },
                 {
                     "_id": "30",
-                    "ballot_title": "JOSEPH R. BIDEN",
+                    "heading": "JOSEPH R. BIDEN",
                     "results": [
                         "62288",
                         "29421",
@@ -212,7 +212,7 @@
                 },
                 {
                     "_id": "31",
-                    "ballot_title": "TULSI GABBARD",
+                    "heading": "TULSI GABBARD",
                     "results": [
                         "971",
                         "388",
@@ -223,7 +223,7 @@
                 },
                 {
                     "_id": "32",
-                    "ballot_title": "MARK STEWART GREENSTEIN",
+                    "heading": "MARK STEWART GREENSTEIN",
                     "results": [
                         "92",
                         "26",
@@ -234,7 +234,7 @@
                 },
                 {
                     "_id": "178",
-                    "ballot_title": "NAKIA L. ANTHONY",
+                    "heading": "NAKIA L. ANTHONY",
                     "results": [
                         "0",
                         "0",
@@ -245,7 +245,7 @@
                 },
                 {
                     "_id": "179",
-                    "ballot_title": "DAPHNE DENISE BRADFORD",
+                    "heading": "DAPHNE DENISE BRADFORD",
                     "results": [
                         "0",
                         "0",
@@ -256,7 +256,7 @@
                 },
                 {
                     "_id": "180",
-                    "ballot_title": "WILLIE FELIX CARTER",
+                    "heading": "WILLIE FELIX CARTER",
                     "results": [
                         "0",
                         "0",
@@ -267,7 +267,7 @@
                 },
                 {
                     "_id": "181",
-                    "ballot_title": "MICHAEL DENAME",
+                    "heading": "MICHAEL DENAME",
                     "results": [
                         "0",
                         "0",
@@ -278,7 +278,7 @@
                 },
                 {
                     "_id": "182",
-                    "ballot_title": "JEFFREY H. DROBMAN",
+                    "heading": "JEFFREY H. DROBMAN",
                     "results": [
                         "0",
                         "0",
@@ -289,7 +289,7 @@
                 },
                 {
                     "_id": "183",
-                    "ballot_title": "ROBERT JORDAN",
+                    "heading": "ROBERT JORDAN",
                     "results": [
                         "0",
                         "0",
@@ -300,7 +300,7 @@
                 },
                 {
                     "_id": "184",
-                    "ballot_title": "HEATHER MARIE STAGG",
+                    "heading": "HEATHER MARIE STAGG",
                     "results": [
                         "0",
                         "0",
@@ -316,7 +316,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "305059",
                         "60743",
@@ -325,7 +324,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "261331",
                         "99913",
@@ -334,7 +332,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -343,7 +340,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "323",
                         "101",
@@ -352,7 +348,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "1492",
                         "328",
@@ -361,7 +356,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "259516",
                         "99484",
@@ -370,7 +364,6 @@
                 },
                 {
                     "_id": "RSWri",
-                    "heading": "Writein Votes",
                     "results": [
                         "39",
                         "39",
@@ -385,7 +378,7 @@
             "choices": [
                 {
                     "_id": "33",
-                    "ballot_title": "ROBERT ARDINI",
+                    "heading": "ROBERT ARDINI",
                     "results": [
                         "122",
                         "24",
@@ -396,7 +389,7 @@
                 },
                 {
                     "_id": "34",
-                    "ballot_title": "JOE WALSH",
+                    "heading": "JOE WALSH",
                     "results": [
                         "658",
                         "161",
@@ -407,7 +400,7 @@
                 },
                 {
                     "_id": "35",
-                    "ballot_title": "BILL WELD",
+                    "heading": "BILL WELD",
                     "results": [
                         "1279",
                         "231",
@@ -418,7 +411,7 @@
                 },
                 {
                     "_id": "36",
-                    "ballot_title": "ROQUE \"ROCKY\" DE LA FUENTE",
+                    "heading": "ROQUE \"ROCKY\" DE LA FUENTE",
                     "results": [
                         "322",
                         "95",
@@ -429,7 +422,7 @@
                 },
                 {
                     "_id": "37",
-                    "ballot_title": "MATTHEW JOHN MATERN",
+                    "heading": "MATTHEW JOHN MATERN",
                     "results": [
                         "273",
                         "78",
@@ -440,7 +433,7 @@
                 },
                 {
                     "_id": "38",
-                    "ballot_title": "ZOLTAN G. ISTVAN",
+                    "heading": "ZOLTAN G. ISTVAN",
                     "results": [
                         "118",
                         "26",
@@ -451,7 +444,7 @@
                 },
                 {
                     "_id": "39",
-                    "ballot_title": "DONALD J. TRUMP",
+                    "heading": "DONALD J. TRUMP",
                     "results": [
                         "12071",
                         "3163",
@@ -462,7 +455,7 @@
                 },
                 {
                     "_id": "185",
-                    "ballot_title": "DENIS C. GRASSKA",
+                    "heading": "DENIS C. GRASSKA",
                     "results": [
                         "0",
                         "0",
@@ -473,7 +466,7 @@
                 },
                 {
                     "_id": "186",
-                    "ballot_title": "ROBERT LEE MANNING JR.",
+                    "heading": "ROBERT LEE MANNING JR.",
                     "results": [
                         "0",
                         "0",
@@ -489,7 +482,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "32967",
                         "6575",
@@ -498,7 +490,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "16708",
                         "4125",
@@ -507,7 +498,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -516,7 +506,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "8",
                         "3",
@@ -525,7 +514,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "1774",
                         "261",
@@ -534,7 +522,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "14926",
                         "3861",
@@ -543,7 +530,6 @@
                 },
                 {
                     "_id": "RSWri",
-                    "heading": "Writein Votes",
                     "results": [
                         "83",
                         "83",
@@ -558,7 +544,7 @@
             "choices": [
                 {
                     "_id": "40",
-                    "ballot_title": "PHIL COLLINS",
+                    "heading": "PHIL COLLINS",
                     "results": [
                         "343",
                         "120",
@@ -569,7 +555,7 @@
                 },
                 {
                     "_id": "41",
-                    "ballot_title": "ROQUE \"ROCKY\" DE LA FUENTE",
+                    "heading": "ROQUE \"ROCKY\" DE LA FUENTE",
                     "results": [
                         "200",
                         "68",
@@ -580,7 +566,7 @@
                 },
                 {
                     "_id": "42",
-                    "ballot_title": "CHARLES KRAUT",
+                    "heading": "CHARLES KRAUT",
                     "results": [
                         "143",
                         "46",
@@ -591,7 +577,7 @@
                 },
                 {
                     "_id": "43",
-                    "ballot_title": "J.R. MYERS",
+                    "heading": "J.R. MYERS",
                     "results": [
                         "189",
                         "70",
@@ -602,7 +588,7 @@
                 },
                 {
                     "_id": "44",
-                    "ballot_title": "DON BLANKENSHIP",
+                    "heading": "DON BLANKENSHIP",
                     "results": [
                         "144",
                         "47",
@@ -618,7 +604,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "8573",
                         "1278",
@@ -627,7 +612,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "3000",
                         "828",
@@ -636,7 +620,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -645,7 +628,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "1",
                         "0",
@@ -654,7 +636,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "1885",
                         "382",
@@ -663,7 +644,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "1114",
                         "446",
@@ -672,7 +652,6 @@
                 },
                 {
                     "_id": "RSWri",
-                    "heading": "Writein Votes",
                     "results": [
                         "95",
                         "95",
@@ -687,7 +666,7 @@
             "choices": [
                 {
                     "_id": "45",
-                    "ballot_title": "DAVID ROLDE",
+                    "heading": "DAVID ROLDE",
                     "results": [
                         "22",
                         "14",
@@ -698,7 +677,7 @@
                 },
                 {
                     "_id": "46",
-                    "ballot_title": "HOWIE HAWKINS",
+                    "heading": "HOWIE HAWKINS",
                     "results": [
                         "216",
                         "59",
@@ -709,7 +688,7 @@
                 },
                 {
                     "_id": "47",
-                    "ballot_title": "DARIO HUNTER",
+                    "heading": "DARIO HUNTER",
                     "results": [
                         "158",
                         "58",
@@ -720,7 +699,7 @@
                 },
                 {
                     "_id": "48",
-                    "ballot_title": "DENNIS LAMBERT",
+                    "heading": "DENNIS LAMBERT",
                     "results": [
                         "88",
                         "35",
@@ -731,7 +710,7 @@
                 },
                 {
                     "_id": "49",
-                    "ballot_title": "SEDINAM MOYOWASIFZA-CURRY",
+                    "heading": "SEDINAM MOYOWASIFZA-CURRY",
                     "results": [
                         "119",
                         "50",
@@ -742,7 +721,7 @@
                 },
                 {
                     "_id": "187",
-                    "ballot_title": "KENT MESPLAY",
+                    "heading": "KENT MESPLAY",
                     "results": [
                         "0",
                         "0",
@@ -758,7 +737,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "3073",
                         "700",
@@ -767,7 +745,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "1077",
                         "329",
@@ -776,7 +753,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -785,7 +761,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "0",
                         "0",
@@ -794,7 +769,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "443",
                         "82",
@@ -803,7 +777,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "634",
                         "247",
@@ -812,7 +785,6 @@
                 },
                 {
                     "_id": "RSWri",
-                    "heading": "Writein Votes",
                     "results": [
                         "31",
                         "31",
@@ -827,7 +799,7 @@
             "choices": [
                 {
                     "_id": "50",
-                    "ballot_title": "HOWIE HAWKINS",
+                    "heading": "HOWIE HAWKINS",
                     "results": [
                         "77",
                         "18",
@@ -838,7 +810,7 @@
                 },
                 {
                     "_id": "51",
-                    "ballot_title": "GLORIA LA RIVA",
+                    "heading": "GLORIA LA RIVA",
                     "results": [
                         "174",
                         "70",
@@ -854,7 +826,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "1531",
                         "338",
@@ -863,7 +834,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "366",
                         "120",
@@ -872,7 +842,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -881,7 +850,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "1",
                         "1",
@@ -890,7 +858,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "107",
                         "24",
@@ -899,7 +866,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "258",
                         "95",
@@ -908,7 +874,6 @@
                 },
                 {
                     "_id": "RSWri",
-                    "heading": "Writein Votes",
                     "results": [
                         "7",
                         "7",
@@ -923,7 +888,7 @@
             "choices": [
                 {
                     "_id": "52",
-                    "ballot_title": "KEN ARMSTRONG",
+                    "heading": "KEN ARMSTRONG",
                     "results": [
                         "58",
                         "28",
@@ -934,7 +899,7 @@
                 },
                 {
                     "_id": "53",
-                    "ballot_title": "MAX ABRAMSON",
+                    "heading": "MAX ABRAMSON",
                     "results": [
                         "34",
                         "8",
@@ -945,7 +910,7 @@
                 },
                 {
                     "_id": "54",
-                    "ballot_title": "SAM ROBB",
+                    "heading": "SAM ROBB",
                     "results": [
                         "37",
                         "8",
@@ -956,7 +921,7 @@
                 },
                 {
                     "_id": "55",
-                    "ballot_title": "KIM RUFF",
+                    "heading": "KIM RUFF",
                     "results": [
                         "54",
                         "22",
@@ -967,7 +932,7 @@
                 },
                 {
                     "_id": "56",
-                    "ballot_title": "STEVEN A RICHEY",
+                    "heading": "STEVEN A RICHEY",
                     "results": [
                         "36",
                         "11",
@@ -978,7 +943,7 @@
                 },
                 {
                     "_id": "57",
-                    "ballot_title": "JACOB HORNBERGER",
+                    "heading": "JACOB HORNBERGER",
                     "results": [
                         "167",
                         "51",
@@ -989,7 +954,7 @@
                 },
                 {
                     "_id": "58",
-                    "ballot_title": "SOURAYA FAAS",
+                    "heading": "SOURAYA FAAS",
                     "results": [
                         "31",
                         "10",
@@ -1000,7 +965,7 @@
                 },
                 {
                     "_id": "59",
-                    "ballot_title": "KEENAN WALLACE DUNHAM",
+                    "heading": "KEENAN WALLACE DUNHAM",
                     "results": [
                         "19",
                         "8",
@@ -1011,7 +976,7 @@
                 },
                 {
                     "_id": "60",
-                    "ballot_title": "ADAM KOKESH",
+                    "heading": "ADAM KOKESH",
                     "results": [
                         "37",
                         "14",
@@ -1022,7 +987,7 @@
                 },
                 {
                     "_id": "61",
-                    "ballot_title": "VERMIN SUPREME",
+                    "heading": "VERMIN SUPREME",
                     "results": [
                         "81",
                         "23",
@@ -1033,7 +998,7 @@
                 },
                 {
                     "_id": "62",
-                    "ballot_title": "JO JORGENSEN",
+                    "heading": "JO JORGENSEN",
                     "results": [
                         "76",
                         "21",
@@ -1044,7 +1009,7 @@
                 },
                 {
                     "_id": "63",
-                    "ballot_title": "DAN BEHRMAN",
+                    "heading": "DAN BEHRMAN",
                     "results": [
                         "33",
                         "11",
@@ -1055,7 +1020,7 @@
                 },
                 {
                     "_id": "64",
-                    "ballot_title": "ERIK CHASE GERHARDT",
+                    "heading": "ERIK CHASE GERHARDT",
                     "results": [
                         "21",
                         "12",
@@ -1066,7 +1031,7 @@
                 },
                 {
                     "_id": "188",
-                    "ballot_title": "NICHOLAS D'ARTAGNAN DUMAS",
+                    "heading": "NICHOLAS D'ARTAGNAN DUMAS",
                     "results": [
                         "0",
                         "0",
@@ -1077,7 +1042,7 @@
                 },
                 {
                     "_id": "189",
-                    "ballot_title": "GEBY EVA ESPINOSA",
+                    "heading": "GEBY EVA ESPINOSA",
                     "results": [
                         "0",
                         "0",
@@ -1088,7 +1053,7 @@
                 },
                 {
                     "_id": "190",
-                    "ballot_title": "JAMES ORLANDO OGLE",
+                    "heading": "JAMES ORLANDO OGLE",
                     "results": [
                         "0",
                         "0",
@@ -1099,7 +1064,7 @@
                 },
                 {
                     "_id": "191",
-                    "ballot_title": "SORINNE ARDELEANU",
+                    "heading": "SORINNE ARDELEANU",
                     "results": [
                         "1",
                         "0",
@@ -1115,7 +1080,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "3096",
                         "559",
@@ -1124,7 +1088,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "1156",
                         "354",
@@ -1133,7 +1096,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -1142,7 +1104,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "7",
                         "1",
@@ -1151,7 +1112,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "441",
                         "103",
@@ -1160,7 +1120,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "708",
                         "250",
@@ -1169,7 +1128,6 @@
                 },
                 {
                     "_id": "RSWri",
-                    "heading": "Writein Votes",
                     "results": [
                         "24",
                         "23",
@@ -1184,7 +1142,7 @@
             "choices": [
                 {
                     "_id": "110",
-                    "ballot_title": "KRISTEN ASATO-WEBB",
+                    "heading": "KRISTEN ASATO-WEBB",
                     "results": [
                         "23774",
                         "7719",
@@ -1195,7 +1153,7 @@
                 },
                 {
                     "_id": "111",
-                    "ballot_title": "JOHN AVALOS",
+                    "heading": "JOHN AVALOS",
                     "results": [
                         "44845",
                         "15962",
@@ -1206,7 +1164,7 @@
                 },
                 {
                     "_id": "112",
-                    "ballot_title": "NIMA RAHIMI",
+                    "heading": "NIMA RAHIMI",
                     "results": [
                         "19573",
                         "5534",
@@ -1217,7 +1175,7 @@
                 },
                 {
                     "_id": "113",
-                    "ballot_title": "HILLARY RONEN",
+                    "heading": "HILLARY RONEN",
                     "results": [
                         "44274",
                         "14928",
@@ -1228,7 +1186,7 @@
                 },
                 {
                     "_id": "114",
-                    "ballot_title": "DAVID CAMPOS",
+                    "heading": "DAVID CAMPOS",
                     "results": [
                         "45612",
                         "15683",
@@ -1239,7 +1197,7 @@
                 },
                 {
                     "_id": "115",
-                    "ballot_title": "CHRISTOPHER CHRISTENSEN",
+                    "heading": "CHRISTOPHER CHRISTENSEN",
                     "results": [
                         "20384",
                         "7123",
@@ -1250,7 +1208,7 @@
                 },
                 {
                     "_id": "116",
-                    "ballot_title": "MIKE CHEN",
+                    "heading": "MIKE CHEN",
                     "results": [
                         "20768",
                         "6133",
@@ -1261,7 +1219,7 @@
                 },
                 {
                     "_id": "117",
-                    "ballot_title": "MATT HANEY",
+                    "heading": "MATT HANEY",
                     "results": [
                         "42789",
                         "14074",
@@ -1272,7 +1230,7 @@
                 },
                 {
                     "_id": "118",
-                    "ballot_title": "RICK HAUPTMAN",
+                    "heading": "RICK HAUPTMAN",
                     "results": [
                         "7203",
                         "2599",
@@ -1283,7 +1241,7 @@
                 },
                 {
                     "_id": "119",
-                    "ballot_title": "SHAUN HAINES",
+                    "heading": "SHAUN HAINES",
                     "results": [
                         "16287",
                         "5810",
@@ -1294,7 +1252,7 @@
                 },
                 {
                     "_id": "120",
-                    "ballot_title": "FRANCES HSIEH",
+                    "heading": "FRANCES HSIEH",
                     "results": [
                         "40183",
                         "13142",
@@ -1305,7 +1263,7 @@
                 },
                 {
                     "_id": "121",
-                    "ballot_title": "AUSTIN HUNTER",
+                    "heading": "AUSTIN HUNTER",
                     "results": [
                         "17054",
                         "4845",
@@ -1316,7 +1274,7 @@
                 },
                 {
                     "_id": "122",
-                    "ballot_title": "SHAMANN WALTON",
+                    "heading": "SHAMANN WALTON",
                     "results": [
                         "20245",
                         "6036",
@@ -1327,7 +1285,7 @@
                 },
                 {
                     "_id": "123",
-                    "ballot_title": "SHANELL WILLIAMS",
+                    "heading": "SHANELL WILLIAMS",
                     "results": [
                         "32006",
                         "10622",
@@ -1338,7 +1296,7 @@
                 },
                 {
                     "_id": "124",
-                    "ballot_title": "TYRA FENNELL",
+                    "heading": "TYRA FENNELL",
                     "results": [
                         "18594",
                         "5884",
@@ -1349,7 +1307,7 @@
                 },
                 {
                     "_id": "125",
-                    "ballot_title": "KEVIN ORTIZ",
+                    "heading": "KEVIN ORTIZ",
                     "results": [
                         "25769",
                         "9191",
@@ -1360,7 +1318,7 @@
                 },
                 {
                     "_id": "126",
-                    "ballot_title": "VICTOR OLIVIERI",
+                    "heading": "VICTOR OLIVIERI",
                     "results": [
                         "15398",
                         "4730",
@@ -1371,7 +1329,7 @@
                 },
                 {
                     "_id": "127",
-                    "ballot_title": "NOMVULA O'MEARA",
+                    "heading": "NOMVULA O'MEARA",
                     "results": [
                         "18653",
                         "6679",
@@ -1382,7 +1340,7 @@
                 },
                 {
                     "_id": "128",
-                    "ballot_title": "WILLIAM (ANUBIS) DAUGHERTY",
+                    "heading": "WILLIAM (ANUBIS) DAUGHERTY",
                     "results": [
                         "7499",
                         "2438",
@@ -1393,7 +1351,7 @@
                 },
                 {
                     "_id": "129",
-                    "ballot_title": "MICK DEL ROSARIO",
+                    "heading": "MICK DEL ROSARIO",
                     "results": [
                         "19153",
                         "5457",
@@ -1404,7 +1362,7 @@
                 },
                 {
                     "_id": "130",
-                    "ballot_title": "BEVAN DUFTY",
+                    "heading": "BEVAN DUFTY",
                     "results": [
                         "28374",
                         "9044",
@@ -1415,7 +1373,7 @@
                 },
                 {
                     "_id": "131",
-                    "ballot_title": "JANE KIM",
+                    "heading": "JANE KIM",
                     "results": [
                         "48950",
                         "16412",
@@ -1426,7 +1384,7 @@
                 },
                 {
                     "_id": "134",
-                    "ballot_title": "HONEY MAHOGANY",
+                    "heading": "HONEY MAHOGANY",
                     "results": [
                         "36332",
                         "11649",
@@ -1437,7 +1395,7 @@
                 },
                 {
                     "_id": "132",
-                    "ballot_title": "RAFAEL MANDELMAN",
+                    "heading": "RAFAEL MANDELMAN",
                     "results": [
                         "29147",
                         "8818",
@@ -1448,7 +1406,7 @@
                 },
                 {
                     "_id": "133",
-                    "ballot_title": "SOPHIE MAXWELL",
+                    "heading": "SOPHIE MAXWELL",
                     "results": [
                         "24693",
                         "7796",
@@ -1459,7 +1417,7 @@
                 },
                 {
                     "_id": "135",
-                    "ballot_title": "CAROLE MIGDEN",
+                    "heading": "CAROLE MIGDEN",
                     "results": [
                         "24392",
                         "8223",
@@ -1470,7 +1428,7 @@
                 },
                 {
                     "_id": "136",
-                    "ballot_title": "DAVID VILLA-LOBOS",
+                    "heading": "DAVID VILLA-LOBOS",
                     "results": [
                         "4959",
                         "1978",
@@ -1481,7 +1439,7 @@
                 },
                 {
                     "_id": "137",
-                    "ballot_title": "BIVETT BRACKETT",
+                    "heading": "BIVETT BRACKETT",
                     "results": [
                         "10822",
                         "3099",
@@ -1492,7 +1450,7 @@
                 },
                 {
                     "_id": "138",
-                    "ballot_title": "TAMI BRYANT",
+                    "heading": "TAMI BRYANT",
                     "results": [
                         "16176",
                         "5204",
@@ -1503,7 +1461,7 @@
                 },
                 {
                     "_id": "139",
-                    "ballot_title": "VALLIE BROWN",
+                    "heading": "VALLIE BROWN",
                     "results": [
                         "19245",
                         "5781",
@@ -1514,7 +1472,7 @@
                 },
                 {
                     "_id": "140",
-                    "ballot_title": "GLORIA BERRY",
+                    "heading": "GLORIA BERRY",
                     "results": [
                         "26911",
                         "9073",
@@ -1525,7 +1483,7 @@
                 },
                 {
                     "_id": "141",
-                    "ballot_title": "STEVEN BUSS",
+                    "heading": "STEVEN BUSS",
                     "results": [
                         "15745",
                         "4418",
@@ -1536,7 +1494,7 @@
                 },
                 {
                     "_id": "142",
-                    "ballot_title": "PETER GALLOTTA",
+                    "heading": "PETER GALLOTTA",
                     "results": [
                         "31820",
                         "10522",
@@ -1547,7 +1505,7 @@
                 },
                 {
                     "_id": "143",
-                    "ballot_title": "ANABELL IBÁÑEZ",
+                    "heading": "ANABELL IBÁÑEZ",
                     "results": [
                         "34346",
                         "11683",
@@ -1558,7 +1516,7 @@
                 },
                 {
                     "_id": "144",
-                    "ballot_title": "NANCY TUNG",
+                    "heading": "NANCY TUNG",
                     "results": [
                         "26173",
                         "7549",
@@ -1574,7 +1532,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "184479",
                         "37664",
@@ -1583,7 +1540,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "131864",
                         "46807",
@@ -1592,7 +1548,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -1601,7 +1556,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "532",
                         "92",
@@ -1610,7 +1564,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "960377",
                         "368049",
@@ -1619,7 +1572,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "878271",
                         "285961",
@@ -1628,7 +1580,6 @@
                 },
                 {
                     "_id": "RSWri",
-                    "heading": "Writein Votes",
                     "results": [
                         "123",
                         "123",
@@ -1643,7 +1594,7 @@
             "choices": [
                 {
                     "_id": "89",
-                    "ballot_title": "KAT ANDERSON",
+                    "heading": "KAT ANDERSON",
                     "results": [
                         "15227",
                         "5160",
@@ -1654,7 +1605,7 @@
                 },
                 {
                     "_id": "90",
-                    "ballot_title": "NADIA RAHMAN",
+                    "heading": "NADIA RAHMAN",
                     "results": [
                         "10540",
                         "3366",
@@ -1665,7 +1616,7 @@
                 },
                 {
                     "_id": "91",
-                    "ballot_title": "MANO RAJU",
+                    "heading": "MANO RAJU",
                     "results": [
                         "23232",
                         "7694",
@@ -1676,7 +1627,7 @@
                 },
                 {
                     "_id": "92",
-                    "ballot_title": "ABRA PAULINE CASTLE",
+                    "heading": "ABRA PAULINE CASTLE",
                     "results": [
                         "8281",
                         "2975",
@@ -1687,7 +1638,7 @@
                 },
                 {
                     "_id": "93",
-                    "ballot_title": "QUEENA CHEN",
+                    "heading": "QUEENA CHEN",
                     "results": [
                         "21547",
                         "7157",
@@ -1698,7 +1649,7 @@
                 },
                 {
                     "_id": "94",
-                    "ballot_title": "CYN WANG",
+                    "heading": "CYN WANG",
                     "results": [
                         "13072",
                         "3815",
@@ -1709,7 +1660,7 @@
                 },
                 {
                     "_id": "95",
-                    "ballot_title": "LEAH LACROIX",
+                    "heading": "LEAH LACROIX",
                     "results": [
                         "23529",
                         "7212",
@@ -1720,7 +1671,7 @@
                 },
                 {
                     "_id": "96",
-                    "ballot_title": "SUZY LOFTUS",
+                    "heading": "SUZY LOFTUS",
                     "results": [
                         "24874",
                         "7916",
@@ -1731,7 +1682,7 @@
                 },
                 {
                     "_id": "97",
-                    "ballot_title": "LI MIAO LOVETT",
+                    "heading": "LI MIAO LOVETT",
                     "results": [
                         "21327",
                         "7038",
@@ -1742,7 +1693,7 @@
                 },
                 {
                     "_id": "98",
-                    "ballot_title": "JANICE LI",
+                    "heading": "JANICE LI",
                     "results": [
                         "23150",
                         "7111",
@@ -1753,7 +1704,7 @@
                 },
                 {
                     "_id": "99",
-                    "ballot_title": "JANE NATOLI",
+                    "heading": "JANE NATOLI",
                     "results": [
                         "14893",
                         "4367",
@@ -1764,7 +1715,7 @@
                 },
                 {
                     "_id": "100",
-                    "ballot_title": "AHSHA SAFAI",
+                    "heading": "AHSHA SAFAI",
                     "results": [
                         "16601",
                         "5055",
@@ -1775,7 +1726,7 @@
                 },
                 {
                     "_id": "101",
-                    "ballot_title": "GORDON MAR",
+                    "heading": "GORDON MAR",
                     "results": [
                         "28856",
                         "9090",
@@ -1786,7 +1737,7 @@
                 },
                 {
                     "_id": "102",
-                    "ballot_title": "SEEYEW MO",
+                    "heading": "SEEYEW MO",
                     "results": [
                         "8797",
                         "2395",
@@ -1797,7 +1748,7 @@
                 },
                 {
                     "_id": "103",
-                    "ballot_title": "FAAUUGA MOLIGA",
+                    "heading": "FAAUUGA MOLIGA",
                     "results": [
                         "20286",
                         "6799",
@@ -1808,7 +1759,7 @@
                 },
                 {
                     "_id": "104",
-                    "ballot_title": "PAUL MIYAMOTO",
+                    "heading": "PAUL MIYAMOTO",
                     "results": [
                         "18119",
                         "5245",
@@ -1819,7 +1770,7 @@
                 },
                 {
                     "_id": "105",
-                    "ballot_title": "MARY JUNG",
+                    "heading": "MARY JUNG",
                     "results": [
                         "19953",
                         "5852",
@@ -1830,7 +1781,7 @@
                 },
                 {
                     "_id": "106",
-                    "ballot_title": "KEITH BARAKA",
+                    "heading": "KEITH BARAKA",
                     "results": [
                         "25618",
                         "8357",
@@ -1841,7 +1792,7 @@
                 },
                 {
                     "_id": "107",
-                    "ballot_title": "KELLY AKEMI GROTH",
+                    "heading": "KELLY AKEMI GROTH",
                     "results": [
                         "19432",
                         "6429",
@@ -1852,7 +1803,7 @@
                 },
                 {
                     "_id": "108",
-                    "ballot_title": "A. J. THOMAS",
+                    "heading": "A. J. THOMAS",
                     "results": [
                         "24654",
                         "8244",
@@ -1863,7 +1814,7 @@
                 },
                 {
                     "_id": "109",
-                    "ballot_title": "MAWULI TUGBENYOH",
+                    "heading": "MAWULI TUGBENYOH",
                     "results": [
                         "8520",
                         "2306",
@@ -1879,7 +1830,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "120580",
                         "23079",
@@ -1888,7 +1838,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "87913",
                         "32016",
@@ -1897,7 +1846,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -1906,7 +1854,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "173",
                         "37",
@@ -1915,7 +1862,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "486777",
                         "196092",
@@ -1924,7 +1870,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "390623",
                         "123698",
@@ -1933,7 +1878,6 @@
                 },
                 {
                     "_id": "RSWri",
-                    "heading": "Writein Votes",
                     "results": [
                         "115",
                         "115",
@@ -1948,7 +1892,7 @@
             "choices": [
                 {
                     "_id": "145",
-                    "ballot_title": "LISA REMMER",
+                    "heading": "LISA REMMER",
                     "results": [
                         "2614",
                         "612",
@@ -1959,7 +1903,7 @@
                 },
                 {
                     "_id": "146",
-                    "ballot_title": "JOSEPH C ROBERTS",
+                    "heading": "JOSEPH C ROBERTS",
                     "results": [
                         "1980",
                         "482",
@@ -1970,7 +1914,7 @@
                 },
                 {
                     "_id": "147",
-                    "ballot_title": "STEPHEN WAID",
+                    "heading": "STEPHEN WAID",
                     "results": [
                         "1963",
                         "427",
@@ -1981,7 +1925,7 @@
                 },
                 {
                     "_id": "148",
-                    "ballot_title": "LEO LACAYO",
+                    "heading": "LEO LACAYO",
                     "results": [
                         "1703",
                         "436",
@@ -1992,7 +1936,7 @@
                 },
                 {
                     "_id": "149",
-                    "ballot_title": "RYAN LAM",
+                    "heading": "RYAN LAM",
                     "results": [
                         "2148",
                         "492",
@@ -2003,7 +1947,7 @@
                 },
                 {
                     "_id": "150",
-                    "ballot_title": "CHRISTIAN FOSTER",
+                    "heading": "CHRISTIAN FOSTER",
                     "results": [
                         "1825",
                         "415",
@@ -2014,7 +1958,7 @@
                 },
                 {
                     "_id": "151",
-                    "ballot_title": "JOSH YORK",
+                    "heading": "JOSH YORK",
                     "results": [
                         "1961",
                         "425",
@@ -2025,7 +1969,7 @@
                 },
                 {
                     "_id": "152",
-                    "ballot_title": "EVE DEL CASTELLO",
+                    "heading": "EVE DEL CASTELLO",
                     "results": [
                         "1508",
                         "344",
@@ -2036,7 +1980,7 @@
                 },
                 {
                     "_id": "153",
-                    "ballot_title": "CHRIS WARD KLINE",
+                    "heading": "CHRIS WARD KLINE",
                     "results": [
                         "1487",
                         "332",
@@ -2047,7 +1991,7 @@
                 },
                 {
                     "_id": "154",
-                    "ballot_title": "ERIN SMITH",
+                    "heading": "ERIN SMITH",
                     "results": [
                         "2924",
                         "656",
@@ -2058,7 +2002,7 @@
                 },
                 {
                     "_id": "155",
-                    "ballot_title": "LARRY MARSO",
+                    "heading": "LARRY MARSO",
                     "results": [
                         "1869",
                         "404",
@@ -2069,7 +2013,7 @@
                 },
                 {
                     "_id": "156",
-                    "ballot_title": "NICOLE GARAY",
+                    "heading": "NICOLE GARAY",
                     "results": [
                         "1913",
                         "443",
@@ -2080,7 +2024,7 @@
                 },
                 {
                     "_id": "157",
-                    "ballot_title": "CALE GARVERICK",
+                    "heading": "CALE GARVERICK",
                     "results": [
                         "2461",
                         "560",
@@ -2091,7 +2035,7 @@
                 },
                 {
                     "_id": "158",
-                    "ballot_title": "KRISTA GARVERICK",
+                    "heading": "KRISTA GARVERICK",
                     "results": [
                         "1897",
                         "414",
@@ -2107,7 +2051,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "14749",
                         "2805",
@@ -2116,7 +2059,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "7087",
                         "1699",
@@ -2125,7 +2067,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -2134,7 +2075,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "15",
                         "5",
@@ -2143,7 +2083,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "49525",
                         "12178",
@@ -2152,7 +2091,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "28267",
                         "6456",
@@ -2161,7 +2099,6 @@
                 },
                 {
                     "_id": "RSWri",
-                    "heading": "Writein Votes",
                     "results": [
                         "14",
                         "14",
@@ -2176,7 +2113,7 @@
             "choices": [
                 {
                     "_id": "70",
-                    "ballot_title": "DEANNA LORRAINE",
+                    "heading": "DEANNA LORRAINE",
                     "results": [
                         "4635",
                         "1314",
@@ -2187,7 +2124,7 @@
                 },
                 {
                     "_id": "65",
-                    "ballot_title": "JOHN DENNIS",
+                    "heading": "JOHN DENNIS",
                     "results": [
                         "19883",
                         "5187",
@@ -2198,7 +2135,7 @@
                 },
                 {
                     "_id": "66",
-                    "ballot_title": "NANCY PELOSI",
+                    "heading": "NANCY PELOSI",
                     "results": [
                         "190574",
                         "67163",
@@ -2209,7 +2146,7 @@
                 },
                 {
                     "_id": "67",
-                    "ballot_title": "AGATHA BACELAR",
+                    "heading": "AGATHA BACELAR",
                     "results": [
                         "3889",
                         "1453",
@@ -2220,7 +2157,7 @@
                 },
                 {
                     "_id": "68",
-                    "ballot_title": "SHAHID BUTTAR",
+                    "heading": "SHAHID BUTTAR",
                     "results": [
                         "33340",
                         "13242",
@@ -2231,7 +2168,7 @@
                 },
                 {
                     "_id": "69",
-                    "ballot_title": "TOM GALLAGHER",
+                    "heading": "TOM GALLAGHER",
                     "results": [
                         "5093",
                         "2191",
@@ -2247,7 +2184,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "445848",
                         "90420",
@@ -2256,7 +2192,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "271527",
                         "96085",
@@ -2265,7 +2200,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -2274,7 +2208,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "639",
                         "138",
@@ -2283,7 +2216,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "13437",
                         "5360",
@@ -2292,7 +2224,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "257451",
                         "90587",
@@ -2301,7 +2232,6 @@
                 },
                 {
                     "_id": "RSWri",
-                    "heading": "Writein Votes",
                     "results": [
                         "37",
                         "37",
@@ -2317,7 +2247,7 @@
             "choices": [
                 {
                     "_id": "71",
-                    "ballot_title": "BARBARA LEE",
+                    "heading": "BARBARA LEE",
                     "results": [
                         "0",
                         "0",
@@ -2328,7 +2258,7 @@
                 },
                 {
                     "_id": "72",
-                    "ballot_title": "NIKKA PITERMAN",
+                    "heading": "NIKKA PITERMAN",
                     "results": [
                         "0",
                         "0",
@@ -2344,7 +2274,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "0",
                         "0",
@@ -2353,7 +2282,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "0",
                         "0",
@@ -2362,7 +2290,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -2371,7 +2298,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "0",
                         "0",
@@ -2380,7 +2306,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "0",
                         "0",
@@ -2389,7 +2314,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "0",
                         "0",
@@ -2398,7 +2322,6 @@
                 },
                 {
                     "_id": "RSWri",
-                    "heading": "Writein Votes",
                     "results": [
                         "0",
                         "0",
@@ -2413,7 +2336,7 @@
             "choices": [
                 {
                     "_id": "73",
-                    "ballot_title": "JACKIE SPEIER",
+                    "heading": "JACKIE SPEIER",
                     "results": [
                         "23780",
                         "7812",
@@ -2424,7 +2347,7 @@
                 },
                 {
                     "_id": "74",
-                    "ballot_title": "RAN S. PETEL",
+                    "heading": "RAN S. PETEL",
                     "results": [
                         "4133",
                         "815",
@@ -2435,7 +2358,7 @@
                 },
                 {
                     "_id": "75",
-                    "ballot_title": "CRISTOS GOODROW",
+                    "heading": "CRISTOS GOODROW",
                     "results": [
                         "1314",
                         "557",
@@ -2446,7 +2369,7 @@
                 },
                 {
                     "_id": "76",
-                    "ballot_title": "ERIC TAYLOR",
+                    "heading": "ERIC TAYLOR",
                     "results": [
                         "1013",
                         "341",
@@ -2462,7 +2385,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "58051",
                         "10844",
@@ -2471,7 +2393,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "33377",
                         "10916",
@@ -2480,7 +2401,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -2489,7 +2409,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "67",
                         "9",
@@ -2498,7 +2417,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "3052",
                         "1364",
@@ -2507,7 +2425,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "30258",
                         "9543",
@@ -2516,7 +2433,6 @@
                 },
                 {
                     "_id": "RSWri",
-                    "heading": "Writein Votes",
                     "results": [
                         "18",
                         "18",
@@ -2532,7 +2448,7 @@
             "choices": [
                 {
                     "_id": "78",
-                    "ballot_title": "SCOTT WIENER",
+                    "heading": "SCOTT WIENER",
                     "results": [
                         "153987",
                         "50182",
@@ -2543,7 +2459,7 @@
                 },
                 {
                     "_id": "77",
-                    "ballot_title": "ERIN SMITH",
+                    "heading": "ERIN SMITH",
                     "results": [
                         "29284",
                         "8044",
@@ -2554,7 +2470,7 @@
                 },
                 {
                     "_id": "79",
-                    "ballot_title": "JACKIE FIELDER",
+                    "heading": "JACKIE FIELDER",
                     "results": [
                         "92124",
                         "37099",
@@ -2570,7 +2486,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "503899",
                         "101264",
@@ -2579,7 +2494,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "304904",
                         "107001",
@@ -2588,7 +2502,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -2597,7 +2510,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "246",
                         "52",
@@ -2606,7 +2518,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "29126",
                         "11487",
@@ -2615,7 +2526,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "275532",
                         "95462",
@@ -2624,7 +2534,6 @@
                 },
                 {
                     "_id": "RSWri",
-                    "heading": "Writein Votes",
                     "results": [
                         "137",
                         "137",
@@ -2640,7 +2549,7 @@
             "choices": [
                 {
                     "_id": "82",
-                    "ballot_title": "DAVID CHIU",
+                    "heading": "DAVID CHIU",
                     "results": [
                         "120486",
                         "40050",
@@ -2651,7 +2560,7 @@
                 },
                 {
                     "_id": "177",
-                    "ballot_title": "Starchild",
+                    "heading": "Starchild",
                     "results": [
                         "42",
                         "11",
@@ -2667,7 +2576,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "292422",
                         "59704",
@@ -2676,7 +2584,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "176785",
                         "61730",
@@ -2685,7 +2592,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -2694,7 +2600,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "1",
                         "1",
@@ -2703,7 +2608,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "55790",
                         "21202",
@@ -2712,7 +2616,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "120994",
                         "40527",
@@ -2721,7 +2624,6 @@
                 },
                 {
                     "_id": "RSWri",
-                    "heading": "Writein Votes",
                     "results": [
                         "508",
                         "477",
@@ -2737,7 +2639,7 @@
             "choices": [
                 {
                     "_id": "80",
-                    "ballot_title": "JOHN P. MCDONNELL",
+                    "heading": "JOHN P. MCDONNELL",
                     "results": [
                         "19794",
                         "5878",
@@ -2748,7 +2650,7 @@
                 },
                 {
                     "_id": "81",
-                    "ballot_title": "PHIL TING",
+                    "heading": "PHIL TING",
                     "results": [
                         "90769",
                         "30922",
@@ -2764,7 +2666,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "211477",
                         "41560",
@@ -2773,7 +2674,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "128119",
                         "45271",
@@ -2782,7 +2682,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -2791,7 +2690,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "24",
                         "10",
@@ -2800,7 +2698,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "17374",
                         "8303",
@@ -2809,7 +2706,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "110721",
                         "36958",
@@ -2818,7 +2714,6 @@
                 },
                 {
                     "_id": "RSWri",
-                    "heading": "Writein Votes",
                     "results": [
                         "158",
                         "158",
@@ -2834,7 +2729,7 @@
             "choices": [
                 {
                     "_id": "83",
-                    "ballot_title": "MARIA ELENA EVANGELISTA",
+                    "heading": "MARIA ELENA EVANGELISTA",
                     "results": [
                         "159479",
                         "59803",
@@ -2845,7 +2740,7 @@
                 },
                 {
                     "_id": "84",
-                    "ballot_title": "PANG LY",
+                    "heading": "PANG LY",
                     "results": [
                         "86285",
                         "23388",
@@ -2861,7 +2756,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "503899",
                         "101264",
@@ -2870,7 +2764,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "304904",
                         "107001",
@@ -2879,7 +2772,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -2888,7 +2780,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "154",
                         "38",
@@ -2897,7 +2788,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "58756",
                         "23542",
@@ -2906,7 +2796,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "245994",
                         "83421",
@@ -2915,7 +2804,6 @@
                 },
                 {
                     "_id": "RSWri",
-                    "heading": "Writein Votes",
                     "results": [
                         "230",
                         "230",
@@ -2931,7 +2819,7 @@
             "choices": [
                 {
                     "_id": "85",
-                    "ballot_title": "DOROTHY CHOU PROUDFOOT",
+                    "heading": "DOROTHY CHOU PROUDFOOT",
                     "results": [
                         "103648",
                         "31634",
@@ -2942,7 +2830,7 @@
                 },
                 {
                     "_id": "86",
-                    "ballot_title": "MICHELLE TONG",
+                    "heading": "MICHELLE TONG",
                     "results": [
                         "137691",
                         "49623",
@@ -2958,7 +2846,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "503899",
                         "101264",
@@ -2967,7 +2854,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "304904",
                         "107001",
@@ -2976,7 +2862,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -2985,7 +2870,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "269",
                         "53",
@@ -2994,7 +2878,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "63037",
                         "25432",
@@ -3003,7 +2886,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "241598",
                         "81516",
@@ -3012,7 +2894,6 @@
                 },
                 {
                     "_id": "RSWri",
-                    "heading": "Writein Votes",
                     "results": [
                         "259",
                         "259",
@@ -3028,7 +2909,7 @@
             "choices": [
                 {
                     "_id": "87",
-                    "ballot_title": "KULVINDAR \"RANI\" SINGH",
+                    "heading": "KULVINDAR \"RANI\" SINGH",
                     "results": [
                         "118998",
                         "35666",
@@ -3039,7 +2920,7 @@
                 },
                 {
                     "_id": "88",
-                    "ballot_title": "CAROLYN GOLD",
+                    "heading": "CAROLYN GOLD",
                     "results": [
                         "121008",
                         "45355",
@@ -3055,7 +2936,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "503899",
                         "101264",
@@ -3064,7 +2944,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "304904",
                         "107001",
@@ -3073,7 +2952,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -3082,7 +2960,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "128",
                         "41",
@@ -3091,7 +2968,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "64437",
                         "25606",
@@ -3100,7 +2976,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "240339",
                         "81354",
@@ -3109,7 +2984,6 @@
                 },
                 {
                     "_id": "RSWri",
-                    "heading": "Writein Votes",
                     "results": [
                         "333",
                         "333",
@@ -3125,7 +2999,7 @@
             "choices": [
                 {
                     "_id": "1",
-                    "ballot_title": "YES",
+                    "heading": "YES",
                     "results": [
                         "210727",
                         "76863",
@@ -3136,7 +3010,7 @@
                 },
                 {
                     "_id": "2",
-                    "ballot_title": "NO",
+                    "heading": "NO",
                     "results": [
                         "68541",
                         "20290",
@@ -3152,7 +3026,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "503899",
                         "101264",
@@ -3161,7 +3034,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "304904",
                         "107001",
@@ -3170,7 +3042,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -3179,7 +3050,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "73",
                         "22",
@@ -3188,7 +3058,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "25563",
                         "9826",
@@ -3197,7 +3066,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "279268",
                         "97153",
@@ -3213,7 +3081,7 @@
             "choices": [
                 {
                     "_id": "3",
-                    "ballot_title": "YES",
+                    "heading": "YES",
                     "results": [
                         "203002",
                         "74846",
@@ -3224,7 +3092,7 @@
                 },
                 {
                     "_id": "4",
-                    "ballot_title": "NO",
+                    "heading": "NO",
                     "results": [
                         "77431",
                         "22082",
@@ -3240,7 +3108,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "503899",
                         "101264",
@@ -3249,7 +3116,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "304904",
                         "107001",
@@ -3258,7 +3124,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -3267,7 +3132,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "52",
                         "13",
@@ -3276,7 +3140,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "24419",
                         "10060",
@@ -3285,7 +3148,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "280433",
                         "96928",
@@ -3301,7 +3163,7 @@
             "choices": [
                 {
                     "_id": "5",
-                    "ballot_title": "YES",
+                    "heading": "YES",
                     "results": [
                         "233628",
                         "83013",
@@ -3312,7 +3174,7 @@
                 },
                 {
                     "_id": "6",
-                    "ballot_title": "NO",
+                    "heading": "NO",
                     "results": [
                         "48384",
                         "14182",
@@ -3328,7 +3190,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "503899",
                         "101264",
@@ -3337,7 +3198,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "304904",
                         "107001",
@@ -3346,7 +3206,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -3355,7 +3214,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "59",
                         "19",
@@ -3364,7 +3222,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "22833",
                         "9787",
@@ -3373,7 +3230,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "282012",
                         "97195",
@@ -3389,7 +3245,7 @@
             "choices": [
                 {
                     "_id": "7",
-                    "ballot_title": "YES",
+                    "heading": "YES",
                     "results": [
                         "192238",
                         "69563",
@@ -3400,7 +3256,7 @@
                 },
                 {
                     "_id": "8",
-                    "ballot_title": "NO",
+                    "heading": "NO",
                     "results": [
                         "80262",
                         "23775",
@@ -3416,7 +3272,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "503899",
                         "101264",
@@ -3425,7 +3280,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "304904",
                         "107001",
@@ -3434,7 +3288,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -3443,7 +3296,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "51",
                         "20",
@@ -3452,7 +3304,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "32353",
                         "13643",
@@ -3461,7 +3312,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "272500",
                         "93338",
@@ -3477,7 +3327,7 @@
             "choices": [
                 {
                     "_id": "9",
-                    "ballot_title": "YES",
+                    "heading": "YES",
                     "results": [
                         "195037",
                         "70026",
@@ -3488,7 +3338,7 @@
                 },
                 {
                     "_id": "10",
-                    "ballot_title": "NO",
+                    "heading": "NO",
                     "results": [
                         "83241",
                         "25657",
@@ -3504,7 +3354,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "503899",
                         "101264",
@@ -3513,7 +3362,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "304904",
                         "107001",
@@ -3522,7 +3370,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -3531,7 +3378,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "79",
                         "33",
@@ -3540,7 +3386,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "26547",
                         "11285",
@@ -3549,7 +3394,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "278278",
                         "95683",
@@ -3565,7 +3409,7 @@
             "choices": [
                 {
                     "_id": "11",
-                    "ballot_title": "YES",
+                    "heading": "YES",
                     "results": [
                         "151277",
                         "56352",
@@ -3576,7 +3420,7 @@
                 },
                 {
                     "_id": "12",
-                    "ballot_title": "NO",
+                    "heading": "NO",
                     "results": [
                         "120613",
                         "36931",
@@ -3592,7 +3436,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "503899",
                         "101264",
@@ -3601,7 +3444,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "304904",
                         "107001",
@@ -3610,7 +3452,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -3619,7 +3460,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "59",
                         "17",
@@ -3628,7 +3468,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "32955",
                         "13701",
@@ -3637,7 +3476,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "271890",
                         "93283",
