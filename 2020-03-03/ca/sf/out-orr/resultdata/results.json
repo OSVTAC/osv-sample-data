@@ -1,12 +1,9 @@
 {
-    "_reporting_time": "2020-03-13 14:45:30",
+    "_reporting_time": "2020-03-26 10:41:42",
     "_results_format": "0.2",
-    "_results_id": "20200313",
+    "_results_id": "20200326",
     "_results_title": {
-        "en": "Preliminary Report 13",
-        "es": "Informe preliminar 13",
-        "tl": "Paunang Ulat 13",
-        "zh": "初步报告13"
+        "en": "Final Report"
     },
     "contests": [
         {
@@ -38,9 +35,9 @@
                     "_id": "15",
                     "heading": "ELIZABETH WARREN",
                     "results": [
-                        "58726",
+                        "58730",
                         "21621",
-                        "37105"
+                        "37109"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -104,9 +101,9 @@
                     "_id": "21",
                     "heading": "BERNIE SANDERS",
                     "results": [
-                        "89202",
-                        "38599",
-                        "50603"
+                        "89217",
+                        "38601",
+                        "50616"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -159,9 +156,9 @@
                     "_id": "26",
                     "heading": "MICHAEL R. BLOOMBERG",
                     "results": [
-                        "28931",
+                        "28933",
                         "8096",
-                        "20835"
+                        "20837"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -192,9 +189,9 @@
                     "_id": "29",
                     "heading": "PETE BUTTIGIEG",
                     "results": [
-                        "10359",
+                        "10360",
                         "304",
-                        "10055"
+                        "10056"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -203,9 +200,9 @@
                     "_id": "30",
                     "heading": "JOSEPH R. BIDEN",
                     "results": [
-                        "62288",
-                        "29421",
-                        "32867"
+                        "62299",
+                        "29422",
+                        "32877"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -318,16 +315,16 @@
                     "_id": "RSReg",
                     "results": [
                         "305059",
-                        "60743",
-                        "244316"
+                        "60741",
+                        "244318"
                     ]
                 },
                 {
                     "_id": "RSCst",
                     "results": [
-                        "261331",
-                        "99913",
-                        "161418"
+                        "261364",
+                        "99916",
+                        "161448"
                     ]
                 },
                 {
@@ -349,24 +346,24 @@
                 {
                     "_id": "RSUnd",
                     "results": [
-                        "1492",
-                        "328",
+                        "1531",
+                        "367",
                         "1164"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "results": [
-                        "259516",
-                        "99484",
-                        "160032"
+                        "259510",
+                        "99448",
+                        "160062"
                     ]
                 },
                 {
                     "_id": "RSWri",
                     "results": [
-                        "39",
-                        "39",
+                        "0",
+                        "0",
                         "0"
                     ]
                 }
@@ -515,24 +512,24 @@
                 {
                     "_id": "RSUnd",
                     "results": [
-                        "1774",
-                        "261",
+                        "1857",
+                        "344",
                         "1513"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "results": [
-                        "14926",
-                        "3861",
+                        "14843",
+                        "3778",
                         "11065"
                     ]
                 },
                 {
                     "_id": "RSWri",
                     "results": [
-                        "83",
-                        "83",
+                        "0",
+                        "0",
                         "0"
                     ]
                 }
@@ -637,24 +634,24 @@
                 {
                     "_id": "RSUnd",
                     "results": [
-                        "1885",
-                        "382",
+                        "1980",
+                        "477",
                         "1503"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "results": [
-                        "1114",
-                        "446",
+                        "1019",
+                        "351",
                         "668"
                     ]
                 },
                 {
                     "_id": "RSWri",
                     "results": [
-                        "95",
-                        "95",
+                        "0",
+                        "0",
                         "0"
                     ]
                 }
@@ -770,24 +767,24 @@
                 {
                     "_id": "RSUnd",
                     "results": [
-                        "443",
-                        "82",
+                        "474",
+                        "113",
                         "361"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "results": [
-                        "634",
-                        "247",
+                        "603",
+                        "216",
                         "387"
                     ]
                 },
                 {
                     "_id": "RSWri",
                     "results": [
-                        "31",
-                        "31",
+                        "0",
+                        "0",
                         "0"
                     ]
                 }
@@ -801,8 +798,8 @@
                     "_id": "50",
                     "heading": "HOWIE HAWKINS",
                     "results": [
-                        "77",
-                        "18",
+                        "78",
+                        "19",
                         "59"
                     ],
                     "success": false,
@@ -851,32 +848,32 @@
                 {
                     "_id": "RSOvr",
                     "results": [
-                        "1",
-                        "1",
+                        "0",
+                        "0",
                         "0"
                     ]
                 },
                 {
                     "_id": "RSUnd",
                     "results": [
-                        "107",
-                        "24",
+                        "114",
+                        "31",
                         "83"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "results": [
-                        "258",
-                        "95",
+                        "252",
+                        "89",
                         "163"
                     ]
                 },
                 {
                     "_id": "RSWri",
                     "results": [
-                        "7",
-                        "7",
+                        "0",
+                        "0",
                         "0"
                     ]
                 }
@@ -1113,24 +1110,24 @@
                 {
                     "_id": "RSUnd",
                     "results": [
-                        "441",
-                        "103",
+                        "464",
+                        "126",
                         "338"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "results": [
-                        "708",
-                        "250",
+                        "685",
+                        "227",
                         "458"
                     ]
                 },
                 {
                     "_id": "RSWri",
                     "results": [
-                        "24",
-                        "23",
+                        "1",
+                        "0",
                         "1"
                     ]
                 }
@@ -1155,9 +1152,9 @@
                     "_id": "111",
                     "heading": "JOHN AVALOS",
                     "results": [
-                        "44845",
-                        "15962",
-                        "28883"
+                        "44850",
+                        "15963",
+                        "28887"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1177,9 +1174,9 @@
                     "_id": "113",
                     "heading": "HILLARY RONEN",
                     "results": [
-                        "44274",
-                        "14928",
-                        "29346"
+                        "44280",
+                        "14929",
+                        "29351"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1188,9 +1185,9 @@
                     "_id": "114",
                     "heading": "DAVID CAMPOS",
                     "results": [
-                        "45612",
-                        "15683",
-                        "29929"
+                        "45619",
+                        "15685",
+                        "29934"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1199,9 +1196,9 @@
                     "_id": "115",
                     "heading": "CHRISTOPHER CHRISTENSEN",
                     "results": [
-                        "20384",
-                        "7123",
-                        "13261"
+                        "20388",
+                        "7124",
+                        "13264"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -1210,9 +1207,9 @@
                     "_id": "116",
                     "heading": "MIKE CHEN",
                     "results": [
-                        "20768",
-                        "6133",
-                        "14635"
+                        "20771",
+                        "6134",
+                        "14637"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -1221,9 +1218,9 @@
                     "_id": "117",
                     "heading": "MATT HANEY",
                     "results": [
-                        "42789",
-                        "14074",
-                        "28715"
+                        "42795",
+                        "14076",
+                        "28719"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1232,9 +1229,9 @@
                     "_id": "118",
                     "heading": "RICK HAUPTMAN",
                     "results": [
-                        "7203",
+                        "7205",
                         "2599",
-                        "4604"
+                        "4606"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -1243,9 +1240,9 @@
                     "_id": "119",
                     "heading": "SHAUN HAINES",
                     "results": [
-                        "16287",
+                        "16288",
                         "5810",
-                        "10477"
+                        "10478"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -1254,9 +1251,9 @@
                     "_id": "120",
                     "heading": "FRANCES HSIEH",
                     "results": [
-                        "40183",
-                        "13142",
-                        "27041"
+                        "40189",
+                        "13144",
+                        "27045"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1265,8 +1262,8 @@
                     "_id": "121",
                     "heading": "AUSTIN HUNTER",
                     "results": [
-                        "17054",
-                        "4845",
+                        "17055",
+                        "4846",
                         "12209"
                     ],
                     "success": false,
@@ -1287,9 +1284,9 @@
                     "_id": "123",
                     "heading": "SHANELL WILLIAMS",
                     "results": [
-                        "32006",
-                        "10622",
-                        "21384"
+                        "32010",
+                        "10624",
+                        "21386"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1309,9 +1306,9 @@
                     "_id": "125",
                     "heading": "KEVIN ORTIZ",
                     "results": [
-                        "25769",
-                        "9191",
-                        "16578"
+                        "25773",
+                        "9192",
+                        "16581"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -1320,9 +1317,9 @@
                     "_id": "126",
                     "heading": "VICTOR OLIVIERI",
                     "results": [
-                        "15398",
+                        "15399",
                         "4730",
-                        "10668"
+                        "10669"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -1331,9 +1328,9 @@
                     "_id": "127",
                     "heading": "NOMVULA O'MEARA",
                     "results": [
-                        "18653",
-                        "6679",
-                        "11974"
+                        "18658",
+                        "6681",
+                        "11977"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -1364,9 +1361,9 @@
                     "_id": "130",
                     "heading": "BEVAN DUFTY",
                     "results": [
-                        "28374",
+                        "28376",
                         "9044",
-                        "19330"
+                        "19332"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1375,9 +1372,9 @@
                     "_id": "131",
                     "heading": "JANE KIM",
                     "results": [
-                        "48950",
-                        "16412",
-                        "32538"
+                        "48958",
+                        "16413",
+                        "32545"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1386,9 +1383,9 @@
                     "_id": "134",
                     "heading": "HONEY MAHOGANY",
                     "results": [
-                        "36332",
-                        "11649",
-                        "24683"
+                        "36337",
+                        "11650",
+                        "24687"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1397,9 +1394,9 @@
                     "_id": "132",
                     "heading": "RAFAEL MANDELMAN",
                     "results": [
-                        "29147",
+                        "29150",
                         "8818",
-                        "20329"
+                        "20332"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1408,9 +1405,9 @@
                     "_id": "133",
                     "heading": "SOPHIE MAXWELL",
                     "results": [
-                        "24693",
-                        "7796",
-                        "16897"
+                        "24697",
+                        "7797",
+                        "16900"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -1419,9 +1416,9 @@
                     "_id": "135",
                     "heading": "CAROLE MIGDEN",
                     "results": [
-                        "24392",
-                        "8223",
-                        "16169"
+                        "24396",
+                        "8224",
+                        "16172"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -1441,8 +1438,8 @@
                     "_id": "137",
                     "heading": "BIVETT BRACKETT",
                     "results": [
-                        "10822",
-                        "3099",
+                        "10823",
+                        "3100",
                         "7723"
                     ],
                     "success": false,
@@ -1452,9 +1449,9 @@
                     "_id": "138",
                     "heading": "TAMI BRYANT",
                     "results": [
-                        "16176",
+                        "16179",
                         "5204",
-                        "10972"
+                        "10975"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -1463,8 +1460,8 @@
                     "_id": "139",
                     "heading": "VALLIE BROWN",
                     "results": [
-                        "19245",
-                        "5781",
+                        "19246",
+                        "5782",
                         "13464"
                     ],
                     "success": false,
@@ -1474,9 +1471,9 @@
                     "_id": "140",
                     "heading": "GLORIA BERRY",
                     "results": [
-                        "26911",
-                        "9073",
-                        "17838"
+                        "26915",
+                        "9074",
+                        "17841"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1485,8 +1482,8 @@
                     "_id": "141",
                     "heading": "STEVEN BUSS",
                     "results": [
-                        "15745",
-                        "4418",
+                        "15746",
+                        "4419",
                         "11327"
                     ],
                     "success": false,
@@ -1496,9 +1493,9 @@
                     "_id": "142",
                     "heading": "PETER GALLOTTA",
                     "results": [
-                        "31820",
-                        "10522",
-                        "21298"
+                        "31826",
+                        "10523",
+                        "21303"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1507,9 +1504,9 @@
                     "_id": "143",
                     "heading": "ANABELL IBÁÑEZ",
                     "results": [
-                        "34346",
-                        "11683",
-                        "22663"
+                        "34353",
+                        "11685",
+                        "22668"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1518,9 +1515,9 @@
                     "_id": "144",
                     "heading": "NANCY TUNG",
                     "results": [
-                        "26173",
-                        "7549",
-                        "18624"
+                        "26176",
+                        "7550",
+                        "18626"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1534,16 +1531,16 @@
                     "_id": "RSReg",
                     "results": [
                         "184479",
-                        "37664",
-                        "146815"
+                        "37663",
+                        "146816"
                     ]
                 },
                 {
                     "_id": "RSCst",
                     "results": [
-                        "131864",
-                        "46807",
-                        "85057"
+                        "131881",
+                        "46808",
+                        "85073"
                     ]
                 },
                 {
@@ -1557,32 +1554,32 @@
                 {
                     "_id": "RSOvr",
                     "results": [
-                        "532",
-                        "92",
+                        "531",
+                        "91",
                         "440"
                     ]
                 },
                 {
                     "_id": "RSUnd",
                     "results": [
-                        "960377",
-                        "368049",
-                        "592328"
+                        "960645",
+                        "368172",
+                        "592473"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "results": [
-                        "878271",
-                        "285961",
-                        "592310"
+                        "878255",
+                        "285866",
+                        "592389"
                     ]
                 },
                 {
                     "_id": "RSWri",
                     "results": [
-                        "123",
-                        "123",
+                        "0",
+                        "0",
                         "0"
                     ]
                 }
@@ -1596,9 +1593,9 @@
                     "_id": "89",
                     "heading": "KAT ANDERSON",
                     "results": [
-                        "15227",
-                        "5160",
-                        "10067"
+                        "15232",
+                        "5161",
+                        "10071"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -1607,9 +1604,9 @@
                     "_id": "90",
                     "heading": "NADIA RAHMAN",
                     "results": [
-                        "10540",
-                        "3366",
-                        "7174"
+                        "10542",
+                        "3367",
+                        "7175"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -1618,9 +1615,9 @@
                     "_id": "91",
                     "heading": "MANO RAJU",
                     "results": [
-                        "23232",
-                        "7694",
-                        "15538"
+                        "23235",
+                        "7695",
+                        "15540"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1629,9 +1626,9 @@
                     "_id": "92",
                     "heading": "ABRA PAULINE CASTLE",
                     "results": [
-                        "8281",
+                        "8285",
                         "2975",
-                        "5306"
+                        "5310"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -1640,9 +1637,9 @@
                     "_id": "93",
                     "heading": "QUEENA CHEN",
                     "results": [
-                        "21547",
-                        "7157",
-                        "14390"
+                        "21550",
+                        "7158",
+                        "14392"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1651,9 +1648,9 @@
                     "_id": "94",
                     "heading": "CYN WANG",
                     "results": [
-                        "13072",
+                        "13075",
                         "3815",
-                        "9257"
+                        "9260"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -1662,9 +1659,9 @@
                     "_id": "95",
                     "heading": "LEAH LACROIX",
                     "results": [
-                        "23529",
-                        "7212",
-                        "16317"
+                        "23532",
+                        "7214",
+                        "16318"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1673,9 +1670,9 @@
                     "_id": "96",
                     "heading": "SUZY LOFTUS",
                     "results": [
-                        "24874",
+                        "24876",
                         "7916",
-                        "16958"
+                        "16960"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1684,9 +1681,9 @@
                     "_id": "97",
                     "heading": "LI MIAO LOVETT",
                     "results": [
-                        "21327",
+                        "21329",
                         "7038",
-                        "14289"
+                        "14291"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1695,9 +1692,9 @@
                     "_id": "98",
                     "heading": "JANICE LI",
                     "results": [
-                        "23150",
-                        "7111",
-                        "16039"
+                        "23153",
+                        "7113",
+                        "16040"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1706,9 +1703,9 @@
                     "_id": "99",
                     "heading": "JANE NATOLI",
                     "results": [
-                        "14893",
+                        "14894",
                         "4367",
-                        "10526"
+                        "10527"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -1717,9 +1714,9 @@
                     "_id": "100",
                     "heading": "AHSHA SAFAI",
                     "results": [
-                        "16601",
-                        "5055",
-                        "11546"
+                        "16607",
+                        "5057",
+                        "11550"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -1728,9 +1725,9 @@
                     "_id": "101",
                     "heading": "GORDON MAR",
                     "results": [
-                        "28856",
-                        "9090",
-                        "19766"
+                        "28863",
+                        "9092",
+                        "19771"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1739,9 +1736,9 @@
                     "_id": "102",
                     "heading": "SEEYEW MO",
                     "results": [
-                        "8797",
-                        "2395",
-                        "6402"
+                        "8799",
+                        "2396",
+                        "6403"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -1750,9 +1747,9 @@
                     "_id": "103",
                     "heading": "FAAUUGA MOLIGA",
                     "results": [
-                        "20286",
+                        "20289",
                         "6799",
-                        "13487"
+                        "13490"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1761,9 +1758,9 @@
                     "_id": "104",
                     "heading": "PAUL MIYAMOTO",
                     "results": [
-                        "18119",
-                        "5245",
-                        "12874"
+                        "18123",
+                        "5246",
+                        "12877"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -1772,9 +1769,9 @@
                     "_id": "105",
                     "heading": "MARY JUNG",
                     "results": [
-                        "19953",
+                        "19957",
                         "5852",
-                        "14101"
+                        "14105"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -1783,9 +1780,9 @@
                     "_id": "106",
                     "heading": "KEITH BARAKA",
                     "results": [
-                        "25618",
-                        "8357",
-                        "17261"
+                        "25624",
+                        "8359",
+                        "17265"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1794,9 +1791,9 @@
                     "_id": "107",
                     "heading": "KELLY AKEMI GROTH",
                     "results": [
-                        "19432",
-                        "6429",
-                        "13003"
+                        "19435",
+                        "6430",
+                        "13005"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -1805,9 +1802,9 @@
                     "_id": "108",
                     "heading": "A. J. THOMAS",
                     "results": [
-                        "24654",
-                        "8244",
-                        "16410"
+                        "24658",
+                        "8245",
+                        "16413"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -1816,9 +1813,9 @@
                     "_id": "109",
                     "heading": "MAWULI TUGBENYOH",
                     "results": [
-                        "8520",
-                        "2306",
-                        "6214"
+                        "8522",
+                        "2307",
+                        "6215"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -1832,16 +1829,16 @@
                     "_id": "RSReg",
                     "results": [
                         "120580",
-                        "23079",
-                        "97501"
+                        "23078",
+                        "97502"
                     ]
                 },
                 {
                     "_id": "RSCst",
                     "results": [
-                        "87913",
-                        "32016",
-                        "55897"
+                        "87929",
+                        "32018",
+                        "55911"
                     ]
                 },
                 {
@@ -1855,32 +1852,32 @@
                 {
                     "_id": "RSOvr",
                     "results": [
-                        "173",
-                        "37",
+                        "172",
+                        "36",
                         "136"
                     ]
                 },
                 {
                     "_id": "RSUnd",
                     "results": [
-                        "486777",
-                        "196092",
-                        "290685"
+                        "486990",
+                        "196218",
+                        "290772"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "results": [
-                        "390623",
-                        "123698",
-                        "266925"
+                        "390580",
+                        "123602",
+                        "266978"
                     ]
                 },
                 {
                     "_id": "RSWri",
                     "results": [
-                        "115",
-                        "115",
+                        "0",
+                        "0",
                         "0"
                     ]
                 }
@@ -2084,24 +2081,24 @@
                 {
                     "_id": "RSUnd",
                     "results": [
-                        "49525",
-                        "12178",
+                        "49539",
+                        "12192",
                         "37347"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "results": [
-                        "28267",
-                        "6456",
+                        "28253",
+                        "6442",
                         "21811"
                     ]
                 },
                 {
                     "_id": "RSWri",
                     "results": [
-                        "14",
-                        "14",
+                        "0",
+                        "0",
                         "0"
                     ]
                 }
@@ -2137,9 +2134,9 @@
                     "_id": "66",
                     "heading": "NANCY PELOSI",
                     "results": [
-                        "190574",
-                        "67163",
-                        "123411"
+                        "190590",
+                        "67164",
+                        "123426"
                     ],
                     "success": true,
                     "winning_status": "to_runoff"
@@ -2148,9 +2145,9 @@
                     "_id": "67",
                     "heading": "AGATHA BACELAR",
                     "results": [
-                        "3889",
+                        "3890",
                         "1453",
-                        "2436"
+                        "2437"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -2159,9 +2156,9 @@
                     "_id": "68",
                     "heading": "SHAHID BUTTAR",
                     "results": [
-                        "33340",
-                        "13242",
-                        "20098"
+                        "33344",
+                        "13243",
+                        "20101"
                     ],
                     "success": true,
                     "winning_status": "to_runoff"
@@ -2170,9 +2167,9 @@
                     "_id": "69",
                     "heading": "TOM GALLAGHER",
                     "results": [
-                        "5093",
+                        "5094",
                         "2191",
-                        "2902"
+                        "2903"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -2193,9 +2190,9 @@
                 {
                     "_id": "RSCst",
                     "results": [
-                        "271527",
-                        "96085",
-                        "175442"
+                        "271552",
+                        "96086",
+                        "175466"
                     ]
                 },
                 {
@@ -2209,32 +2206,32 @@
                 {
                     "_id": "RSOvr",
                     "results": [
-                        "639",
-                        "138",
+                        "638",
+                        "137",
                         "501"
                     ]
                 },
                 {
                     "_id": "RSUnd",
                     "results": [
-                        "13437",
-                        "5360",
-                        "8077"
+                        "13478",
+                        "5397",
+                        "8081"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "results": [
-                        "257451",
-                        "90587",
-                        "166864"
+                        "257436",
+                        "90552",
+                        "166884"
                     ]
                 },
                 {
                     "_id": "RSWri",
                     "results": [
-                        "37",
-                        "37",
+                        "0",
+                        "0",
                         "0"
                     ]
                 }
@@ -2338,9 +2335,9 @@
                     "_id": "73",
                     "heading": "JACKIE SPEIER",
                     "results": [
-                        "23780",
-                        "7812",
-                        "15968"
+                        "23790",
+                        "7813",
+                        "15977"
                     ],
                     "success": true,
                     "winning_status": "to_runoff"
@@ -2387,16 +2384,16 @@
                     "_id": "RSReg",
                     "results": [
                         "58051",
-                        "10844",
-                        "47207"
+                        "10843",
+                        "47208"
                     ]
                 },
                 {
                     "_id": "RSCst",
                     "results": [
-                        "33377",
-                        "10916",
-                        "22461"
+                        "33388",
+                        "10918",
+                        "22470"
                     ]
                 },
                 {
@@ -2418,24 +2415,24 @@
                 {
                     "_id": "RSUnd",
                     "results": [
-                        "3052",
-                        "1364",
+                        "3071",
+                        "1383",
                         "1688"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "results": [
-                        "30258",
-                        "9543",
-                        "20715"
+                        "30250",
+                        "9526",
+                        "20724"
                     ]
                 },
                 {
                     "_id": "RSWri",
                     "results": [
-                        "18",
-                        "18",
+                        "0",
+                        "0",
                         "0"
                     ]
                 }
@@ -2450,9 +2447,9 @@
                     "_id": "78",
                     "heading": "SCOTT WIENER",
                     "results": [
-                        "153987",
-                        "50182",
-                        "103805"
+                        "154001",
+                        "50184",
+                        "103817"
                     ],
                     "success": true,
                     "winning_status": "to_runoff"
@@ -2461,9 +2458,9 @@
                     "_id": "77",
                     "heading": "ERIN SMITH",
                     "results": [
-                        "29284",
+                        "29285",
                         "8044",
-                        "21240"
+                        "21241"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -2472,9 +2469,9 @@
                     "_id": "79",
                     "heading": "JACKIE FIELDER",
                     "results": [
-                        "92124",
-                        "37099",
-                        "55025"
+                        "92141",
+                        "37101",
+                        "55040"
                     ],
                     "success": true,
                     "winning_status": "to_runoff"
@@ -2488,16 +2485,16 @@
                     "_id": "RSReg",
                     "results": [
                         "503899",
-                        "101264",
-                        "402635"
+                        "101263",
+                        "402636"
                     ]
                 },
                 {
                     "_id": "RSCst",
                     "results": [
-                        "304904",
-                        "107001",
-                        "197903"
+                        "304940",
+                        "107004",
+                        "197936"
                     ]
                 },
                 {
@@ -2511,32 +2508,32 @@
                 {
                     "_id": "RSOvr",
                     "results": [
-                        "246",
-                        "52",
+                        "245",
+                        "51",
                         "194"
                     ]
                 },
                 {
                     "_id": "RSUnd",
                     "results": [
-                        "29126",
-                        "11487",
-                        "17639"
+                        "29268",
+                        "11624",
+                        "17644"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "results": [
-                        "275532",
-                        "95462",
-                        "180070"
+                        "275427",
+                        "95329",
+                        "180098"
                     ]
                 },
                 {
                     "_id": "RSWri",
                     "results": [
-                        "137",
-                        "137",
+                        "0",
+                        "0",
                         "0"
                     ]
                 }
@@ -2551,9 +2548,9 @@
                     "_id": "82",
                     "heading": "DAVID CHIU",
                     "results": [
-                        "120486",
-                        "40050",
-                        "80436"
+                        "120498",
+                        "40052",
+                        "80446"
                     ],
                     "success": true,
                     "winning_status": "to_runoff"
@@ -2562,8 +2559,8 @@
                     "_id": "177",
                     "heading": "Starchild",
                     "results": [
-                        "42",
-                        "11",
+                        "56",
+                        "25",
                         "31"
                     ],
                     "success": true,
@@ -2585,9 +2582,9 @@
                 {
                     "_id": "RSCst",
                     "results": [
-                        "176785",
-                        "61730",
-                        "115055"
+                        "176803",
+                        "61731",
+                        "115072"
                     ]
                 },
                 {
@@ -2601,32 +2598,32 @@
                 {
                     "_id": "RSOvr",
                     "results": [
-                        "1",
-                        "1",
+                        "0",
+                        "0",
                         "0"
                     ]
                 },
                 {
                     "_id": "RSUnd",
                     "results": [
-                        "55790",
-                        "21202",
-                        "34588"
+                        "56249",
+                        "21654",
+                        "34595"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "results": [
-                        "120994",
-                        "40527",
-                        "80467"
+                        "120554",
+                        "40077",
+                        "80477"
                     ]
                 },
                 {
                     "_id": "RSWri",
                     "results": [
-                        "508",
-                        "477",
+                        "56",
+                        "25",
                         "31"
                     ]
                 }
@@ -2641,9 +2638,9 @@
                     "_id": "80",
                     "heading": "JOHN P. MCDONNELL",
                     "results": [
-                        "19794",
-                        "5878",
-                        "13916"
+                        "19796",
+                        "5879",
+                        "13917"
                     ],
                     "success": true,
                     "winning_status": "to_runoff"
@@ -2652,9 +2649,9 @@
                     "_id": "81",
                     "heading": "PHIL TING",
                     "results": [
-                        "90769",
-                        "30922",
-                        "59847"
+                        "90788",
+                        "30928",
+                        "59860"
                     ],
                     "success": true,
                     "winning_status": "to_runoff"
@@ -2668,16 +2665,16 @@
                     "_id": "RSReg",
                     "results": [
                         "211477",
-                        "41560",
-                        "169917"
+                        "41559",
+                        "169918"
                     ]
                 },
                 {
                     "_id": "RSCst",
                     "results": [
-                        "128119",
-                        "45271",
-                        "82848"
+                        "128137",
+                        "45273",
+                        "82864"
                     ]
                 },
                 {
@@ -2691,32 +2688,32 @@
                 {
                     "_id": "RSOvr",
                     "results": [
-                        "24",
-                        "10",
+                        "20",
+                        "6",
                         "14"
                     ]
                 },
                 {
                     "_id": "RSUnd",
                     "results": [
-                        "17374",
-                        "8303",
-                        "9071"
+                        "17533",
+                        "8460",
+                        "9073"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "results": [
-                        "110721",
-                        "36958",
-                        "73763"
+                        "110584",
+                        "36807",
+                        "73777"
                     ]
                 },
                 {
                     "_id": "RSWri",
                     "results": [
-                        "158",
-                        "158",
+                        "0",
+                        "0",
                         "0"
                     ]
                 }
@@ -2731,9 +2728,9 @@
                     "_id": "83",
                     "heading": "MARIA ELENA EVANGELISTA",
                     "results": [
-                        "159479",
-                        "59803",
-                        "99676"
+                        "159502",
+                        "59807",
+                        "99695"
                     ],
                     "success": true,
                     "winning_status": "to_runoff"
@@ -2742,9 +2739,9 @@
                     "_id": "84",
                     "heading": "PANG LY",
                     "results": [
-                        "86285",
-                        "23388",
-                        "62897"
+                        "86292",
+                        "23389",
+                        "62903"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -2758,16 +2755,16 @@
                     "_id": "RSReg",
                     "results": [
                         "503899",
-                        "101264",
-                        "402635"
+                        "101263",
+                        "402636"
                     ]
                 },
                 {
                     "_id": "RSCst",
                     "results": [
-                        "304904",
-                        "107001",
-                        "197903"
+                        "304940",
+                        "107004",
+                        "197936"
                     ]
                 },
                 {
@@ -2781,32 +2778,32 @@
                 {
                     "_id": "RSOvr",
                     "results": [
-                        "154",
-                        "38",
+                        "153",
+                        "37",
                         "116"
                     ]
                 },
                 {
                     "_id": "RSUnd",
                     "results": [
-                        "58756",
-                        "23542",
-                        "35214"
+                        "58993",
+                        "23771",
+                        "35222"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "results": [
-                        "245994",
-                        "83421",
-                        "162573"
+                        "245794",
+                        "83196",
+                        "162598"
                     ]
                 },
                 {
                     "_id": "RSWri",
                     "results": [
-                        "230",
-                        "230",
+                        "0",
+                        "0",
                         "0"
                     ]
                 }
@@ -2821,9 +2818,9 @@
                     "_id": "85",
                     "heading": "DOROTHY CHOU PROUDFOOT",
                     "results": [
-                        "103648",
-                        "31634",
-                        "72014"
+                        "103664",
+                        "31636",
+                        "72028"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -2832,9 +2829,9 @@
                     "_id": "86",
                     "heading": "MICHELLE TONG",
                     "results": [
-                        "137691",
-                        "49623",
-                        "88068"
+                        "137702",
+                        "49624",
+                        "88078"
                     ],
                     "success": true,
                     "winning_status": "to_runoff"
@@ -2848,16 +2845,16 @@
                     "_id": "RSReg",
                     "results": [
                         "503899",
-                        "101264",
-                        "402635"
+                        "101263",
+                        "402636"
                     ]
                 },
                 {
                     "_id": "RSCst",
                     "results": [
-                        "304904",
-                        "107001",
-                        "197903"
+                        "304940",
+                        "107004",
+                        "197936"
                     ]
                 },
                 {
@@ -2871,32 +2868,32 @@
                 {
                     "_id": "RSOvr",
                     "results": [
-                        "269",
-                        "53",
+                        "268",
+                        "52",
                         "216"
                     ]
                 },
                 {
                     "_id": "RSUnd",
                     "results": [
-                        "63037",
-                        "25432",
-                        "37605"
+                        "63306",
+                        "25692",
+                        "37614"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "results": [
-                        "241598",
-                        "81516",
-                        "160082"
+                        "241366",
+                        "81260",
+                        "160106"
                     ]
                 },
                 {
                     "_id": "RSWri",
                     "results": [
-                        "259",
-                        "259",
+                        "0",
+                        "0",
                         "0"
                     ]
                 }
@@ -2911,9 +2908,9 @@
                     "_id": "87",
                     "heading": "KULVINDAR \"RANI\" SINGH",
                     "results": [
-                        "118998",
-                        "35666",
-                        "83332"
+                        "119011",
+                        "35667",
+                        "83344"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -2922,9 +2919,9 @@
                     "_id": "88",
                     "heading": "CAROLYN GOLD",
                     "results": [
-                        "121008",
-                        "45355",
-                        "75653"
+                        "121026",
+                        "45361",
+                        "75665"
                     ],
                     "success": true,
                     "winning_status": "to_runoff"
@@ -2938,16 +2935,16 @@
                     "_id": "RSReg",
                     "results": [
                         "503899",
-                        "101264",
-                        "402635"
+                        "101263",
+                        "402636"
                     ]
                 },
                 {
                     "_id": "RSCst",
                     "results": [
-                        "304904",
-                        "107001",
-                        "197903"
+                        "304940",
+                        "107004",
+                        "197936"
                     ]
                 },
                 {
@@ -2961,32 +2958,32 @@
                 {
                     "_id": "RSOvr",
                     "results": [
-                        "128",
-                        "41",
+                        "123",
+                        "36",
                         "87"
                     ]
                 },
                 {
                     "_id": "RSUnd",
                     "results": [
-                        "64437",
-                        "25606",
-                        "38831"
+                        "64780",
+                        "25940",
+                        "38840"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "results": [
-                        "240339",
-                        "81354",
-                        "158985"
+                        "240037",
+                        "81028",
+                        "159009"
                     ]
                 },
                 {
                     "_id": "RSWri",
                     "results": [
-                        "333",
-                        "333",
+                        "0",
+                        "0",
                         "0"
                     ]
                 }
@@ -3001,9 +2998,9 @@
                     "_id": "1",
                     "heading": "YES",
                     "results": [
-                        "210727",
-                        "76863",
-                        "133864"
+                        "210751",
+                        "76865",
+                        "133886"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -3012,9 +3009,9 @@
                     "_id": "2",
                     "heading": "NO",
                     "results": [
-                        "68541",
+                        "68546",
                         "20290",
-                        "48251"
+                        "48256"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -3028,16 +3025,16 @@
                     "_id": "RSReg",
                     "results": [
                         "503899",
-                        "101264",
-                        "402635"
+                        "101263",
+                        "402636"
                     ]
                 },
                 {
                     "_id": "RSCst",
                     "results": [
-                        "304904",
-                        "107001",
-                        "197903"
+                        "304940",
+                        "107004",
+                        "197936"
                     ]
                 },
                 {
@@ -3059,17 +3056,17 @@
                 {
                     "_id": "RSUnd",
                     "results": [
-                        "25563",
-                        "9826",
-                        "15737"
+                        "25570",
+                        "9827",
+                        "15743"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "results": [
-                        "279268",
-                        "97153",
-                        "182115"
+                        "279297",
+                        "97155",
+                        "182142"
                     ]
                 }
             ],
@@ -3083,9 +3080,9 @@
                     "_id": "3",
                     "heading": "YES",
                     "results": [
-                        "203002",
-                        "74846",
-                        "128156"
+                        "203027",
+                        "74847",
+                        "128180"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -3094,9 +3091,9 @@
                     "_id": "4",
                     "heading": "NO",
                     "results": [
-                        "77431",
+                        "77436",
                         "22082",
-                        "55349"
+                        "55354"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -3110,16 +3107,16 @@
                     "_id": "RSReg",
                     "results": [
                         "503899",
-                        "101264",
-                        "402635"
+                        "101263",
+                        "402636"
                     ]
                 },
                 {
                     "_id": "RSCst",
                     "results": [
-                        "304904",
-                        "107001",
-                        "197903"
+                        "304940",
+                        "107004",
+                        "197936"
                     ]
                 },
                 {
@@ -3141,17 +3138,17 @@
                 {
                     "_id": "RSUnd",
                     "results": [
-                        "24419",
-                        "10060",
-                        "14359"
+                        "24425",
+                        "10062",
+                        "14363"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "results": [
-                        "280433",
-                        "96928",
-                        "183505"
+                        "280463",
+                        "96929",
+                        "183534"
                     ]
                 }
             ],
@@ -3165,9 +3162,9 @@
                     "_id": "5",
                     "heading": "YES",
                     "results": [
-                        "233628",
-                        "83013",
-                        "150615"
+                        "233656",
+                        "83015",
+                        "150641"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -3176,9 +3173,9 @@
                     "_id": "6",
                     "heading": "NO",
                     "results": [
-                        "48384",
+                        "48387",
                         "14182",
-                        "34202"
+                        "34205"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -3192,16 +3189,16 @@
                     "_id": "RSReg",
                     "results": [
                         "503899",
-                        "101264",
-                        "402635"
+                        "101263",
+                        "402636"
                     ]
                 },
                 {
                     "_id": "RSCst",
                     "results": [
-                        "304904",
-                        "107001",
-                        "197903"
+                        "304940",
+                        "107004",
+                        "197936"
                     ]
                 },
                 {
@@ -3223,17 +3220,17 @@
                 {
                     "_id": "RSUnd",
                     "results": [
-                        "22833",
-                        "9787",
-                        "13046"
+                        "22838",
+                        "9788",
+                        "13050"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "results": [
-                        "282012",
-                        "97195",
-                        "184817"
+                        "282043",
+                        "97197",
+                        "184846"
                     ]
                 }
             ],
@@ -3247,9 +3244,9 @@
                     "_id": "7",
                     "heading": "YES",
                     "results": [
-                        "192238",
-                        "69563",
-                        "122675"
+                        "192261",
+                        "69564",
+                        "122697"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -3258,9 +3255,9 @@
                     "_id": "8",
                     "heading": "NO",
                     "results": [
-                        "80262",
+                        "80268",
                         "23775",
-                        "56487"
+                        "56493"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -3274,16 +3271,16 @@
                     "_id": "RSReg",
                     "results": [
                         "503899",
-                        "101264",
-                        "402635"
+                        "101263",
+                        "402636"
                     ]
                 },
                 {
                     "_id": "RSCst",
                     "results": [
-                        "304904",
-                        "107001",
-                        "197903"
+                        "304940",
+                        "107004",
+                        "197936"
                     ]
                 },
                 {
@@ -3305,17 +3302,17 @@
                 {
                     "_id": "RSUnd",
                     "results": [
-                        "32353",
-                        "13643",
-                        "18710"
+                        "32360",
+                        "13645",
+                        "18715"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "results": [
-                        "272500",
-                        "93338",
-                        "179162"
+                        "272529",
+                        "93339",
+                        "179190"
                     ]
                 }
             ],
@@ -3329,9 +3326,9 @@
                     "_id": "9",
                     "heading": "YES",
                     "results": [
-                        "195037",
-                        "70026",
-                        "125011"
+                        "195059",
+                        "70028",
+                        "125031"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -3340,9 +3337,9 @@
                     "_id": "10",
                     "heading": "NO",
                     "results": [
-                        "83241",
+                        "83248",
                         "25657",
-                        "57584"
+                        "57591"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -3356,16 +3353,16 @@
                     "_id": "RSReg",
                     "results": [
                         "503899",
-                        "101264",
-                        "402635"
+                        "101263",
+                        "402636"
                     ]
                 },
                 {
                     "_id": "RSCst",
                     "results": [
-                        "304904",
-                        "107001",
-                        "197903"
+                        "304940",
+                        "107004",
+                        "197936"
                     ]
                 },
                 {
@@ -3387,17 +3384,17 @@
                 {
                     "_id": "RSUnd",
                     "results": [
-                        "26547",
-                        "11285",
-                        "15262"
+                        "26554",
+                        "11286",
+                        "15268"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "results": [
-                        "278278",
-                        "95683",
-                        "182595"
+                        "278307",
+                        "95685",
+                        "182622"
                     ]
                 }
             ],
@@ -3411,9 +3408,9 @@
                     "_id": "11",
                     "heading": "YES",
                     "results": [
-                        "151277",
-                        "56352",
-                        "94925"
+                        "151293",
+                        "56353",
+                        "94940"
                     ],
                     "success": true,
                     "winning_status": "winning"
@@ -3422,9 +3419,9 @@
                     "_id": "12",
                     "heading": "NO",
                     "results": [
-                        "120613",
+                        "120626",
                         "36931",
-                        "83682"
+                        "83695"
                     ],
                     "success": false,
                     "winning_status": "not_winning"
@@ -3438,16 +3435,16 @@
                     "_id": "RSReg",
                     "results": [
                         "503899",
-                        "101264",
-                        "402635"
+                        "101263",
+                        "402636"
                     ]
                 },
                 {
                     "_id": "RSCst",
                     "results": [
-                        "304904",
-                        "107001",
-                        "197903"
+                        "304940",
+                        "107004",
+                        "197936"
                     ]
                 },
                 {
@@ -3469,17 +3466,17 @@
                 {
                     "_id": "RSUnd",
                     "results": [
-                        "32955",
-                        "13701",
-                        "19254"
+                        "32962",
+                        "13703",
+                        "19259"
                     ]
                 },
                 {
                     "_id": "RSTot",
                     "results": [
-                        "271890",
-                        "93283",
-                        "178607"
+                        "271919",
+                        "93284",
+                        "178635"
                     ]
                 }
             ],
@@ -3497,21 +3494,21 @@
                 "party_id": "ALL",
                 "results": [
                     503899,
-                    305148,
-                    305148,
-                    283394,
+                    305184,
+                    305184,
+                    283427,
                     101679,
-                    107181,
-                    107181,
-                    105489,
-                    402883,
-                    197967,
-                    197967,
-                    177905,
-                    210012,
-                    200596,
-                    1,
-                    9413
+                    107184,
+                    107184,
+                    105492,
+                    402885,
+                    198000,
+                    198000,
+                    177935,
+                    210020,
+                    200615,
+                    0,
+                    9405
                 ]
             },
             {
@@ -3560,21 +3557,21 @@
                 "party_id": "DEM",
                 "results": [
                     305059,
-                    219777,
-                    219777,
-                    219334,
+                    219810,
+                    219810,
+                    219367,
                     61346,
-                    78823,
-                    78823,
-                    78690,
-                    244316,
-                    140954,
-                    140954,
-                    140644,
-                    149352,
-                    142556,
-                    1,
-                    6794
+                    78826,
+                    78826,
+                    78693,
+                    244318,
+                    140984,
+                    140984,
+                    140674,
+                    149361,
+                    142573,
+                    0,
+                    6788
                 ]
             },
             {
@@ -3707,42 +3704,42 @@
                 "party_id": "NPP",
                 "results": [
                     149600,
-                    21510,
-                    21510,
+                    21513,
+                    21513,
                     0,
                     58566,
                     1512,
                     1512,
                     0,
                     91046,
-                    19998,
-                    19998,
+                    20001,
+                    20001,
                     0,
-                    21366,
-                    20240,
+                    21365,
+                    20242,
                     0,
-                    1125
+                    1123
                 ]
             },
             {
                 "party_id": "NPPALL",
                 "results": [
                     149600,
-                    64203,
-                    64203,
+                    64206,
+                    64206,
                     42580,
                     30932,
                     22976,
                     22976,
                     21409,
                     118777,
-                    41227,
-                    41227,
+                    41230,
+                    41230,
                     21171,
-                    43746,
-                    41792,
+                    43745,
+                    41794,
                     0,
-                    1953
+                    1951
                 ]
             }
         ],
@@ -3780,17 +3777,17 @@
                 "heading": "Registered Voters",
                 "results": [
                     503899,
-                    101264,
-                    402635
+                    101263,
+                    402636
                 ]
             },
             {
                 "_id": "RSCst",
                 "heading": "Ballots Cast",
                 "results": [
-                    "305148",
-                    "107181",
-                    "197967"
+                    "305184",
+                    "107184",
+                    "198000"
                 ]
             },
             {
