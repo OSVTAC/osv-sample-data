@@ -2099,7 +2099,7 @@
                             "en": "DEANNA LORRAINE"
                         },
                         "sequence": "01",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia de Partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
@@ -2120,7 +2120,7 @@
                             "en": "JOHN DENNIS"
                         },
                         "sequence": "02",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia de Partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
@@ -2141,7 +2141,7 @@
                             "en": "NANCY PELOSI"
                         },
                         "sequence": "03",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia de Partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
@@ -2162,7 +2162,7 @@
                             "en": "AGATHA BACELAR"
                         },
                         "sequence": "04",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia de Partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
@@ -2183,7 +2183,7 @@
                             "en": "SHAHID BUTTAR"
                         },
                         "sequence": "05",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia de Partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
@@ -2204,7 +2204,7 @@
                             "en": "TOM GALLAGHER"
                         },
                         "sequence": "06",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia de Partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
@@ -2259,7 +2259,7 @@
                             "en": "BARBARA LEE"
                         },
                         "sequence": "01",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia de Partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
@@ -2280,7 +2280,7 @@
                             "en": "NIKKA PITERMAN"
                         },
                         "sequence": "02",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia de Partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
@@ -2335,7 +2335,7 @@
                             "en": "JACKIE SPEIER"
                         },
                         "sequence": "01",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia de Partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
@@ -2356,7 +2356,7 @@
                             "en": "RAN S. PETEL"
                         },
                         "sequence": "02",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia de Partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
@@ -2377,7 +2377,7 @@
                             "en": "CRISTOS GOODROW"
                         },
                         "sequence": "03",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia de Partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
@@ -2398,7 +2398,7 @@
                             "en": "ERIC TAYLOR"
                         },
                         "sequence": "04",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: None",
                             "es": "Preferencia de Partido: Ninguna",
                             "tl": "Kinakatigang Partido: Wala",
@@ -2452,7 +2452,7 @@
                             "en": "SCOTT WIENER"
                         },
                         "sequence": "01",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia de Partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
@@ -2473,7 +2473,7 @@
                             "en": "ERIN SMITH"
                         },
                         "sequence": "02",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia de Partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
@@ -2494,7 +2494,7 @@
                             "en": "JACKIE FIELDER"
                         },
                         "sequence": "03",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia de Partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
@@ -2549,7 +2549,7 @@
                             "en": "DAVID CHIU"
                         },
                         "sequence": "01",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia de Partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
@@ -2613,7 +2613,7 @@
                             "en": "JOHN P. MCDONNELL"
                         },
                         "sequence": "01",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia de Partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
@@ -2634,7 +2634,7 @@
                             "en": "PHIL TING"
                         },
                         "sequence": "02",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia de Partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
@@ -7250,14 +7250,14 @@
             "reporting_group_ids": ""
         },
         {
-            "_id": "appct1",
+            "_id": "APPCT1",
             "name": "California State Court of Appeal District  1",
             "short_name": "Appellate District 1",
             "classification": "State Appellate Court District",
             "reporting_group_ids": ""
         },
         {
-            "_id": "state",
+            "_id": "STATE",
             "name": "State of California",
             "short_name": "California",
             "classification": "State",

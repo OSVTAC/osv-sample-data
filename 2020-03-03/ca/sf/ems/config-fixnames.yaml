@@ -23,9 +23,9 @@ district_code_classification:
   - SFUSD=School District
   - SEN=Senate District
   - SUPV=Supervisorial District
-  - appct=State Appellate Court District
+  - APPCT=State Appellate Court District
   - SC=State Superior Court District
-  - state=State
+  - STATE=State
 
 # Classification codes for results subtotal or precinct grouping
 district_grouping:

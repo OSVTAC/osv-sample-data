@@ -54,5 +54,5 @@ SUPV8	Supervisorial District	San Francisco County Supervisorial District  8	Supe
 SUPV9	Supervisorial District	San Francisco County Supervisorial District  9	Supervisorial District 9
 SUPV10	Supervisorial District	San Francisco County Supervisorial District 10	Supervisorial District 10
 SUPV11	Supervisorial District	San Francisco County Supervisorial District 11	Supervisorial District 11
-APPCT1		California State Court of Appeal District  1	Appellate District 1
-STATE		State of California	California
+APPCT1	State Appellate Court District	California State Court of Appeal District  1	Appellate District 1
+STATE	State	State of California	California

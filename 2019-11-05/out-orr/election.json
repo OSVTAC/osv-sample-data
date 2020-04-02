@@ -83,6 +83,7 @@
                     "tl": "Bigyan ng ranggo ang hanggang 6 kandidato",
                     "zh": "最多可排序六個選擇"
                 },
+                "votes_allowed": "6",
                 "max_ranked": "6",
                 "number_elected": 1,
                 "choices": [
@@ -213,6 +214,7 @@
                     "tl": "Bigyan ng ranggo ang hanggang 4 kandidato",
                     "zh": "最多可排序四個選擇"
                 },
+                "votes_allowed": "4",
                 "max_ranked": "4",
                 "number_elected": 1,
                 "choices": [
@@ -304,6 +306,7 @@
                     "tl": "Bigyan ng ranggo ang hanggang 3 kandidato",
                     "zh": "最多可排序三個選擇"
                 },
+                "votes_allowed": "3",
                 "max_ranked": "3",
                 "number_elected": 1,
                 "choices": [
@@ -350,6 +353,7 @@
                     "tl": "Bigyan ng ranggo ang hanggang 4 kandidato",
                     "zh": "最多可排序四個選擇"
                 },
+                "votes_allowed": "4",
                 "max_ranked": "4",
                 "number_elected": 1,
                 "choices": [
@@ -441,6 +445,7 @@
                     "tl": "Bigyan ng ranggo ang hanggang 3 kandidato",
                     "zh": "最多可排序三個選擇"
                 },
+                "votes_allowed": "3",
                 "max_ranked": "3",
                 "number_elected": 1,
                 "choices": [
@@ -485,6 +490,7 @@
                     "tl": "Bigyan ng ranggo ang hanggang 3 kandidato",
                     "zh": "最多可排序三個選擇"
                 },
+                "votes_allowed": "3",
                 "max_ranked": "3",
                 "number_elected": 1,
                 "choices": [
@@ -531,6 +537,7 @@
                     "tl": "Bigyan ng ranggo ang hanggang 3 kandidato",
                     "zh": "最多可排序三個選擇"
                 },
+                "votes_allowed": "3",
                 "max_ranked": "3",
                 "number_elected": 1,
                 "choices": [
@@ -577,6 +584,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一人"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "choices": [
                     {
@@ -652,6 +660,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一人"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "choices": [
                     {
@@ -691,6 +700,7 @@
                 "short_description": {
                     "en": "Affordable Housing Bond"
                 },
+                "votes_allowed": 1,
                 "question_text": {
                     "en": "SAN FRANCISCO AFFORDABLE HOUSING BONDS. To finance the construction, development, acquisition, and preservation of housing affordable to extremely-low, low and middle-income households through programs that will prioritize vulnerable populations such as San Francisco’s working families, veterans, seniors, and persons with disabilities; to assist in the acquisition, rehabilitation, and preservation of existing affordable housing to prevent the displacement of residents; to repair and reconstruct distressed and dilapidated public housing developments and their underlying infrastructure; to assist the City’s middle-income residents or workers in obtaining affordable rental or home ownership opportunities including down payment assistance and support for new construction of affordable housing for San Francisco Unified School District and City College of San Francisco employees; and to pay related costs; shall the City and County of San Francisco issue $600,000,000 in general obligation bonds with a duration of up to 30 years from the time of issuance, an estimated average tax rate of $0.019/$100 of assessed property value, and projected average annual revenues of $50,000,000, subject to independent citizen oversight and regular audits?",
                     "es": "BONOS PARA VIVIENDAS A PRECIOS ASEQUIBLES EN SAN FRANCISCO. Con el fin de financiar la construcción, urbanización, adquisición y conservación de viviendas a precios asequibles para hogares con ingresos sumamente bajos, bajos y medianos mediante programas que darán prioridad a grupos vulnerables como las familias trabajadoras, los veteranos, las personas de la tercera edad y las personas con discapacidades de San Francisco; con el propósito de ayudar en la adquisición, rehabilitación y conservación de viviendas existentes a precios asequibles para evitar el desplazamiento de los residentes; para reparar y reconstruir complejos de viviendas públicas viejos y ruinosos, así como su infraestructura; para asistir a los habitantes con ingresos medianos o a los trabajadores de la Ciudad a obtener oportunidades de alquiler a precios asequibles o de tener casa propia, lo cual incluye la asistencia con la cuota inicial y el apoyo a la nueva construcción de viviendas a precios asequibles para los empleados del Distrito Escolar Unificado de San Francisco y del City College de San Francisco; y para pagar los costos relacionados; ¿debería la Ciudad y Condado de San Francisco emitir $600,000,000 en bonos de obligación general con una duración de hasta 30 años a partir de la fecha de emisión, una tasa promedio de impuesto estimada en $0.019/$100 del valor tasado de la propiedad y una proyección de ingresos anuales promedio de $50,000,000, sujeto a la supervisión ciudadana independiente y a auditorías regulares?",
@@ -741,6 +751,7 @@
                 "short_description": {
                     "en": "Department of Disability and Aging Services"
                 },
+                "votes_allowed": 1,
                 "question_text": {
                     "en": "Shall the City amend the Charter to change the name of the Department of Aging and Adult Services to the Department of Disability and Aging Services; to change the name of the Aging and Adult Services Commission to the Disability and Aging Services Commission; and to add new qualifications for three of the seven seats on this Commission?",
                     "es": "¿Debería la Ciudad enmendar la Carta Constitucional para cambiar el nombre del Departamento de Servicios para Adultos y Adultos Mayores a Departamento de Servicios para Adultos Mayores y Personas con Discapacidad; para cambiar el nombre de la Comisión de Servicios para Adultos y Adultos Mayores a Comisión de Servicios para Adultos Mayores y Personas con Discapacidad; y agregar nuevos requisitos para tres de los siete puestos en la Comisión?",
@@ -791,6 +802,7 @@
                 "short_description": {
                     "en": "Vapor Products"
                 },
+                "votes_allowed": 1,
                 "question_text": {
                     "en": "Shall the City overturn the law passed by the Board of Supervisors suspending the sale of electronic cigarettes until they receive FDA authorization, and adopt new regulations on the sale, manufacture, distribution and advertising of electronic cigarettes in San Francisco?",
                     "es": "¿Debería la Ciudad anular la ley aprobada por el Consejo de Supervisores que suspende la venta de cigarrillos electrónicos hasta que obtengan la autorización de la FDA, y adoptar nuevos reglamentos para la venta, manufactura, distribución y publicidad de cigarrillos electrónicos en San Francisco?",
@@ -841,6 +853,7 @@
                 "short_description": {
                     "en": "Traffic Congestion Mitigation Tax"
                 },
+                "votes_allowed": 1,
                 "question_text": {
                     "en": "Shall the City impose a 1.5% business tax on shared rides and a 3.25% business tax on private rides for fares charged by commercial ride-share and driverless-vehicle companies until November 5, 2045, raising an estimated $30-35 million annually, to fund improvements in Muni service and bicycle and pedestrian safety?",
                     "es": "¿Debería la Ciudad imponer un impuesto empresarial del 1.5% a las tarifas de viajes compartidos y un impuesto empresarial del 3.25% a las tarifas de viajes particulares cobradas por empresas de viajes compartidos y de vehículos sin conductor hasta el 5 de noviembre de 2045, con una recaudación calculada de $30-35 millones anuales, para financiar mejoras al servicio de Muni y mejoras para la seguridad de los ciclistas y peatones?",
@@ -891,6 +904,7 @@
                 "short_description": {
                     "en": "Affordable Housing and Educator Housing"
                 },
+                "votes_allowed": 1,
                 "question_text": {
                     "en": "Shall the City amend the Planning Code to allow 100% Affordable Housing Projects and Educator Housing Projects in public zoning districts and to expedite approval of these projects?",
                     "es": "¿Debería la Ciudad enmendar el Código de Planificación para permitir Proyectos con un 100% de Viviendas a Precios Asequibles y Proyectos de Viviendas para Educadores en distritos con zonificación pública, y para acelerar la aprobación de estos proyectos?",
@@ -941,6 +955,7 @@
                 "short_description": {
                     "en": "Campaign Contributions and Campaign Advertisements"
                 },
+                "votes_allowed": 1,
                 "question_text": {
                     "en": "Shall the City establish new restrictions on campaign contributions to local elected officials and candidates, and apply new disclaimer requirements to campaign advertisements?",
                     "es": "¿Debería la Ciudad establecer nuevas restricciones a las contribuciones de campaña para funcionarios electos y candidatos locales, y aplicar nuevos requisitos de exención de responsabilidad a los anuncios publicitarios de campaña?",
@@ -4270,7 +4285,6 @@
     "party_names": [
         {
             "_id": "AI",
-            "heading": "American Independent",
             "name": {
                 "en": "American Independent",
                 "es": "Independiente Americano",
@@ -4280,15 +4294,19 @@
         },
         {
             "_id": "AINPP",
-            "heading": "American Independent Crossover",
             "contest_party_crossover": true,
             "name": {
                 "en": "American Independent Crossover"
             }
         },
         {
+            "_id": "AIALL",
+            "name": {
+                "en": "American Independent Plus Crossover"
+            }
+        },
+        {
             "_id": "DEM",
-            "heading": "Democratic",
             "name": {
                 "en": "Democratic",
                 "es": "Demócrata",
@@ -4298,15 +4316,19 @@
         },
         {
             "_id": "DEMNPP",
-            "heading": "Democratic Crossover",
             "contest_party_crossover": true,
             "name": {
                 "en": "Democratic Crossover"
             }
         },
         {
+            "_id": "DEMALL",
+            "name": {
+                "en": "Democratic Plus Crossover"
+            }
+        },
+        {
             "_id": "GRN",
-            "heading": "Green",
             "name": {
                 "en": "Green",
                 "es": "Verde",
@@ -4316,7 +4338,6 @@
         },
         {
             "_id": "LIB",
-            "heading": "Libertarian",
             "name": {
                 "en": "Libertarian",
                 "es": "Libertario",
@@ -4326,15 +4347,19 @@
         },
         {
             "_id": "LIBNPP",
-            "heading": "Libertarian Crossover",
             "contest_party_crossover": true,
             "name": {
                 "en": "Libertarian Crossover"
             }
         },
         {
+            "_id": "LIBALL",
+            "name": {
+                "en": "Libertarian Plus Crossover"
+            }
+        },
+        {
             "_id": "PF",
-            "heading": "Peace & Freedom",
             "name": {
                 "en": "Peace and Freedom",
                 "es": "Paz y Libertad",
@@ -4344,7 +4369,6 @@
         },
         {
             "_id": "REP",
-            "heading": "Republican",
             "name": {
                 "en": "Republican",
                 "es": "Republicano",
@@ -4353,19 +4377,41 @@
             }
         },
         {
+            "_id": "OTH",
+            "name": {
+                "en": "Other Unspecified Party"
+            }
+        },
+        {
+            "_id": "UNK",
+            "name": {
+                "en": "Unknown Party"
+            }
+        },
+        {
+            "_id": "ALL",
+            "name": {
+                "en": "All Parties Combined"
+            }
+        },
+        {
             "_id": "NPP",
-            "heading": "No Party Preference",
             "name": {
                 "en": "No Party Preference"
+            }
+        },
+        {
+            "_id": "NPPALL",
+            "name": {
+                "en": "No Party Preference Including Crossover"
             }
         }
     ],
     "result_stat_types": [
         {
             "_id": "RSTot",
-            "heading": "Ballots Counted",
+            "description": "Number of valid votes included in totals",
             "text": {
-                "_desc": "RSTot: Label for the number of valid votes (i.e. votes for candidates, and not including undervotes and overvotes).",
                 "en": "Total Votes",
                 "es": "Total",
                 "tl": "Kabuuan",
@@ -4374,91 +4420,91 @@
         },
         {
             "_id": "RSVot",
-            "heading": "Voters Participating",
+            "description": "Number of voters checking in at a poll site or returning a mail ballot",
             "text": {
-                "_desc": "RSVot",
-                "en": "Voters Participating"
+                "en": "Voters Participating",
+                "es": "",
+                "tl": "",
+                "zh": ""
             }
         },
         {
             "_id": "RSCst",
-            "heading": "Ballots Cast",
+            "description": "Number of ballots submitted by votes",
             "text": {
-                "_desc": "RSCst",
                 "en": "Ballots Cast",
                 "es": "Votos",
                 "tl": "Mga Inihulog na Balota",
-                "zh": "投票"
+                "zh": "投票總數"
             }
         },
         {
             "_id": "RSCd1",
-            "heading": "Card 1 Ballots Cast",
+            "description": "Number of ballot cards 1 submitted by votes",
             "text": {
                 "en": "Card 1 Ballots Cast"
             }
         },
         {
             "_id": "RSCd2",
-            "heading": "Card 2 Ballots Cast",
+            "description": "Number of ballot cards 2 submitted by votes",
             "text": {
                 "en": "Card 2 Ballots Cast"
             }
         },
         {
             "_id": "RSCd3",
-            "heading": "Card 3 Ballots Cast",
+            "description": "Number of ballot cards 3 submitted by votes",
             "text": {
                 "en": "Card 3 Ballots Cast"
             }
         },
         {
             "_id": "RSCd4",
-            "heading": "Card 4 Ballots Cast",
+            "description": "Number of ballot cards 4 submitted by votes",
             "text": {
                 "en": "Card 4 Ballots Cast"
             }
         },
         {
             "_id": "RSCd5",
-            "heading": "Card 5 Ballots Cast",
+            "description": "Number of ballot cards 5 submitted by votes",
             "text": {
                 "en": "Card 5 Ballots Cast"
             }
         },
         {
             "_id": "RSCd6",
-            "heading": "Card 6 Ballots Cast",
+            "description": "Number of ballot cards 6 submitted by votes",
             "text": {
                 "en": "Card 6 Ballots Cast"
             }
         },
         {
             "_id": "RSCd7",
-            "heading": "Card 7 Ballots Cast",
+            "description": "Number of ballot cards 7 submitted by votes",
             "text": {
                 "en": "Card 7 Ballots Cast"
             }
         },
         {
             "_id": "RSCd8",
-            "heading": "Card 8 Ballots Cast",
+            "description": "Number of ballot cards 8 submitted by votes",
             "text": {
                 "en": "Card 8 Ballots Cast"
             }
         },
         {
             "_id": "RSCd9",
-            "heading": "Card 9 Ballots Cast",
+            "description": "Number of ballot cards 9 submitted by votes",
             "text": {
                 "en": "Card 9 Ballots Cast"
             }
         },
         {
             "_id": "RSReg",
-            "heading": "Registered Voters",
+            "description": "Number of registerd voters in the election",
             "text": {
-                "_desc": "RSReg",
                 "en": "Registered Voters",
                 "es": "Electores inscritos",
                 "tl": "Rehistradong Botante",
@@ -4467,50 +4513,63 @@
         },
         {
             "_id": "RSEli",
-            "heading": "Eligible Voters",
+            "description": "Estimated number of people who may register to vote",
             "text": {
-                "_desc": "RSEli: Label for the number of people eligible to register to vote.",
-                "en": "Eligible Voters"
+                "en": "Eligible Voters",
+                "es": "",
+                "tl": "",
+                "zh": "有資格投票的選民人數"
             }
         },
         {
             "_id": "RSTrn",
-            "heading": "Voter Turnout",
+            "description": "Percentage of voters participating / registered",
             "is_percent": true,
             "text": {
-                "_desc": "RSTrn: Label for the number of people that voted",
                 "en": "Voter Turnout"
             }
         },
         {
             "_id": "RSRej",
-            "heading": "Ballots Rejected",
+            "description": "Ballots cast that are challenged or rejected",
             "text": {
-                "_desc": "RSRej",
-                "en": "Ballots Rejected"
+                "en": "Ballots Rejected",
+                "es": "",
+                "tl": "",
+                "zh": ""
             }
         },
         {
             "_id": "RSUnc",
-            "heading": "Ballots Uncounted",
+            "description": "Ballots received but not included in totals",
             "text": {
-                "_desc": "RSUnc",
-                "en": "Ballots Uncounted"
+                "en": "Ballots Uncounted",
+                "es": "",
+                "tl": "",
+                "zh": ""
             }
         },
         {
             "_id": "RSWri",
-            "heading": "Writein Votes",
+            "description": "Undetermined write-in votes",
             "text": {
-                "_desc": "RSWri: Label for the number of write-in votes",
-                "en": "Write-in Votes"
+                "en": "Write-in Votes",
+                "es": "",
+                "tl": "",
+                "zh": "信件郵票數"
+            }
+        },
+        {
+            "_id": "RSIWr",
+            "description": "Write-in vote with a blank or ineligible candidate name",
+            "text": {
+                "en": "Invalid Write-in Votes"
             }
         },
         {
             "_id": "RSUnd",
-            "heading": "Undervotes",
+            "description": "Number of votes allowed not voted, excluding blank ballots reported",
             "text": {
-                "_desc": "RSUnd",
                 "en": "Undervotes",
                 "es": "Votos insuficientes",
                 "tl": "Mga kulang na boto",
@@ -4518,10 +4577,19 @@
             }
         },
         {
-            "_id": "RSOvr",
-            "heading": "Overvotes",
+            "_id": "RSBla",
+            "description": "Number of ballots with no votes selected",
             "text": {
-                "_desc": "RSOvr",
+                "en": "Blank Ballots",
+                "es": "",
+                "tl": "",
+                "zh": ""
+            }
+        },
+        {
+            "_id": "RSOvr",
+            "description": "Number of ballots with more votes selected than allowed",
+            "text": {
                 "en": "Overvotes",
                 "es": "Sobrevotos",
                 "tl": "Mga sobrang boto",
@@ -4530,18 +4598,50 @@
         },
         {
             "_id": "RSSki",
-            "heading": "Skipped Votes",
+            "description": "Number of votes explicitly marked as skip-this-contest",
             "text": {
-                "_desc": "RSSki",
-                "en": "Skipped Votes"
+                "en": "Skipped Votes",
+                "es": "",
+                "tl": "",
+                "zh": ""
             }
         },
         {
             "_id": "RSExh",
-            "heading": "Exhausted Ballots",
+            "description": "Number of RCV ballots where all choices are eliminated",
             "text": {
-                "_desc": "RSExh: Exhausted votes, for use in RCV contests.",
-                "en": "Exhausted Ballots"
+                "en": "Exhausted Ballots",
+                "es": "",
+                "tl": "",
+                "zh": ""
+            }
+        },
+        {
+            "_id": "RSIss",
+            "description": "Number of ballots issued to voters",
+            "text": {
+                "en": "Issued Ballots"
+            }
+        },
+        {
+            "_id": "RSCnt",
+            "description": "Number of ballots cast accepted for counting",
+            "text": {
+                "en": "Counted Ballots"
+            }
+        },
+        {
+            "_id": "RSPnd",
+            "description": "Uncounted ballots pending review",
+            "text": {
+                "en": "Pending Ballots"
+            }
+        },
+        {
+            "_id": "RSCha",
+            "description": "Ballots rejected including those pending correction",
+            "text": {
+                "en": "Challenged Ballots"
             }
         }
     ],
@@ -4554,10 +4654,24 @@
             "voting_group_ids": "TO ED MV"
         },
         {
+            "_id": "EMSN",
+            "description": "Plurality N-of-M voting, subtotal by Election Day/VBM",
+            "is_rcv": false,
+            "result_stat_type_ids": "RSReg RSCst RSRej RSOvr RSUnd RSBla RSTot",
+            "voting_group_ids": "TO ED MV"
+        },
+        {
             "_id": "EMSW",
             "description": "Plurality voting, subtotal by Election Day/VBM, with writeins",
             "is_rcv": false,
             "result_stat_type_ids": "RSReg RSCst RSRej RSOvr RSUnd RSTot RSWri",
+            "voting_group_ids": "TO ED MV"
+        },
+        {
+            "_id": "EMSWN",
+            "description": "Pluralityy N-of-M voting, subtotal by Election Day/VBM, with writeins",
+            "is_rcv": false,
+            "result_stat_type_ids": "RSReg RSCst RSRej RSOvr RSUnd RSBla RSTot RSWri",
             "voting_group_ids": "TO ED MV"
         },
         {
@@ -4589,62 +4703,10 @@
             "voting_group_ids": "TO ED MV"
         }
     ],
-    "translations": {
-        "ballots_cast": {
-            "en": "Ballots Cast"
-        },
-        "ballots_counted": {
-            "en": "Ballots Counted"
-        },
-        "ballots_rejected": {
-            "en": "Ballots Rejected"
-        },
-        "ballots_uncounted": {
-            "en": "Ballots Uncounted"
-        },
-        "exhausted_ballots": {
-            "en": "Exhausted Ballots"
-        },
-        "no": {
-            "en": "NO",
-            "es": "NO",
-            "tl": "HINDI",
-            "zh": "反對"
-        },
-        "overvotes": {
-            "en": "Overvotes"
-        },
-        "registered_voters": {
-            "en": "Registered Voters"
-        },
-        "undervotes": {
-            "en": "Undervotes"
-        },
-        "voter_turnout": {
-            "en": "Voter Turnout"
-        },
-        "writein": {
-            "en": "Write-In",
-            "es": "NO LISTADO",
-            "tl": "ISINUSULAT-LAMANG",
-            "zh": "補寫候選人"
-        },
-        "writein_votes": {
-            "en": "Writein Votes"
-        },
-        "yes": {
-            "en": "YES",
-            "es": "SÍ",
-            "tl": "OO",
-            "zh": "贊成"
-        }
-    },
     "voting_groups": [
         {
             "_id": "TO",
-            "heading": "Total",
             "text": {
-                "_desc": "TO",
                 "en": "Total",
                 "es": "Total",
                 "tl": "Kabuuan",
@@ -4653,9 +4715,7 @@
         },
         {
             "_id": "ED",
-            "heading": "Election Day",
             "text": {
-                "_desc": "ED",
                 "en": "Election Day",
                 "es": "Día de las Elecciones",
                 "tl": "Araw ng Eleksyon",
@@ -4664,9 +4724,7 @@
         },
         {
             "_id": "MV",
-            "heading": "Vote By Mail",
             "text": {
-                "_desc": "MV",
                 "en": "Vote By Mail",
                 "es": "Voto por correo",
                 "tl": "Pagboto sa pamamagitan ng Koreo",
@@ -4675,34 +4733,38 @@
         },
         {
             "_id": "EV",
-            "heading": "Early Voting",
             "text": {
-                "_desc": "EV",
-                "en": "Early Voting"
+                "en": "Early Voting",
+                "es": "",
+                "tl": "",
+                "zh": ""
             }
         },
         {
             "_id": "IA",
-            "heading": "In-County",
             "text": {
-                "_desc": "IA",
-                "en": "In-County"
+                "en": "In-County",
+                "es": "",
+                "tl": "",
+                "zh": ""
             }
         },
         {
             "_id": "XA",
-            "heading": "Other Counties",
             "text": {
-                "_desc": "XA",
-                "en": "Other Counties"
+                "en": "Other Counties",
+                "es": "",
+                "tl": "",
+                "zh": ""
             }
         },
         {
             "_id": "PV",
-            "heading": "Provisional Voting",
             "text": {
-                "_desc": "PV",
-                "en": "Provisional Voting"
+                "en": "Provisional Voting",
+                "es": "",
+                "tl": "",
+                "zh": ""
             }
         }
     ]

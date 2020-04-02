@@ -4,6 +4,7 @@ trim_sequence_prefix: 9
 
 contest_map_file: contmap.tsv
 candidate_map_file: candmap.tsv
+cand_extid_prefix: false
 
 # The district ID for all voters in this election:
 election_voting_district: 0

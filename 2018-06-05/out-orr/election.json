@@ -20,9 +20,9 @@
                 "header_id": "",
                 "ballot_title": {
                     "en": "Voter-Nominated and Nonpartisan Offices",
-                    "es": "",
-                    "tl": "",
-                    "zh": ""
+                    "es": "Cargos Nominados por los Electores y Cargos No Partidarios",
+                    "tl": "Mga Katungkulang Nominado ng Botante at mga Hindi Makapartido",
+                    "zh": "選民提名職位和非黨派職位"
                 },
                 "heading_text": {
                     "en": "<strong>Voter-Nominated and Nonpartisan Offices.</strong><br />All voters, regardless of the party preference they disclosed upon registration, or refusal to disclose a party preference, may vote for any candidate for a voter-nominated or nonpartisan office. The party preference, if any, designated by a candidate for a voter-nominated office is selected by the candidate and is shown for the information of the voters only. It does not imply that the candidate is nominated or endorsed by the party or that the party approves of the candidate. The party preference, if any, of a candidate for a nonpartisan office does not appear on the ballot.",
@@ -207,6 +207,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一名"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "runoff_date": "2018-11-06",
                 "runoff_type": "top_2",
@@ -219,12 +220,13 @@
                             "zh": "喬希 ‧ 瓊斯"
                         },
                         "sequence": "001",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Green",
                             "es": "Preferencia por partido: Verde",
                             "tl": "Kinakatigang Partido: Luntian",
                             "zh": "政黨傾向：綠黨"
                         },
+                        "candidate_party_id": "GRN",
                         "ballot_designation": {
                             "en": "Author",
                             "es": "Escritor",
@@ -240,12 +242,13 @@
                             "zh": "J. 布利彼斯卡"
                         },
                         "sequence": "002",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Retired Medical Doctor",
                             "es": "Doctor en Medicina Jubilado",
@@ -261,12 +264,13 @@
                             "zh": "格羅麗亞 ‧ 愛斯特拉 ‧ 拉 ‧ 麗娃"
                         },
                         "sequence": "003",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Peace and Freedom",
                             "es": "Preferencia por partido: Paz y Libertad",
                             "tl": "Kinakatigang Partido: Kapayapaan at Kalayaan",
                             "zh": "政黨傾向：和平自由黨"
                         },
+                        "candidate_party_id": "PF",
                         "ballot_designation": {
                             "en": "Graphic Artist",
                             "es": "Artista Gráfica",
@@ -282,12 +286,13 @@
                             "zh": "劉彼得"
                         },
                         "sequence": "004",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
-                        }
+                        },
+                        "candidate_party_id": "REP"
                     },
                     {
                         "_id": "056",
@@ -297,12 +302,13 @@
                             "zh": "安東尼 ‧ 維拉萊戈薩"
                         },
                         "sequence": "005",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Public Policy Advisor",
                             "es": "Asesor de Políticas Públicas",
@@ -318,12 +324,13 @@
                             "zh": "伊馮娜 ‧ 吉拉德"
                         },
                         "sequence": "006",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Judicial Assistant",
                             "es": "Asistente Judicial",
@@ -339,12 +346,13 @@
                             "zh": "羅伯特 ‧ 戴維森 ‧ 格里菲斯"
                         },
                         "sequence": "007",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Entrepreneur / Economist / Father",
                             "es": "Emprendedor / Economista / Padre",
@@ -360,7 +368,7 @@
                             "zh": "舒巴姆 ‧ 格爾"
                         },
                         "sequence": "008",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: None",
                             "es": "Preferencia por partido: Ninguno",
                             "tl": "Kinakatigang Partido: Wala",
@@ -381,12 +389,13 @@
                             "zh": "特拉維斯 ‧ 艾倫"
                         },
                         "sequence": "009",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "California Assemblyman / Businessman",
                             "es": "Asambleísta de California / Empresario",
@@ -402,12 +411,13 @@
                             "zh": "阿金耶米 ‧ 阿格彼得"
                         },
                         "sequence": "010",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Mathematician",
                             "es": "Matemático",
@@ -423,7 +433,7 @@
                             "zh": "約翰尼 ‧ 瓦滕伯格"
                         },
                         "sequence": "011",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: None",
                             "es": "Preferencia por partido: Ninguno",
                             "tl": "Kinakatigang Partido: Wala",
@@ -444,12 +454,13 @@
                             "zh": "尼古拉 ‧ 維爾德斯達"
                         },
                         "sequence": "012",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Libertarian",
                             "es": "Preferencia por partido: Libertario",
                             "tl": "Kinakatigang Partido: Libertaryan",
                             "zh": "政黨傾向：自由黨"
                         },
+                        "candidate_party_id": "LIB",
                         "ballot_designation": {
                             "en": "Recording Artist",
                             "es": "Artista de Grabación",
@@ -465,7 +476,7 @@
                             "zh": "德斯蒙德 ‧ 希爾維拉"
                         },
                         "sequence": "013",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: None",
                             "es": "Preferencia por partido: Ninguno",
                             "tl": "Kinakatigang Partido: Wala",
@@ -486,12 +497,13 @@
                             "zh": "邁克爾 ‧ 施萊恩伯格"
                         },
                         "sequence": "014",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Environmental Organization Executive",
                             "es": "Ejecutivo de Organización Medioambiental",
@@ -507,12 +519,13 @@
                             "zh": "索爾坦 ‧ 伊斯特萬"
                         },
                         "sequence": "015",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Libertarian",
                             "es": "Preferencia por partido: Libertario",
                             "tl": "Kinakatigang Partido: Libertaryan",
                             "zh": "政黨傾向：自由黨"
                         },
+                        "candidate_party_id": "LIB",
                         "ballot_designation": {
                             "en": "Entrepreneur / Transhumanist Lecturer",
                             "es": "Emprendedor / Orador Transhumanista",
@@ -528,12 +541,13 @@
                             "zh": "克里斯托弗 N. 卡爾森"
                         },
                         "sequence": "016",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Green",
                             "es": "Preferencia por partido: Verde",
                             "tl": "Kinakatigang Partido: Luntian",
                             "zh": "政黨傾向：綠黨"
                         },
+                        "candidate_party_id": "GRN",
                         "ballot_designation": {
                             "en": "Puppeteer / Musician",
                             "es": "Titiritero / Músico",
@@ -549,12 +563,13 @@
                             "zh": "托馬斯 ‧ 傑佛遜 ‧ 卡里斯"
                         },
                         "sequence": "017",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Blockchain Startup CEO",
                             "es": "Director Ejecutivo de Empresa Emergente de Cadena de Bloques",
@@ -570,12 +585,13 @@
                             "zh": "江俊輝"
                         },
                         "sequence": "018",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "California State Treasurer",
                             "es": "Tesorero del Estado de California",
@@ -591,12 +607,13 @@
                             "zh": "約翰 H. 考克斯"
                         },
                         "sequence": "019",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Businessman / Taxpayer Advocate",
                             "es": "Empresario / Defensor del Contribuyente",
@@ -612,12 +629,13 @@
                             "zh": "阿曼達 ‧ 倫特里亞"
                         },
                         "sequence": "020",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "COO, Justice Department",
                             "es": "Gerente de Operaciones, Departamento de Justicia",
@@ -633,12 +651,13 @@
                             "zh": "德拉尼 ‧ 伊斯丁"
                         },
                         "sequence": "021",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Educator / Youth Advocate",
                             "es": "Educadora / Defensora de Menores",
@@ -654,7 +673,7 @@
                             "zh": "傑弗里 ‧ 愛德華 ‧ 泰勒"
                         },
                         "sequence": "022",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: None",
                             "es": "Preferencia por partido: Ninguno",
                             "tl": "Kinakatigang Partido: Wala",
@@ -675,12 +694,13 @@
                             "zh": "克萊蒙特 ‧ 提那吉"
                         },
                         "sequence": "023",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "CEO / Educator / Artist",
                             "es": "Director Ejecutivo / Educador / Artista",
@@ -696,7 +716,7 @@
                             "zh": "哈坎“霍克”米卡多"
                         },
                         "sequence": "024",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: None",
                             "es": "Preferencia por partido: Ninguno",
                             "tl": "Kinakatigang Partido: Wala",
@@ -717,12 +737,13 @@
                             "zh": "阿爾伯特 ‧ 凱撒 ‧ 梅澤蒂"
                         },
                         "sequence": "025",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Retired Educator",
                             "es": "Educador Jubilado",
@@ -738,12 +759,13 @@
                             "zh": "加文 ‧ 紐森"
                         },
                         "sequence": "026",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Lieutenant Governor / Businessman",
                             "es": "Vicegobernador / Empresario",
@@ -759,12 +781,13 @@
                             "zh": "羅伯特 C. 紐曼"
                         },
                         "sequence": "027",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Research Clinical Psychologist",
                             "es": "Psicólogo Clínico de Investigación",
@@ -860,6 +883,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一名"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "runoff_date": "2018-11-06",
                 "runoff_type": "top_2",
@@ -872,12 +896,13 @@
                             "zh": "傑夫 ‧ 布萊奇"
                         },
                         "sequence": "001",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Attorney / Educator",
                             "es": "Abogado / Educador",
@@ -893,12 +918,13 @@
                             "zh": "艾利尼 ‧ 庫那拉吉斯"
                         },
                         "sequence": "002",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Businesswoman / Economic Advisor",
                             "es": "Empresaria / Asesora Económica",
@@ -914,12 +940,13 @@
                             "zh": "卡莫隆 ‧ 加拉彼克盧"
                         },
                         "sequence": "003",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Attorney",
                             "es": "Abogado",
@@ -935,12 +962,13 @@
                             "zh": "蒂姆 ‧ 佛萊拉"
                         },
                         "sequence": "004",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Libertarian",
                             "es": "Preferencia por partido: Libertario",
                             "tl": "Kinakatigang Partido: Libertaryan",
                             "zh": "政黨傾向：自由黨"
                         },
+                        "candidate_party_id": "LIB",
                         "ballot_designation": {
                             "en": "Strategist / Programmer / Entrepreneur",
                             "es": "Estratega / Programador / Emprendedor",
@@ -956,12 +984,13 @@
                             "zh": "大衛 ‧ 芬奈爾"
                         },
                         "sequence": "005",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Entrepreneur",
                             "es": "Emprendedor",
@@ -977,7 +1006,7 @@
                             "zh": "丹尼 ‧ 托馬斯"
                         },
                         "sequence": "006",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: None",
                             "es": "Preferencia por partido: Ninguno",
                             "tl": "Kinakatigang Partido: Wala",
@@ -998,12 +1027,13 @@
                             "zh": "科爾 ‧ 哈里斯"
                         },
                         "sequence": "007",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Father / Entrepreneur / Businessman",
                             "es": "Padre / Emprendedor / Empresario",
@@ -1019,12 +1049,13 @@
                             "zh": "艾德 ‧ 艾爾南德斯"
                         },
                         "sequence": "008",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "State Senator / Businessman",
                             "es": "Senador Estatal / Empresario",
@@ -1040,12 +1071,13 @@
                             "zh": "大衛 R. 艾爾南德斯"
                         },
                         "sequence": "009",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Retired Business Owner",
                             "es": "Propietario de Empresa Jubilado",
@@ -1061,12 +1093,13 @@
                             "zh": "莉迪亞 ‧ 奧特加"
                         },
                         "sequence": "010",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Economist / Businesswoman / Educator",
                             "es": "Economista / Empresaria / Educadora",
@@ -1082,7 +1115,7 @@
                             "zh": "蓋爾 ‧ 邁克拉福林"
                         },
                         "sequence": "011",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: None",
                             "es": "Preferencia por partido: Ninguno",
                             "tl": "Kinakatigang Partido: Wala",
@@ -1135,6 +1168,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一名"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "runoff_date": "2018-11-06",
                 "runoff_type": "top_2",
@@ -1147,12 +1181,13 @@
                             "zh": "阿列克斯 ‧ 帕迪拉"
                         },
                         "sequence": "001",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Secretary of State",
                             "es": "Secretario de Estado",
@@ -1168,12 +1203,13 @@
                             "zh": "蓋爾 K. 萊特福特"
                         },
                         "sequence": "002",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Libertarian",
                             "es": "Preferencia por partido: Libertario",
                             "tl": "Kinakatigang Partido: Libertaryan",
                             "zh": "政黨傾向：自由黨"
                         },
+                        "candidate_party_id": "LIB",
                         "ballot_designation": {
                             "en": "Retired Nurse",
                             "es": "Enfermera Jubilada",
@@ -1189,12 +1225,13 @@
                             "zh": "C. T. 韋伯"
                         },
                         "sequence": "003",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Peace and Freedom",
                             "es": "Preferencia por partido: Paz y Libertad",
                             "tl": "Kinakatigang Partido: Kapayapaan at Kalayaan",
                             "zh": "政黨傾向：和平自由黨"
                         },
+                        "candidate_party_id": "PF",
                         "ballot_designation": {
                             "en": "Retired Government Analyst",
                             "es": "Analista Gubernamental Jubilado",
@@ -1210,12 +1247,13 @@
                             "zh": "埃里克 ‧ 利德伯格"
                         },
                         "sequence": "004",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Green",
                             "es": "Preferencia por partido: Verde",
                             "tl": "Kinakatigang Partido: Luntian",
                             "zh": "政黨傾向：綠黨"
                         },
+                        "candidate_party_id": "GRN",
                         "ballot_designation": {
                             "en": "Community Organizer",
                             "es": "Organizador Comunitario",
@@ -1231,12 +1269,13 @@
                             "zh": "拉烏爾 ‧ 羅德里格斯"
                         },
                         "sequence": "005",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Retired Warehousing Employee",
                             "es": "Empleado de Almacén Jubilado",
@@ -1252,12 +1291,13 @@
                             "zh": "邁克爾 ‧ 費恩斯坦"
                         },
                         "sequence": "006",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Green",
                             "es": "Preferencia por partido: Verde",
                             "tl": "Kinakatigang Partido: Luntian",
                             "zh": "政黨傾向：綠黨"
                         },
+                        "candidate_party_id": "GRN",
                         "ballot_designation": {
                             "en": "Electoral Reform Consultant",
                             "es": "Consultor de Reforma Electoral",
@@ -1273,12 +1313,13 @@
                             "zh": "魯本 ‧ 馬約爾"
                         },
                         "sequence": "007",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Paramedic / Educator / Businessperson",
                             "es": "Paramédico / Educador / Empresario",
@@ -1294,12 +1335,13 @@
                             "zh": "馬克 P. 莫瑟"
                         },
                         "sequence": "008",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Election Law Attorney",
                             "es": "Abogado de Derecho Electoral",
@@ -1335,6 +1377,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一名"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "runoff_date": "2018-11-06",
                 "runoff_type": "top_2",
@@ -1347,12 +1390,13 @@
                             "zh": "康斯坦丁諾斯 ‧ 羅蒂提斯"
                         },
                         "sequence": "001",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Entrepreneur",
                             "es": "Emprendedor",
@@ -1368,12 +1412,13 @@
                             "zh": "瑪麗 ‧ 盧 ‧ 芬雷"
                         },
                         "sequence": "002",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Peace and Freedom",
                             "es": "Preferencia por partido: Paz y Libertad",
                             "tl": "Kinakatigang Partido: Kapayapaan at Kalayaan",
                             "zh": "政黨傾向：和平自由黨"
                         },
+                        "candidate_party_id": "PF",
                         "ballot_designation": {
                             "en": "Retired Educator",
                             "es": "Educadora Jubilada",
@@ -1389,12 +1434,13 @@
                             "zh": "余淑婷"
                         },
                         "sequence": "003",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "California State Controller",
                             "es": "Contralora Estatal de California",
@@ -1430,6 +1476,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一名"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "runoff_date": "2018-11-06",
                 "runoff_type": "top_2",
@@ -1442,12 +1489,13 @@
                             "zh": "維微克 ‧ 維斯瓦納森"
                         },
                         "sequence": "001",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Governor's Office, Advisor",
                             "es": "Asesor, Oficina del Gobernador",
@@ -1463,12 +1511,13 @@
                             "zh": "傑克 M. 格里羅"
                         },
                         "sequence": "002",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "CPA / Councilmember / Economist",
                             "es": "Contador Público Certificado / Concejal / Economista",
@@ -1484,12 +1533,13 @@
                             "zh": "凱文 ‧ 阿金"
                         },
                         "sequence": "003",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Peace and Freedom",
                             "es": "Preferencia por partido: Paz y Libertad",
                             "tl": "Kinakatigang Partido: Kapayapaan at Kalayaan",
                             "zh": "政黨傾向：和平自由黨"
                         },
+                        "candidate_party_id": "PF",
                         "ballot_designation": {
                             "en": "Retired Steam Engineer",
                             "es": "Ingeniero de Sistemas de Vapor Jubilado",
@@ -1505,12 +1555,13 @@
                             "zh": "格雷格 ‧ 康隆"
                         },
                         "sequence": "004",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Businessman / CPA",
                             "es": "Empresario / Contador Público Certificado",
@@ -1526,12 +1577,13 @@
                             "zh": "菲奧娜 ‧ 馬"
                         },
                         "sequence": "005",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "CPA / Taxpayer Representative",
                             "es": "Contadora Pública Certificada / Representante de Contribuyentes",
@@ -1567,6 +1619,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一名"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "runoff_date": "2018-11-06",
                 "runoff_type": "top_2",
@@ -1579,12 +1632,13 @@
                             "zh": "大衛 ‧ 瓊斯"
                         },
                         "sequence": "001",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "California Insurance Commissioner",
                             "es": "Comisionado de Seguros de California",
@@ -1600,12 +1654,13 @@
                             "zh": "斯蒂芬 C 拜雷"
                         },
                         "sequence": "002",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Retired California Judge",
                             "es": "Juez de California Jubilado",
@@ -1621,12 +1676,13 @@
                             "zh": "哈維 ‧ 貝西拉"
                         },
                         "sequence": "003",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Appointed Attorney General of the State of California",
                             "es": "Procurador General Nombrado del Estado de California",
@@ -1642,12 +1698,13 @@
                             "zh": "埃里克 ‧ 厄利"
                         },
                         "sequence": "004",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Attorney / Business Owner",
                             "es": "Abogado / Propietario de Empresa",
@@ -1683,6 +1740,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一名"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "runoff_date": "2018-11-06",
                 "runoff_type": "top_2",
@@ -1695,7 +1753,7 @@
                             "zh": "史蒂夫 ‧ 波伊茲納"
                         },
                         "sequence": "001",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: None",
                             "es": "Preferencia por partido: Ninguno",
                             "tl": "Kinakatigang Partido: Wala",
@@ -1716,12 +1774,13 @@
                             "zh": "理查多 ‧ 拉拉"
                         },
                         "sequence": "002",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "California Senator",
                             "es": "Senador de California",
@@ -1737,12 +1796,13 @@
                             "zh": "娜塔莉 ‧ 利茲"
                         },
                         "sequence": "003",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Peace and Freedom",
                             "es": "Preferencia por partido: Paz y Libertad",
                             "tl": "Kinakatigang Partido: Kapayapaan at Kalayaan",
                             "zh": "政黨傾向：和平自由黨"
                         },
+                        "candidate_party_id": "PF",
                         "ballot_designation": {
                             "en": "Public School Teacher",
                             "es": "Maestra de Escuela Pública",
@@ -1758,12 +1818,13 @@
                             "zh": "馬禠富"
                         },
                         "sequence": "004",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Physician, Internal Medicine",
                             "es": "Médico, Medicina Interna",
@@ -1799,6 +1860,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一名"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "runoff_date": "2018-11-06",
                 "runoff_type": "top_2",
@@ -1811,12 +1873,13 @@
                             "zh": "馬克 ‧ 伯恩斯"
                         },
                         "sequence": "001",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Realtor / Businessman",
                             "es": "Agente de Bienes Raíces / Empresario",
@@ -1832,12 +1895,13 @@
                             "zh": "凱瑟琳 ‧ 加爾加尼"
                         },
                         "sequence": "002",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "State Senator",
                             "es": "Senadora Estatal",
@@ -1853,12 +1917,13 @@
                             "zh": "張昭富"
                         },
                         "sequence": "003",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Councilmember / Business Owner",
                             "es": "Concejal / Propietario de Empresa",
@@ -1874,12 +1939,13 @@
                             "zh": "瑪利亞 ‧ 科恩"
                         },
                         "sequence": "004",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Supervisor, City and County of San Francisco",
                             "es": "Supervisora, Ciudad y Condado de San Francisco",
@@ -1915,6 +1981,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一名"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "runoff_date": "2018-11-06",
                 "runoff_type": "top_2",
@@ -1927,12 +1994,13 @@
                             "zh": "吉拉爾德 ‧ 普拉莫"
                         },
                         "sequence": "001",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Construction Project Manager",
                             "es": "Gerente de Proyectos de Construcción",
@@ -1948,12 +2016,13 @@
                             "zh": "湯姆 ‧ 帕爾澤"
                         },
                         "sequence": "002",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Retired Urban Planner",
                             "es": "Planificador Urbano Jubilado",
@@ -1969,12 +2038,13 @@
                             "zh": "約翰 ‧ 湯普森 ‧ 帕克"
                         },
                         "sequence": "003",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Peace and Freedom",
                             "es": "Preferencia por partido: Paz y Libertad",
                             "tl": "Kinakatigang Partido: Kapayapaan at Kalayaan",
                             "zh": "政黨傾向：和平自由黨"
-                        }
+                        },
+                        "candidate_party_id": "PF"
                     },
                     {
                         "_id": "121",
@@ -1984,12 +2054,13 @@
                             "zh": "道格拉斯 ‧ 哈沃德 ‧ 皮爾斯"
                         },
                         "sequence": "004",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Missing Children's Advocate",
                             "es": "Defensor de Niños Perdidos",
@@ -2005,12 +2076,13 @@
                             "zh": "赫伯特 G. 彼得斯"
                         },
                         "sequence": "005",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Retired Aerospace Engineer",
                             "es": "Ingeniero Aeroespacial Jubilado",
@@ -2026,12 +2098,13 @@
                             "zh": "詹姆斯 P. 布拉德雷"
                         },
                         "sequence": "006",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Chief Financial Officer",
                             "es": "Director de Finanzas",
@@ -2047,12 +2120,13 @@
                             "zh": "阿倫 K. 布米特拉"
                         },
                         "sequence": "007",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Teacher / Engineer / Businessman",
                             "es": "Maestro / Ingeniero / Empresario",
@@ -2068,12 +2142,13 @@
                             "zh": "傑利 ‧ 約瑟夫 ‧ 勞斯"
                         },
                         "sequence": "008",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
-                        }
+                        },
+                        "candidate_party_id": "REP"
                     },
                     {
                         "_id": "126",
@@ -2083,12 +2158,13 @@
                             "zh": "帕特里克 ‧ 利特爾"
                         },
                         "sequence": "009",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Civil Rights Advocate",
                             "es": "Defensor de Derechos Civiles",
@@ -2104,7 +2180,7 @@
                             "zh": "蒂姆 ‧ 吉爾德斯利弗"
                         },
                         "sequence": "010",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: None",
                             "es": "Preferencia por partido: Ninguno",
                             "tl": "Kinakatigang Partido: Wala",
@@ -2125,7 +2201,7 @@
                             "zh": "邁克爾 ‧ 法米 ‧ 吉爾吉斯"
                         },
                         "sequence": "011",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: None",
                             "es": "Preferencia por partido: Ninguno",
                             "tl": "Kinakatigang Partido: Wala",
@@ -2146,7 +2222,7 @@
                             "zh": "多恩 J. 格倫德曼"
                         },
                         "sequence": "012",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: None",
                             "es": "Preferencia por partido: Ninguno",
                             "tl": "Kinakatigang Partido: Wala",
@@ -2167,7 +2243,7 @@
                             "zh": "拉什 ‧ 比哈利 ‧ 高什"
                         },
                         "sequence": "013",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: None",
                             "es": "Preferencia por partido: Ninguno",
                             "tl": "Kinakatigang Partido: Wala",
@@ -2188,7 +2264,7 @@
                             "zh": "史玲玲"
                         },
                         "sequence": "014",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: None",
                             "es": "Preferencia por partido: Ninguno",
                             "tl": "Kinakatigang Partido: Wala",
@@ -2209,12 +2285,13 @@
                             "zh": "約翰“傑克”克魯"
                         },
                         "sequence": "015",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Bus Driver",
                             "es": "Chofer de Autobús",
@@ -2230,12 +2307,13 @@
                             "zh": "艾琳 ‧ 克魯斯"
                         },
                         "sequence": "016",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Published Author",
                             "es": "Escritora Publicada",
@@ -2251,12 +2329,13 @@
                             "zh": "德里克 ‧ 邁克爾 ‧ 里德"
                         },
                         "sequence": "017",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Libertarian",
                             "es": "Preferencia por partido: Libertario",
                             "tl": "Kinakatigang Partido: Libertaryan",
                             "zh": "政黨傾向：自由黨"
                         },
+                        "candidate_party_id": "LIB",
                         "ballot_designation": {
                             "en": "Retired Attorney",
                             "es": "Abogado Jubilado",
@@ -2272,12 +2351,13 @@
                             "zh": "黛安 ‧ 范士丹"
                         },
                         "sequence": "018",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "United States Senator",
                             "es": "Senadora de Estatos Unidos",
@@ -2293,7 +2373,7 @@
                             "zh": "科琳 ‧ 希婭 ‧ 費納爾德"
                         },
                         "sequence": "019",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: None",
                             "es": "Preferencia por partido: Ninguno",
                             "tl": "Kinakatigang Partido: Wala",
@@ -2314,12 +2394,13 @@
                             "zh": "阿德里安妮 ‧ 妮可 ‧ 愛德華"
                         },
                         "sequence": "020",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Community Advocate",
                             "es": "Defensora Comunitaria",
@@ -2335,12 +2416,13 @@
                             "zh": "保羅 A. 泰勒"
                         },
                         "sequence": "021",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Small Business Owner",
                             "es": "Propietario de Pequeña Empresa",
@@ -2356,12 +2438,13 @@
                             "zh": "多尼 O. 特納"
                         },
                         "sequence": "022",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Retired USAF Sergeant",
                             "es": "Sargento de la Fuerza Aérea de EE.UU., Retirado",
@@ -2377,12 +2460,13 @@
                             "zh": "帕特 ‧ 哈里斯"
                         },
                         "sequence": "023",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Civil Rights Attorney",
                             "es": "Abogado de Derechos Civiles",
@@ -2398,12 +2482,13 @@
                             "zh": "艾莉森 ‧ 哈特森"
                         },
                         "sequence": "024",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "National Political Director",
                             "es": "Directora de Política Nacional",
@@ -2419,7 +2504,7 @@
                             "zh": "傑森 M. 哈納尼亞"
                         },
                         "sequence": "025",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: None",
                             "es": "Preferencia por partido: Ninguno",
                             "tl": "Kinakatigang Partido: Wala",
@@ -2440,12 +2525,13 @@
                             "zh": "大衛 ‧ 希爾德布蘭德"
                         },
                         "sequence": "026",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Policy Analyst",
                             "es": "Analista Político",
@@ -2461,7 +2547,7 @@
                             "zh": "李 ‧ 奧爾森"
                         },
                         "sequence": "027",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: None",
                             "es": "Preferencia por partido: Ninguno",
                             "tl": "Kinakatigang Partido: Wala",
@@ -2482,12 +2568,13 @@
                             "zh": "羅克“羅基”弗恩特"
                         },
                         "sequence": "028",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Businessman / Land Developer",
                             "es": "Empresario / Emprendedor Inmobiliario",
@@ -2503,12 +2590,13 @@
                             "zh": "凱文 ‧ 德利昂"
                         },
                         "sequence": "029",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "California Senator",
                             "es": "Senador de California",
@@ -2524,12 +2612,13 @@
                             "zh": "凱文 ‧ 莫圖斯"
                         },
                         "sequence": "030",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Wireless Safety Advocate",
                             "es": "Defensor de Seguridad Inalámbrica",
@@ -2545,7 +2634,7 @@
                             "zh": "大衛 ‧ 莫爾"
                         },
                         "sequence": "031",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: None",
                             "es": "Preferencia por partido: Ninguno",
                             "tl": "Kinakatigang Partido: Wala",
@@ -2566,12 +2655,13 @@
                             "zh": "馬里奧 ‧ 納波里巴"
                         },
                         "sequence": "032",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Scientist",
                             "es": "Científico",
@@ -2649,6 +2739,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一名"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "runoff_date": "2018-11-06",
                 "runoff_type": "top_2",
@@ -2661,12 +2752,13 @@
                             "zh": "南希 ‧ 佩洛西"
                         },
                         "sequence": "001",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Member of Congress",
                             "es": "Miembro del Congreso",
@@ -2682,12 +2774,13 @@
                             "zh": "斯蒂芬 ‧ 哈菲"
                         },
                         "sequence": "002",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Civil Rights Attorney",
                             "es": "Abogado de Derechos Civiles",
@@ -2703,12 +2796,13 @@
                             "zh": "沙希德 ‧ 布塔爾"
                         },
                         "sequence": "003",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Lawyer / Advocate / Artist",
                             "es": "Abogado / Defensor / Artista",
@@ -2724,12 +2818,13 @@
                             "zh": "藍可嘉"
                         },
                         "sequence": "004",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Immigrant Rights Commissioner",
                             "es": "Comisionado de Derechos de Inmigrantes",
@@ -2745,7 +2840,7 @@
                             "zh": "邁克爾 ‧ 高爾斯坦"
                         },
                         "sequence": "005",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: None",
                             "es": "Preferencia por partido: Ninguno",
                             "tl": "Kinakatigang Partido: Wala",
@@ -2766,12 +2861,13 @@
                             "zh": "慕凱玲"
                         },
                         "sequence": "006",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Educator",
                             "es": "Educadora",
@@ -2787,12 +2883,13 @@
                             "zh": "巴利 ‧ 赫曼森"
                         },
                         "sequence": "007",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Green",
                             "es": "Preferencia por partido: Verde",
                             "tl": "Kinakatigang Partido: Luntian",
                             "zh": "政黨傾向：綠黨"
                         },
+                        "candidate_party_id": "GRN",
                         "ballot_designation": {
                             "en": "Retired Entrepreneur",
                             "es": "Emprendedor Jubilado",
@@ -2834,6 +2931,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一名"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "runoff_date": "2018-11-06",
                 "runoff_type": "top_2",
@@ -2845,12 +2943,13 @@
                             "en": "BARBARA LEE"
                         },
                         "sequence": "001",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "United States Representative",
                             "es": "Representante de Estados Unidos",
@@ -2891,6 +2990,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一名"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "runoff_date": "2018-11-06",
                 "runoff_type": "top_2",
@@ -2903,12 +3003,13 @@
                             "zh": "傑基 ‧ 斯佩爾"
                         },
                         "sequence": "001",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Congresswoman",
                             "es": "Congresista",
@@ -2924,12 +3025,13 @@
                             "zh": "克里斯蒂娜 ‧ 奧斯米納"
                         },
                         "sequence": "002",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Solar Industry Executive",
                             "es": "Ejecutiva de la Industria Solar",
@@ -2971,6 +3073,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一名"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "runoff_date": "2018-11-06",
                 "runoff_type": "top_2",
@@ -2983,12 +3086,13 @@
                             "zh": "邱信福"
                         },
                         "sequence": "001",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Assemblymember",
                             "es": "Miembro de la Asamblea",
@@ -3004,12 +3108,13 @@
                             "zh": "阿勒簡德羅 ‧ 費南德斯"
                         },
                         "sequence": "002",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Small Business Entrepreneur",
                             "es": "Emprendedor de Pequeña Empresa",
@@ -3051,6 +3156,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一名"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "runoff_date": "2018-11-06",
                 "runoff_type": "top_2",
@@ -3063,12 +3169,13 @@
                             "zh": "丁右立"
                         },
                         "sequence": "001",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Democratic",
                             "es": "Preferencia por partido: Demócrata",
                             "tl": "Kinakatigang Partido: Demokratiko",
                             "zh": "政黨傾向：民主黨"
                         },
+                        "candidate_party_id": "DEM",
                         "ballot_designation": {
                             "en": "Assemblymember",
                             "es": "Miembro de la Asamblea",
@@ -3084,12 +3191,13 @@
                             "zh": "基思 ‧ 鮑格登"
                         },
                         "sequence": "002",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: Republican",
                             "es": "Preferencia por partido: Republicano",
                             "tl": "Kinakatigang Partido: Republikano",
                             "zh": "政黨傾向：共和黨"
                         },
+                        "candidate_party_id": "REP",
                         "ballot_designation": {
                             "en": "Biotech Marketing Consultant",
                             "es": "Consultor de Mercadotecnia en Biotecnología",
@@ -3105,7 +3213,7 @@
                             "zh": "大衛 ‧ 恩斯特"
                         },
                         "sequence": "003",
-                        "candidate_party": {
+                        "ballot_party_label": {
                             "en": "Party Preference: None",
                             "es": "Preferencia por partido: Ninguno",
                             "tl": "Kinakatigang Partido: Wala",
@@ -3146,6 +3254,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一名"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "runoff_date": "2018-11-06",
                 "runoff_type": "non_majority",
@@ -3208,6 +3317,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一名"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "runoff_date": "2018-11-06",
                 "runoff_type": "non_majority",
@@ -3270,6 +3380,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一名"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "runoff_date": "2018-11-06",
                 "runoff_type": "non_majority",
@@ -3347,6 +3458,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一名"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "runoff_date": "2018-11-06",
                 "runoff_type": "non_majority",
@@ -3409,6 +3521,7 @@
                     "tl": "Bumoto ng Isa",
                     "zh": "選一名"
                 },
+                "votes_allowed": 1,
                 "number_elected": 1,
                 "runoff_date": "2018-11-06",
                 "runoff_type": "top_2",
@@ -3525,6 +3638,7 @@
                     "tl": "Maaari ninyong pagsunud-sunurin ang hanggang sa tatlong pinili. Para pagsunud-sunurin ang mas kaunti sa tatlong kandidato, iwanan na blangko ang anumang mga natitirang pagpipilian.",
                     "zh": "您最多可以投選三個選擇。如果投選的候選人少於三名候選人，多餘欄目可留為空白。"
                 },
+                "votes_allowed": 3,
                 "max_ranked": 3,
                 "number_elected": 1,
                 "choices": [
@@ -3688,6 +3802,7 @@
                     "tl": "Maaari ninyong pagsunud-sunurin ang hanggang sa tatlong pinili. Para pagsunud-sunurin ang mas kaunti sa tatlong kandidato, iwanan na blangko ang anumang mga natitirang pagpipilian.",
                     "zh": "您最多可以投選三個選擇。如果投選的候選人少於三名候選人，多餘欄目可留為空白。"
                 },
+                "votes_allowed": 3,
                 "max_ranked": 3,
                 "number_elected": 1,
                 "choices": [
@@ -3755,6 +3870,7 @@
                     "tl": "Proposisyon 68",
                     "zh": "命题68"
                 },
+                "votes_allowed": 1,
                 "question_text": {
                     "en": "<strong>AUTHORIZES BONDS FUNDING PARKS, NATURAL RESOURCES PROTECTION, CLIMATE ADAPTATION, WATER QUALITY AND SUPPLY, AND FLOOD PROTECTION.</strong> Authorizes $4 billion in general obligation bonds for: parks, natural resources protection, climate adaptation, water quality and supply, and flood protection. Fiscal Impact: Increased state bond repayment costs averaging $200 million annually over 40 years. Local government savings for natural resources-related projects, likely averaging several tens of millions of dollars annually over the next few decades.",
                     "es": "<strong>AUTORIZA BONOS PARA LA FINANCIACIÓN DE PARQUES, PROTECCIÓN DE RECURSOS NATURALES, ADAPTACIÓN CLIMÁTICA, SUMINISTRO Y CALIDAD DEL AGUA, Y PROTECCIÓN CONTRA INUNDACIONES.</strong> Autoriza 4 mil millones de dólares en bonos de obligación general para lo siguiente: parques, protección de recursos naturales, adaptación climática, suministro y calidad del agua, y protección contra inundaciones. Impacto fiscal: el aumento promedio del costo del pago de los bonos estatales será de 200 millones de dólares por año durante 40 años. Es probable que, en promedio, los ahorros del gobierno local para proyectos relacionados con recursos naturales sean de varias decenas de millones de dólares por año durante las próximas décadas.",
@@ -3802,6 +3918,7 @@
                     "tl": "Proposisyon 69",
                     "zh": "命题69"
                 },
+                "votes_allowed": 1,
                 "question_text": {
                     "en": "<strong>REQUIRES THAT CERTAIN NEW TRANSPORTATION REVENUES BE USED FOR TRANSPORTATION PURPOSES. LEGISLATIVE CONSTITUTIONAL AMENDMENT.</strong> Requires that certain revenues generated by a 2017 transportation funding law be used only for transportation purposes and generally prohibits Legislature from diverting funds to other purposes. Fiscal Impact: No direct effect on the amount of state and local revenues or costs but could affect how some monies are spent.",
                     "es": "<strong>EXIGE QUE CIERTOS INGRESOS PÚBLICOS NUEVOS CORRESPONDIENTES AL TRANSPORTE SE UTILICEN PARA FINES RELACIONADOS CON ESTE SECTOR. ENMIENDA CONSTITUCIONAL LEGISLATIVA.</strong> Exige que ciertos ingresos públicos generados por una ley de financiación del transporte de 2017 se utilicen solo para fines relacionados con dicho sector y, en general, prohíbe que la legislatura desvíe fondos para cumplir otros propósitos. Impacto fiscal: no hay un efecto directo en las sumas de los ingresos públicos o costos locales o estatales, pero podría afectar la forma en que se gastan ciertas cantidades de dinero.",
@@ -3849,6 +3966,7 @@
                     "tl": "Proposisyon 70",
                     "zh": "命题70"
                 },
+                "votes_allowed": 1,
                 "question_text": {
                     "en": "<strong>REQUIRES LEGISLATIVE SUPERMAJORITY VOTE APPROVING USE OF CAP-AND-TRADE RESERVE FUND. LEGISLATIVE CONSTITUTIONAL AMENDMENT.</strong> Beginning in 2024, requires that cap-and-trade revenues accumulate in a reserve fund until the Legislature, by a two-thirds majority, authorizes use of the revenues. Fiscal Impact: Beginning in 2024, potential temporary increase in state sales tax revenue, ranging from none to a few hundred million dollars annually, and possible changes in how revenue from sale of greenhouse gas emission permits is spent.",
                     "es": "<strong>REQUIERE UN VOTO LEGISLATIVO MAYORITARIO PARA APROBAR EL USO DEL FONDO DE RESERVA DEL PROGRAMA CAP-AND-TRADE. ENMIENDA CONSTITUCIONAL LEGISLATIVA.</strong> Exige que, a partir del año 2024, los ingresos públicos provenientes del programa cap-and-trade se acumulen en un fondo de reserva hasta que la legislatura, por una mayoría de dos tercios, autorice el uso de los ingresos. Impacto fiscal: a partir del año 2024, posible aumento temporal de los ingresos provenientes del impuesto estatal a las ventas, que oscilaría de cero a unos cuantos cientos de millones de dólares por año. Además, posibles cambios en la forma de invertir los ingresos provenientes de la venta de permisos de emisión de gases de efecto invernadero.",
@@ -3896,6 +4014,7 @@
                     "tl": "Proposisyon 71",
                     "zh": "命题71"
                 },
+                "votes_allowed": 1,
                 "question_text": {
                     "en": "<strong>SETS EFFECTIVE DATE FOR BALLOT MEASURES. LEGISLATIVE CONSTITUTIONAL AMENDMENT. </strong>Provides that ballot measures approved by a majority of voters shall take effect five days after the Secretary of State certifies the results of the election. Fiscal Impact: Likely little or no effect on state and local finances.",
                     "es": "<strong>ESTABLECE LA FECHA DE ENTRADA EN VIGENCIA DE LAS INICIATIVAS DE LEY INCLUIDAS EN LAS BOLETAS. ENMIENDA CONSTITUCIONAL LEGISLATIVA.</strong> Establece que las iniciativas de ley incluidas en las boletas aprobadas por la mayoría de los votantes entrarán en vigencia cinco días después de que la Secretaría de Estado certifique los resultados de la elección. Impacto fiscal: probablemente, el efecto en las finanzas locales o estatales sea menor o nulo.",
@@ -3943,6 +4062,7 @@
                     "tl": "Proposisyon 72",
                     "zh": "命题72"
                 },
+                "votes_allowed": 1,
                 "question_text": {
                     "en": "<strong>PERMITS LEGISLATURE TO EXCLUDE NEWLY CONSTRUCTED RAIN-CAPTURE SYSTEMS FROM PROPERTY-TAX REASSESSMENT REQUIREMENT. LEGISLATIVE CONSTITUTIONAL AMENDMENT. </strong>Permits Legislature to allow construction of rain-capture systems, completed on or after January 1, 2019, without requiring property-tax reassessment. Fiscal Impact: Probably minor reduction in annual property tax revenues to local governments.",
                     "es": "<strong>PERMITE QUE LA LEGISLATURA EXIMA LOS SISTEMAS DE CAPTACIÓN DE AGUAS PLUVIALES RECIÉN CONSTRUIDOS DEL REQUISITO DE RETASACIÓN DEL IMPUESTO A LA PROPIEDAD. ENMIENDA CONSTITUCIONAL LEGISLATIVA.</strong> Permite que la legislatura autorice la construcción de sistemas de captación de aguas pluviales, que se completen el 1 de enero de 2019 o después de esa fecha, sin exigir la retasación del impuesto a la propiedad. Impacto fiscal: probablemente, una reducción menor en los ingresos anuales del impuesto a la propiedad para los gobiernos locales.",
@@ -3990,6 +4110,7 @@
                     "tl": "Proposisyon 3",
                     "zh": "命题3"
                 },
+                "votes_allowed": 1,
                 "question_text": {
                     "en": "BAY AREA TRAFFIC RELIEF PLAN. Shall voters authorize a plan to reduce auto and truck traffic, relieve crowding on BART, unclog freeway bottlenecks, and improve bus, ferry, BART and commuter rail service as specified in the plan in this voter pamphlet, with a $1 toll increase effective in 2019, a $1 increase in 2022, and a $1 increase in 2025, on all Bay Area toll bridges except the Golden Gate Bridge, with independent oversight of all funds?",
                     "es": "PLAN PARA DISMINUIR EL TRÁFICO EN EL ÁREA DE LA BAHÍA. ¿Deben autorizar los votantes un plan para disminuir el tráfico de camiones y automóviles, disminuir el congestionamiento en BART, descongestionar los embotellamientos en las autopistas y mejorar los servicios de autobuses, transbordadores, BART y ferrovías suburbanas según lo especificado en el plan en este folleto para el votante, con un aumento de $1 efectivo en 2019, un aumento de $1 en 2022 y un aumento de $1 en 2025, en todos los puentes de peaje del Área de la Bahía, excepto el Puente Golden Gate, con una supervisión independiente de todos los fondos?",
@@ -4037,6 +4158,7 @@
                     "tl": "Sukatin A",
                     "zh": "测量A"
                 },
+                "votes_allowed": 1,
                 "question_text": {
                     "en": "Shall the City authorize the San Francisco Public Utilities Commission to issue revenue bonds to build or improve the City’s clean power facilities, with approval by two-thirds of the Board of Supervisors, and prohibit the PUC from financing construction of power plants that generate electricity from fossil fuels or nuclear power?",
                     "es": "¿Debería la Ciudad autorizar a la Comisión de Servicios Públicos (PUC por sus iniciales en inglés) de San Francisco emitir bonos de ingresos para construir o mejorar instalaciones de energía limpia de la Ciudad con la aprobación de dos tercios del Consejo de Supervisores, y prohibir a la PUC financiar la construcción de plantas de energía que generen electricidad de combustibles fósiles o de energía nuclear?",
@@ -4084,6 +4206,7 @@
                     "tl": "Sukatin B",
                     "zh": "测量B"
                 },
+                "votes_allowed": 1,
                 "question_text": {
                     "en": "Shall the City require appointed members of boards and commissions established by the Charter to forfeit their appointed seat when they file to run for state or local elective office?",
                     "es": "¿Debería la Ciudad exigir a los miembros designados de comisiones y consejos establecidos por la Carta Constitucional a renunciar a su nombramiento designado a la hora de inscribirse para postularse a un cargo electivo local o estatal?",
@@ -4131,6 +4254,7 @@
                     "tl": "Sukatin C",
                     "zh": "测量C"
                 },
+                "votes_allowed": 1,
                 "question_text": {
                     "en": "Shall the City impose a new gross receipts tax of 1% on revenues a business receives from leasing warehouse space in San Francisco, and 3.5% on revenues a business receives from leasing some commercial spaces in San Francisco, to fund quality early care and education for young children and for other public purposes?",
                     "es": "¿Debería la Ciudad imponer un nuevo impuesto del 1% sobre los ingresos brutos que reciba una empresa por arrendar espacios para almacenamiento en San Francisco y del 3.5% sobre los ingresos que reciba una empresa por arrendar ciertos espacios comerciales en San Francisco para financiar un cuidado infantil y una educación temprana de buena calidad para niños pequeños, y para otros fines públicos?",
@@ -4178,6 +4302,7 @@
                     "tl": "Sukatin D",
                     "zh": "测量D"
                 },
+                "votes_allowed": 1,
                 "question_text": {
                     "en": "Shall the City impose a new gross receipts tax of 1.7% on revenues a business receives from leasing some commercial spaces in San Francisco, to fund homeless services, housing for extremely low- to middle-income households and for other public purposes?",
                     "es": "¿Debería la Ciudad imponer un nuevo impuesto del 1.7% sobre los ingresos brutos que reciba una empresa por arrendar espacios comerciales en San Francisco para financiar servicios para personas sin hogar, viviendas para hogares con ingresos de extremadamente bajos a medianos, y para otros fines públicos?",
@@ -4225,6 +4350,7 @@
                     "tl": "Sukatin E",
                     "zh": "测量E"
                 },
+                "votes_allowed": 1,
                 "question_text": {
                     "en": "Shall the City ordinance prohibiting the sale of flavored tobacco products in San Francisco take effect?",
                     "es": "¿Debería entrar en vigencia la ordenanza de la Ciudad que prohíbe la venta de productos de tabaco de sabores en San Francisco?",
@@ -4272,6 +4398,7 @@
                     "tl": "Sukatin F",
                     "zh": "测量F"
                 },
+                "votes_allowed": 1,
                 "question_text": {
                     "en": "Shall the City establish, fund and run a program to provide legal representation for all residential tenants in San Francisco facing eviction?",
                     "es": "¿Debería la Ciudad establecer, financiar y administrar un programa que ofrezca representación jurídica a todos los inquilinos de residencias que enfrenten desalojo en San Francisco?",
@@ -4319,6 +4446,7 @@
                     "tl": "Sukatin G",
                     "zh": "测量G"
                 },
+                "votes_allowed": 1,
                 "question_text": {
                     "en": "Shall the City collect an annual tax of $298 per parcel for investment in education, subject to certain exemptions including those for senior citizens?",
                     "es": "¿Debería la Ciudad cobrar un impuesto anual de $298 por parcela para la inversión en educación, sujeto a ciertas exenciones, entre ellas las referidas a personas de la tercera edad?",
@@ -4366,6 +4494,7 @@
                     "tl": "Sukatin H",
                     "zh": "测量H"
                 },
+                "votes_allowed": 1,
                 "question_text": {
                     "en": "Shall the City set a policy for when police officers can use tasers and authorize the Police Department to purchase tasers for all officers, subject to specific conditions?",
                     "es": "¿Debería la Ciudad establecer una política sobre cuándo los agentes de policía pueden usar pistolas eléctricas, y autorizar al Departamento de Policía a adquirir pistolas eléctricas para todos los agentes, sujeto a condiciones específicas?",
@@ -4413,6 +4542,7 @@
                     "tl": "Sukatin I",
                     "zh": "测量I"
                 },
+                "votes_allowed": 1,
                 "question_text": {
                     "en": "Shall the City adopt a policy not to encourage professional sports teams from other cities to move to San Francisco and to oppose any sports team ownership group attempting to avoid payment of an outstanding public debt?",
                     "es": "¿Debería la Ciudad adoptar una política de no alentar a que los equipos deportivos profesionales de otras ciudades se muden a San Francisco y oponerse a los grupos propietarios de equipos deportivos que estén tratando de evitar el pago de una deuda pública pendiente?",
@@ -4451,7 +4581,10 @@
             "_id": "TURNOUT",
             "_type": "turnout",
             "ballot_title": {
-                "en": "Registration and Turnout"
+                "en": "Registration and Turnout",
+                "es": "Inscripción y participación total",
+                "tl": "Kabuuan ng Rehistrasyon at Nagsidalo",
+                "zh": "總登記和投票率"
             },
             "voting_district": "0",
             "result_style": "EMTE"
@@ -8529,55 +8662,367 @@
             "reporting_group_ids": ""
         }
     ],
+    "party_names": [
+        {
+            "_id": "AI",
+            "name": {
+                "en": "American Independent",
+                "es": "Independiente Americano",
+                "tl": "Amerikanong Independiyente",
+                "zh": "美國獨立黨"
+            }
+        },
+        {
+            "_id": "AINPP",
+            "contest_party_crossover": true,
+            "name": {
+                "en": "American Independent Crossover"
+            }
+        },
+        {
+            "_id": "AIALL",
+            "name": {
+                "en": "American Independent Plus Crossover"
+            }
+        },
+        {
+            "_id": "DEM",
+            "name": {
+                "en": "Democratic",
+                "es": "Demócrata",
+                "tl": "Demokratiko",
+                "zh": "民主黨"
+            }
+        },
+        {
+            "_id": "DEMNPP",
+            "contest_party_crossover": true,
+            "name": {
+                "en": "Democratic Crossover"
+            }
+        },
+        {
+            "_id": "DEMALL",
+            "name": {
+                "en": "Democratic Plus Crossover"
+            }
+        },
+        {
+            "_id": "GRN",
+            "name": {
+                "en": "Green",
+                "es": "Verde",
+                "tl": "Luntian",
+                "zh": "綠黨"
+            }
+        },
+        {
+            "_id": "LIB",
+            "name": {
+                "en": "Libertarian",
+                "es": "Libertario",
+                "tl": "Libertaryan",
+                "zh": "自由黨"
+            }
+        },
+        {
+            "_id": "LIBNPP",
+            "contest_party_crossover": true,
+            "name": {
+                "en": "Libertarian Crossover"
+            }
+        },
+        {
+            "_id": "LIBALL",
+            "name": {
+                "en": "Libertarian Plus Crossover"
+            }
+        },
+        {
+            "_id": "PF",
+            "name": {
+                "en": "Peace and Freedom",
+                "es": "Paz y Libertad",
+                "tl": "Kapayapaan at Kalayaan",
+                "zh": "和平與自由黨"
+            }
+        },
+        {
+            "_id": "REP",
+            "name": {
+                "en": "Republican",
+                "es": "Republicano",
+                "tl": "Republikano",
+                "zh": "共和黨"
+            }
+        },
+        {
+            "_id": "OTH",
+            "name": {
+                "en": "Other Unspecified Party"
+            }
+        },
+        {
+            "_id": "UNK",
+            "name": {
+                "en": "Unknown Party"
+            }
+        },
+        {
+            "_id": "ALL",
+            "name": {
+                "en": "All Parties Combined"
+            }
+        },
+        {
+            "_id": "NPP",
+            "name": {
+                "en": "No Party Preference"
+            }
+        },
+        {
+            "_id": "NPPALL",
+            "name": {
+                "en": "No Party Preference Including Crossover"
+            }
+        }
+    ],
     "result_stat_types": [
         {
             "_id": "RSTot",
-            "heading": "Ballots Counted"
+            "description": "Number of valid votes included in totals",
+            "text": {
+                "en": "Total Votes",
+                "es": "Total",
+                "tl": "Kabuuan",
+                "zh": "總共"
+            }
+        },
+        {
+            "_id": "RSVot",
+            "description": "Number of voters checking in at a poll site or returning a mail ballot",
+            "text": {
+                "en": "Voters Participating",
+                "es": "",
+                "tl": "",
+                "zh": ""
+            }
         },
         {
             "_id": "RSCst",
-            "heading": "Ballots Cast"
+            "description": "Number of ballots submitted by votes",
+            "text": {
+                "en": "Ballots Cast",
+                "es": "Votos",
+                "tl": "Mga Inihulog na Balota",
+                "zh": "投票總數"
+            }
+        },
+        {
+            "_id": "RSCd1",
+            "description": "Number of ballot cards 1 submitted by votes",
+            "text": {
+                "en": "Card 1 Ballots Cast"
+            }
+        },
+        {
+            "_id": "RSCd2",
+            "description": "Number of ballot cards 2 submitted by votes",
+            "text": {
+                "en": "Card 2 Ballots Cast"
+            }
+        },
+        {
+            "_id": "RSCd3",
+            "description": "Number of ballot cards 3 submitted by votes",
+            "text": {
+                "en": "Card 3 Ballots Cast"
+            }
+        },
+        {
+            "_id": "RSCd4",
+            "description": "Number of ballot cards 4 submitted by votes",
+            "text": {
+                "en": "Card 4 Ballots Cast"
+            }
+        },
+        {
+            "_id": "RSCd5",
+            "description": "Number of ballot cards 5 submitted by votes",
+            "text": {
+                "en": "Card 5 Ballots Cast"
+            }
+        },
+        {
+            "_id": "RSCd6",
+            "description": "Number of ballot cards 6 submitted by votes",
+            "text": {
+                "en": "Card 6 Ballots Cast"
+            }
+        },
+        {
+            "_id": "RSCd7",
+            "description": "Number of ballot cards 7 submitted by votes",
+            "text": {
+                "en": "Card 7 Ballots Cast"
+            }
+        },
+        {
+            "_id": "RSCd8",
+            "description": "Number of ballot cards 8 submitted by votes",
+            "text": {
+                "en": "Card 8 Ballots Cast"
+            }
+        },
+        {
+            "_id": "RSCd9",
+            "description": "Number of ballot cards 9 submitted by votes",
+            "text": {
+                "en": "Card 9 Ballots Cast"
+            }
         },
         {
             "_id": "RSReg",
-            "heading": "Registered Voters"
+            "description": "Number of registerd voters in the election",
+            "text": {
+                "en": "Registered Voters",
+                "es": "Electores inscritos",
+                "tl": "Rehistradong Botante",
+                "zh": "登記選民人數"
+            }
         },
         {
             "_id": "RSEli",
-            "heading": "Eligible Voters"
+            "description": "Estimated number of people who may register to vote",
+            "text": {
+                "en": "Eligible Voters",
+                "es": "",
+                "tl": "",
+                "zh": "有資格投票的選民人數"
+            }
         },
         {
             "_id": "RSTrn",
-            "heading": "Voter Turnout",
-            "is_percent": true
+            "description": "Percentage of voters participating / registered",
+            "is_percent": true,
+            "text": {
+                "en": "Voter Turnout"
+            }
         },
         {
             "_id": "RSRej",
-            "heading": "Ballots Rejected"
+            "description": "Ballots cast that are challenged or rejected",
+            "text": {
+                "en": "Ballots Rejected",
+                "es": "",
+                "tl": "",
+                "zh": ""
+            }
         },
         {
             "_id": "RSUnc",
-            "heading": "Ballots Uncounted"
+            "description": "Ballots received but not included in totals",
+            "text": {
+                "en": "Ballots Uncounted",
+                "es": "",
+                "tl": "",
+                "zh": ""
+            }
         },
         {
             "_id": "RSWri",
-            "heading": "Writein Votes"
+            "description": "Undetermined write-in votes",
+            "text": {
+                "en": "Write-in Votes",
+                "es": "",
+                "tl": "",
+                "zh": "信件郵票數"
+            }
+        },
+        {
+            "_id": "RSIWr",
+            "description": "Write-in vote with a blank or ineligible candidate name",
+            "text": {
+                "en": "Invalid Write-in Votes"
+            }
         },
         {
             "_id": "RSUnd",
-            "heading": "Undervotes"
+            "description": "Number of votes allowed not voted, excluding blank ballots reported",
+            "text": {
+                "en": "Undervotes",
+                "es": "Votos insuficientes",
+                "tl": "Mga kulang na boto",
+                "zh": "投票不足"
+            }
+        },
+        {
+            "_id": "RSBla",
+            "description": "Number of ballots with no votes selected",
+            "text": {
+                "en": "Blank Ballots",
+                "es": "",
+                "tl": "",
+                "zh": ""
+            }
         },
         {
             "_id": "RSOvr",
-            "heading": "Overvotes"
+            "description": "Number of ballots with more votes selected than allowed",
+            "text": {
+                "en": "Overvotes",
+                "es": "Sobrevotos",
+                "tl": "Mga sobrang boto",
+                "zh": "過度投票"
+            }
         },
         {
             "_id": "RSSki",
-            "heading": "Skipped Votes"
+            "description": "Number of votes explicitly marked as skip-this-contest",
+            "text": {
+                "en": "Skipped Votes",
+                "es": "",
+                "tl": "",
+                "zh": ""
+            }
         },
         {
             "_id": "RSExh",
-            "heading": "Exhausted Ballots"
+            "description": "Number of RCV ballots where all choices are eliminated",
+            "text": {
+                "en": "Exhausted Ballots",
+                "es": "",
+                "tl": "",
+                "zh": ""
+            }
+        },
+        {
+            "_id": "RSIss",
+            "description": "Number of ballots issued to voters",
+            "text": {
+                "en": "Issued Ballots"
+            }
+        },
+        {
+            "_id": "RSCnt",
+            "description": "Number of ballots cast accepted for counting",
+            "text": {
+                "en": "Counted Ballots"
+            }
+        },
+        {
+            "_id": "RSPnd",
+            "description": "Uncounted ballots pending review",
+            "text": {
+                "en": "Pending Ballots"
+            }
+        },
+        {
+            "_id": "RSCha",
+            "description": "Ballots rejected including those pending correction",
+            "text": {
+                "en": "Challenged Ballots"
+            }
         }
     ],
     "result_styles": [
@@ -8589,10 +9034,24 @@
             "voting_group_ids": "TO ED MV"
         },
         {
+            "_id": "EMSN",
+            "description": "Plurality N-of-M voting, subtotal by Election Day/VBM",
+            "is_rcv": false,
+            "result_stat_type_ids": "RSReg RSCst RSRej RSOvr RSUnd RSBla RSTot",
+            "voting_group_ids": "TO ED MV"
+        },
+        {
             "_id": "EMSW",
             "description": "Plurality voting, subtotal by Election Day/VBM, with writeins",
             "is_rcv": false,
             "result_stat_type_ids": "RSReg RSCst RSRej RSOvr RSUnd RSTot RSWri",
+            "voting_group_ids": "TO ED MV"
+        },
+        {
+            "_id": "EMSWN",
+            "description": "Pluralityy N-of-M voting, subtotal by Election Day/VBM, with writeins",
+            "is_rcv": false,
+            "result_stat_type_ids": "RSReg RSCst RSRej RSOvr RSUnd RSBla RSTot RSWri",
             "voting_group_ids": "TO ED MV"
         },
         {
@@ -8624,84 +9083,69 @@
             "voting_group_ids": "TO ED MV"
         }
     ],
-    "translations": {
-        "ballots_cast": {
-            "en": "Ballots Cast"
-        },
-        "ballots_counted": {
-            "en": "Ballots Counted"
-        },
-        "ballots_rejected": {
-            "en": "Ballots Rejected"
-        },
-        "ballots_uncounted": {
-            "en": "Ballots Uncounted"
-        },
-        "exhausted_ballots": {
-            "en": "Exhausted Ballots"
-        },
-        "overvotes": {
-            "en": "Overvotes"
-        },
-        "registered_voters": {
-            "en": "Registered Voters"
-        },
-        "undervotes": {
-            "en": "Undervotes"
-        },
-        "voter_turnout": {
-            "en": "Voter Turnout"
-        },
-        "writein": {
-            "en": "Write-In",
-            "es": "NO LISTADO",
-            "tl": "ISINUSULAT-LAMANG",
-            "zh": "補寫候選人"
-        },
-        "writein_votes": {
-            "en": "Writein Votes"
-        },
-        "yes": {
-            "en": "YES",
-            "es": "SÍ",
-            "tl": "OO",
-            "zh": "贊成"
-        },
-        "no": {
-            "en": "NO",
-            "es": "NO",
-            "tl": "HINDI",
-            "zh": "反對"
-        }
-    },
     "voting_groups": [
         {
             "_id": "TO",
-            "heading": "Total"
+            "text": {
+                "en": "Total",
+                "es": "Total",
+                "tl": "Kabuuan",
+                "zh": "總共"
+            }
         },
         {
             "_id": "ED",
-            "heading": "Election Day"
+            "text": {
+                "en": "Election Day",
+                "es": "Día de las Elecciones",
+                "tl": "Araw ng Eleksyon",
+                "zh": "投票日"
+            }
         },
         {
             "_id": "MV",
-            "heading": "Vote By Mail"
+            "text": {
+                "en": "Vote By Mail",
+                "es": "Voto por correo",
+                "tl": "Pagboto sa pamamagitan ng Koreo",
+                "zh": "郵寄投票"
+            }
         },
         {
             "_id": "EV",
-            "heading": "Early Voting"
+            "text": {
+                "en": "Early Voting",
+                "es": "",
+                "tl": "",
+                "zh": ""
+            }
         },
         {
             "_id": "IA",
-            "heading": "In-County"
+            "text": {
+                "en": "In-County",
+                "es": "",
+                "tl": "",
+                "zh": ""
+            }
         },
         {
             "_id": "XA",
-            "heading": "Other Counties"
+            "text": {
+                "en": "Other Counties",
+                "es": "",
+                "tl": "",
+                "zh": ""
+            }
         },
         {
             "_id": "PV",
-            "heading": "Provisional Voting"
+            "text": {
+                "en": "Provisional Voting",
+                "es": "",
+                "tl": "",
+                "zh": ""
+            }
         }
     ]
 }
