@@ -11,7 +11,7 @@
             "choices": [
                 {
                     "_id": "1",
-                    "ballot_title": "JOEL VENTRESCA",
+                    "heading": "JOEL VENTRESCA",
                     "results": [
                         "12850",
                         "4008",
@@ -22,7 +22,7 @@
                 },
                 {
                     "_id": "2",
-                    "ballot_title": "WILMA PANG",
+                    "heading": "WILMA PANG",
                     "results": [
                         "4675",
                         "1735",
@@ -33,7 +33,7 @@
                 },
                 {
                     "_id": "3",
-                    "ballot_title": "ROBERT L. JORDAN, JR.",
+                    "heading": "ROBERT L. JORDAN, JR.",
                     "results": [
                         "2321",
                         "786",
@@ -44,7 +44,7 @@
                 },
                 {
                     "_id": "4",
-                    "ballot_title": "PAUL YBARRA ROBERTSON",
+                    "heading": "PAUL YBARRA ROBERTSON",
                     "results": [
                         "7472",
                         "2091",
@@ -55,7 +55,7 @@
                 },
                 {
                     "_id": "5",
-                    "ballot_title": "ELLEN LEE ZHOU",
+                    "heading": "ELLEN LEE ZHOU",
                     "results": [
                         "24667",
                         "5676",
@@ -66,7 +66,7 @@
                 },
                 {
                     "_id": "6",
-                    "ballot_title": "LONDON N. BREED",
+                    "heading": "LONDON N. BREED",
                     "results": [
                         "125200",
                         "35603",
@@ -77,7 +77,7 @@
                 },
                 {
                     "_id": "53",
-                    "ballot_title": "MARC ROTH",
+                    "heading": "MARC ROTH",
                     "results": [
                         "7",
                         "4",
@@ -93,7 +93,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "495050",
                         "495050",
@@ -102,7 +101,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "206117",
                         "59423",
@@ -111,7 +109,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -120,7 +117,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "539",
                         "105",
@@ -129,7 +125,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "28386",
                         "9415",
@@ -138,7 +133,6 @@
                 },
                 {
                     "_id": "RSExh",
-                    "heading": "Exhausted Ballots",
                     "results": [
                         "0",
                         "0",
@@ -147,7 +141,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "177192",
                         "49903",
@@ -156,13 +149,18 @@
                 },
                 {
                     "_id": "RSWri",
-                    "heading": "Writein Votes",
                     "results": [
                         "7",
                         "4",
                         "3"
                     ]
                 }
+            ],
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t1:JOEL VENTRESCA\t2:WILMA PANG\t3:ROBERT L. JORDAN, JR.\t4:PAUL YBARRA ROBERTSON\t5:ELLEN LEE ZHOU\t6:LONDON N. BREED\t53:MARC ROTH",
+                "ALL\tTO\t495050\t206117\t0\t539\t28386\t0\t177192\t7\t12850\t4675\t2321\t7472\t24667\t125200\t7",
+                "ALL\tED\t495050\t59423\t0\t105\t9415\t0\t49903\t4\t4008\t1735\t786\t2091\t5676\t35603\t4",
+                "ALL\tMV\t495050\t146694\t0\t434\t18971\t0\t127289\t3\t8842\t2940\t1535\t5381\t18991\t89597\t3"
             ],
             "total_precincts": 474
         },
@@ -171,7 +169,7 @@
             "choices": [
                 {
                     "_id": "8",
-                    "ballot_title": "RYAN LAM",
+                    "heading": "RYAN LAM",
                     "results": [
                         "918",
                         "223",
@@ -182,7 +180,7 @@
                 },
                 {
                     "_id": "9",
-                    "ballot_title": "DEAN PRESTON",
+                    "heading": "DEAN PRESTON",
                     "results": [
                         "11119",
                         "4249",
@@ -193,7 +191,7 @@
                 },
                 {
                     "_id": "10",
-                    "ballot_title": "NOMVULA O'MEARA",
+                    "heading": "NOMVULA O'MEARA",
                     "results": [
                         "265",
                         "109",
@@ -204,7 +202,7 @@
                 },
                 {
                     "_id": "11",
-                    "ballot_title": "VALLIE BROWN",
+                    "heading": "VALLIE BROWN",
                     "results": [
                         "11171",
                         "3354",
@@ -220,7 +218,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "51976",
                         "51976",
@@ -229,7 +226,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "24765",
                         "8348",
@@ -238,7 +234,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -247,7 +242,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "39",
                         "8",
@@ -256,7 +250,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "1253",
                         "405",
@@ -265,7 +258,6 @@
                 },
                 {
                     "_id": "RSExh",
-                    "heading": "Exhausted Ballots",
                     "results": [
                         "0",
                         "0",
@@ -274,7 +266,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "23473",
                         "7935",
@@ -283,13 +274,18 @@
                 },
                 {
                     "_id": "RSWri",
-                    "heading": "Writein Votes",
                     "results": [
                         "0",
                         "0",
                         "0"
                     ]
                 }
+            ],
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t8:RYAN LAM\t9:DEAN PRESTON\t10:NOMVULA O'MEARA\t11:VALLIE BROWN",
+                "ALL\tTO\t51976\t24765\t0\t39\t1253\t0\t23473\t0\t918\t11119\t265\t11171",
+                "ALL\tED\t51976\t8348\t0\t8\t405\t0\t7935\t0\t223\t4249\t109\t3354",
+                "ALL\tMV\t51976\t16417\t0\t31\t848\t0\t15538\t0\t695\t6870\t156\t7817"
             ],
             "total_precincts": 54
         },
@@ -298,7 +294,7 @@
             "choices": [
                 {
                     "_id": "13",
-                    "ballot_title": "DENNIS J. HERRERA",
+                    "heading": "DENNIS J. HERRERA",
                     "results": [
                         "161369",
                         "48109",
@@ -314,7 +310,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "495050",
                         "495050",
@@ -323,7 +318,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "206117",
                         "59423",
@@ -332,7 +326,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -341,7 +334,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "55",
                         "14",
@@ -350,7 +342,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "44693",
                         "11300",
@@ -359,7 +350,6 @@
                 },
                 {
                     "_id": "RSExh",
-                    "heading": "Exhausted Ballots",
                     "results": [
                         "0",
                         "0",
@@ -368,7 +358,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "161369",
                         "48109",
@@ -377,13 +366,18 @@
                 },
                 {
                     "_id": "RSWri",
-                    "heading": "Writein Votes",
                     "results": [
                         "0",
                         "0",
                         "0"
                     ]
                 }
+            ],
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t13:DENNIS J. HERRERA",
+                "ALL\tTO\t495050\t206117\t0\t55\t44693\t0\t161369\t0\t161369",
+                "ALL\tED\t495050\t59423\t0\t14\t11300\t0\t48109\t0\t48109",
+                "ALL\tMV\t495050\t146694\t0\t41\t33393\t0\t113260\t0\t113260"
             ],
             "total_precincts": 474
         },
@@ -392,7 +386,7 @@
             "choices": [
                 {
                     "_id": "15",
-                    "ballot_title": "SUZY LOFTUS",
+                    "heading": "SUZY LOFTUS",
                     "results": [
                         "59698",
                         "16562",
@@ -403,7 +397,7 @@
                 },
                 {
                     "_id": "16",
-                    "ballot_title": "LEIF DAUTCH",
+                    "heading": "LEIF DAUTCH",
                     "results": [
                         "26758",
                         "6537",
@@ -414,7 +408,7 @@
                 },
                 {
                     "_id": "17",
-                    "ballot_title": "NANCY TUNG",
+                    "heading": "NANCY TUNG",
                     "results": [
                         "37022",
                         "8090",
@@ -425,7 +419,7 @@
                 },
                 {
                     "_id": "18",
-                    "ballot_title": "CHESA BOUDIN",
+                    "heading": "CHESA BOUDIN",
                     "results": [
                         "68575",
                         "25282",
@@ -441,7 +435,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "495050",
                         "495050",
@@ -450,7 +443,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "206117",
                         "59423",
@@ -459,7 +451,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -468,7 +459,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "474",
                         "83",
@@ -477,7 +467,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "13590",
                         "2869",
@@ -486,7 +475,6 @@
                 },
                 {
                     "_id": "RSExh",
-                    "heading": "Exhausted Ballots",
                     "results": [
                         "0",
                         "0",
@@ -495,7 +483,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "192053",
                         "56471",
@@ -504,13 +491,18 @@
                 },
                 {
                     "_id": "RSWri",
-                    "heading": "Writein Votes",
                     "results": [
                         "0",
                         "0",
                         "0"
                     ]
                 }
+            ],
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t15:SUZY LOFTUS\t16:LEIF DAUTCH\t17:NANCY TUNG\t18:CHESA BOUDIN",
+                "ALL\tTO\t495050\t206117\t0\t474\t13590\t0\t192053\t0\t59698\t26758\t37022\t68575",
+                "ALL\tED\t495050\t59423\t0\t83\t2869\t0\t56471\t0\t16562\t6537\t8090\t25282",
+                "ALL\tMV\t495050\t146694\t0\t391\t10721\t0\t135582\t0\t43136\t20221\t28932\t43293"
             ],
             "total_precincts": 474
         },
@@ -519,7 +511,7 @@
             "choices": [
                 {
                     "_id": "20",
-                    "ballot_title": "MANOHAR \"MANO\" RAJU",
+                    "heading": "MANOHAR \"MANO\" RAJU",
                     "results": [
                         "158560",
                         "47916",
@@ -535,7 +527,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "495050",
                         "495050",
@@ -544,7 +535,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "206117",
                         "59423",
@@ -553,7 +543,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -562,7 +551,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "34",
                         "6",
@@ -571,7 +559,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "47523",
                         "11501",
@@ -580,7 +567,6 @@
                 },
                 {
                     "_id": "RSExh",
-                    "heading": "Exhausted Ballots",
                     "results": [
                         "0",
                         "0",
@@ -589,7 +575,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "158560",
                         "47916",
@@ -598,13 +583,18 @@
                 },
                 {
                     "_id": "RSWri",
-                    "heading": "Writein Votes",
                     "results": [
                         "0",
                         "0",
                         "0"
                     ]
                 }
+            ],
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t20:MANOHAR \"MANO\" RAJU",
+                "ALL\tTO\t495050\t206117\t0\t34\t47523\t0\t158560\t0\t158560",
+                "ALL\tED\t495050\t59423\t0\t6\t11501\t0\t47916\t0\t47916",
+                "ALL\tMV\t495050\t146694\t0\t28\t36022\t0\t110644\t0\t110644"
             ],
             "total_precincts": 474
         },
@@ -613,7 +603,7 @@
             "choices": [
                 {
                     "_id": "22",
-                    "ballot_title": "PAUL MIYAMOTO",
+                    "heading": "PAUL MIYAMOTO",
                     "results": [
                         "146628",
                         "42527",
@@ -629,7 +619,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "495050",
                         "495050",
@@ -638,7 +627,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "206117",
                         "59423",
@@ -647,7 +635,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -656,7 +643,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "37",
                         "10",
@@ -665,7 +651,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "59452",
                         "16886",
@@ -674,7 +659,6 @@
                 },
                 {
                     "_id": "RSExh",
-                    "heading": "Exhausted Ballots",
                     "results": [
                         "0",
                         "0",
@@ -683,7 +667,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "146628",
                         "42527",
@@ -692,13 +675,18 @@
                 },
                 {
                     "_id": "RSWri",
-                    "heading": "Writein Votes",
                     "results": [
                         "0",
                         "0",
                         "0"
                     ]
                 }
+            ],
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t22:PAUL MIYAMOTO",
+                "ALL\tTO\t495050\t206117\t0\t37\t59452\t0\t146628\t0\t146628",
+                "ALL\tED\t495050\t59423\t0\t10\t16886\t0\t42527\t0\t42527",
+                "ALL\tMV\t495050\t146694\t0\t27\t42566\t0\t104101\t0\t104101"
             ],
             "total_precincts": 474
         },
@@ -707,7 +695,7 @@
             "choices": [
                 {
                     "_id": "24",
-                    "ballot_title": "JOSÉ CISNEROS",
+                    "heading": "JOSÉ CISNEROS",
                     "results": [
                         "152703",
                         "45061",
@@ -723,7 +711,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "495050",
                         "495050",
@@ -732,7 +719,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "206117",
                         "59423",
@@ -741,7 +727,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -750,7 +735,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "31",
                         "7",
@@ -759,7 +743,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "53383",
                         "14355",
@@ -768,7 +751,6 @@
                 },
                 {
                     "_id": "RSExh",
-                    "heading": "Exhausted Ballots",
                     "results": [
                         "0",
                         "0",
@@ -777,7 +759,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "152703",
                         "45061",
@@ -786,13 +767,18 @@
                 },
                 {
                     "_id": "RSWri",
-                    "heading": "Writein Votes",
                     "results": [
                         "0",
                         "0",
                         "0"
                     ]
                 }
+            ],
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t24:JOSÉ CISNEROS",
+                "ALL\tTO\t495050\t206117\t0\t31\t53383\t0\t152703\t0\t152703",
+                "ALL\tED\t495050\t59423\t0\t7\t14355\t0\t45061\t0\t45061",
+                "ALL\tMV\t495050\t146694\t0\t24\t39028\t0\t107642\t0\t107642"
             ],
             "total_precincts": 474
         },
@@ -801,7 +787,7 @@
             "choices": [
                 {
                     "_id": "26",
-                    "ballot_title": "JENNY LAM",
+                    "heading": "JENNY LAM",
                     "results": [
                         "121154",
                         "31352",
@@ -812,7 +798,7 @@
                 },
                 {
                     "_id": "27",
-                    "ballot_title": "KIRSTEN STROBEL",
+                    "heading": "KIRSTEN STROBEL",
                     "results": [
                         "26036",
                         "9516",
@@ -823,7 +809,7 @@
                 },
                 {
                     "_id": "28",
-                    "ballot_title": "ROBERT K. COLEMAN",
+                    "heading": "ROBERT K. COLEMAN",
                     "results": [
                         "17395",
                         "6219",
@@ -839,7 +825,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "495050",
                         "495050",
@@ -848,7 +833,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "206345",
                         "59419",
@@ -857,7 +841,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -866,7 +849,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "639",
                         "104",
@@ -875,7 +857,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "41121",
                         "12228",
@@ -884,7 +865,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "164585",
                         "47087",
@@ -893,13 +873,18 @@
                 },
                 {
                     "_id": "RSWri",
-                    "heading": "Writein Votes",
                     "results": [
                         "0",
                         "0",
                         "0"
                     ]
                 }
+            ],
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t26:JENNY LAM\t27:KIRSTEN STROBEL\t28:ROBERT K. COLEMAN",
+                "ALL\tTO\t495050\t206345\t0\t639\t41121\t164585\t0\t121154\t26036\t17395",
+                "ALL\tED\t495050\t59419\t0\t104\t12228\t47087\t0\t31352\t9516\t6219",
+                "ALL\tMV\t495050\t146926\t0\t535\t28893\t117498\t0\t89802\t16520\t11176"
             ],
             "total_precincts": 474
         },
@@ -908,7 +893,7 @@
             "choices": [
                 {
                     "_id": "30",
-                    "ballot_title": "IVY LEE",
+                    "heading": "IVY LEE",
                     "results": [
                         "157858",
                         "47035",
@@ -924,7 +909,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "495050",
                         "495050",
@@ -933,7 +917,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "206340",
                         "59414",
@@ -942,7 +925,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -951,7 +933,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "55",
                         "12",
@@ -960,7 +941,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "48427",
                         "12367",
@@ -969,7 +949,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "157858",
                         "47035",
@@ -978,13 +957,18 @@
                 },
                 {
                     "_id": "RSWri",
-                    "heading": "Writein Votes",
                     "results": [
                         "0",
                         "0",
                         "0"
                     ]
                 }
+            ],
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t30:IVY LEE",
+                "ALL\tTO\t495050\t206340\t0\t55\t48427\t157858\t0\t157858",
+                "ALL\tED\t495050\t59414\t0\t12\t12367\t47035\t0\t47035",
+                "ALL\tMV\t495050\t146926\t0\t43\t36060\t110823\t0\t110823"
             ],
             "total_precincts": 474
         },
@@ -993,7 +977,7 @@
             "choices": [
                 {
                     "_id": "32",
-                    "ballot_title": "YES",
+                    "heading": "YES",
                     "results": [
                         "143055",
                         "44590",
@@ -1004,7 +988,7 @@
                 },
                 {
                     "_id": "33",
-                    "ballot_title": "NO",
+                    "heading": "NO",
                     "results": [
                         "57974",
                         "13399",
@@ -1020,7 +1004,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "495050",
                         "495050",
@@ -1029,7 +1012,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "206340",
                         "59414",
@@ -1038,7 +1020,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -1047,7 +1028,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "42",
                         "11",
@@ -1056,7 +1036,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "5269",
                         "1414",
@@ -1065,13 +1044,18 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "201029",
                         "57989",
                         "143040"
                     ]
                 }
+            ],
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t32:YES\t33:NO",
+                "ALL\tTO\t495050\t206340\t0\t42\t5269\t201029\t143055\t57974",
+                "ALL\tED\t495050\t59414\t0\t11\t1414\t57989\t44590\t13399",
+                "ALL\tMV\t495050\t146926\t0\t31\t3855\t143040\t98465\t44575"
             ],
             "success": true,
             "total_precincts": 474
@@ -1081,7 +1065,7 @@
             "choices": [
                 {
                     "_id": "34",
-                    "ballot_title": "YES",
+                    "heading": "YES",
                     "results": [
                         "152456",
                         "45329",
@@ -1092,7 +1076,7 @@
                 },
                 {
                     "_id": "35",
-                    "ballot_title": "NO",
+                    "heading": "NO",
                     "results": [
                         "41775",
                         "10685",
@@ -1108,7 +1092,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "495050",
                         "495050",
@@ -1117,7 +1100,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "206340",
                         "59414",
@@ -1126,7 +1108,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -1135,7 +1116,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "35",
                         "7",
@@ -1144,7 +1124,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "12074",
                         "3393",
@@ -1153,13 +1132,18 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "194231",
                         "56014",
                         "138217"
                     ]
                 }
+            ],
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t34:YES\t35:NO",
+                "ALL\tTO\t495050\t206340\t0\t35\t12074\t194231\t152456\t41775",
+                "ALL\tED\t495050\t59414\t0\t7\t3393\t56014\t45329\t10685",
+                "ALL\tMV\t495050\t146926\t0\t28\t8681\t138217\t107127\t31090"
             ],
             "success": true,
             "total_precincts": 474
@@ -1169,7 +1153,7 @@
             "choices": [
                 {
                     "_id": "36",
-                    "ballot_title": "YES",
+                    "heading": "YES",
                     "results": [
                         "36666",
                         "10092",
@@ -1180,7 +1164,7 @@
                 },
                 {
                     "_id": "37",
-                    "ballot_title": "NO",
+                    "heading": "NO",
                     "results": [
                         "164885",
                         "47989",
@@ -1196,7 +1180,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "495050",
                         "495050",
@@ -1205,7 +1188,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "206340",
                         "59414",
@@ -1214,7 +1196,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -1223,7 +1204,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "119",
                         "32",
@@ -1232,7 +1212,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "4670",
                         "1301",
@@ -1241,13 +1220,18 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "201551",
                         "58081",
                         "143470"
                     ]
                 }
+            ],
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t36:YES\t37:NO",
+                "ALL\tTO\t495050\t206340\t0\t119\t4670\t201551\t36666\t164885",
+                "ALL\tED\t495050\t59414\t0\t32\t1301\t58081\t10092\t47989",
+                "ALL\tMV\t495050\t146926\t0\t87\t3369\t143470\t26574\t116896"
             ],
             "success": false,
             "total_precincts": 474
@@ -1257,7 +1241,7 @@
             "choices": [
                 {
                     "_id": "38",
-                    "ballot_title": "YES",
+                    "heading": "YES",
                     "results": [
                         "135721",
                         "40886",
@@ -1268,7 +1252,7 @@
                 },
                 {
                     "_id": "39",
-                    "ballot_title": "NO",
+                    "heading": "NO",
                     "results": [
                         "64896",
                         "16897",
@@ -1284,7 +1268,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "495050",
                         "495050",
@@ -1293,7 +1276,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "206340",
                         "59414",
@@ -1302,7 +1284,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -1311,7 +1292,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "49",
                         "13",
@@ -1320,7 +1300,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "5674",
                         "1618",
@@ -1329,13 +1308,18 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "200617",
                         "57783",
                         "142834"
                     ]
                 }
+            ],
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t38:YES\t39:NO",
+                "ALL\tTO\t495050\t206340\t0\t49\t5674\t200617\t135721\t64896",
+                "ALL\tED\t495050\t59414\t0\t13\t1618\t57783\t40886\t16897",
+                "ALL\tMV\t495050\t146926\t0\t36\t4056\t142834\t94835\t47999"
             ],
             "success": true,
             "total_precincts": 474
@@ -1345,7 +1329,7 @@
             "choices": [
                 {
                     "_id": "40",
-                    "ballot_title": "YES",
+                    "heading": "YES",
                     "results": [
                         "151865",
                         "46079",
@@ -1356,7 +1340,7 @@
                 },
                 {
                     "_id": "41",
-                    "ballot_title": "NO",
+                    "heading": "NO",
                     "results": [
                         "47175",
                         "11446",
@@ -1372,7 +1356,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "495050",
                         "495050",
@@ -1381,7 +1364,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "206340",
                         "59414",
@@ -1390,7 +1372,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -1399,7 +1380,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "60",
                         "19",
@@ -1408,7 +1388,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "7240",
                         "1870",
@@ -1417,13 +1396,18 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "199040",
                         "57525",
                         "141515"
                     ]
                 }
+            ],
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t40:YES\t41:NO",
+                "ALL\tTO\t495050\t206340\t0\t60\t7240\t199040\t151865\t47175",
+                "ALL\tED\t495050\t59414\t0\t19\t1870\t57525\t46079\t11446",
+                "ALL\tMV\t495050\t146926\t0\t41\t5370\t141515\t105786\t35729"
             ],
             "success": true,
             "total_precincts": 474
@@ -1433,7 +1417,7 @@
             "choices": [
                 {
                     "_id": "42",
-                    "ballot_title": "YES",
+                    "heading": "YES",
                     "results": [
                         "151023",
                         "44143",
@@ -1444,7 +1428,7 @@
                 },
                 {
                     "_id": "43",
-                    "ballot_title": "NO",
+                    "heading": "NO",
                     "results": [
                         "45384",
                         "12569",
@@ -1460,7 +1444,6 @@
             "result_stats": [
                 {
                     "_id": "RSReg",
-                    "heading": "Registered Voters",
                     "results": [
                         "495050",
                         "495050",
@@ -1469,7 +1452,6 @@
                 },
                 {
                     "_id": "RSCst",
-                    "heading": "Ballots Cast",
                     "results": [
                         "206340",
                         "59414",
@@ -1478,7 +1460,6 @@
                 },
                 {
                     "_id": "RSRej",
-                    "heading": "Ballots Rejected",
                     "results": [
                         "0",
                         "0",
@@ -1487,7 +1468,6 @@
                 },
                 {
                     "_id": "RSOvr",
-                    "heading": "Overvotes",
                     "results": [
                         "28",
                         "8",
@@ -1496,7 +1476,6 @@
                 },
                 {
                     "_id": "RSUnd",
-                    "heading": "Undervotes",
                     "results": [
                         "9905",
                         "2694",
@@ -1505,7 +1484,6 @@
                 },
                 {
                     "_id": "RSTot",
-                    "heading": "Total Votes",
                     "results": [
                         "196407",
                         "56712",
@@ -1513,12 +1491,19 @@
                     ]
                 }
             ],
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t42:YES\t43:NO",
+                "ALL\tTO\t495050\t206340\t0\t28\t9905\t196407\t151023\t45384",
+                "ALL\tED\t495050\t59414\t0\t8\t2694\t56712\t44143\t12569",
+                "ALL\tMV\t495050\t146926\t0\t20\t7211\t139695\t106880\t32815"
+            ],
             "success": true,
             "total_precincts": 474
         }
     ],
     "turnout": {
         "_id": "TURNOUT",
+        "eligible_voters": 655825,
         "no_voter_precincts": [
             []
         ],
@@ -1538,8 +1523,8 @@
                 "heading": "Registered Voters",
                 "results": [
                     495050,
-                    117753,
-                    377297
+                    495050,
+                    495050
                 ]
             },
             {
