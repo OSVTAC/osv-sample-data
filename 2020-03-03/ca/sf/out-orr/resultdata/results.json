@@ -370,9 +370,9 @@
             ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t13:JULIÁN CASTRO\t14:MICHAEL A. ELLINGER\t15:ELIZABETH WARREN\t16:MARIANNE WILLIAMSON\t17:ANDREW YANG\t18:ROQUE \"ROCKY\" DE LA FUENTE III\t19:JOHN K. DELANEY\t20:AMY KLOBUCHAR\t21:BERNIE SANDERS\t22:JOE SESTAK\t23:TOM STEYER\t24:DEVAL PATRICK\t25:MICHAEL BENNET\t26:MICHAEL R. BLOOMBERG\t27:MOSIE BOYD\t28:CORY BOOKER\t29:PETE BUTTIGIEG\t30:JOSEPH R. BIDEN\t31:TULSI GABBARD\t32:MARK STEWART GREENSTEIN\t178:NAKIA L. ANTHONY\t179:DAPHNE DENISE BRADFORD\t180:WILLIE FELIX CARTER\t181:MICHAEL DENAME\t182:JEFFREY H. DROBMAN\t183:ROBERT JORDAN\t184:HEATHER MARIE STAGG",
-                "ALLPCTS\tTO\t305059\t261364\t0\t323\t1531\t259510\t0\t150\t63\t58730\t104\t2822\t54\t69\t3611\t89217\t38\t1699\t31\t128\t28933\t20\t119\t10360\t62299\t971\t92\t0\t0\t0\t0\t0\t0\t0",
-                "ALLPCTS\tED\t60741\t99916\t0\t101\t367\t99448\t0\t48\t30\t21621\t29\t436\t14\t30\t124\t38601\t15\t187\t4\t37\t8096\t4\t32\t304\t29422\t388\t26\t0\t0\t0\t0\t0\t0\t0",
-                "ALLPCTS\tMV\t244318\t161448\t0\t222\t1164\t160062\t0\t102\t33\t37109\t75\t2386\t40\t39\t3487\t50616\t23\t1512\t27\t91\t20837\t16\t87\t10056\t32877\t583\t66\t0\t0\t0\t0\t0\t0\t0"
+                "ALL\tTO\t305059\t261364\t0\t323\t1531\t259510\t0\t150\t63\t58730\t104\t2822\t54\t69\t3611\t89217\t38\t1699\t31\t128\t28933\t20\t119\t10360\t62299\t971\t92\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t60741\t99916\t0\t101\t367\t99448\t0\t48\t30\t21621\t29\t436\t14\t30\t124\t38601\t15\t187\t4\t37\t8096\t4\t32\t304\t29422\t388\t26\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t244318\t161448\t0\t222\t1164\t160062\t0\t102\t33\t37109\t75\t2386\t40\t39\t3487\t50616\t23\t1512\t27\t91\t20837\t16\t87\t10056\t32877\t583\t66\t0\t0\t0\t0\t0\t0\t0"
             ],
             "total_precincts": 609
         },
@@ -542,9 +542,9 @@
             ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t33:ROBERT ARDINI\t34:JOE WALSH\t35:BILL WELD\t36:ROQUE \"ROCKY\" DE LA FUENTE\t37:MATTHEW JOHN MATERN\t38:ZOLTAN G. ISTVAN\t39:DONALD J. TRUMP\t185:DENIS C. GRASSKA\t186:ROBERT LEE MANNING JR.",
-                "ALLPCTS\tTO\t32967\t16708\t0\t8\t1857\t14843\t0\t122\t658\t1279\t322\t273\t118\t12071\t0\t0",
-                "ALLPCTS\tED\t6575\t4125\t0\t3\t344\t3778\t0\t24\t161\t231\t95\t78\t26\t3163\t0\t0",
-                "ALLPCTS\tMV\t26392\t12583\t0\t5\t1513\t11065\t0\t98\t497\t1048\t227\t195\t92\t8908\t0\t0"
+                "ALL\tTO\t32967\t16708\t0\t8\t1857\t14843\t0\t122\t658\t1279\t322\t273\t118\t12071\t0\t0",
+                "ALL\tED\t6575\t4125\t0\t3\t344\t3778\t0\t24\t161\t231\t95\t78\t26\t3163\t0\t0",
+                "ALL\tMV\t26392\t12583\t0\t5\t1513\t11065\t0\t98\t497\t1048\t227\t195\t92\t8908\t0\t0"
             ],
             "total_precincts": 609
         },
@@ -670,9 +670,9 @@
             ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t40:PHIL COLLINS\t41:ROQUE \"ROCKY\" DE LA FUENTE\t42:CHARLES KRAUT\t43:J.R. MYERS\t44:DON BLANKENSHIP",
-                "ALLPCTS\tTO\t8573\t3000\t0\t1\t1980\t1019\t0\t343\t200\t143\t189\t144",
-                "ALLPCTS\tED\t1278\t828\t0\t0\t477\t351\t0\t120\t68\t46\t70\t47",
-                "ALLPCTS\tMV\t7295\t2172\t0\t1\t1503\t668\t0\t223\t132\t97\t119\t97"
+                "ALL\tTO\t8573\t3000\t0\t1\t1980\t1019\t0\t343\t200\t143\t189\t144",
+                "ALL\tED\t1278\t828\t0\t0\t477\t351\t0\t120\t68\t46\t70\t47",
+                "ALL\tMV\t7295\t2172\t0\t1\t1503\t668\t0\t223\t132\t97\t119\t97"
             ],
             "total_precincts": 609
         },
@@ -809,9 +809,9 @@
             ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t45:DAVID ROLDE\t46:HOWIE HAWKINS\t47:DARIO HUNTER\t48:DENNIS LAMBERT\t49:SEDINAM MOYOWASIFZA-CURRY\t187:KENT MESPLAY",
-                "ALLPCTS\tTO\t3073\t1077\t0\t0\t474\t603\t0\t22\t216\t158\t88\t119\t0",
-                "ALLPCTS\tED\t700\t329\t0\t0\t113\t216\t0\t14\t59\t58\t35\t50\t0",
-                "ALLPCTS\tMV\t2373\t748\t0\t0\t361\t387\t0\t8\t157\t100\t53\t69\t0"
+                "ALL\tTO\t3073\t1077\t0\t0\t474\t603\t0\t22\t216\t158\t88\t119\t0",
+                "ALL\tED\t700\t329\t0\t0\t113\t216\t0\t14\t59\t58\t35\t50\t0",
+                "ALL\tMV\t2373\t748\t0\t0\t361\t387\t0\t8\t157\t100\t53\t69\t0"
             ],
             "total_precincts": 609
         },
@@ -904,9 +904,9 @@
             ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t50:HOWIE HAWKINS\t51:GLORIA LA RIVA",
-                "ALLPCTS\tTO\t1531\t366\t0\t0\t114\t252\t0\t78\t174",
-                "ALLPCTS\tED\t338\t120\t0\t0\t31\t89\t0\t19\t70",
-                "ALLPCTS\tMV\t1193\t246\t0\t0\t83\t163\t0\t59\t104"
+                "ALL\tTO\t1531\t366\t0\t0\t114\t252\t0\t78\t174",
+                "ALL\tED\t338\t120\t0\t0\t31\t89\t0\t19\t70",
+                "ALL\tMV\t1193\t246\t0\t0\t83\t163\t0\t59\t104"
             ],
             "total_precincts": 609
         },
@@ -1164,9 +1164,9 @@
             ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t52:KEN ARMSTRONG\t53:MAX ABRAMSON\t54:SAM ROBB\t55:KIM RUFF\t56:STEVEN A RICHEY\t57:JACOB HORNBERGER\t58:SOURAYA FAAS\t59:KEENAN WALLACE DUNHAM\t60:ADAM KOKESH\t61:VERMIN SUPREME\t62:JO JORGENSEN\t63:DAN BEHRMAN\t64:ERIK CHASE GERHARDT\t188:NICHOLAS D'ARTAGNAN DUMAS\t189:GEBY EVA ESPINOSA\t190:JAMES ORLANDO OGLE\t191:SORINNE ARDELEANU",
-                "ALLPCTS\tTO\t3096\t1156\t0\t7\t464\t685\t1\t58\t34\t37\t54\t36\t167\t31\t19\t37\t81\t76\t33\t21\t0\t0\t0\t1",
-                "ALLPCTS\tED\t559\t354\t0\t1\t126\t227\t0\t28\t8\t8\t22\t11\t51\t10\t8\t14\t23\t21\t11\t12\t0\t0\t0\t0",
-                "ALLPCTS\tMV\t2537\t802\t0\t6\t338\t458\t1\t30\t26\t29\t32\t25\t116\t21\t11\t23\t58\t55\t22\t9\t0\t0\t0\t1"
+                "ALL\tTO\t3096\t1156\t0\t7\t464\t685\t1\t58\t34\t37\t54\t36\t167\t31\t19\t37\t81\t76\t33\t21\t0\t0\t0\t1",
+                "ALL\tED\t559\t354\t0\t1\t126\t227\t0\t28\t8\t8\t22\t11\t51\t10\t8\t14\t23\t21\t11\t12\t0\t0\t0\t0",
+                "ALL\tMV\t2537\t802\t0\t6\t338\t458\t1\t30\t26\t29\t32\t25\t116\t21\t11\t23\t58\t55\t22\t9\t0\t0\t0\t1"
             ],
             "total_precincts": 609
         },
@@ -1622,9 +1622,9 @@
             ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t110:KRISTEN ASATO-WEBB\t111:JOHN AVALOS\t112:NIMA RAHIMI\t113:HILLARY RONEN\t114:DAVID CAMPOS\t115:CHRISTOPHER CHRISTENSEN\t116:MIKE CHEN\t117:MATT HANEY\t118:RICK HAUPTMAN\t119:SHAUN HAINES\t120:FRANCES HSIEH\t121:AUSTIN HUNTER\t122:SHAMANN WALTON\t123:SHANELL WILLIAMS\t124:TYRA FENNELL\t125:KEVIN ORTIZ\t126:VICTOR OLIVIERI\t127:NOMVULA O'MEARA\t128:WILLIAM (ANUBIS) DAUGHERTY\t129:MICK DEL ROSARIO\t130:BEVAN DUFTY\t131:JANE KIM\t134:HONEY MAHOGANY\t132:RAFAEL MANDELMAN\t133:SOPHIE MAXWELL\t135:CAROLE MIGDEN\t136:DAVID VILLA-LOBOS\t137:BIVETT BRACKETT\t138:TAMI BRYANT\t139:VALLIE BROWN\t140:GLORIA BERRY\t141:STEVEN BUSS\t142:PETER GALLOTTA\t143:ANABELL IBÁÑEZ\t144:NANCY TUNG",
-                "ALLPCTS\tTO\t184479\t131881\t0\t531\t960645\t878255\t0\t23774\t44850\t19573\t44280\t45619\t20388\t20771\t42795\t7205\t16288\t40189\t17055\t20245\t32010\t18594\t25773\t15399\t18658\t7499\t19153\t28376\t48958\t36337\t29150\t24697\t24396\t4959\t10823\t16179\t19246\t26915\t15746\t31826\t34353\t26176",
-                "ALLPCTS\tED\t37663\t46808\t0\t91\t368172\t285866\t0\t7719\t15963\t5534\t14929\t15685\t7124\t6134\t14076\t2599\t5810\t13144\t4846\t6036\t10624\t5884\t9192\t4730\t6681\t2438\t5457\t9044\t16413\t11650\t8818\t7797\t8224\t1978\t3100\t5204\t5782\t9074\t4419\t10523\t11685\t7550",
-                "ALLPCTS\tMV\t146816\t85073\t0\t440\t592473\t592389\t0\t16055\t28887\t14039\t29351\t29934\t13264\t14637\t28719\t4606\t10478\t27045\t12209\t14209\t21386\t12710\t16581\t10669\t11977\t5061\t13696\t19332\t32545\t24687\t20332\t16900\t16172\t2981\t7723\t10975\t13464\t17841\t11327\t21303\t22668\t18626"
+                "ALL\tTO\t184479\t131881\t0\t531\t960645\t878255\t0\t23774\t44850\t19573\t44280\t45619\t20388\t20771\t42795\t7205\t16288\t40189\t17055\t20245\t32010\t18594\t25773\t15399\t18658\t7499\t19153\t28376\t48958\t36337\t29150\t24697\t24396\t4959\t10823\t16179\t19246\t26915\t15746\t31826\t34353\t26176",
+                "ALL\tED\t37663\t46808\t0\t91\t368172\t285866\t0\t7719\t15963\t5534\t14929\t15685\t7124\t6134\t14076\t2599\t5810\t13144\t4846\t6036\t10624\t5884\t9192\t4730\t6681\t2438\t5457\t9044\t16413\t11650\t8818\t7797\t8224\t1978\t3100\t5204\t5782\t9074\t4419\t10523\t11685\t7550",
+                "ALL\tMV\t146816\t85073\t0\t440\t592473\t592389\t0\t16055\t28887\t14039\t29351\t29934\t13264\t14637\t28719\t4606\t10478\t27045\t12209\t14209\t21386\t12710\t16581\t10669\t11977\t5061\t13696\t19332\t32545\t24687\t20332\t16900\t16172\t2981\t7723\t10975\t13464\t17841\t11327\t21303\t22668\t18626"
             ],
             "total_precincts": 358
         },
@@ -1926,9 +1926,9 @@
             ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t89:KAT ANDERSON\t90:NADIA RAHMAN\t91:MANO RAJU\t92:ABRA PAULINE CASTLE\t93:QUEENA CHEN\t94:CYN WANG\t95:LEAH LACROIX\t96:SUZY LOFTUS\t97:LI MIAO LOVETT\t98:JANICE LI\t99:JANE NATOLI\t100:AHSHA SAFAI\t101:GORDON MAR\t102:SEEYEW MO\t103:FAAUUGA MOLIGA\t104:PAUL MIYAMOTO\t105:MARY JUNG\t106:KEITH BARAKA\t107:KELLY AKEMI GROTH\t108:A. J. THOMAS\t109:MAWULI TUGBENYOH",
-                "ALLPCTS\tTO\t120580\t87929\t0\t172\t486990\t390580\t0\t15232\t10542\t23235\t8285\t21550\t13075\t23532\t24876\t21329\t23153\t14894\t16607\t28863\t8799\t20289\t18123\t19957\t25624\t19435\t24658\t8522",
-                "ALLPCTS\tED\t23078\t32018\t0\t36\t196218\t123602\t0\t5161\t3367\t7695\t2975\t7158\t3815\t7214\t7916\t7038\t7113\t4367\t5057\t9092\t2396\t6799\t5246\t5852\t8359\t6430\t8245\t2307",
-                "ALLPCTS\tMV\t97502\t55911\t0\t136\t290772\t266978\t0\t10071\t7175\t15540\t5310\t14392\t9260\t16318\t16960\t14291\t16040\t10527\t11550\t19771\t6403\t13490\t12877\t14105\t17265\t13005\t16413\t6215"
+                "ALL\tTO\t120580\t87929\t0\t172\t486990\t390580\t0\t15232\t10542\t23235\t8285\t21550\t13075\t23532\t24876\t21329\t23153\t14894\t16607\t28863\t8799\t20289\t18123\t19957\t25624\t19435\t24658\t8522",
+                "ALL\tED\t23078\t32018\t0\t36\t196218\t123602\t0\t5161\t3367\t7695\t2975\t7158\t3815\t7214\t7916\t7038\t7113\t4367\t5057\t9092\t2396\t6799\t5246\t5852\t8359\t6430\t8245\t2307",
+                "ALL\tMV\t97502\t55911\t0\t136\t290772\t266978\t0\t10071\t7175\t15540\t5310\t14392\t9260\t16318\t16960\t14291\t16040\t10527\t11550\t19771\t6403\t13490\t12877\t14105\t17265\t13005\t16413\t6215"
             ],
             "total_precincts": 251
         },
@@ -2153,9 +2153,9 @@
             ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t145:LISA REMMER\t146:JOSEPH C ROBERTS\t147:STEPHEN WAID\t148:LEO LACAYO\t149:RYAN LAM\t150:CHRISTIAN FOSTER\t151:JOSH YORK\t152:EVE DEL CASTELLO\t153:CHRIS WARD KLINE\t154:ERIN SMITH\t155:LARRY MARSO\t156:NICOLE GARAY\t157:CALE GARVERICK\t158:KRISTA GARVERICK",
-                "ALLPCTS\tTO\t14749\t7087\t0\t15\t49539\t28253\t0\t2614\t1980\t1963\t1703\t2148\t1825\t1961\t1508\t1487\t2924\t1869\t1913\t2461\t1897",
-                "ALLPCTS\tED\t2805\t1699\t0\t5\t12192\t6442\t0\t612\t482\t427\t436\t492\t415\t425\t344\t332\t656\t404\t443\t560\t414",
-                "ALLPCTS\tMV\t11944\t5388\t0\t10\t37347\t21811\t0\t2002\t1498\t1536\t1267\t1656\t1410\t1536\t1164\t1155\t2268\t1465\t1470\t1901\t1483"
+                "ALL\tTO\t14749\t7087\t0\t15\t49539\t28253\t0\t2614\t1980\t1963\t1703\t2148\t1825\t1961\t1508\t1487\t2924\t1869\t1913\t2461\t1897",
+                "ALL\tED\t2805\t1699\t0\t5\t12192\t6442\t0\t612\t482\t427\t436\t492\t415\t425\t344\t332\t656\t404\t443\t560\t414",
+                "ALL\tMV\t11944\t5388\t0\t10\t37347\t21811\t0\t2002\t1498\t1536\t1267\t1656\t1410\t1536\t1164\t1155\t2268\t1465\t1470\t1901\t1483"
             ],
             "total_precincts": 358
         },
@@ -2292,9 +2292,9 @@
             ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t70:DEANNA LORRAINE\t65:JOHN DENNIS\t66:NANCY PELOSI\t67:AGATHA BACELAR\t68:SHAHID BUTTAR\t69:TOM GALLAGHER",
-                "ALLPCTS\tTO\t445848\t271552\t0\t638\t13478\t257436\t0\t4635\t19883\t190590\t3890\t33344\t5094",
-                "ALLPCTS\tED\t90420\t96086\t0\t137\t5397\t90552\t0\t1314\t5187\t67164\t1453\t13243\t2191",
-                "ALLPCTS\tMV\t355428\t175466\t0\t501\t8081\t166884\t0\t3321\t14696\t123426\t2437\t20101\t2903"
+                "ALL\tTO\t445848\t271552\t0\t638\t13478\t257436\t0\t4635\t19883\t190590\t3890\t33344\t5094",
+                "ALL\tED\t90420\t96086\t0\t137\t5397\t90552\t0\t1314\t5187\t67164\t1453\t13243\t2191",
+                "ALL\tMV\t355428\t175466\t0\t501\t8081\t166884\t0\t3321\t14696\t123426\t2437\t20101\t2903"
             ],
             "to_runoff": true,
             "total_precincts": 534
@@ -2388,9 +2388,9 @@
             ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t71:BARBARA LEE\t72:NIKKA PITERMAN",
-                "ALLPCTS\tTO\t0\t0\t0\t0\t0\t0\t0\t0\t0",
-                "ALLPCTS\tED\t0\t0\t0\t0\t0\t0\t0\t0\t0",
-                "ALLPCTS\tMV\t0\t0\t0\t0\t0\t0\t0\t0\t0"
+                "ALL\tTO\t0\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t0\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t0\t0\t0\t0\t0\t0\t0\t0\t0"
             ],
             "total_precincts": 1
         },
@@ -2505,9 +2505,9 @@
             ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t73:JACKIE SPEIER\t74:RAN S. PETEL\t75:CRISTOS GOODROW\t76:ERIC TAYLOR",
-                "ALLPCTS\tTO\t58051\t33388\t0\t67\t3071\t30250\t0\t23790\t4133\t1314\t1013",
-                "ALLPCTS\tED\t10843\t10918\t0\t9\t1383\t9526\t0\t7813\t815\t557\t341",
-                "ALLPCTS\tMV\t47208\t22470\t0\t58\t1688\t20724\t0\t15977\t3318\t757\t672"
+                "ALL\tTO\t58051\t33388\t0\t67\t3071\t30250\t0\t23790\t4133\t1314\t1013",
+                "ALL\tED\t10843\t10918\t0\t9\t1383\t9526\t0\t7813\t815\t557\t341",
+                "ALL\tMV\t47208\t22470\t0\t58\t1688\t20724\t0\t15977\t3318\t757\t672"
             ],
             "to_runoff": true,
             "total_precincts": 74
@@ -2612,9 +2612,9 @@
             ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t78:SCOTT WIENER\t77:ERIN SMITH\t79:JACKIE FIELDER",
-                "ALLPCTS\tTO\t503899\t304940\t0\t245\t29268\t275427\t0\t154001\t29285\t92141",
-                "ALLPCTS\tED\t101263\t107004\t0\t51\t11624\t95329\t0\t50184\t8044\t37101",
-                "ALLPCTS\tMV\t402636\t197936\t0\t194\t17644\t180098\t0\t103817\t21241\t55040"
+                "ALL\tTO\t503899\t304940\t0\t245\t29268\t275427\t0\t154001\t29285\t92141",
+                "ALL\tED\t101263\t107004\t0\t51\t11624\t95329\t0\t50184\t8044\t37101",
+                "ALL\tMV\t402636\t197936\t0\t194\t17644\t180098\t0\t103817\t21241\t55040"
             ],
             "to_runoff": true,
             "total_precincts": 609
@@ -2708,9 +2708,9 @@
             ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t82:DAVID CHIU\t177:Starchild",
-                "ALLPCTS\tTO\t292422\t176803\t0\t0\t56249\t120554\t56\t120498\t56",
-                "ALLPCTS\tED\t59704\t61731\t0\t0\t21654\t40077\t25\t40052\t25",
-                "ALLPCTS\tMV\t232718\t115072\t0\t0\t34595\t80477\t31\t80446\t31"
+                "ALL\tTO\t292422\t176803\t0\t0\t56249\t120554\t56\t120498\t56",
+                "ALL\tED\t59704\t61731\t0\t0\t21654\t40077\t25\t40052\t25",
+                "ALL\tMV\t232718\t115072\t0\t0\t34595\t80477\t31\t80446\t31"
             ],
             "to_runoff": true,
             "total_precincts": 358
@@ -2804,9 +2804,9 @@
             ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t80:JOHN P. MCDONNELL\t81:PHIL TING",
-                "ALLPCTS\tTO\t211477\t128137\t0\t20\t17533\t110584\t0\t19796\t90788",
-                "ALLPCTS\tED\t41559\t45273\t0\t6\t8460\t36807\t0\t5879\t30928",
-                "ALLPCTS\tMV\t169918\t82864\t0\t14\t9073\t73777\t0\t13917\t59860"
+                "ALL\tTO\t211477\t128137\t0\t20\t17533\t110584\t0\t19796\t90788",
+                "ALL\tED\t41559\t45273\t0\t6\t8460\t36807\t0\t5879\t30928",
+                "ALL\tMV\t169918\t82864\t0\t14\t9073\t73777\t0\t13917\t59860"
             ],
             "to_runoff": true,
             "total_precincts": 251
@@ -2900,9 +2900,9 @@
             ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t83:MARIA ELENA EVANGELISTA\t84:PANG LY",
-                "ALLPCTS\tTO\t503899\t304940\t0\t153\t58993\t245794\t0\t159502\t86292",
-                "ALLPCTS\tED\t101263\t107004\t0\t37\t23771\t83196\t0\t59807\t23389",
-                "ALLPCTS\tMV\t402636\t197936\t0\t116\t35222\t162598\t0\t99695\t62903"
+                "ALL\tTO\t503899\t304940\t0\t153\t58993\t245794\t0\t159502\t86292",
+                "ALL\tED\t101263\t107004\t0\t37\t23771\t83196\t0\t59807\t23389",
+                "ALL\tMV\t402636\t197936\t0\t116\t35222\t162598\t0\t99695\t62903"
             ],
             "to_runoff": false,
             "total_precincts": 609
@@ -2996,9 +2996,9 @@
             ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t85:DOROTHY CHOU PROUDFOOT\t86:MICHELLE TONG",
-                "ALLPCTS\tTO\t503899\t304940\t0\t268\t63306\t241366\t0\t103664\t137702",
-                "ALLPCTS\tED\t101263\t107004\t0\t52\t25692\t81260\t0\t31636\t49624",
-                "ALLPCTS\tMV\t402636\t197936\t0\t216\t37614\t160106\t0\t72028\t88078"
+                "ALL\tTO\t503899\t304940\t0\t268\t63306\t241366\t0\t103664\t137702",
+                "ALL\tED\t101263\t107004\t0\t52\t25692\t81260\t0\t31636\t49624",
+                "ALL\tMV\t402636\t197936\t0\t216\t37614\t160106\t0\t72028\t88078"
             ],
             "to_runoff": false,
             "total_precincts": 609
@@ -3092,9 +3092,9 @@
             ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t87:KULVINDAR \"RANI\" SINGH\t88:CAROLYN GOLD",
-                "ALLPCTS\tTO\t503899\t304940\t0\t123\t64780\t240037\t0\t119011\t121026",
-                "ALLPCTS\tED\t101263\t107004\t0\t36\t25940\t81028\t0\t35667\t45361",
-                "ALLPCTS\tMV\t402636\t197936\t0\t87\t38840\t159009\t0\t83344\t75665"
+                "ALL\tTO\t503899\t304940\t0\t123\t64780\t240037\t0\t119011\t121026",
+                "ALL\tED\t101263\t107004\t0\t36\t25940\t81028\t0\t35667\t45361",
+                "ALL\tMV\t402636\t197936\t0\t87\t38840\t159009\t0\t83344\t75665"
             ],
             "to_runoff": false,
             "total_precincts": 609
@@ -3180,9 +3180,9 @@
             ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t1:YES\t2:NO",
-                "ALLPCTS\tTO\t503899\t304940\t0\t73\t25570\t279297\t210751\t68546",
-                "ALLPCTS\tED\t101263\t107004\t0\t22\t9827\t97155\t76865\t20290",
-                "ALLPCTS\tMV\t402636\t197936\t0\t51\t15743\t182142\t133886\t48256"
+                "ALL\tTO\t503899\t304940\t0\t73\t25570\t279297\t210751\t68546",
+                "ALL\tED\t101263\t107004\t0\t22\t9827\t97155\t76865\t20290",
+                "ALL\tMV\t402636\t197936\t0\t51\t15743\t182142\t133886\t48256"
             ],
             "success": true,
             "total_precincts": 609
@@ -3268,9 +3268,9 @@
             ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t3:YES\t4:NO",
-                "ALLPCTS\tTO\t503899\t304940\t0\t52\t24425\t280463\t203027\t77436",
-                "ALLPCTS\tED\t101263\t107004\t0\t13\t10062\t96929\t74847\t22082",
-                "ALLPCTS\tMV\t402636\t197936\t0\t39\t14363\t183534\t128180\t55354"
+                "ALL\tTO\t503899\t304940\t0\t52\t24425\t280463\t203027\t77436",
+                "ALL\tED\t101263\t107004\t0\t13\t10062\t96929\t74847\t22082",
+                "ALL\tMV\t402636\t197936\t0\t39\t14363\t183534\t128180\t55354"
             ],
             "success": true,
             "total_precincts": 609
@@ -3356,9 +3356,9 @@
             ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t5:YES\t6:NO",
-                "ALLPCTS\tTO\t503899\t304940\t0\t59\t22838\t282043\t233656\t48387",
-                "ALLPCTS\tED\t101263\t107004\t0\t19\t9788\t97197\t83015\t14182",
-                "ALLPCTS\tMV\t402636\t197936\t0\t40\t13050\t184846\t150641\t34205"
+                "ALL\tTO\t503899\t304940\t0\t59\t22838\t282043\t233656\t48387",
+                "ALL\tED\t101263\t107004\t0\t19\t9788\t97197\t83015\t14182",
+                "ALL\tMV\t402636\t197936\t0\t40\t13050\t184846\t150641\t34205"
             ],
             "success": true,
             "total_precincts": 609
@@ -3444,9 +3444,9 @@
             ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t7:YES\t8:NO",
-                "ALLPCTS\tTO\t503899\t304940\t0\t51\t32360\t272529\t192261\t80268",
-                "ALLPCTS\tED\t101263\t107004\t0\t20\t13645\t93339\t69564\t23775",
-                "ALLPCTS\tMV\t402636\t197936\t0\t31\t18715\t179190\t122697\t56493"
+                "ALL\tTO\t503899\t304940\t0\t51\t32360\t272529\t192261\t80268",
+                "ALL\tED\t101263\t107004\t0\t20\t13645\t93339\t69564\t23775",
+                "ALL\tMV\t402636\t197936\t0\t31\t18715\t179190\t122697\t56493"
             ],
             "success": true,
             "total_precincts": 609
@@ -3532,9 +3532,9 @@
             ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t9:YES\t10:NO",
-                "ALLPCTS\tTO\t503899\t304940\t0\t79\t26554\t278307\t195059\t83248",
-                "ALLPCTS\tED\t101263\t107004\t0\t33\t11286\t95685\t70028\t25657",
-                "ALLPCTS\tMV\t402636\t197936\t0\t46\t15268\t182622\t125031\t57591"
+                "ALL\tTO\t503899\t304940\t0\t79\t26554\t278307\t195059\t83248",
+                "ALL\tED\t101263\t107004\t0\t33\t11286\t95685\t70028\t25657",
+                "ALL\tMV\t402636\t197936\t0\t46\t15268\t182622\t125031\t57591"
             ],
             "success": true,
             "total_precincts": 609
@@ -3620,9 +3620,9 @@
             ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t11:YES\t12:NO",
-                "ALLPCTS\tTO\t503899\t304940\t0\t59\t32962\t271919\t151293\t120626",
-                "ALLPCTS\tED\t101263\t107004\t0\t17\t13703\t93284\t56353\t36931",
-                "ALLPCTS\tMV\t402636\t197936\t0\t42\t19259\t178635\t94940\t83695"
+                "ALL\tTO\t503899\t304940\t0\t59\t32962\t271919\t151293\t120626",
+                "ALL\tED\t101263\t107004\t0\t17\t13703\t93284\t56353\t36931",
+                "ALL\tMV\t402636\t197936\t0\t42\t19259\t178635\t94940\t83695"
             ],
             "success": true,
             "total_precincts": 609
@@ -3632,278 +3632,6 @@
         "_id": "TURNOUT",
         "no_voter_precincts": [
             []
-        ],
-        "party_turnout": [
-            {
-                "party_id": "ALL",
-                "results": [
-                    503899,
-                    305184,
-                    305184,
-                    283427,
-                    101679,
-                    107184,
-                    107184,
-                    105492,
-                    402885,
-                    198000,
-                    198000,
-                    177935,
-                    210020,
-                    200615,
-                    0,
-                    9405
-                ]
-            },
-            {
-                "party_id": "AI",
-                "results": [
-                    8573,
-                    2221,
-                    2221,
-                    2369,
-                    1413,
-                    586,
-                    586,
-                    594,
-                    7295,
-                    1635,
-                    1635,
-                    1775,
-                    1926,
-                    1815,
-                    0,
-                    111
-                ]
-            },
-            {
-                "party_id": "AINPP",
-                "results": [
-                    149600,
-                    779,
-                    779,
-                    826,
-                    148482,
-                    242,
-                    242,
-                    247,
-                    1118,
-                    537,
-                    537,
-                    579,
-                    595,
-                    580,
-                    0,
-                    15
-                ]
-            },
-            {
-                "party_id": "DEM",
-                "results": [
-                    305059,
-                    219810,
-                    219810,
-                    219367,
-                    61346,
-                    78826,
-                    78826,
-                    78693,
-                    244318,
-                    140984,
-                    140984,
-                    140674,
-                    149361,
-                    142573,
-                    0,
-                    6788
-                ]
-            },
-            {
-                "party_id": "DEMNPP",
-                "results": [
-                    149600,
-                    41554,
-                    41554,
-                    41387,
-                    123411,
-                    21090,
-                    21090,
-                    21033,
-                    26189,
-                    20464,
-                    20464,
-                    20354,
-                    21535,
-                    20729,
-                    0,
-                    806
-                ]
-            },
-            {
-                "party_id": "GRN",
-                "results": [
-                    3073,
-                    1077,
-                    1077,
-                    1105,
-                    800,
-                    329,
-                    329,
-                    329,
-                    2373,
-                    748,
-                    748,
-                    776,
-                    822,
-                    784,
-                    0,
-                    38
-                ]
-            },
-            {
-                "party_id": "LIB",
-                "results": [
-                    3096,
-                    796,
-                    796,
-                    835,
-                    655,
-                    222,
-                    222,
-                    225,
-                    2537,
-                    574,
-                    574,
-                    610,
-                    670,
-                    627,
-                    0,
-                    43
-                ]
-            },
-            {
-                "party_id": "LIBNPP",
-                "results": [
-                    149600,
-                    360,
-                    360,
-                    367,
-                    149176,
-                    132,
-                    132,
-                    129,
-                    424,
-                    228,
-                    228,
-                    238,
-                    250,
-                    243,
-                    0,
-                    7
-                ]
-            },
-            {
-                "party_id": "PF",
-                "results": [
-                    1531,
-                    366,
-                    366,
-                    372,
-                    390,
-                    120,
-                    120,
-                    120,
-                    1193,
-                    246,
-                    246,
-                    252,
-                    267,
-                    255,
-                    0,
-                    12
-                ]
-            },
-            {
-                "party_id": "REP",
-                "results": [
-                    32967,
-                    16708,
-                    16708,
-                    16799,
-                    6609,
-                    4125,
-                    4125,
-                    4122,
-                    26392,
-                    12583,
-                    12583,
-                    12677,
-                    13229,
-                    12767,
-                    0,
-                    462
-                ]
-            },
-            {
-                "party_id": "NPP",
-                "results": [
-                    149600,
-                    21513,
-                    21513,
-                    0,
-                    58566,
-                    1512,
-                    1512,
-                    0,
-                    91046,
-                    20001,
-                    20001,
-                    0,
-                    21365,
-                    20242,
-                    0,
-                    1123
-                ]
-            },
-            {
-                "party_id": "NPPALL",
-                "results": [
-                    149600,
-                    64206,
-                    64206,
-                    42580,
-                    30932,
-                    22976,
-                    22976,
-                    21409,
-                    118777,
-                    41230,
-                    41230,
-                    21171,
-                    43745,
-                    41794,
-                    0,
-                    1951
-                ]
-            }
-        ],
-        "party_turnout_results_ids": [
-            "TO~RSReg",
-            "TO~RSVot",
-            "TO~RSCd1",
-            "TO~RSCd2",
-            "ED~RSReg",
-            "ED~RSVot",
-            "ED~RSCd1",
-            "ED~RSCd2",
-            "MV~RSIss",
-            "MV~RSVot",
-            "MV~RSCd1",
-            "MV~RSCd2",
-            "MV~RSCst",
-            "MV~RSCnt",
-            "MV~RSPnd",
-            "MV~RSCha"
         ],
         "precincts_reporting": 609,
         "result_stats": [
@@ -3943,6 +3671,25 @@
                     "0"
                 ]
             }
+        ],
+        "results_summary": [
+            "area_id\tsubtotal_type\tresult_stat\tALL\tAI\tAINPP\tDEM\tDEMNPP\tGRN\tLIB\tLIBNPP\tPF\tREP\tNPP\tNPPALL",
+            "ALL\tTO\tRSReg\t503899\t8573\t149600\t305059\t149600\t3073\t3096\t149600\t1531\t32967\t149600\t149600",
+            "ALL\tTO\tRSVot\t305184\t2221\t779\t219810\t41554\t1077\t796\t360\t366\t16708\t21513\t64206",
+            "ALL\tTO\tRSCd1\t305184\t2221\t779\t219810\t41554\t1077\t796\t360\t366\t16708\t21513\t64206",
+            "ALL\tTO\tRSCd2\t283427\t2369\t826\t219367\t41387\t1105\t835\t367\t372\t16799\t0\t42580",
+            "ALL\tED\tRSReg\t101679\t1413\t148482\t61346\t123411\t800\t655\t149176\t390\t6609\t58566\t30932",
+            "ALL\tED\tRSVot\t107184\t586\t242\t78826\t21090\t329\t222\t132\t120\t4125\t1512\t22976",
+            "ALL\tED\tRSCd1\t107184\t586\t242\t78826\t21090\t329\t222\t132\t120\t4125\t1512\t22976",
+            "ALL\tED\tRSCd2\t105492\t594\t247\t78693\t21033\t329\t225\t129\t120\t4122\t0\t21409",
+            "ALL\tMV\tRSIss\t402885\t7295\t1118\t244318\t26189\t2373\t2537\t424\t1193\t26392\t91046\t118777",
+            "ALL\tMV\tRSVot\t198000\t1635\t537\t140984\t20464\t748\t574\t228\t246\t12583\t20001\t41230",
+            "ALL\tMV\tRSCd1\t198000\t1635\t537\t140984\t20464\t748\t574\t228\t246\t12583\t20001\t41230",
+            "ALL\tMV\tRSCd2\t177935\t1775\t579\t140674\t20354\t776\t610\t238\t252\t12677\t0\t21171",
+            "ALL\tMV\tRSCst\t210020\t1926\t595\t149361\t21535\t822\t670\t250\t267\t13229\t21365\t43745",
+            "ALL\tMV\tRSCnt\t200615\t1815\t580\t142573\t20729\t784\t627\t243\t255\t12767\t20242\t41794",
+            "ALL\tMV\tRSPnd\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0",
+            "ALL\tMV\tRSCha\t9405\t111\t15\t6788\t806\t38\t43\t7\t12\t462\t1123\t1951"
         ],
         "total_precincts": 609
     }
