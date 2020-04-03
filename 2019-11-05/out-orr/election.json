@@ -1002,7 +1002,13 @@
             "voting_district": "0",
             "result_style": "EMTE"
         },
-        "no_voter_precincts": []
+        "no_voter_precincts": [
+            "1151",
+            "1154",
+            "9900",
+            "9901",
+            "9902"
+        ]
     },
     "languages": [
         "en",
@@ -1012,7 +1018,7 @@
     ],
     "areas": [
         {
-            "_id": "ALLPCTS",
+            "_id": "ALL",
             "classification": "All",
             "name": "All Precincts",
             "short_name": "All Precincts"
@@ -1226,7 +1232,8 @@
             "classification": "Precinct",
             "name": "Precinct 1151 MB",
             "short_name": "Precinct 1151 MB",
-            "is_vbm": true
+            "is_vbm": true,
+            "has_no_voters": true
         },
         {
             "_id": "PCT1152",
@@ -1239,7 +1246,8 @@
             "classification": "Precinct",
             "name": "Precinct 1154 MB",
             "short_name": "Precinct 1154 MB",
-            "is_vbm": true
+            "is_vbm": true,
+            "has_no_voters": true
         },
         {
             "_id": "PCT7001",
@@ -3866,21 +3874,24 @@
             "classification": "Precinct",
             "name": "Precinct 9900 MB",
             "short_name": "Precinct 9900 MB",
-            "is_vbm": true
+            "is_vbm": true,
+            "has_no_voters": true
         },
         {
             "_id": "PCT9901",
             "classification": "Precinct",
             "name": "Precinct 9901 MB",
             "short_name": "Precinct 9901 MB",
-            "is_vbm": true
+            "is_vbm": true,
+            "has_no_voters": true
         },
         {
             "_id": "PCT9902",
             "classification": "Precinct",
             "name": "Precinct 9902 MB",
             "short_name": "Precinct 9902 MB",
-            "is_vbm": true
+            "is_vbm": true,
+            "has_no_voters": true
         },
         {
             "_id": "0",

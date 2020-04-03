@@ -3658,18 +3658,18 @@
                 "_id": "RSCst",
                 "heading": "Ballots Cast",
                 "results": [
-                    "305184",
-                    "107184",
-                    "198000"
+                    305184,
+                    107184,
+                    198000
                 ]
             },
             {
                 "_id": "RSRej",
                 "heading": "Ballots Challenged",
                 "results": [
-                    "0",
-                    "0",
-                    "0"
+                    0,
+                    0,
+                    0
                 ]
             }
         ],

@@ -22,13 +22,13 @@
                     "en": "Voter-Nominated and Nonpartisan Offices",
                     "es": "Cargos Nominados por los Electores y Cargos No Partidarios",
                     "tl": "Mga Katungkulang Nominado ng Botante at mga Hindi Makapartido",
-                    "zh": "選民提名職位和非黨派職位"
+                    "zh": "選民提名職位和非黨派職位。"
                 },
                 "heading_text": {
-                    "en": "<strong>Voter-Nominated and Nonpartisan Offices.</strong><br />All voters, regardless of the party preference they disclosed upon registration, or refusal to disclose a party preference, may vote for any candidate for a voter-nominated or nonpartisan office. The party preference, if any, designated by a candidate for a voter-nominated office is selected by the candidate and is shown for the information of the voters only. It does not imply that the candidate is nominated or endorsed by the party or that the party approves of the candidate. The party preference, if any, of a candidate for a nonpartisan office does not appear on the ballot.",
-                    "es": "<strong>Cargos Nominados por los Electores y Cargos No Partidarios.</strong><br />Todos los electores, sin importar la preferencia por partido que hayan revelado al inscribirse, o su negativa de revelar una preferencia por partido, pueden votar por cualquier candidato a un cargo nominado por los electores o no partidario. La preferencia por partido, si la hubiera, designada por un candidato a un cargo nominado por los electores, es seleccionada por el candidato y se muestra solo para la información de los electores. No implica que el candidato esté nominado ni ratificado por el partido ni que el partido apruebe al candidato. La preferencia por partido, si la hubiera, de un candidato por un cargo no partidario, no aparece en la boleta electoral.",
-                    "tl": "<strong>Mga Katungkulang Nominado ng Botante at mga Hindi Makapartido.</strong><br />Ang lahat ng botante, maging ano man ang inihayag nilang kinakatigang partido nang sila ay nagparehistro, o tumangging ihayag ang kinakatigang partido, ay maaaring iboto ang sinumang kandidato para sa katungkulang nominado ng botante o hindi makapartido. Ang kinakatigang partido, kung mayroon man, na hinirang ng kandidato para sa katungkulang nominado ng botante ay pinili ng kandidato at ipinapakita lang para sa kaalaman ng mga bumoboto. Hindi nito ipinahihiwatig na ang kandidato ay nominado o inirerekomenda ng partido o na inaprobahan ng partido ang kandidato. Ang kinakatigang partido, kung mayroon man, ng kumakandidato para sa katungkulang hindi makapartido ay hindi makikita sa balota.",
-                    "zh": "<strong>選民提名職位和非黨派職位。</strong><br>所有選民，不論在登記時披露政黨傾向或謝絕表態，均可投票給選民提名職位或是非黨派職位的任何候選人。如果選民提名職位的候選人表明政黨傾向，這是該候選人之個人選擇，而且僅提供作為選民參考。它並非表示候選人受到該政黨提名或舉名支持，也不代表候選人受到該政黨認可。選票上的非黨派職位不會列出候選人的政黨傾向(若有)。"
+                    "en": "All voters, regardless of the party preference they disclosed upon registration, or refusal to disclose a party preference, may vote for any candidate for a voter-nominated or nonpartisan office. The party preference, if any, designated by a candidate for a voter-nominated office is selected by the candidate and is shown for the information of the voters only. It does not imply that the candidate is nominated or endorsed by the party or that the party approves of the candidate. The party preference, if any, of a candidate for a nonpartisan office does not appear on the ballot.",
+                    "es": "Todos los electores, sin importar la preferencia por partido que hayan revelado al inscribirse, o su negativa de revelar una preferencia por partido, pueden votar por cualquier candidato a un cargo nominado por los electores o no partidario. La preferencia por partido, si la hubiera, designada por un candidato a un cargo nominado por los electores, es seleccionada por el candidato y se muestra solo para la información de los electores. No implica que el candidato esté nominado ni ratificado por el partido ni que el partido apruebe al candidato. La preferencia por partido, si la hubiera, de un candidato por un cargo no partidario, no aparece en la boleta electoral.",
+                    "tl": "Ang lahat ng botante, maging ano man ang inihayag nilang kinakatigang partido nang sila ay nagparehistro, o tumangging ihayag ang kinakatigang partido, ay maaaring iboto ang sinumang kandidato para sa katungkulang nominado ng botante o hindi makapartido. Ang kinakatigang partido, kung mayroon man, na hinirang ng kandidato para sa katungkulang nominado ng botante ay pinili ng kandidato at ipinapakita lang para sa kaalaman ng mga bumoboto. Hindi nito ipinahihiwatig na ang kandidato ay nominado o inirerekomenda ng partido o na inaprobahan ng partido ang kandidato. Ang kinakatigang partido, kung mayroon man, ng kumakandidato para sa katungkulang hindi makapartido ay hindi makikita sa balota.",
+                    "zh": "所有選民，不論在登記時披露政黨傾向或謝絕表態，均可投票給選民提名職位或是非黨派職位的任何候選人。如果選民提名職位的候選人表明政黨傾向，這是該候選人之個人選擇，而且僅提供作為選民參考。它並非表示候選人受到該政黨提名或舉名支持，也不代表候選人受到該政黨認可。選票上的非黨派職位不會列出候選人的政黨傾向(若有)。"
                 }
             },
             {
@@ -4606,7 +4606,7 @@
     ],
     "areas": [
         {
-            "_id": "ALLPCTS",
+            "_id": "ALL",
             "classification": "All",
             "name": "All Precincts",
             "short_name": "All Precincts"

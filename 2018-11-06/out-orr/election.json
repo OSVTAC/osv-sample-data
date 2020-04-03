@@ -3800,7 +3800,7 @@
     ],
     "areas": [
         {
-            "_id": "ALLPCTS",
+            "_id": "ALL",
             "classification": "All",
             "name": "All Precincts",
             "short_name": "All Precincts"
