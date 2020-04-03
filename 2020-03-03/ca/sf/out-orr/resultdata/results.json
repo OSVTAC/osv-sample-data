@@ -3630,6 +3630,7 @@
     ],
     "turnout": {
         "_id": "TURNOUT",
+        "eligible_voters": 656375,
         "no_voter_precincts": [
             []
         ],
