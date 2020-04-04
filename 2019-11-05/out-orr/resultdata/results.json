@@ -90,7 +90,7 @@
             "no_voter_precincts": [],
             "precincts_reporting": 474,
             "rcv_eliminations": [
-                "53:MARC ROTH\t53:MARC ROTH",
+                "53:MARC ROTH",
                 "3:ROBERT L. JORDAN, JR.",
                 "2:WILMA PANG",
                 "4:PAUL YBARRA ROBERTSON",
@@ -232,7 +232,7 @@
             "no_voter_precincts": [],
             "precincts_reporting": 54,
             "rcv_eliminations": [
-                "11:VALLIE BROWN\t10:NOMVULA O'MEARA",
+                "10:NOMVULA O'MEARA",
                 "8:RYAN LAM"
             ],
             "rcv_max_votes": "RCVMAX\tTO\t51976\t24765\t0\t48\t1050\t406\t23261\t0\t1035\t11723\t278\t11538",
@@ -463,7 +463,7 @@
             "no_voter_precincts": [],
             "precincts_reporting": 474,
             "rcv_eliminations": [
-                "18:CHESA BOUDIN\t16:LEIF DAUTCH",
+                "16:LEIF DAUTCH",
                 "17:NANCY TUNG"
             ],
             "rcv_max_votes": "RCVMAX\tTO\t495050\t206117\t0\t717\t12396\t22420\t170584\t0\t83872\t27031\t46630\t86712",
