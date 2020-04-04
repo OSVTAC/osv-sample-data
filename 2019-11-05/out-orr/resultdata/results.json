@@ -89,6 +89,14 @@
             ],
             "no_voter_precincts": [],
             "precincts_reporting": 474,
+            "rcv_eliminations": [
+                "53:MARC ROTH\t53:MARC ROTH",
+                "3:ROBERT L. JORDAN, JR.",
+                "2:WILMA PANG",
+                "4:PAUL YBARRA ROBERTSON",
+                "1:JOEL VENTRESCA"
+            ],
+            "rcv_max_votes": "RCVMAX\tTO\t495050\t206117\t0\t756\t25927\t9383\t170051\t0\t17425\t5297\t2459\t9312\t35706\t134345\t7",
             "rcv_rounds": 6,
             "result_stats": [
                 {
@@ -158,11 +166,11 @@
             ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t1:JOEL VENTRESCA\t2:WILMA PANG\t3:ROBERT L. JORDAN, JR.\t4:PAUL YBARRA ROBERTSON\t5:ELLEN LEE ZHOU\t6:LONDON N. BREED\t53:MARC ROTH",
-                "RCV6\tTO\t495050\t206117\t0\t756\t25927\t9383\t170051\t\t\t\t\t\t35706\t134345",
-                "RCV5\tTO\t495050\t206117\t0\t680\t25927\t3441\t176069\t\t17425\t\t\t\t29903\t128741",
-                "RCV4\tTO\t495050\t206117\t0\t633\t25927\t1527\t178030\t\t14531\t\t\t9312\t26944\t127243",
-                "RCV3\tTO\t495050\t206117\t0\t619\t25927\t486\t179085\t\t13614\t5297\t\t8304\t25307\t126563",
-                "RCV2\tTO\t495050\t206117\t0\t603\t25927\t1\t179586\t\t13286\t4964\t2459\t7649\t25006\t126222",
+                "RCV6\tTO\t495050\t206117\t0\t756\t25927\t9383\t170051\t\t\t\t\t\t35706\t134345\t",
+                "RCV5\tTO\t495050\t206117\t0\t680\t25927\t3441\t176069\t\t17425\t\t\t\t29903\t128741\t",
+                "RCV4\tTO\t495050\t206117\t0\t633\t25927\t1527\t178030\t\t14531\t\t\t9312\t26944\t127243\t",
+                "RCV3\tTO\t495050\t206117\t0\t619\t25927\t486\t179085\t\t13614\t5297\t\t8304\t25307\t126563\t",
+                "RCV2\tTO\t495050\t206117\t0\t603\t25927\t1\t179586\t\t13286\t4964\t2459\t7649\t25006\t126222\t",
                 "RCV1\tTO\t495050\t206117\t0\t603\t25927\t0\t179587\t0\t13283\t4963\t2458\t7649\t25006\t126221\t7",
                 "ALL\tTO\t495050\t206117\t0\t539\t28386\t0\t177192\t7\t12850\t4675\t2321\t7472\t24667\t125200\t7",
                 "ALL\tED\t495050\t59423\t0\t105\t9415\t0\t49903\t4\t4008\t1735\t786\t2091\t5676\t35603\t4",
@@ -170,7 +178,6 @@
             ],
             "total_precincts": 474,
             "winning_status": {
-                "not_winning": "5:ELLEN LEE ZHOU",
                 "winning": "6:LONDON N. BREED"
             }
         },
@@ -224,6 +231,11 @@
             ],
             "no_voter_precincts": [],
             "precincts_reporting": 54,
+            "rcv_eliminations": [
+                "11:VALLIE BROWN\t10:NOMVULA O'MEARA",
+                "8:RYAN LAM"
+            ],
+            "rcv_max_votes": "RCVMAX\tTO\t51976\t24765\t0\t48\t1050\t406\t23261\t0\t1035\t11723\t278\t11538",
             "rcv_rounds": 3,
             "result_stats": [
                 {
@@ -302,7 +314,6 @@
             ],
             "total_precincts": 54,
             "winning_status": {
-                "not_winning": "11:VALLIE BROWN",
                 "winning": "9:DEAN PRESTON"
             }
         },
@@ -451,6 +462,11 @@
             ],
             "no_voter_precincts": [],
             "precincts_reporting": 474,
+            "rcv_eliminations": [
+                "18:CHESA BOUDIN\t16:LEIF DAUTCH",
+                "17:NANCY TUNG"
+            ],
+            "rcv_max_votes": "RCVMAX\tTO\t495050\t206117\t0\t717\t12396\t22420\t170584\t0\t83872\t27031\t46630\t86712",
             "rcv_rounds": 3,
             "result_stats": [
                 {
@@ -529,7 +545,6 @@
             ],
             "total_precincts": 474,
             "winning_status": {
-                "not_winning": "15:SUZY LOFTUS",
                 "winning": "18:CHESA BOUDIN"
             }
         },
