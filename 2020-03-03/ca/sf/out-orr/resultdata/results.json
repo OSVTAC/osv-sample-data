@@ -374,7 +374,10 @@
                 "ALL\tED\t60741\t99916\t0\t101\t367\t99448\t0\t48\t30\t21621\t29\t436\t14\t30\t124\t38601\t15\t187\t4\t37\t8096\t4\t32\t304\t29422\t388\t26\t0\t0\t0\t0\t0\t0\t0",
                 "ALL\tMV\t244318\t161448\t0\t222\t1164\t160062\t0\t102\t33\t37109\t75\t2386\t40\t39\t3487\t50616\t23\t1512\t27\t91\t20837\t16\t87\t10056\t32877\t583\t66\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 609
+            "total_precincts": 609,
+            "winning_status": {
+                "winning": "21:BERNIE SANDERS"
+            }
         },
         {
             "_id": "8",
@@ -546,7 +549,10 @@
                 "ALL\tED\t6575\t4125\t0\t3\t344\t3778\t0\t24\t161\t231\t95\t78\t26\t3163\t0\t0",
                 "ALL\tMV\t26392\t12583\t0\t5\t1513\t11065\t0\t98\t497\t1048\t227\t195\t92\t8908\t0\t0"
             ],
-            "total_precincts": 609
+            "total_precincts": 609,
+            "winning_status": {
+                "winning": "39:DONALD J. TRUMP"
+            }
         },
         {
             "_id": "9",
@@ -674,7 +680,10 @@
                 "ALL\tED\t1278\t828\t0\t0\t477\t351\t0\t120\t68\t46\t70\t47",
                 "ALL\tMV\t7295\t2172\t0\t1\t1503\t668\t0\t223\t132\t97\t119\t97"
             ],
-            "total_precincts": 609
+            "total_precincts": 609,
+            "winning_status": {
+                "winning": "40:PHIL COLLINS"
+            }
         },
         {
             "_id": "10",
@@ -813,7 +822,10 @@
                 "ALL\tED\t700\t329\t0\t0\t113\t216\t0\t14\t59\t58\t35\t50\t0",
                 "ALL\tMV\t2373\t748\t0\t0\t361\t387\t0\t8\t157\t100\t53\t69\t0"
             ],
-            "total_precincts": 609
+            "total_precincts": 609,
+            "winning_status": {
+                "winning": "46:HOWIE HAWKINS"
+            }
         },
         {
             "_id": "11",
@@ -908,7 +920,10 @@
                 "ALL\tED\t338\t120\t0\t0\t31\t89\t0\t19\t70",
                 "ALL\tMV\t1193\t246\t0\t0\t83\t163\t0\t59\t104"
             ],
-            "total_precincts": 609
+            "total_precincts": 609,
+            "winning_status": {
+                "winning": "51:GLORIA LA RIVA"
+            }
         },
         {
             "_id": "12",
@@ -1168,7 +1183,10 @@
                 "ALL\tED\t559\t354\t0\t1\t126\t227\t0\t28\t8\t8\t22\t11\t51\t10\t8\t14\t23\t21\t11\t12\t0\t0\t0\t0",
                 "ALL\tMV\t2537\t802\t0\t6\t338\t458\t1\t30\t26\t29\t32\t25\t116\t21\t11\t23\t58\t55\t22\t9\t0\t0\t0\t1"
             ],
-            "total_precincts": 609
+            "total_precincts": 609,
+            "winning_status": {
+                "winning": "57:JACOB HORNBERGER"
+            }
         },
         {
             "_id": "23",
@@ -1626,7 +1644,10 @@
                 "ALL\tED\t37663\t46808\t0\t91\t368172\t285866\t0\t7719\t15963\t5534\t14929\t15685\t7124\t6134\t14076\t2599\t5810\t13144\t4846\t6036\t10624\t5884\t9192\t4730\t6681\t2438\t5457\t9044\t16413\t11650\t8818\t7797\t8224\t1978\t3100\t5204\t5782\t9074\t4419\t10523\t11685\t7550",
                 "ALL\tMV\t146816\t85073\t0\t440\t592473\t592389\t0\t16055\t28887\t14039\t29351\t29934\t13264\t14637\t28719\t4606\t10478\t27045\t12209\t14209\t21386\t12710\t16581\t10669\t11977\t5061\t13696\t19332\t32545\t24687\t20332\t16900\t16172\t2981\t7723\t10975\t13464\t17841\t11327\t21303\t22668\t18626"
             ],
-            "total_precincts": 358
+            "total_precincts": 358,
+            "winning_status": {
+                "winning": "111:JOHN AVALOS\t113:HILLARY RONEN\t114:DAVID CAMPOS\t117:MATT HANEY\t120:FRANCES HSIEH\t123:SHANELL WILLIAMS\t130:BEVAN DUFTY\t131:JANE KIM\t134:HONEY MAHOGANY\t132:RAFAEL MANDELMAN\t140:GLORIA BERRY\t142:PETER GALLOTTA\t143:ANABELL IBÁÑEZ\t144:NANCY TUNG"
+            }
         },
         {
             "_id": "22",
@@ -1930,7 +1951,10 @@
                 "ALL\tED\t23078\t32018\t0\t36\t196218\t123602\t0\t5161\t3367\t7695\t2975\t7158\t3815\t7214\t7916\t7038\t7113\t4367\t5057\t9092\t2396\t6799\t5246\t5852\t8359\t6430\t8245\t2307",
                 "ALL\tMV\t97502\t55911\t0\t136\t290772\t266978\t0\t10071\t7175\t15540\t5310\t14392\t9260\t16318\t16960\t14291\t16040\t10527\t11550\t19771\t6403\t13490\t12877\t14105\t17265\t13005\t16413\t6215"
             ],
-            "total_precincts": 251
+            "total_precincts": 251,
+            "winning_status": {
+                "winning": "91:MANO RAJU\t93:QUEENA CHEN\t95:LEAH LACROIX\t96:SUZY LOFTUS\t97:LI MIAO LOVETT\t98:JANICE LI\t101:GORDON MAR\t103:FAAUUGA MOLIGA\t106:KEITH BARAKA\t108:A. J. THOMAS"
+            }
         },
         {
             "_id": "24",
@@ -2157,7 +2181,10 @@
                 "ALL\tED\t2805\t1699\t0\t5\t12192\t6442\t0\t612\t482\t427\t436\t492\t415\t425\t344\t332\t656\t404\t443\t560\t414",
                 "ALL\tMV\t11944\t5388\t0\t10\t37347\t21811\t0\t2002\t1498\t1536\t1267\t1656\t1410\t1536\t1164\t1155\t2268\t1465\t1470\t1901\t1483"
             ],
-            "total_precincts": 358
+            "total_precincts": 358,
+            "winning_status": {
+                "winning": "145:LISA REMMER\t146:JOSEPH C ROBERTS\t147:STEPHEN WAID\t149:RYAN LAM\t150:CHRISTIAN FOSTER\t151:JOSH YORK\t154:ERIN SMITH\t155:LARRY MARSO\t156:NICOLE GARAY\t157:CALE GARVERICK\t158:KRISTA GARVERICK"
+            }
         },
         {
             "_id": "13",
@@ -2297,7 +2324,10 @@
                 "ALL\tMV\t355428\t175466\t0\t501\t8081\t166884\t0\t3321\t14696\t123426\t2437\t20101\t2903"
             ],
             "to_runoff": true,
-            "total_precincts": 534
+            "total_precincts": 534,
+            "winning_status": {
+                "to_runoff": "66:NANCY PELOSI\t68:SHAHID BUTTAR"
+            }
         },
         {
             "_id": "14",
@@ -2392,7 +2422,10 @@
                 "ALL\tED\t0\t0\t0\t0\t0\t0\t0\t0\t0",
                 "ALL\tMV\t0\t0\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 1
+            "total_precincts": 1,
+            "winning_status": {
+                "": "71:BARBARA LEE\t72:NIKKA PITERMAN"
+            }
         },
         {
             "_id": "15",
@@ -2510,7 +2543,10 @@
                 "ALL\tMV\t47208\t22470\t0\t58\t1688\t20724\t0\t15977\t3318\t757\t672"
             ],
             "to_runoff": true,
-            "total_precincts": 74
+            "total_precincts": 74,
+            "winning_status": {
+                "to_runoff": "73:JACKIE SPEIER\t74:RAN S. PETEL"
+            }
         },
         {
             "_id": "16",
@@ -2617,7 +2653,10 @@
                 "ALL\tMV\t402636\t197936\t0\t194\t17644\t180098\t0\t103817\t21241\t55040"
             ],
             "to_runoff": true,
-            "total_precincts": 609
+            "total_precincts": 609,
+            "winning_status": {
+                "to_runoff": "78:SCOTT WIENER\t79:JACKIE FIELDER"
+            }
         },
         {
             "_id": "18",
@@ -2713,7 +2752,10 @@
                 "ALL\tMV\t232718\t115072\t0\t0\t34595\t80477\t31\t80446\t31"
             ],
             "to_runoff": true,
-            "total_precincts": 358
+            "total_precincts": 358,
+            "winning_status": {
+                "to_runoff": "82:DAVID CHIU\t177:Starchild"
+            }
         },
         {
             "_id": "17",
@@ -2809,7 +2851,10 @@
                 "ALL\tMV\t169918\t82864\t0\t14\t9073\t73777\t0\t13917\t59860"
             ],
             "to_runoff": true,
-            "total_precincts": 251
+            "total_precincts": 251,
+            "winning_status": {
+                "to_runoff": "80:JOHN P. MCDONNELL\t81:PHIL TING"
+            }
         },
         {
             "_id": "19",
@@ -2905,7 +2950,10 @@
                 "ALL\tMV\t402636\t197936\t0\t116\t35222\t162598\t0\t99695\t62903"
             ],
             "to_runoff": false,
-            "total_precincts": 609
+            "total_precincts": 609,
+            "winning_status": {
+                "to_runoff": "83:MARIA ELENA EVANGELISTA"
+            }
         },
         {
             "_id": "20",
@@ -3001,7 +3049,10 @@
                 "ALL\tMV\t402636\t197936\t0\t216\t37614\t160106\t0\t72028\t88078"
             ],
             "to_runoff": false,
-            "total_precincts": 609
+            "total_precincts": 609,
+            "winning_status": {
+                "to_runoff": "86:MICHELLE TONG"
+            }
         },
         {
             "_id": "21",
@@ -3097,7 +3148,10 @@
                 "ALL\tMV\t402636\t197936\t0\t87\t38840\t159009\t0\t83344\t75665"
             ],
             "to_runoff": false,
-            "total_precincts": 609
+            "total_precincts": 609,
+            "winning_status": {
+                "to_runoff": "88:CAROLYN GOLD"
+            }
         },
         {
             "_id": "1",
@@ -3185,7 +3239,10 @@
                 "ALL\tMV\t402636\t197936\t0\t51\t15743\t182142\t133886\t48256"
             ],
             "success": true,
-            "total_precincts": 609
+            "total_precincts": 609,
+            "winning_status": {
+                "winning": "1:YES"
+            }
         },
         {
             "_id": "2",
@@ -3273,7 +3330,10 @@
                 "ALL\tMV\t402636\t197936\t0\t39\t14363\t183534\t128180\t55354"
             ],
             "success": true,
-            "total_precincts": 609
+            "total_precincts": 609,
+            "winning_status": {
+                "winning": "3:YES"
+            }
         },
         {
             "_id": "3",
@@ -3361,7 +3421,10 @@
                 "ALL\tMV\t402636\t197936\t0\t40\t13050\t184846\t150641\t34205"
             ],
             "success": true,
-            "total_precincts": 609
+            "total_precincts": 609,
+            "winning_status": {
+                "winning": "5:YES"
+            }
         },
         {
             "_id": "4",
@@ -3449,7 +3512,10 @@
                 "ALL\tMV\t402636\t197936\t0\t31\t18715\t179190\t122697\t56493"
             ],
             "success": true,
-            "total_precincts": 609
+            "total_precincts": 609,
+            "winning_status": {
+                "winning": "7:YES"
+            }
         },
         {
             "_id": "5",
@@ -3537,7 +3603,10 @@
                 "ALL\tMV\t402636\t197936\t0\t46\t15268\t182622\t125031\t57591"
             ],
             "success": true,
-            "total_precincts": 609
+            "total_precincts": 609,
+            "winning_status": {
+                "winning": "9:YES"
+            }
         },
         {
             "_id": "6",
@@ -3625,7 +3694,10 @@
                 "ALL\tMV\t402636\t197936\t0\t42\t19259\t178635\t94940\t83695"
             ],
             "success": true,
-            "total_precincts": 609
+            "total_precincts": 609,
+            "winning_status": {
+                "winning": "11:YES"
+            }
         }
     ],
     "turnout": {

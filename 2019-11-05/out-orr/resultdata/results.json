@@ -158,11 +158,21 @@
             ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t1:JOEL VENTRESCA\t2:WILMA PANG\t3:ROBERT L. JORDAN, JR.\t4:PAUL YBARRA ROBERTSON\t5:ELLEN LEE ZHOU\t6:LONDON N. BREED\t53:MARC ROTH",
+                "RCV6\tTO\t495050\t206117\t0\t756\t25927\t9383\t170051\t\t\t\t\t\t35706\t134345",
+                "RCV5\tTO\t495050\t206117\t0\t680\t25927\t3441\t176069\t\t17425\t\t\t\t29903\t128741",
+                "RCV4\tTO\t495050\t206117\t0\t633\t25927\t1527\t178030\t\t14531\t\t\t9312\t26944\t127243",
+                "RCV3\tTO\t495050\t206117\t0\t619\t25927\t486\t179085\t\t13614\t5297\t\t8304\t25307\t126563",
+                "RCV2\tTO\t495050\t206117\t0\t603\t25927\t1\t179586\t\t13286\t4964\t2459\t7649\t25006\t126222",
+                "RCV1\tTO\t495050\t206117\t0\t603\t25927\t0\t179587\t0\t13283\t4963\t2458\t7649\t25006\t126221\t7",
                 "ALL\tTO\t495050\t206117\t0\t539\t28386\t0\t177192\t7\t12850\t4675\t2321\t7472\t24667\t125200\t7",
                 "ALL\tED\t495050\t59423\t0\t105\t9415\t0\t49903\t4\t4008\t1735\t786\t2091\t5676\t35603\t4",
                 "ALL\tMV\t495050\t146694\t0\t434\t18971\t0\t127289\t3\t8842\t2940\t1535\t5381\t18991\t89597\t3"
             ],
-            "total_precincts": 474
+            "total_precincts": 474,
+            "winning_status": {
+                "not_winning": "5:ELLEN LEE ZHOU",
+                "winning": "6:LONDON N. BREED"
+            }
         },
         {
             "_id": "353",
@@ -283,11 +293,18 @@
             ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t8:RYAN LAM\t9:DEAN PRESTON\t10:NOMVULA O'MEARA\t11:VALLIE BROWN",
+                "RCV3\tTO\t51976\t24765\t0\t48\t1050\t406\t23261\t\t\t11723\t\t11538",
+                "RCV2\tTO\t51976\t24765\t0\t41\t1050\t71\t23603\t\t1035\t11309\t\t11259",
+                "RCV1\tTO\t51976\t24765\t0\t40\t1050\t0\t23675\t0\t950\t11239\t278\t11208",
                 "ALL\tTO\t51976\t24765\t0\t39\t1253\t0\t23473\t0\t918\t11119\t265\t11171",
                 "ALL\tED\t51976\t8348\t0\t8\t405\t0\t7935\t0\t223\t4249\t109\t3354",
                 "ALL\tMV\t51976\t16417\t0\t31\t848\t0\t15538\t0\t695\t6870\t156\t7817"
             ],
-            "total_precincts": 54
+            "total_precincts": 54,
+            "winning_status": {
+                "not_winning": "11:VALLIE BROWN",
+                "winning": "9:DEAN PRESTON"
+            }
         },
         {
             "_id": "352",
@@ -379,7 +396,10 @@
                 "ALL\tED\t495050\t59423\t0\t14\t11300\t0\t48109\t0\t48109",
                 "ALL\tMV\t495050\t146694\t0\t41\t33393\t0\t113260\t0\t113260"
             ],
-            "total_precincts": 474
+            "total_precincts": 474,
+            "winning_status": {
+                "winning": "13:DENNIS J. HERRERA"
+            }
         },
         {
             "_id": "339",
@@ -500,11 +520,18 @@
             ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t15:SUZY LOFTUS\t16:LEIF DAUTCH\t17:NANCY TUNG\t18:CHESA BOUDIN",
+                "RCV3\tTO\t495050\t206117\t0\t717\t12396\t22420\t170584\t\t83872\t\t\t86712",
+                "RCV2\tTO\t495050\t206117\t0\t594\t12396\t6439\t186688\t\t66508\t\t46630\t73550",
+                "RCV1\tTO\t495050\t206117\t0\t525\t12396\t0\t193196\t0\t60007\t27031\t37353\t68805",
                 "ALL\tTO\t495050\t206117\t0\t474\t13590\t0\t192053\t0\t59698\t26758\t37022\t68575",
                 "ALL\tED\t495050\t59423\t0\t83\t2869\t0\t56471\t0\t16562\t6537\t8090\t25282",
                 "ALL\tMV\t495050\t146694\t0\t391\t10721\t0\t135582\t0\t43136\t20221\t28932\t43293"
             ],
-            "total_precincts": 474
+            "total_precincts": 474,
+            "winning_status": {
+                "not_winning": "15:SUZY LOFTUS",
+                "winning": "18:CHESA BOUDIN"
+            }
         },
         {
             "_id": "360",
@@ -596,7 +623,10 @@
                 "ALL\tED\t495050\t59423\t0\t6\t11501\t0\t47916\t0\t47916",
                 "ALL\tMV\t495050\t146694\t0\t28\t36022\t0\t110644\t0\t110644"
             ],
-            "total_precincts": 474
+            "total_precincts": 474,
+            "winning_status": {
+                "winning": "20:MANOHAR \"MANO\" RAJU"
+            }
         },
         {
             "_id": "350",
@@ -688,7 +718,10 @@
                 "ALL\tED\t495050\t59423\t0\t10\t16886\t0\t42527\t0\t42527",
                 "ALL\tMV\t495050\t146694\t0\t27\t42566\t0\t104101\t0\t104101"
             ],
-            "total_precincts": 474
+            "total_precincts": 474,
+            "winning_status": {
+                "winning": "22:PAUL MIYAMOTO"
+            }
         },
         {
             "_id": "349",
@@ -780,7 +813,10 @@
                 "ALL\tED\t495050\t59423\t0\t7\t14355\t0\t45061\t0\t45061",
                 "ALL\tMV\t495050\t146694\t0\t24\t39028\t0\t107642\t0\t107642"
             ],
-            "total_precincts": 474
+            "total_precincts": 474,
+            "winning_status": {
+                "winning": "24:JOSÉ CISNEROS"
+            }
         },
         {
             "_id": "361",
@@ -886,7 +922,10 @@
                 "ALL\tED\t495050\t59419\t0\t104\t12228\t47087\t0\t31352\t9516\t6219",
                 "ALL\tMV\t495050\t146926\t0\t535\t28893\t117498\t0\t89802\t16520\t11176"
             ],
-            "total_precincts": 474
+            "total_precincts": 474,
+            "winning_status": {
+                "winning": "26:JENNY LAM"
+            }
         },
         {
             "_id": "351",
@@ -970,7 +1009,10 @@
                 "ALL\tED\t495050\t59414\t0\t12\t12367\t47035\t0\t47035",
                 "ALL\tMV\t495050\t146926\t0\t43\t36060\t110823\t0\t110823"
             ],
-            "total_precincts": 474
+            "total_precincts": 474,
+            "winning_status": {
+                "winning": "30:IVY LEE"
+            }
         },
         {
             "_id": "342",
@@ -1058,7 +1100,10 @@
                 "ALL\tMV\t495050\t146926\t0\t31\t3855\t143040\t98465\t44575"
             ],
             "success": true,
-            "total_precincts": 474
+            "total_precincts": 474,
+            "winning_status": {
+                "winning": "32:YES"
+            }
         },
         {
             "_id": "343",
@@ -1146,7 +1191,10 @@
                 "ALL\tMV\t495050\t146926\t0\t28\t8681\t138217\t107127\t31090"
             ],
             "success": true,
-            "total_precincts": 474
+            "total_precincts": 474,
+            "winning_status": {
+                "winning": "34:YES"
+            }
         },
         {
             "_id": "344",
@@ -1234,7 +1282,10 @@
                 "ALL\tMV\t495050\t146926\t0\t87\t3369\t143470\t26574\t116896"
             ],
             "success": false,
-            "total_precincts": 474
+            "total_precincts": 474,
+            "winning_status": {
+                "winning": "37:NO"
+            }
         },
         {
             "_id": "345",
@@ -1322,7 +1373,10 @@
                 "ALL\tMV\t495050\t146926\t0\t36\t4056\t142834\t94835\t47999"
             ],
             "success": true,
-            "total_precincts": 474
+            "total_precincts": 474,
+            "winning_status": {
+                "winning": "38:YES"
+            }
         },
         {
             "_id": "346",
@@ -1410,7 +1464,10 @@
                 "ALL\tMV\t495050\t146926\t0\t41\t5370\t141515\t105786\t35729"
             ],
             "success": true,
-            "total_precincts": 474
+            "total_precincts": 474,
+            "winning_status": {
+                "winning": "40:YES"
+            }
         },
         {
             "_id": "354",
@@ -1498,7 +1555,10 @@
                 "ALL\tMV\t495050\t146926\t0\t20\t7211\t139695\t106880\t32815"
             ],
             "success": true,
-            "total_precincts": 474
+            "total_precincts": 474,
+            "winning_status": {
+                "winning": "42:YES"
+            }
         }
     ],
     "turnout": {
@@ -1523,28 +1583,40 @@
                 "heading": "Registered Voters",
                 "results": [
                     495050,
-                    495050,
-                    495050
+                    117918,
+                    377132
                 ]
             },
             {
                 "_id": "RSCst",
                 "heading": "Ballots Cast",
                 "results": [
-                    "206122",
-                    "59428",
-                    "146694"
+                    206122,
+                    59428,
+                    146694
                 ]
             },
             {
                 "_id": "RSRej",
                 "heading": "Ballots Challenged",
                 "results": [
-                    "0",
-                    "0",
-                    "0"
+                    0,
+                    0,
+                    0
                 ]
             }
+        ],
+        "results_summary": [
+            "area_id\tsubtotal_type\tresult_stat\tALL\tAI\tDEM\tGRN\tLIB\tPF\tREP\tNPP\tNPPALL",
+            "ALL\tTO\tRSReg\t495050\t8744\t292019\t3708\t3176\t1557\t32584\t156489\t",
+            "ALL\tTO\tRSVot\t206122\t\t\t\t\t\t\t\t",
+            "ALL\tED\tRSReg\t117753\t1951\t69287\t1191\t735\t405\t7614\t39797\t",
+            "ALL\tED\tRSVot\t59428\t\t\t\t\t\t\t\t",
+            "ALL\tMV\tRSIss\t377297\t6793\t222732\t2517\t2441\t1152\t24970\t116692\t",
+            "ALL\tMV\tRSCst\t151192\t1938\t95181\t1094\t647\t302\t10738\t41292\t",
+            "ALL\tMV\tRSCnt\t147636\t1870\t92884\t1069\t631\t289\t10556\t40337\t",
+            "ALL\tMV\tRSPnd\t7\t0\t4\t0\t0\t0\t1\t2\t",
+            "ALL\tMV\tRSCha\t3549\t68\t2293\t25\t16\t13\t181\t953\t"
         ],
         "total_precincts": 474
     }
