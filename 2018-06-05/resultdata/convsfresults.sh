@@ -1,3 +1,4 @@
 #!/bin/sh
 #
-../../../osv-data-converter/src/convsfresults-18.py -P $*
+convvbmprecinct.py -t -x
+convsfresults-18.py -P $*
