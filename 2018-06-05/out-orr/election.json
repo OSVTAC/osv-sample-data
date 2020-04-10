@@ -4587,7 +4587,7 @@
                 "zh": "總登記和投票率"
             },
             "voting_district": "0",
-            "result_style": "EMTE"
+            "result_style": "EMT"
         },
         "no_voter_precincts": [
             "1151",
@@ -8924,6 +8924,16 @@
             "description": "Ballots received but not included in totals",
             "text": {
                 "en": "Ballots Uncounted",
+                "es": "",
+                "tl": "",
+                "zh": ""
+            }
+        },
+        {
+            "_id": "RSUpd",
+            "description": "Time of last update (reporting time)",
+            "text": {
+                "en": "Update Time",
                 "es": "",
                 "tl": "",
                 "zh": ""
