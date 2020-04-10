@@ -1,93 +1,15 @@
 {
     "_reporting_time": "2019-11-25 15:39:19",
-    "_results_format": "0.2",
+    "_results_format": "0.3",
     "_results_id": "20191125",
+    "_results_status": "Final",
     "_results_title": {
         "en": "Final Report"
     },
     "contests": [
         {
             "_id": "334",
-            "choices": [
-                {
-                    "_id": "1",
-                    "heading": "JOEL VENTRESCA",
-                    "results": [
-                        "12850",
-                        "4008",
-                        "8842"
-                    ],
-                    "success": false,
-                    "winning_status": "rcv_eliminated"
-                },
-                {
-                    "_id": "2",
-                    "heading": "WILMA PANG",
-                    "results": [
-                        "4675",
-                        "1735",
-                        "2940"
-                    ],
-                    "success": false,
-                    "winning_status": "rcv_eliminated"
-                },
-                {
-                    "_id": "3",
-                    "heading": "ROBERT L. JORDAN, JR.",
-                    "results": [
-                        "2321",
-                        "786",
-                        "1535"
-                    ],
-                    "success": false,
-                    "winning_status": "rcv_eliminated"
-                },
-                {
-                    "_id": "4",
-                    "heading": "PAUL YBARRA ROBERTSON",
-                    "results": [
-                        "7472",
-                        "2091",
-                        "5381"
-                    ],
-                    "success": false,
-                    "winning_status": "rcv_eliminated"
-                },
-                {
-                    "_id": "5",
-                    "heading": "ELLEN LEE ZHOU",
-                    "results": [
-                        "24667",
-                        "5676",
-                        "18991"
-                    ],
-                    "success": false,
-                    "winning_status": "not_winning"
-                },
-                {
-                    "_id": "6",
-                    "heading": "LONDON N. BREED",
-                    "results": [
-                        "125200",
-                        "35603",
-                        "89597"
-                    ],
-                    "success": true,
-                    "winning_status": "winning"
-                },
-                {
-                    "_id": "53",
-                    "heading": "MARC ROTH",
-                    "results": [
-                        "7",
-                        "4",
-                        "3"
-                    ],
-                    "success": false,
-                    "winning_status": "rcv_eliminated"
-                }
-            ],
-            "no_voter_precincts": [],
+            "heading": "MAYOR",
             "precincts_reporting": 474,
             "rcv_eliminations": [
                 "53:MARC ROTH",
@@ -98,72 +20,6 @@
             ],
             "rcv_max_votes": "RCVMAX\tTO\t495050\t206117\t0\t756\t25927\t9383\t170051\t0\t17425\t5297\t2459\t9312\t35706\t134345\t7",
             "rcv_rounds": 6,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "results": [
-                        "495050",
-                        "495050",
-                        "495050"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "results": [
-                        "206117",
-                        "59423",
-                        "146694"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "results": [
-                        "539",
-                        "105",
-                        "434"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "results": [
-                        "28386",
-                        "9415",
-                        "18971"
-                    ]
-                },
-                {
-                    "_id": "RSExh",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "results": [
-                        "177192",
-                        "49903",
-                        "127289"
-                    ]
-                },
-                {
-                    "_id": "RSWri",
-                    "results": [
-                        "7",
-                        "4",
-                        "3"
-                    ]
-                }
-            ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t1:JOEL VENTRESCA\t2:WILMA PANG\t3:ROBERT L. JORDAN, JR.\t4:PAUL YBARRA ROBERTSON\t5:ELLEN LEE ZHOU\t6:LONDON N. BREED\t53:MARC ROTH",
                 "RCV6\tTO\t495050\t206117\t0\t756\t25927\t9383\t170051\t\t\t\t\t\t35706\t134345\t",
@@ -183,53 +39,7 @@
         },
         {
             "_id": "353",
-            "choices": [
-                {
-                    "_id": "8",
-                    "heading": "RYAN LAM",
-                    "results": [
-                        "918",
-                        "223",
-                        "695"
-                    ],
-                    "success": false,
-                    "winning_status": "rcv_eliminated"
-                },
-                {
-                    "_id": "9",
-                    "heading": "DEAN PRESTON",
-                    "results": [
-                        "11119",
-                        "4249",
-                        "6870"
-                    ],
-                    "success": true,
-                    "winning_status": "winning"
-                },
-                {
-                    "_id": "10",
-                    "heading": "NOMVULA O'MEARA",
-                    "results": [
-                        "265",
-                        "109",
-                        "156"
-                    ],
-                    "success": false,
-                    "winning_status": "rcv_eliminated"
-                },
-                {
-                    "_id": "11",
-                    "heading": "VALLIE BROWN",
-                    "results": [
-                        "11171",
-                        "3354",
-                        "7817"
-                    ],
-                    "success": false,
-                    "winning_status": "not_winning"
-                }
-            ],
-            "no_voter_precincts": [],
+            "heading": "MEMBER, BOARD OF SUPERVISORS, DISTRICT 5",
             "precincts_reporting": 54,
             "rcv_eliminations": [
                 "10:NOMVULA O'MEARA",
@@ -237,72 +47,6 @@
             ],
             "rcv_max_votes": "RCVMAX\tTO\t51976\t24765\t0\t48\t1050\t406\t23261\t0\t1035\t11723\t278\t11538",
             "rcv_rounds": 3,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "results": [
-                        "51976",
-                        "51976",
-                        "51976"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "results": [
-                        "24765",
-                        "8348",
-                        "16417"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "results": [
-                        "39",
-                        "8",
-                        "31"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "results": [
-                        "1253",
-                        "405",
-                        "848"
-                    ]
-                },
-                {
-                    "_id": "RSExh",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "results": [
-                        "23473",
-                        "7935",
-                        "15538"
-                    ]
-                },
-                {
-                    "_id": "RSWri",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
-            ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t8:RYAN LAM\t9:DEAN PRESTON\t10:NOMVULA O'MEARA\t11:VALLIE BROWN",
                 "RCV3\tTO\t51976\t24765\t0\t48\t1050\t406\t23261\t\t\t11723\t\t11538",
@@ -319,88 +63,9 @@
         },
         {
             "_id": "352",
-            "choices": [
-                {
-                    "_id": "13",
-                    "heading": "DENNIS J. HERRERA",
-                    "results": [
-                        "161369",
-                        "48109",
-                        "113260"
-                    ],
-                    "success": true,
-                    "winning_status": "winning"
-                }
-            ],
-            "no_voter_precincts": [],
+            "heading": "CITY ATTORNEY",
             "precincts_reporting": 474,
             "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "results": [
-                        "495050",
-                        "495050",
-                        "495050"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "results": [
-                        "206117",
-                        "59423",
-                        "146694"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "results": [
-                        "55",
-                        "14",
-                        "41"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "results": [
-                        "44693",
-                        "11300",
-                        "33393"
-                    ]
-                },
-                {
-                    "_id": "RSExh",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "results": [
-                        "161369",
-                        "48109",
-                        "113260"
-                    ]
-                },
-                {
-                    "_id": "RSWri",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
-            ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t13:DENNIS J. HERRERA",
                 "ALL\tTO\t495050\t206117\t0\t55\t44693\t0\t161369\t0\t161369",
@@ -414,53 +79,7 @@
         },
         {
             "_id": "339",
-            "choices": [
-                {
-                    "_id": "15",
-                    "heading": "SUZY LOFTUS",
-                    "results": [
-                        "59698",
-                        "16562",
-                        "43136"
-                    ],
-                    "success": false,
-                    "winning_status": "not_winning"
-                },
-                {
-                    "_id": "16",
-                    "heading": "LEIF DAUTCH",
-                    "results": [
-                        "26758",
-                        "6537",
-                        "20221"
-                    ],
-                    "success": false,
-                    "winning_status": "rcv_eliminated"
-                },
-                {
-                    "_id": "17",
-                    "heading": "NANCY TUNG",
-                    "results": [
-                        "37022",
-                        "8090",
-                        "28932"
-                    ],
-                    "success": false,
-                    "winning_status": "rcv_eliminated"
-                },
-                {
-                    "_id": "18",
-                    "heading": "CHESA BOUDIN",
-                    "results": [
-                        "68575",
-                        "25282",
-                        "43293"
-                    ],
-                    "success": true,
-                    "winning_status": "winning"
-                }
-            ],
-            "no_voter_precincts": [],
+            "heading": "DISTRICT ATTORNEY",
             "precincts_reporting": 474,
             "rcv_eliminations": [
                 "16:LEIF DAUTCH",
@@ -468,72 +87,6 @@
             ],
             "rcv_max_votes": "RCVMAX\tTO\t495050\t206117\t0\t717\t12396\t22420\t170584\t0\t83872\t27031\t46630\t86712",
             "rcv_rounds": 3,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "results": [
-                        "495050",
-                        "495050",
-                        "495050"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "results": [
-                        "206117",
-                        "59423",
-                        "146694"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "results": [
-                        "474",
-                        "83",
-                        "391"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "results": [
-                        "13590",
-                        "2869",
-                        "10721"
-                    ]
-                },
-                {
-                    "_id": "RSExh",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "results": [
-                        "192053",
-                        "56471",
-                        "135582"
-                    ]
-                },
-                {
-                    "_id": "RSWri",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
-            ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t15:SUZY LOFTUS\t16:LEIF DAUTCH\t17:NANCY TUNG\t18:CHESA BOUDIN",
                 "RCV3\tTO\t495050\t206117\t0\t717\t12396\t22420\t170584\t\t83872\t\t\t86712",
@@ -550,88 +103,9 @@
         },
         {
             "_id": "360",
-            "choices": [
-                {
-                    "_id": "20",
-                    "heading": "MANOHAR \"MANO\" RAJU",
-                    "results": [
-                        "158560",
-                        "47916",
-                        "110644"
-                    ],
-                    "success": true,
-                    "winning_status": "winning"
-                }
-            ],
-            "no_voter_precincts": [],
+            "heading": "PUBLIC DEFENDER",
             "precincts_reporting": 474,
             "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "results": [
-                        "495050",
-                        "495050",
-                        "495050"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "results": [
-                        "206117",
-                        "59423",
-                        "146694"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "results": [
-                        "34",
-                        "6",
-                        "28"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "results": [
-                        "47523",
-                        "11501",
-                        "36022"
-                    ]
-                },
-                {
-                    "_id": "RSExh",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "results": [
-                        "158560",
-                        "47916",
-                        "110644"
-                    ]
-                },
-                {
-                    "_id": "RSWri",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
-            ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t20:MANOHAR \"MANO\" RAJU",
                 "ALL\tTO\t495050\t206117\t0\t34\t47523\t0\t158560\t0\t158560",
@@ -645,88 +119,9 @@
         },
         {
             "_id": "350",
-            "choices": [
-                {
-                    "_id": "22",
-                    "heading": "PAUL MIYAMOTO",
-                    "results": [
-                        "146628",
-                        "42527",
-                        "104101"
-                    ],
-                    "success": true,
-                    "winning_status": "winning"
-                }
-            ],
-            "no_voter_precincts": [],
+            "heading": "SHERIFF",
             "precincts_reporting": 474,
             "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "results": [
-                        "495050",
-                        "495050",
-                        "495050"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "results": [
-                        "206117",
-                        "59423",
-                        "146694"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "results": [
-                        "37",
-                        "10",
-                        "27"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "results": [
-                        "59452",
-                        "16886",
-                        "42566"
-                    ]
-                },
-                {
-                    "_id": "RSExh",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "results": [
-                        "146628",
-                        "42527",
-                        "104101"
-                    ]
-                },
-                {
-                    "_id": "RSWri",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
-            ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t22:PAUL MIYAMOTO",
                 "ALL\tTO\t495050\t206117\t0\t37\t59452\t0\t146628\t0\t146628",
@@ -740,88 +135,9 @@
         },
         {
             "_id": "349",
-            "choices": [
-                {
-                    "_id": "24",
-                    "heading": "JOSÉ CISNEROS",
-                    "results": [
-                        "152703",
-                        "45061",
-                        "107642"
-                    ],
-                    "success": true,
-                    "winning_status": "winning"
-                }
-            ],
-            "no_voter_precincts": [],
+            "heading": "TREASURER",
             "precincts_reporting": 474,
             "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "results": [
-                        "495050",
-                        "495050",
-                        "495050"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "results": [
-                        "206117",
-                        "59423",
-                        "146694"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "results": [
-                        "31",
-                        "7",
-                        "24"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "results": [
-                        "53383",
-                        "14355",
-                        "39028"
-                    ]
-                },
-                {
-                    "_id": "RSExh",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "results": [
-                        "152703",
-                        "45061",
-                        "107642"
-                    ]
-                },
-                {
-                    "_id": "RSWri",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
-            ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t24:JOSÉ CISNEROS",
                 "ALL\tTO\t495050\t206117\t0\t31\t53383\t0\t152703\t0\t152703",
@@ -835,102 +151,9 @@
         },
         {
             "_id": "361",
-            "choices": [
-                {
-                    "_id": "26",
-                    "heading": "JENNY LAM",
-                    "results": [
-                        "121154",
-                        "31352",
-                        "89802"
-                    ],
-                    "success": true,
-                    "winning_status": "winning"
-                },
-                {
-                    "_id": "27",
-                    "heading": "KIRSTEN STROBEL",
-                    "results": [
-                        "26036",
-                        "9516",
-                        "16520"
-                    ],
-                    "success": false,
-                    "winning_status": "not_winning"
-                },
-                {
-                    "_id": "28",
-                    "heading": "ROBERT K. COLEMAN",
-                    "results": [
-                        "17395",
-                        "6219",
-                        "11176"
-                    ],
-                    "success": false,
-                    "winning_status": "not_winning"
-                }
-            ],
-            "no_voter_precincts": [],
+            "heading": "MEMBER, BOARD OF EDUCATION",
             "precincts_reporting": 474,
             "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "results": [
-                        "495050",
-                        "495050",
-                        "495050"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "results": [
-                        "206345",
-                        "59419",
-                        "146926"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "results": [
-                        "639",
-                        "104",
-                        "535"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "results": [
-                        "41121",
-                        "12228",
-                        "28893"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "results": [
-                        "164585",
-                        "47087",
-                        "117498"
-                    ]
-                },
-                {
-                    "_id": "RSWri",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
-            ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t26:JENNY LAM\t27:KIRSTEN STROBEL\t28:ROBERT K. COLEMAN",
                 "ALL\tTO\t495050\t206345\t0\t639\t41121\t164585\t0\t121154\t26036\t17395",
@@ -944,80 +167,9 @@
         },
         {
             "_id": "351",
-            "choices": [
-                {
-                    "_id": "30",
-                    "heading": "IVY LEE",
-                    "results": [
-                        "157858",
-                        "47035",
-                        "110823"
-                    ],
-                    "success": true,
-                    "winning_status": "winning"
-                }
-            ],
-            "no_voter_precincts": [],
+            "heading": "MEMBER, COMMUNITY COLLEGE BOARD",
             "precincts_reporting": 474,
             "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "results": [
-                        "495050",
-                        "495050",
-                        "495050"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "results": [
-                        "206340",
-                        "59414",
-                        "146926"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "results": [
-                        "55",
-                        "12",
-                        "43"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "results": [
-                        "48427",
-                        "12367",
-                        "36060"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "results": [
-                        "157858",
-                        "47035",
-                        "110823"
-                    ]
-                },
-                {
-                    "_id": "RSWri",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
-            ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t30:IVY LEE",
                 "ALL\tTO\t495050\t206340\t0\t55\t48427\t157858\t0\t157858",
@@ -1031,83 +183,9 @@
         },
         {
             "_id": "342",
-            "choices": [
-                {
-                    "_id": "32",
-                    "heading": "YES",
-                    "results": [
-                        "143055",
-                        "44590",
-                        "98465"
-                    ],
-                    "success": true,
-                    "winning_status": "winning"
-                },
-                {
-                    "_id": "33",
-                    "heading": "NO",
-                    "results": [
-                        "57974",
-                        "13399",
-                        "44575"
-                    ],
-                    "success": false,
-                    "winning_status": "not_winning"
-                }
-            ],
-            "no_voter_precincts": [],
+            "heading": "PROPOSITION A",
             "precincts_reporting": 474,
             "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "results": [
-                        "495050",
-                        "495050",
-                        "495050"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "results": [
-                        "206340",
-                        "59414",
-                        "146926"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "results": [
-                        "42",
-                        "11",
-                        "31"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "results": [
-                        "5269",
-                        "1414",
-                        "3855"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "results": [
-                        "201029",
-                        "57989",
-                        "143040"
-                    ]
-                }
-            ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t32:YES\t33:NO",
                 "ALL\tTO\t495050\t206340\t0\t42\t5269\t201029\t143055\t57974",
@@ -1122,83 +200,9 @@
         },
         {
             "_id": "343",
-            "choices": [
-                {
-                    "_id": "34",
-                    "heading": "YES",
-                    "results": [
-                        "152456",
-                        "45329",
-                        "107127"
-                    ],
-                    "success": true,
-                    "winning_status": "winning"
-                },
-                {
-                    "_id": "35",
-                    "heading": "NO",
-                    "results": [
-                        "41775",
-                        "10685",
-                        "31090"
-                    ],
-                    "success": false,
-                    "winning_status": "not_winning"
-                }
-            ],
-            "no_voter_precincts": [],
+            "heading": "PROPOSITION B",
             "precincts_reporting": 474,
             "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "results": [
-                        "495050",
-                        "495050",
-                        "495050"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "results": [
-                        "206340",
-                        "59414",
-                        "146926"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "results": [
-                        "35",
-                        "7",
-                        "28"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "results": [
-                        "12074",
-                        "3393",
-                        "8681"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "results": [
-                        "194231",
-                        "56014",
-                        "138217"
-                    ]
-                }
-            ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t34:YES\t35:NO",
                 "ALL\tTO\t495050\t206340\t0\t35\t12074\t194231\t152456\t41775",
@@ -1213,83 +217,9 @@
         },
         {
             "_id": "344",
-            "choices": [
-                {
-                    "_id": "36",
-                    "heading": "YES",
-                    "results": [
-                        "36666",
-                        "10092",
-                        "26574"
-                    ],
-                    "success": false,
-                    "winning_status": "not_winning"
-                },
-                {
-                    "_id": "37",
-                    "heading": "NO",
-                    "results": [
-                        "164885",
-                        "47989",
-                        "116896"
-                    ],
-                    "success": true,
-                    "winning_status": "winning"
-                }
-            ],
-            "no_voter_precincts": [],
+            "heading": "PROPOSITION C",
             "precincts_reporting": 474,
             "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "results": [
-                        "495050",
-                        "495050",
-                        "495050"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "results": [
-                        "206340",
-                        "59414",
-                        "146926"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "results": [
-                        "119",
-                        "32",
-                        "87"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "results": [
-                        "4670",
-                        "1301",
-                        "3369"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "results": [
-                        "201551",
-                        "58081",
-                        "143470"
-                    ]
-                }
-            ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t36:YES\t37:NO",
                 "ALL\tTO\t495050\t206340\t0\t119\t4670\t201551\t36666\t164885",
@@ -1304,83 +234,9 @@
         },
         {
             "_id": "345",
-            "choices": [
-                {
-                    "_id": "38",
-                    "heading": "YES",
-                    "results": [
-                        "135721",
-                        "40886",
-                        "94835"
-                    ],
-                    "success": true,
-                    "winning_status": "winning"
-                },
-                {
-                    "_id": "39",
-                    "heading": "NO",
-                    "results": [
-                        "64896",
-                        "16897",
-                        "47999"
-                    ],
-                    "success": false,
-                    "winning_status": "not_winning"
-                }
-            ],
-            "no_voter_precincts": [],
+            "heading": "PROPOSITION D",
             "precincts_reporting": 474,
             "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "results": [
-                        "495050",
-                        "495050",
-                        "495050"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "results": [
-                        "206340",
-                        "59414",
-                        "146926"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "results": [
-                        "49",
-                        "13",
-                        "36"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "results": [
-                        "5674",
-                        "1618",
-                        "4056"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "results": [
-                        "200617",
-                        "57783",
-                        "142834"
-                    ]
-                }
-            ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t38:YES\t39:NO",
                 "ALL\tTO\t495050\t206340\t0\t49\t5674\t200617\t135721\t64896",
@@ -1395,83 +251,9 @@
         },
         {
             "_id": "346",
-            "choices": [
-                {
-                    "_id": "40",
-                    "heading": "YES",
-                    "results": [
-                        "151865",
-                        "46079",
-                        "105786"
-                    ],
-                    "success": true,
-                    "winning_status": "winning"
-                },
-                {
-                    "_id": "41",
-                    "heading": "NO",
-                    "results": [
-                        "47175",
-                        "11446",
-                        "35729"
-                    ],
-                    "success": false,
-                    "winning_status": "not_winning"
-                }
-            ],
-            "no_voter_precincts": [],
+            "heading": "PROPOSITION E",
             "precincts_reporting": 474,
             "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "results": [
-                        "495050",
-                        "495050",
-                        "495050"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "results": [
-                        "206340",
-                        "59414",
-                        "146926"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "results": [
-                        "60",
-                        "19",
-                        "41"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "results": [
-                        "7240",
-                        "1870",
-                        "5370"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "results": [
-                        "199040",
-                        "57525",
-                        "141515"
-                    ]
-                }
-            ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t40:YES\t41:NO",
                 "ALL\tTO\t495050\t206340\t0\t60\t7240\t199040\t151865\t47175",
@@ -1486,83 +268,9 @@
         },
         {
             "_id": "354",
-            "choices": [
-                {
-                    "_id": "42",
-                    "heading": "YES",
-                    "results": [
-                        "151023",
-                        "44143",
-                        "106880"
-                    ],
-                    "success": true,
-                    "winning_status": "winning"
-                },
-                {
-                    "_id": "43",
-                    "heading": "NO",
-                    "results": [
-                        "45384",
-                        "12569",
-                        "32815"
-                    ],
-                    "success": false,
-                    "winning_status": "not_winning"
-                }
-            ],
-            "no_voter_precincts": [],
+            "heading": "PROPOSITION F",
             "precincts_reporting": 474,
             "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "results": [
-                        "495050",
-                        "495050",
-                        "495050"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "results": [
-                        "206340",
-                        "59414",
-                        "146926"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "results": [
-                        "28",
-                        "8",
-                        "20"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "results": [
-                        "9905",
-                        "2694",
-                        "7211"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "results": [
-                        "196407",
-                        "56712",
-                        "139695"
-                    ]
-                }
-            ],
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t42:YES\t43:NO",
                 "ALL\tTO\t495050\t206340\t0\t28\t9905\t196407\t151023\t45384",
@@ -1579,59 +287,18 @@
     "turnout": {
         "_id": "TURNOUT",
         "eligible_voters": 655825,
-        "no_voter_precincts": [
-            []
-        ],
         "precincts_reporting": 474,
-        "result_stats": [
-            {
-                "_id": "RSEli",
-                "heading": "Eligible Voters",
-                "results": [
-                    655825,
-                    655825,
-                    655825
-                ]
-            },
-            {
-                "_id": "RSReg",
-                "heading": "Registered Voters",
-                "results": [
-                    495050,
-                    117918,
-                    377132
-                ]
-            },
-            {
-                "_id": "RSCst",
-                "heading": "Ballots Cast",
-                "results": [
-                    206122,
-                    59428,
-                    146694
-                ]
-            },
-            {
-                "_id": "RSRej",
-                "heading": "Ballots Challenged",
-                "results": [
-                    0,
-                    0,
-                    0
-                ]
-            }
-        ],
         "results_summary": [
-            "area_id\tsubtotal_type\tresult_stat\tALL\tAI\tDEM\tGRN\tLIB\tPF\tREP\tNPP\tNPPALL",
-            "ALL\tTO\tRSReg\t495050\t8744\t292019\t3708\t3176\t1557\t32584\t156489\t",
-            "ALL\tTO\tRSVot\t206122\t\t\t\t\t\t\t\t",
-            "ALL\tED\tRSReg\t117753\t1951\t69287\t1191\t735\t405\t7614\t39797\t",
-            "ALL\tED\tRSVot\t59428\t\t\t\t\t\t\t\t",
-            "ALL\tMV\tRSIss\t377297\t6793\t222732\t2517\t2441\t1152\t24970\t116692\t",
-            "ALL\tMV\tRSCst\t151192\t1938\t95181\t1094\t647\t302\t10738\t41292\t",
-            "ALL\tMV\tRSCnt\t147636\t1870\t92884\t1069\t631\t289\t10556\t40337\t",
-            "ALL\tMV\tRSPnd\t7\t0\t4\t0\t0\t0\t1\t2\t",
-            "ALL\tMV\tRSCha\t3549\t68\t2293\t25\t16\t13\t181\t953\t"
+            "area_id\tsubtotal_type\tresult_stat\tALL\tAI\tDEM\tGRN\tLIB\tPF\tREP\tNPP",
+            "ALL\tTO\tRSReg\t495050\t8744\t292019\t3708\t3176\t1557\t32584\t156489",
+            "ALL\tTO\tRSVot\t206122\t\t\t\t\t\t\t",
+            "ALL\tED\tRSReg\t117753\t1951\t69287\t1191\t735\t405\t7614\t39797",
+            "ALL\tED\tRSVot\t59428\t\t\t\t\t\t\t",
+            "ALL\tMV\tRSIss\t377297\t6793\t222732\t2517\t2441\t1152\t24970\t116692",
+            "ALL\tMV\tRSCst\t151192\t1938\t95181\t1094\t647\t302\t10738\t41292",
+            "ALL\tMV\tRSCnt\t147636\t1870\t92884\t1069\t631\t289\t10556\t40337",
+            "ALL\tMV\tRSPnd\t7\t0\t4\t0\t0\t0\t1\t2",
+            "ALL\tMV\tRSCha\t3549\t68\t2293\t25\t16\t13\t181\t953"
         ],
         "total_precincts": 474
     }
