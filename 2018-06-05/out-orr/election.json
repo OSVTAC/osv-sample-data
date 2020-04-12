@@ -3877,7 +3877,7 @@
                     "tl": "<strong>PAHIHINTULUTAN ANG PAGPOPONDO NG MGA BONO SA MGA PARKE, PROTEKSYON SA MGA LIKAS NA YAMAN, PAG-AYON SA KLIMA, KALIDAD AT SUPPLY NG TUBIG, AT PROTEKSYON SA BAHA.</strong> Pahihintulutan ang $4 na bilyon sa mga bono para sa pangkalahatang obligasyon para sa: mga parke, proteksyon sa mga likas na yaman, pag-ayon sa klima, kalidad at supply ng tubig, at proteksyon sa baha. Epekto sa Pananalapi: Tumaas na mga gastusin sa muling pagbabayad sa bono ng estado na may average na humigit-kumulang $200 milyon taun-taon sa loob ng susunod na 40 taon. Mga ipon ng lokal na pamahalaan para sa mga proyektong nauugnay sa mga likas na yaman, na malamang na may average na milyun-milyong dolyar taun-taon sa loob ng susunod na ilang dekada.",
                     "zh": "<strong>授權發行債券，為公園、自然資源的保護、氣候變遷的因應、水質與供水，以及防洪提供資金。</strong>授權發行40億美元的普通責任債券，用途包括：公園、自然資源保護、氣候變遷的因應、水質與供水，以及防洪。財政影響：每年州政府償還公債的支出成本平均增加2億美元，為期40年。在未來數十年，地方政府在自然資源相關計畫，可能每年節省平均約數千萬美元。"
                 },
-                "approval_required": "Majority",
+                "approval_threshold": "Majority",
                 "choices": [
                     {
                         "_id": "022",
@@ -3901,6 +3901,7 @@
                         "sequence": "002"
                     }
                 ],
+                "approval_choice_id": "022",
                 "voting_district": "0",
                 "result_style": "EMS"
             },
@@ -3925,7 +3926,7 @@
                     "tl": "<strong>NAG-AATAS NA GAMITIN ANG ILANG PARTIKULAR NA BAGONG KITA SA TRANSPORTASYON PARA SA MGA LAYUNING PANTRANSPORTASYON. LEHISLATIBONG AMYENDA SA SALIGANG-BATAS.</strong> Nag-aatas na gamitin lang ang ilang partikular na kitang nalikom sa pamamagitan ng batas sa pagpopondo ng transportasyon sa taong 2017 para sa mga layuning pantransportasyon at pangkalahatang nagbabawal sa Lehislatura na ilipat ang mga pondo sa iba pang layunin. Epekto sa Pananalapi: Walang direktang epekto sa halaga ng mga kita o gastusin ng estado at lokal na pamahalaan ngunit maaaring makaapekto sa paggastos ng ilang pera.",
                     "zh": "<strong>要求某些新的運輸收入只能用於運輸相關用途。州議會憲法修正案。</strong>要求來自2017年運輸預算法案的新運輸收入只能用於運輸相關用途，原則上禁止州議會將資金調撥作別的用途。財政影響：對州政府與地方收支不會有直接影響，不過可能會影響到有些資金的用法。"
                 },
-                "approval_required": "Majority",
+                "approval_threshold": "Majority",
                 "choices": [
                     {
                         "_id": "024",
@@ -3949,6 +3950,7 @@
                         "sequence": "002"
                     }
                 ],
+                "approval_choice_id": "024",
                 "voting_district": "0",
                 "result_style": "EMS"
             },
@@ -3973,7 +3975,7 @@
                     "tl": "<strong>KINAKAILANGAN ANG BOTO NG MAYORYA NG LEHISLATURA NA NAG-AAPRUBA SA PAGGAMIT NG NAKARESERBANG PONDO SA CAP-AND-TRADE. LEHISLATIBONG AMYENDA SA SALIGANG-BATAS.</strong> Simula 2024, aatasang pagsama-samahin ang mga kita sa cap-and-trade sa isang nakareserbang pondo hanggang pahintulutan ng Lehislatura, ayon sa dalawang-katlo ng kabuuan, ang paggamit sa mga kita. Epekto sa Pananalapi: Simula 2024, maaaring pansamantalang tumaas ang kita sa buwis sa mga pagbebenta ng estado, na mula sa wala ay magiging ilang daang milyong dolyar taun-taon, at posibleng magkaroon ng mga pagbabago sa paggasta ng kita mula sa pagbebenta ng mga permit sa greenhouse gas emission.",
                     "zh": "<strong>要求獲得州議會絕對多數票來批准使用排放總量管制和交易收入儲備基金。州議會憲法修正案。</strong>從2024年起，要求「排放總量管制和交易收入」累積存入一個儲備基金，直到獲得州議會三分之二多數議員的同意，才得以授權動用。財政影響：從2024年起，加州營業稅收入每年可能暫時增加零到數億美元，而且來自銷售溫室氣體排放許可證的收入其用法也可能改變。"
                 },
-                "approval_required": "Majority",
+                "approval_threshold": "Majority",
                 "choices": [
                     {
                         "_id": "026",
@@ -3997,6 +3999,7 @@
                         "sequence": "002"
                     }
                 ],
+                "approval_choice_id": "026",
                 "voting_district": "0",
                 "result_style": "EMS"
             },
@@ -4021,7 +4024,7 @@
                     "tl": "<strong>NAGTATAKDA SA PETSA NG PAGKAKAROON NG BISA PARA SA MGA PANUKALA SA BALOTA. LEHISLATIBONG AMYENDA SA SALIGANG-BATAS.</strong> Nagsasaad na ang panukala sa balotang inaprubahan ng mayorya ng mga botante ay magkakabisa limang araw pagkatapos patunayan ng Kalihim ng Estado ang mga resulta ng halalan. Epekto sa Pananalapi: Posibleng magkaroon ng maliit o walang epekto sa mga pananalapi ng estado at lokal na pamahalaan.",
                     "zh": "<strong>規定選票議案生效日期。州議會憲法修正案。</strong>規定獲得多數選民投票同意的選票議案應該在州務卿認證投票結果五日後生效。財政影響：對州政府和地方財政可能造成很少影響或毫無影響。"
                 },
-                "approval_required": "Majority",
+                "approval_threshold": "Majority",
                 "choices": [
                     {
                         "_id": "028",
@@ -4045,6 +4048,7 @@
                         "sequence": "002"
                     }
                 ],
+                "approval_choice_id": "028",
                 "voting_district": "0",
                 "result_style": "EMS"
             },
@@ -4069,7 +4073,7 @@
                     "tl": "<strong>PINAPAHINTULUTAN ANG LEHISLATURA NA IBUKOD ANG MGA BAGONG TAYONG SISTEMA NA PANSALO NG ULAN SA KINAKAILANGANG MULING PAGTATASA NG BUWIS NG ARI-ARIAN. LEHISLATIBONG AMYENDA SA SALIGANG-BATAS.</strong> Pinapahintulutan ang Lehislatura na payagan ang konstruksiyon ng mga sistema na pansalo ng ulan, na makukumpleto sa o pagkalipas ng Enero 1, 2019, nang hindi kinakailangan ang muling pagtatasa ng buwis ng ari-arian. Epekto sa Pananalapi: Malamang ay maliit na bawas sa mga kita sa taunang pagbubuwis sa ari-arian sa mga lokal na pamahalaan.",
                     "zh": "<strong>允許州議會讓新建的集雨系統豁免於物業稅重估的規定。州議會憲法修正案。</strong>允許州議會能讓2019年1月1日或之後建造完成的集雨系統不需要接受物業稅重估。財政影響：地方政府每年的物業稅收入可能稍微減少。"
                 },
-                "approval_required": "Majority",
+                "approval_threshold": "Majority",
                 "choices": [
                     {
                         "_id": "030",
@@ -4093,6 +4097,7 @@
                         "sequence": "002"
                     }
                 ],
+                "approval_choice_id": "030",
                 "voting_district": "0",
                 "result_style": "EMS"
             },
@@ -4117,7 +4122,7 @@
                     "tl": "PLANO SA PAGPAPAHUPA NG TRAPIKO SA BAY AREA. Dapat bang pahintulutan ng mga botante ang isang planong bawasan ang trapiko ng auto at trak, bawasan ang siksikan sa BART, ayusin ang daloy sa mga pagsisiksikan sa freeway, at pabutihin ang serbisyo ng bus, ferry, BART at commuter rail alinsunod sa nakasaad sa plano sa librito ng botante na ito, sa pamamagitan ng $1 na dagdag sa toll simula 2019, $1 na dagdag sa 2022, at $1 na dagdag sa 2025, sa lahat ng tulay ng toll sa Bay Area maliban sa Golden Gate Bridge, na may independiyenteng pagbabantay sa lahat ng pondo?",
                     "zh": "灣區交通舒緩計劃。選民是否應授權一項計劃以減少汽車及卡車車流、舒緩灣區捷運人潮、疏通高速公路瓶頸，並改善公車、渡輪、灣區捷運和通勤鐵路運輸服務，按照選民手冊中所詳細說明之計劃，針對於除了金門大橋外，所有灣區收取通行費之橋樑，生效於2019年增加1美元通行費，2022年增加1美元並於2025年增加1美元，並對所有資金採取獨立監督？"
                 },
-                "approval_required": "Majority",
+                "approval_threshold": "Majority",
                 "choices": [
                     {
                         "_id": "032",
@@ -4141,6 +4146,7 @@
                         "sequence": "002"
                     }
                 ],
+                "approval_choice_id": "032",
                 "voting_district": "0",
                 "result_style": "EMS"
             },
@@ -4165,7 +4171,7 @@
                     "tl": "Dapat bang bigyan ng Lungsod ng awtorisasyon ang Public Utilities Commission o PUC (Komisyon para sa mga Pampublikong Serbisyo sa Koryente, Gas at Tubig) na maglabas ng revenue bonds (utang para sa proyektong kumikita) upang maipatayo o mapaghusay ang mga pasilidad para sa enerhiya na mabuti sa kapaligiran, kung may pag-apruba ng two-thirds (dalawa sa tatlong bahagi) ng Board of Supervisors (Lupon ng mga Superbisor), at pagbawalan ang PUC sa pagpipinansiya sa konstruksiyon ng power plants (plantang pinagmumulan ng koryente) na kumukuha ng koryente mula sa fossil fuels (nakabaong enerhiya) o lakas nukleyar?",
                     "zh": "市府是否應在獲得市參議會三分之二的議員批准下，授權三藩市公共事業委員會發行收益公債來興建或改善本市的清潔能源設施，並且禁止公共事業委員會資助興建利用化石燃料或核能生產電力的電廠？"
                 },
-                "approval_required": "Majority",
+                "approval_threshold": "Majority",
                 "choices": [
                     {
                         "_id": "034",
@@ -4189,6 +4195,7 @@
                         "sequence": "002"
                     }
                 ],
+                "approval_choice_id": "034",
                 "voting_district": "0",
                 "result_style": "EMS"
             },
@@ -4213,7 +4220,7 @@
                     "tl": "Dapat bang itakda ng Lungsod sa naitalagang mga miyembro ng lupon o komisyong itinatag sa pamamagitan ng Tsarter, na isuko ang kanilang itinalagang puwesto kapag nag-file sila ng pagtakbo para sa inihahalal na puwesto sa estado o lokal na gobyerno?",
                     "zh": "市府是否應要求依市憲章設立之理事會和委員會的被任命成員在申請參加州或地方民選職位競選時，放棄被任命的席位？"
                 },
-                "approval_required": "Majority",
+                "approval_threshold": "Majority",
                 "choices": [
                     {
                         "_id": "036",
@@ -4237,6 +4244,7 @@
                         "sequence": "002"
                     }
                 ],
+                "approval_choice_id": "036",
                 "voting_district": "0",
                 "result_style": "EMS"
             },
@@ -4261,7 +4269,7 @@
                     "tl": "Dapat bang magpataw ang Lungsod ng bagong gross receipts tax (buwis sa kabuuang kita) na 1% ng kita na tinatanggap ng mga negosyo mula sa pagpapaupa ng pang-warehouse na espasyo sa San Francisco, at 3.5% sa kitang tinatanggap ng negosyo mula sa pagpapaupa ng ilang komersiyal na espasyo sa San Francisco, nang mapondohan ang de-kalidad na maagang pangangalaga at edukasyon para sa musmos na bata at para sa iba pang pampublikong layunin?",
                     "zh": "市府是否應對企業在三藩市出租倉庫空間的所得，徵收一項新的1%營業總收入稅，並對企業在三藩市出租商業空間的所得，徵收3.5%的營業總收入稅，來資助優質托兒服務、幼兒教育以及其他公共用途？"
                 },
-                "approval_required": "Majority",
+                "approval_threshold": "Majority",
                 "choices": [
                     {
                         "_id": "038",
@@ -4285,6 +4293,7 @@
                         "sequence": "002"
                     }
                 ],
+                "approval_choice_id": "038",
                 "voting_district": "0",
                 "result_style": "EMS"
             },
@@ -4309,7 +4318,7 @@
                     "tl": "Dapat bang magpataw ang Lungsod ng bagong gross receipts tax (buwis sa kabuuang kita) na 1.7% ng kita na tinatanggap ng mga negosyo sa pagpapaupa ng ilang espasyong komersiyal sa San Francisco, at nang mapondohan ang mga serbisyo para sa kawalan ng tahanan, pabahay para sa mga kabahayang napakaliit hanggang katamtaman ang kita at para sa iba pang pampublikong layunin?",
                     "zh": "市府是否應對企業在三藩市出租某些商業空間的所得，徵收一項新的1.7%營業總收入稅，來資助無家可歸者服務、收入極低至收入中等家庭的住房以及其他公共用途？"
                 },
-                "approval_required": "2/3",
+                "approval_threshold": "2/3",
                 "choices": [
                     {
                         "_id": "040",
@@ -4333,6 +4342,7 @@
                         "sequence": "002"
                     }
                 ],
+                "approval_choice_id": "040",
                 "voting_district": "0",
                 "result_style": "EMS"
             },
@@ -4357,7 +4367,7 @@
                     "tl": "Dapat bang ipatupad ang ordinansa ng Lungsod na nagbabawal sa pagbebenta sa San Francisco ng mga may lasang produkto ng tabako?",
                     "zh": "市府是否應讓禁止在三藩市銷售調味煙草產品的市法令生效？"
                 },
-                "approval_required": "Majority",
+                "approval_threshold": "Majority",
                 "choices": [
                     {
                         "_id": "042",
@@ -4381,6 +4391,7 @@
                         "sequence": "002"
                     }
                 ],
+                "approval_choice_id": "042",
                 "voting_district": "0",
                 "result_style": "EMS"
             },
@@ -4405,7 +4416,7 @@
                     "tl": "Dapat bang magtatag, magpondo at magpatakbo ang Lungsod ng programa upang magkaloob ng legal na representasyon sa lahat ng nangungupahan sa residensiyal na gusali sa San Francisco na kumakaharap sa pagpapaalis sa tinitirhan?",
                     "zh": "市府是否應設立、資助並管理一項計劃，為三藩市所有面臨迫遷的住宅租客提供法律代表？"
                 },
-                "approval_required": "Majority",
+                "approval_threshold": "Majority",
                 "choices": [
                     {
                         "_id": "044",
@@ -4429,6 +4440,7 @@
                         "sequence": "002"
                     }
                 ],
+                "approval_choice_id": "044",
                 "voting_district": "0",
                 "result_style": "EMS"
             },
@@ -4453,7 +4465,7 @@
                     "tl": "Dapat bang mangolekta ang Lungsod ng taunang buwis na $298 kada parsela ng lupa para sa pamumuhunan sa edukasyon, kung saan may ilang hindi saklaw tulad ng para sa mga senior citizen o matatanda?",
                     "zh": "市府是否應向每地塊徵收298元年度稅金以用於教育投資，但有若干情況可獲豁免，包括長者？"
                 },
-                "approval_required": "Majority",
+                "approval_threshold": "Majority",
                 "choices": [
                     {
                         "_id": "046",
@@ -4477,6 +4489,7 @@
                         "sequence": "002"
                     }
                 ],
+                "approval_choice_id": "046",
                 "voting_district": "0",
                 "result_style": "EMS"
             },
@@ -4501,7 +4514,7 @@
                     "tl": "Dapat bang magtakda ang Lungsod ng polisiya ukol sa mga pagkakataon na puwedeng gumamit ang mga pulis ng taser at bigyan ng awtorisasyon ang Police Department (Departamento ng Pulisya) upang bumili ng taser para sa lahat ng pulis, basta’t mayroong mga espesipikong kondisyon?",
                     "zh": "市府是否應制定政策規定警察何時可使用電擊槍，並在特定條款約束下授權警察局為所有警察購買電擊槍？"
                 },
-                "approval_required": "Majority",
+                "approval_threshold": "Majority",
                 "choices": [
                     {
                         "_id": "048",
@@ -4525,6 +4538,7 @@
                         "sequence": "002"
                     }
                 ],
+                "approval_choice_id": "048",
                 "voting_district": "0",
                 "result_style": "EMS"
             },
@@ -4549,7 +4563,7 @@
                     "tl": "Dapat bang magpatupad ang Lungsod ng polisiya na hindi hihikayatin ang mga propesyonal na sports team (koponang pampalakasan) mula sa ibang lungsod na lumipat sa San Francisco, at upang tutulan ang anumang pangkat na nagmamay-ari ng sports team na sumusubok na umiwas sa pagbabayad ng pampublikong utang na mayroon pa sila?",
                     "zh": "市府是否應採取政策，不鼓勵其他城市的職業球隊搬至三藩市，並反對任何球隊的所有權集團企圖逃避支付未償的公債？"
                 },
-                "approval_required": "Majority",
+                "approval_threshold": "Majority",
                 "choices": [
                     {
                         "_id": "050",
@@ -4573,6 +4587,7 @@
                         "sequence": "002"
                     }
                 ],
+                "approval_choice_id": "050",
                 "voting_district": "0",
                 "result_style": "EMS"
             }
@@ -4587,7 +4602,7 @@
                 "zh": "總登記和投票率"
             },
             "voting_district": "0",
-            "result_style": "EMT"
+            "result_style": "EMTX"
         },
         "no_voter_precincts": [
             "1151",
@@ -9083,6 +9098,20 @@
             "description": "Turnout, subtotal by Election Day/VBM, with Eligible",
             "is_rcv": false,
             "result_stat_type_ids": "RSEli RSReg RSCst RSRej",
+            "voting_group_ids": "TO ED MV"
+        },
+        {
+            "_id": "EMTX2",
+            "description": "2 Card extended Turnout, subtotal by Election Day/VBM",
+            "is_rcv": false,
+            "result_stat_type_ids": "RSReg RSCst RSCnt RSCd1 RSCd2 RSPnd RSCha",
+            "voting_group_ids": "TO ED MV"
+        },
+        {
+            "_id": "EMTX",
+            "description": "Extended Turnout, subtotal by Election Day/VBM",
+            "is_rcv": false,
+            "result_stat_type_ids": "RSReg RSCst RSCnt RSPnd RSCha",
             "voting_group_ids": "TO ED MV"
         },
         {

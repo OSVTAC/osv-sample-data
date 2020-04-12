@@ -602,16 +602,21 @@
         "eligible_voters": 660296,
         "precincts_reporting": 604,
         "results_summary": [
-            "area_id\tsubtotal_type\tresult_stat\tALL\tAI\tAINPP\tDEM\tDEMNPP\tGRN\tLIB\tLIBNPP\tPF\tREP\tNPP\tNPPALL",
-            "ALL\tTO\tRSReg\t481991\t\t\t\t\t\t\t\t\t\t\t",
-            "ALL\tTO\tRSVot\t253583\t\t\t\t\t\t\t\t\t\t\t",
-            "ALL\tED\tRSReg\t160084\t\t\t\t\t\t\t\t\t\t\t",
-            "ALL\tED\tRSVot\t89756\t\t\t\t\t\t\t\t\t\t\t",
-            "ALL\tMV\tRSIss\t321907\t5746\t0\t188399\t1\t2507\t1972\t0\t861\t23351\t99070\t99071",
-            "ALL\tMV\tRSCst\t168390\t2234\t0\t104401\t1\t1387\t703\t0\t288\t12848\t46528\t46529",
-            "ALL\tMV\tRSCnt\t164711\t2175\t0\t102125\t1\t1363\t691\t0\t283\t12627\t45446\t45447",
-            "ALL\tMV\tRSPnd\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0",
-            "ALL\tMV\tRSCha\t3679\t59\t0\t2276\t0\t24\t12\t0\t5\t221\t1082\t1082"
+            "area_id\tsubtotal_type\tparty\tRSReg\tRSCst\tRSCnt\tRSPnd\tRSCha",
+            "ALL\tTO\tALL\t481991\t258146\t253583\t0\t3679",
+            "ALL\tED\tALL\t160084\t89756\t89756\t\t",
+            "ALL\tMV\tALL\t321907\t168390\t163827\t0\t3679",
+            "ALL\tMV\tAI\t5746\t2234\t2175\t0\t59",
+            "ALL\tMV\tAINPP\t0\t0\t0\t0\t0",
+            "ALL\tMV\tDEM\t188399\t104401\t102125\t0\t2276",
+            "ALL\tMV\tDEMNPP\t1\t1\t1\t0\t0",
+            "ALL\tMV\tGRN\t2507\t1387\t1363\t0\t24",
+            "ALL\tMV\tLIB\t1972\t703\t691\t0\t12",
+            "ALL\tMV\tLIBNPP\t0\t0\t0\t0\t0",
+            "ALL\tMV\tPF\t861\t288\t283\t0\t5",
+            "ALL\tMV\tREP\t23351\t12848\t12627\t0\t221",
+            "ALL\tMV\tNPP\t99070\t46528\t45446\t0\t1082",
+            "ALL\tMV\tNPPALL\t99071\t46529\t45447\t0\t1082"
         ],
         "total_precincts": 604
     }

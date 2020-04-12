@@ -8,6 +8,9 @@ candidate_map_file: candmap.tsv
 # Number of digits in the bt subdirectory for ballot type number
 bt_digits: 2
 
+# The result_style code for turnout giving voting_group_ids and result_stat_type_ids
+turnout_result_style: EMTX
+
 # External IDs might not be unique - Add the contest seq prefix
 cand_extid_prefix: N
 
