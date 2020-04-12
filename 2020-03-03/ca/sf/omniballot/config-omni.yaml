@@ -6,7 +6,7 @@ contest_map_file: contmap.tsv
 candidate_map_file: candmap.tsv
 
 # The district ID for all voters in this election:
-election_voting_district: 0
+election_voting_district: COSF
 
 # The result_style code for turnout giving voting_group_ids and result_stat_type_ids
 turnout_result_style: EMTX2
