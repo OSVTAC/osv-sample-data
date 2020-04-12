@@ -707,7 +707,7 @@
                     "tl": "MGA BOND O UTANG NG GOBYERNO NG SAN FRANCISCO PARA SA ABOT-KAYANG PABAHAY. Upang magkaroon ng pera sa konstruksiyon, pagpapaunlad, pagmamay-ari, at preserbasyon ng pabahay na abot-kaya para sa mga kabahayan na lubhang mababa, mababa at panggitna ang kita sa pamamagitan ng mga programang magbibigay ng prayoridad sa bulnerableng mga populasyon tulad ng nagtatrabahong mga pamilya, beterano, matatanda, at indibidwal na may kapansanan ng San Francisco; upang makatulong sa pagmamay-ari, rehabilitasyon, at preserbasyon ng naririyan nang abot-kayang pabahay, at sa gayon, mapigilan ang pagkawala ng tirahan ng mga residente; upang makumpuni at muling maipatayo ang distressed o lumang-luma na, at sira-sira nang mga development sa pampublikong pabahay, at ang pundasyong imprastruktura ng mga ito; upang makatulong sa panggitna ang kita na mga residente o manggagawa ng Lungsod sa pagkakaroon nila ng oportunidad para sa abot-kayang pag-upa o pagmamay-ari ng tahanan, kasama na ang tulong sa downpayment o paunang bayad, at suporta sa bagong konstruksiyon ng abot-kayang pabahay para sa mga empleyado ng San Francisco Unified School District (Pinag-isang Distritong Pampaaralan ng San Francisco) at City College of San Francisco (Kolehiyo ng Lungsod ng San Francisco); at upang mabayaran ang kaugnay na mga gastusin; dapat bang maglabas ng $600,000,000 na bond na general obligation (utang ng estado o lokal na gobyerno) na tatagal nang hanggang sa 30 taon mula sa panahon ng paglalabas nito, may tinatayang karaniwang halaga ng buwis na $0.019/$100 ng natasang halaga ng ari-arian, at may inaasahan na karaniwang taunang kita na $50,000,000, kung saan mapaiilalim ito sa independiyenteng pangangasiwa ng mga mamamayan at regular na pag-o-audit?",
                     "zh": "三藩市可負擔房屋債券。為了通過優先服務三藩市工薪家庭、退伍軍人、老年人及殘障者等弱勢人群的計劃來資助極低收入、低收入和中等收入家庭可負擔的房屋之建造、開發、收購與維護；為了協助對現有可負擔房屋的收購、修復和保留以防止居民流離失所；為了修繕和重建殘破老舊的公共房舍及其基礎設施；為了協助本市中等收入居民或工作者獲得可負擔的租賃或自有住宅的機會，包括補助首期以及支持為三藩市聯合校區和三藩市市立大學僱員新建可負擔房屋；以及為了支付相關費用；三藩市市縣是否應發行6億元一般義務債券，從發行日起為期至多30年，預估平均稅率為每100元物業估值0.019元，預計平均年度收入5,000萬元，並受到獨立公民監督及定期審計？"
                 },
-                "approval_required": "2/3",
+                "approval_threshold": "2/3",
                 "choices": [
                     {
                         "_id": "32",
@@ -731,6 +731,7 @@
                         "sequence": "2"
                     }
                 ],
+                "approval_choice_id": "32",
                 "voting_district": "CITY1",
                 "result_style": "EMS"
             },
@@ -758,7 +759,7 @@
                     "tl": "Dapat bang amyendahan ng Lungsod ang Tsarter nito upang mabago ang pangalan ng Department of Aging and Adult Services (Departamento ng mga Serbisyo sa Pagtanda at Nasa Sapat na Gulang) tungo sa Department of Disability and Aging Services (Departamento ng mga Serbisyo para sa Kapansanan at sa Pagtanda); upang mabago ang pangalan ng Aging and Adult Services Commission (Komisyon ng mga Serbisyo sa Pagtanda at Nasa Sapat na Gulang) tungo sa Disability and Aging Services Commission (Komisyon ng mga Serbisyo para sa Kapansanan at sa Pagtanda); at upang magdagdag ng mga bagong kuwalipikasyon para sa tatlo sa pitong posisyon sa Komisyong ito?",
                     "zh": "市府是否應修改市憲章，將老年與成年人服務部的名稱更改為殘障與老年服務部；將老年與成年人服務委員會的名稱更改為殘障與老年服務委員會；並對此委員會七個席位中的三席增加新的資格要求？"
                 },
-                "approval_required": "Majority",
+                "approval_threshold": "Majority",
                 "choices": [
                     {
                         "_id": "34",
@@ -782,6 +783,7 @@
                         "sequence": "2"
                     }
                 ],
+                "approval_choice_id": "34",
                 "voting_district": "CITY1",
                 "result_style": "EMS"
             },
@@ -809,7 +811,7 @@
                     "tl": "Dapat bang ipawalang-bisa ng Lungsod ang batas na ipinasa ng Board of Supervisors (Lupon ng mga Superbisor) na pinahihinto ang pagbebenta ng elektronikong sigarilyo hanggang sa makatanggap ang mga ito ng awtorisasyon ng FDA, at magpatibay ng mga bagong regulasyon ukol sa pagbebenta, pagmamanupaktura, at pamamahagi ng elektronikong sigarilyo, at sa paggawa ng adbertisment ukol sa mga ito, sa San Francisco?",
                     "zh": "市府是否應推翻市議會通過的暫停銷售電子煙直至其獲得美國食品與藥物管理局批准的法令，並採納新規定以規範電子煙在三藩市的售賣、製造、分銷和廣告？"
                 },
-                "approval_required": "Majority",
+                "approval_threshold": "Majority",
                 "choices": [
                     {
                         "_id": "36",
@@ -833,6 +835,7 @@
                         "sequence": "2"
                     }
                 ],
+                "approval_choice_id": "36",
                 "voting_district": "CITY1",
                 "result_style": "EMS"
             },
@@ -860,7 +863,7 @@
                     "tl": "Dapat bang magpataw ang Lungsod ng 1.5% buwis sa negosyo sa shared rides (tulad halimbawa ng Uber o Lyft) at ng 3.25% buwis sa negosyo sa mga pribadong pagsakay para sa pamasaheng sinisingil ng komersiyal na kompanyang ride-share at kompanya ng mga driverless-vehicle (sasakyang walang nagmamaneho), hanggang sa Nobyembre 5, 2045, na hahantong sa pagkakaroon ng tinatayang $30-35 milyon taon-taon, upang mapondohan ang mga pagpapahusay sa serbisyo ng Muni at kaligtasan ng mga bisikleta at naglalakad?",
                     "zh": "市府是否應對商業共乘以及無人駕駛車公司所收取的車費徵收一項1.5% 共乘營業稅以及一項3.25% 私乘營業稅，直到2045年11月5日為止，預估每年可增加3,000至3,500萬元的收入，用以資助Muni服務以及自行車和行人安全的改善工作？"
                 },
-                "approval_required": "2/3",
+                "approval_threshold": "2/3",
                 "choices": [
                     {
                         "_id": "38",
@@ -884,6 +887,7 @@
                         "sequence": "2"
                     }
                 ],
+                "approval_choice_id": "38",
                 "voting_district": "CITY1",
                 "result_style": "EMS"
             },
@@ -911,7 +915,7 @@
                     "tl": "Dapat bang amyendahan ng Lungsod ang Planning Code (Kodigo sa Pagpaplano) upang mapahintulutan ang 100% Mga Proyekto para sa Abot-Kayang Pabahay at Mga Proyektong Pabahay para sa mga Edukador sa mga public zoning district (sona sa distrito na para sa mga pampublikong pasilidad), at pabilisin ang pag-apruba sa mga proyektong ito?",
                     "zh": "市府是否應修改規劃法，允許於公共用地分區興建100%可負擔房屋和教育工作者房屋並加速批准這些項目？"
                 },
-                "approval_required": "Majority",
+                "approval_threshold": "Majority",
                 "choices": [
                     {
                         "_id": "40",
@@ -935,6 +939,7 @@
                         "sequence": "2"
                     }
                 ],
+                "approval_choice_id": "40",
                 "voting_district": "CITY1",
                 "result_style": "EMS"
             },
@@ -962,7 +967,7 @@
                     "tl": "Dapat bang magtakda ang Lungsod ng mga bagong restriksiyon sa mga kontribusyon sa kampanya ng lokal na inihahalal na opisyal at kandidato, at ipatupad ang bagong mga itinatakda sa disclaimer o pagtatatuwa na nasa adbertisment sa kampanya?",
                     "zh": "市府是否應對捐給地方民選官員和候選人的競選捐款設立新限制，並且對競選廣告作出新的免責聲明要求？"
                 },
-                "approval_required": "Majority",
+                "approval_threshold": "Majority",
                 "choices": [
                     {
                         "_id": "42",
@@ -986,6 +991,7 @@
                         "sequence": "2"
                     }
                 ],
+                "approval_choice_id": "42",
                 "voting_district": "CITY1",
                 "result_style": "EMS"
             }
@@ -1000,7 +1006,7 @@
                 "zh": "總登記和投票率"
             },
             "voting_district": "0",
-            "result_style": "EMTE"
+            "result_style": "EMTX"
         },
         "no_voter_precincts": [
             "1151",
@@ -4714,6 +4720,20 @@
             "description": "Turnout, subtotal by Election Day/VBM, with Eligible",
             "is_rcv": false,
             "result_stat_type_ids": "RSEli RSReg RSCst RSRej",
+            "voting_group_ids": "TO ED MV"
+        },
+        {
+            "_id": "EMTX2",
+            "description": "2 Card extended Turnout, subtotal by Election Day/VBM",
+            "is_rcv": false,
+            "result_stat_type_ids": "RSReg RSCst RSCnt RSCd1 RSCd2 RSPnd RSCha",
+            "voting_group_ids": "TO ED MV"
+        },
+        {
+            "_id": "EMTX",
+            "description": "Extended Turnout, subtotal by Election Day/VBM",
+            "is_rcv": false,
+            "result_stat_type_ids": "RSReg RSCst RSCnt RSPnd RSCha",
             "voting_group_ids": "TO ED MV"
         },
         {

@@ -153,7 +153,6 @@
             "_id": "361",
             "heading": "MEMBER, BOARD OF EDUCATION",
             "precincts_reporting": 474,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t26:JENNY LAM\t27:KIRSTEN STROBEL\t28:ROBERT K. COLEMAN",
                 "ALL\tTO\t495050\t206345\t0\t639\t41121\t164585\t0\t121154\t26036\t17395",
@@ -169,7 +168,6 @@
             "_id": "351",
             "heading": "MEMBER, COMMUNITY COLLEGE BOARD",
             "precincts_reporting": 474,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t30:IVY LEE",
                 "ALL\tTO\t495050\t206340\t0\t55\t48427\t157858\t0\t157858",
@@ -183,16 +181,15 @@
         },
         {
             "_id": "342",
+            "approval_met": true,
             "heading": "PROPOSITION A",
             "precincts_reporting": 474,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t32:YES\t33:NO",
                 "ALL\tTO\t495050\t206340\t0\t42\t5269\t201029\t143055\t57974",
                 "ALL\tED\t495050\t59414\t0\t11\t1414\t57989\t44590\t13399",
                 "ALL\tMV\t495050\t146926\t0\t31\t3855\t143040\t98465\t44575"
             ],
-            "success": true,
             "total_precincts": 474,
             "winning_status": {
                 "winning": "32:YES"
@@ -200,16 +197,15 @@
         },
         {
             "_id": "343",
+            "approval_met": true,
             "heading": "PROPOSITION B",
             "precincts_reporting": 474,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t34:YES\t35:NO",
                 "ALL\tTO\t495050\t206340\t0\t35\t12074\t194231\t152456\t41775",
                 "ALL\tED\t495050\t59414\t0\t7\t3393\t56014\t45329\t10685",
                 "ALL\tMV\t495050\t146926\t0\t28\t8681\t138217\t107127\t31090"
             ],
-            "success": true,
             "total_precincts": 474,
             "winning_status": {
                 "winning": "34:YES"
@@ -217,16 +213,15 @@
         },
         {
             "_id": "344",
+            "approval_met": false,
             "heading": "PROPOSITION C",
             "precincts_reporting": 474,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t36:YES\t37:NO",
                 "ALL\tTO\t495050\t206340\t0\t119\t4670\t201551\t36666\t164885",
                 "ALL\tED\t495050\t59414\t0\t32\t1301\t58081\t10092\t47989",
                 "ALL\tMV\t495050\t146926\t0\t87\t3369\t143470\t26574\t116896"
             ],
-            "success": false,
             "total_precincts": 474,
             "winning_status": {
                 "winning": "37:NO"
@@ -234,16 +229,15 @@
         },
         {
             "_id": "345",
+            "approval_met": true,
             "heading": "PROPOSITION D",
             "precincts_reporting": 474,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t38:YES\t39:NO",
                 "ALL\tTO\t495050\t206340\t0\t49\t5674\t200617\t135721\t64896",
                 "ALL\tED\t495050\t59414\t0\t13\t1618\t57783\t40886\t16897",
                 "ALL\tMV\t495050\t146926\t0\t36\t4056\t142834\t94835\t47999"
             ],
-            "success": true,
             "total_precincts": 474,
             "winning_status": {
                 "winning": "38:YES"
@@ -251,16 +245,15 @@
         },
         {
             "_id": "346",
+            "approval_met": true,
             "heading": "PROPOSITION E",
             "precincts_reporting": 474,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t40:YES\t41:NO",
                 "ALL\tTO\t495050\t206340\t0\t60\t7240\t199040\t151865\t47175",
                 "ALL\tED\t495050\t59414\t0\t19\t1870\t57525\t46079\t11446",
                 "ALL\tMV\t495050\t146926\t0\t41\t5370\t141515\t105786\t35729"
             ],
-            "success": true,
             "total_precincts": 474,
             "winning_status": {
                 "winning": "40:YES"
@@ -268,16 +261,15 @@
         },
         {
             "_id": "354",
+            "approval_met": true,
             "heading": "PROPOSITION F",
             "precincts_reporting": 474,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t42:YES\t43:NO",
                 "ALL\tTO\t495050\t206340\t0\t28\t9905\t196407\t151023\t45384",
                 "ALL\tED\t495050\t59414\t0\t8\t2694\t56712\t44143\t12569",
                 "ALL\tMV\t495050\t146926\t0\t20\t7211\t139695\t106880\t32815"
             ],
-            "success": true,
             "total_precincts": 474,
             "winning_status": {
                 "winning": "42:YES"
@@ -289,16 +281,17 @@
         "eligible_voters": 655825,
         "precincts_reporting": 474,
         "results_summary": [
-            "area_id\tsubtotal_type\tresult_stat\tALL\tAI\tDEM\tGRN\tLIB\tPF\tREP\tNPP",
-            "ALL\tTO\tRSReg\t495050\t8744\t292019\t3708\t3176\t1557\t32584\t156489",
-            "ALL\tTO\tRSVot\t206122\t\t\t\t\t\t\t",
-            "ALL\tED\tRSReg\t117753\t1951\t69287\t1191\t735\t405\t7614\t39797",
-            "ALL\tED\tRSVot\t59428\t\t\t\t\t\t\t",
-            "ALL\tMV\tRSIss\t377297\t6793\t222732\t2517\t2441\t1152\t24970\t116692",
-            "ALL\tMV\tRSCst\t151192\t1938\t95181\t1094\t647\t302\t10738\t41292",
-            "ALL\tMV\tRSCnt\t147636\t1870\t92884\t1069\t631\t289\t10556\t40337",
-            "ALL\tMV\tRSPnd\t7\t0\t4\t0\t0\t0\t1\t2",
-            "ALL\tMV\tRSCha\t3549\t68\t2293\t25\t16\t13\t181\t953"
+            "area_id\tsubtotal_type\tparty\tRSReg\tRSCst\tRSCnt\tRSPnd\tRSCha",
+            "ALL\tTO\tALL\t495050\t210620\t206122\t7\t3549",
+            "ALL\tED\tALL\t117918\t59428\t59428\t\t",
+            "ALL\tMV\tALL\t377297\t151192\t146694\t7\t3549",
+            "ALL\tMV\tAI\t6793\t1938\t1870\t0\t68",
+            "ALL\tMV\tDEM\t222732\t95181\t92884\t4\t2293",
+            "ALL\tMV\tGRN\t2517\t1094\t1069\t0\t25",
+            "ALL\tMV\tLIB\t2441\t647\t631\t0\t16",
+            "ALL\tMV\tPF\t1152\t302\t289\t0\t13",
+            "ALL\tMV\tREP\t24970\t10738\t10556\t1\t181",
+            "ALL\tMV\tNPP\t116692\t41292\t40337\t2\t953"
         ],
         "total_precincts": 474
     }
