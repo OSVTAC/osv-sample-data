@@ -84,22 +84,18 @@ contest_name_corrections:
         - ^{number}$=State Proposition {number}
 
 district_code_map:
-    0:COSF
+    0: COSF
 
 extra_districts:
-    #- _id: STATE
-      #name: State of California"
-      #short_name: California
-      #classification: State
-    - _id: COSM
+    COSM:
       name: County of San Mateo
       short_name: San Mateo County
       classification: County
-    - _id: COALM
+    COALM:
       name: County of Alameda
       short_name: Alameda County
       classification: County
-    - _id: XCOSF
+    XCOSF:
       name: Outside of San Francisco County
       classification: Outside County
 
