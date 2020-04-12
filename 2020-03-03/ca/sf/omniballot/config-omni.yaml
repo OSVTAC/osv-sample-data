@@ -9,7 +9,7 @@ candidate_map_file: candmap.tsv
 election_voting_district: 0
 
 # The result_style code for turnout giving voting_group_ids and result_stat_type_ids
-turnout_result_style: EMTE
+turnout_result_style: EMTX2
 
 # Number of digits in the bt subdirectory for ballot type number
 bt_digits: 3
