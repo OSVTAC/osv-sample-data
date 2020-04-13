@@ -3397,7 +3397,7 @@
                     }
                 ],
                 "header_id": "000",
-                "max_ranked": "6",
+                "max_ranked": 6,
                 "name": {
                     "en": "Mayor",
                     "es": "Alcalde",
@@ -3412,7 +3412,7 @@
                     "tl": "Bigyan ng ranggo ang hanggang 6 kandidato",
                     "zh": "最多可排序六個選擇"
                 },
-                "votes_allowed": "6",
+                "votes_allowed": 6,
                 "voting_district": "CITY1",
                 "writeins_allowed": 1
             },
@@ -3489,7 +3489,7 @@
                     }
                 ],
                 "header_id": "000",
-                "max_ranked": "4",
+                "max_ranked": 4,
                 "name": {
                     "en": "Member, Board of Supervisors, District 5",
                     "es": "Miembro, Consejo De Supervisores, Distrito 5",
@@ -3504,7 +3504,7 @@
                     "tl": "Bigyan ng ranggo ang hanggang 4 kandidato",
                     "zh": "最多可排序四個選擇"
                 },
-                "votes_allowed": "4",
+                "votes_allowed": 4,
                 "voting_district": "SUPV5",
                 "writeins_allowed": 1
             },
@@ -3536,7 +3536,7 @@
                     }
                 ],
                 "header_id": "000",
-                "max_ranked": "3",
+                "max_ranked": 3,
                 "name": {
                     "en": "City Attorney",
                     "es": "Abogado De La Ciudad",
@@ -3551,7 +3551,7 @@
                     "tl": "Bigyan ng ranggo ang hanggang 3 kandidato",
                     "zh": "最多可排序三個選擇"
                 },
-                "votes_allowed": "3",
+                "votes_allowed": 3,
                 "voting_district": "CITY1",
                 "writeins_allowed": 2
             },
@@ -3628,7 +3628,7 @@
                     }
                 ],
                 "header_id": "000",
-                "max_ranked": "4",
+                "max_ranked": 4,
                 "name": {
                     "en": "District Attorney",
                     "es": "Fiscal De Distrito",
@@ -3643,7 +3643,7 @@
                     "tl": "Bigyan ng ranggo ang hanggang 4 kandidato",
                     "zh": "最多可排序四個選擇"
                 },
-                "votes_allowed": "4",
+                "votes_allowed": 4,
                 "voting_district": "CITY1",
                 "writeins_allowed": 1
             },
@@ -3675,7 +3675,7 @@
                     }
                 ],
                 "header_id": "000",
-                "max_ranked": "3",
+                "max_ranked": 3,
                 "name": {
                     "en": "Public Defender",
                     "es": "Defensor Público",
@@ -3690,7 +3690,7 @@
                     "tl": "Bigyan ng ranggo ang hanggang 3 kandidato",
                     "zh": "最多可排序三個選擇"
                 },
-                "votes_allowed": "3",
+                "votes_allowed": 3,
                 "voting_district": "CITY1",
                 "writeins_allowed": 2
             },
@@ -3721,7 +3721,7 @@
                     }
                 ],
                 "header_id": "000",
-                "max_ranked": "3",
+                "max_ranked": 3,
                 "name": {
                     "en": "Sheriff",
                     "es": "Alguacil",
@@ -3735,7 +3735,7 @@
                     "tl": "Bigyan ng ranggo ang hanggang 3 kandidato",
                     "zh": "最多可排序三個選擇"
                 },
-                "votes_allowed": "3",
+                "votes_allowed": 3,
                 "voting_district": "CITY1",
                 "writeins_allowed": 2
             },
@@ -3767,7 +3767,7 @@
                     }
                 ],
                 "header_id": "000",
-                "max_ranked": "3",
+                "max_ranked": 3,
                 "name": {
                     "en": "Treasurer",
                     "es": "Tesorero",
@@ -3782,7 +3782,7 @@
                     "tl": "Bigyan ng ranggo ang hanggang 3 kandidato",
                     "zh": "最多可排序三個選擇"
                 },
-                "votes_allowed": "3",
+                "votes_allowed": 3,
                 "voting_district": "CITY1",
                 "writeins_allowed": 2
             },
