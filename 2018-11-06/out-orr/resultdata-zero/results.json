@@ -1,5353 +1,707 @@
 {
     "_reporting_time": "2018-11-27 12:03:50",
-    "_results_format": "0.2",
+    "_results_format": "0.3",
     "_results_id": "zero",
+    "_results_status": "Zero",
     "_results_title": {
         "en": "Zero Report"
     },
     "contests": [
         {
             "_id": "100",
-            "choices": [
-                {
-                    "_id": "072",
-                    "ballot_title": "JOHN H. COX",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "073",
-                    "ballot_title": "GAVIN NEWSOM",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "Governor",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t072:JOHN H. COX\t073:GAVIN NEWSOM",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "105",
-            "choices": [
-                {
-                    "_id": "074",
-                    "ballot_title": "ED HERNANDEZ",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "075",
-                    "ballot_title": "ELENI KOUNALAKIS",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "Lieutenant Governor",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t074:ED HERNANDEZ\t075:ELENI KOUNALAKIS",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "110",
-            "choices": [
-                {
-                    "_id": "076",
-                    "ballot_title": "ALEX PADILLA",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "077",
-                    "ballot_title": "MARK P. MEUSER",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "Secretary of State",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t076:ALEX PADILLA\t077:MARK P. MEUSER",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "115",
-            "choices": [
-                {
-                    "_id": "078",
-                    "ballot_title": "KONSTANTINOS RODITIS",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "079",
-                    "ballot_title": "BETTY T. YEE",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "State Controller",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t078:KONSTANTINOS RODITIS\t079:BETTY T. YEE",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "120",
-            "choices": [
-                {
-                    "_id": "080",
-                    "ballot_title": "GREG CONLON",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "081",
-                    "ballot_title": "FIONA MA",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "State Treasurer",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t080:GREG CONLON\t081:FIONA MA",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "125",
-            "choices": [
-                {
-                    "_id": "082",
-                    "ballot_title": "STEVEN C BAILEY",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "083",
-                    "ballot_title": "XAVIER BECERRA",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "Attorney General",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t082:STEVEN C BAILEY\t083:XAVIER BECERRA",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "130",
-            "choices": [
-                {
-                    "_id": "084",
-                    "ballot_title": "RICARDO LARA",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "085",
-                    "ballot_title": "STEVE POIZNER",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "Insurance Commissioner",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t084:RICARDO LARA\t085:STEVE POIZNER",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "135",
-            "choices": [
-                {
-                    "_id": "086",
-                    "ballot_title": "MALIA COHEN",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "087",
-                    "ballot_title": "MARK BURNS",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "Board of Equalization, District 2",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t086:MALIA COHEN\t087:MARK BURNS",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "140",
-            "choices": [
-                {
-                    "_id": "088",
-                    "ballot_title": "DIANNE FEINSTEIN",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "089",
-                    "ballot_title": "KEVIN DE LEON",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "U.S. Senator",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t088:DIANNE FEINSTEIN\t089:KEVIN DE LEON",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "145",
-            "choices": [
-                {
-                    "_id": "090",
-                    "ballot_title": "LISA REMMER",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "091",
-                    "ballot_title": "NANCY PELOSI",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954"
-            ],
+            "heading": "U.S. Representative, District 12",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "443570",
-                        "443570",
-                        "443570"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t090:LISA REMMER\t091:NANCY PELOSI",
+                "ALL\tTO\t443570\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t443570\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t443570\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 529
+            "total_precincts": 529,
+            "winning_status": {}
         },
         {
             "_id": "150",
-            "choices": [
-                {
-                    "_id": "092",
-                    "ballot_title": "BARBARA LEE",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "156",
-                    "ballot_title": "LAURA WELLS",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT9900"
-            ],
+            "heading": "U.S. Representative, District 13",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t092:BARBARA LEE\t156:LAURA WELLS",
+                "ALL\tTO\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t0\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 1
+            "total_precincts": 1,
+            "winning_status": {}
         },
         {
             "_id": "155",
-            "choices": [
-                {
-                    "_id": "093",
-                    "ballot_title": "CRISTINA OSMEÑA",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "094",
-                    "ballot_title": "JACKIE SPEIER",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "U.S. Representative, District 14",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "56946",
-                        "56946",
-                        "56946"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t093:CRISTINA OSMEÑA\t094:JACKIE SPEIER",
+                "ALL\tTO\t56946\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t56946\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t56946\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 74
+            "total_precincts": 74,
+            "winning_status": {}
         },
         {
             "_id": "160",
-            "choices": [
-                {
-                    "_id": "095",
-                    "ballot_title": "DAVID CHIU",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "096",
-                    "ballot_title": "ALEJANDRO FERNANDEZ",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "State Assembly, District 17",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "291063",
-                        "291063",
-                        "291063"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t095:DAVID CHIU\t096:ALEJANDRO FERNANDEZ",
+                "ALL\tTO\t291063\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t291063\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t291063\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 353
+            "total_precincts": 353,
+            "winning_status": {}
         },
         {
             "_id": "165",
-            "choices": [
-                {
-                    "_id": "097",
-                    "ballot_title": "PHIL TING",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "098",
-                    "ballot_title": "KEITH BOGDON",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [],
+            "heading": "State Assembly, District 19",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "209453",
-                        "209453",
-                        "209453"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t097:PHIL TING\t098:KEITH BOGDON",
+                "ALL\tTO\t209453\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t209453\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t209453\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 251
+            "total_precincts": 251,
+            "winning_status": {}
         },
         {
             "_id": "170",
-            "choices": [
-                {
-                    "_id": "099",
-                    "ballot_title": "MONICA CHINCHILLA",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "100",
-                    "ballot_title": "ALISON COLLINS",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "101",
-                    "ballot_title": "JOSEPHINE ZHAO",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "102",
-                    "ballot_title": "MARTIN RAWLINGS-FEIN",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "103",
-                    "ballot_title": "GABRIELA LÓPEZ",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "104",
-                    "ballot_title": "LI MIAO LOVETT",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "105",
-                    "ballot_title": "LEX LEIFHEIT",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "106",
-                    "ballot_title": "ALIDA FISHER",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "107",
-                    "ballot_title": "PHILLIP MARCEL HOUSE",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "108",
-                    "ballot_title": "MICHELLE PARKER",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "109",
-                    "ballot_title": "DARRON A. PADILLA",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "110",
-                    "ballot_title": "PAUL KANGAS",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "111",
-                    "ballot_title": "CONNOR KRONE",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "112",
-                    "ballot_title": "PHIL KIM",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "113",
-                    "ballot_title": "JOHN TRASVIÑA",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "114",
-                    "ballot_title": "LENETTE THOMPSON",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "115",
-                    "ballot_title": "FAAUUGA MOLIGA",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "116",
-                    "ballot_title": "MIA SATYA",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "117",
-                    "ballot_title": "ROGER SINASOHN",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "Member, Board of Education",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSWri",
-                    "heading": "Writein Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t099:MONICA CHINCHILLA\t100:ALISON COLLINS\t101:JOSEPHINE ZHAO\t102:MARTIN RAWLINGS-FEIN\t103:GABRIELA LÓPEZ\t104:LI MIAO LOVETT\t105:LEX LEIFHEIT\t106:ALIDA FISHER\t107:PHILLIP MARCEL HOUSE\t108:MICHELLE PARKER\t109:DARRON A. PADILLA\t110:PAUL KANGAS\t111:CONNOR KRONE\t112:PHIL KIM\t113:JOHN TRASVIÑA\t114:LENETTE THOMPSON\t115:FAAUUGA MOLIGA\t116:MIA SATYA\t117:ROGER SINASOHN",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "235",
-            "choices": [
-                {
-                    "_id": "118",
-                    "ballot_title": "MARSHALL TUCK",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "119",
-                    "ballot_title": "TONY K. THURMOND",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "Superintendent of Public Instruction",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSWri",
-                    "heading": "Writein Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t118:MARSHALL TUCK\t119:TONY K. THURMOND",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "240",
-            "choices": [
-                {
-                    "_id": "120",
-                    "ballot_title": "JOHN RIZZO",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "121",
-                    "ballot_title": "BRIGITTE DAVILA",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "122",
-                    "ballot_title": "VICTOR OLIVIERI",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "123",
-                    "ballot_title": "THEA SELBY",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "Member, Community College Board",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSWri",
-                    "heading": "Writein Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t120:JOHN RIZZO\t121:BRIGITTE DAVILA\t122:VICTOR OLIVIERI\t123:THEA SELBY",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "245",
-            "choices": [
-                {
-                    "_id": "124",
-                    "ballot_title": "EVA I. CHAO",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "125",
-                    "ballot_title": "BRIAN J. LARKIN",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "126",
-                    "ballot_title": "JONATHAN LYENS",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "127",
-                    "ballot_title": "JANICE LI",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "128",
-                    "ballot_title": "MELANIE NUTTER",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "129",
-                    "ballot_title": "WILLIAM WALKER",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954"
-            ],
+            "heading": "BART Director, District 8",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "223735",
-                        "223735",
-                        "223735"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSWri",
-                    "heading": "Writein Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t124:EVA I. CHAO\t125:BRIAN J. LARKIN\t126:JONATHAN LYENS\t127:JANICE LI\t128:MELANIE NUTTER\t129:WILLIAM WALKER",
+                "ALL\tTO\t223735\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t223735\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t223735\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 266
+            "total_precincts": 266,
+            "winning_status": {}
         },
         {
             "_id": "250",
-            "choices": [
-                {
-                    "_id": "130",
-                    "ballot_title": "CARMEN CHU",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "131",
-                    "ballot_title": "PAUL BELLAR",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "Assessor-Recorder",
             "precincts_reporting": 0,
             "rcv_rounds": 1,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSExh",
-                    "heading": "Exhausted Ballots",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSWri",
-                    "heading": "Writein Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t130:CARMEN CHU\t131:PAUL BELLAR",
+                "RCV1\tTO\t500516\t0\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "265",
-            "choices": [
-                {
-                    "_id": "132",
-                    "ballot_title": "JEFF ADACHI",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "Public Defender",
             "precincts_reporting": 0,
             "rcv_rounds": 1,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSExh",
-                    "heading": "Exhausted Ballots",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSWri",
-                    "heading": "Writein Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t132:JEFF ADACHI",
+                "RCV1\tTO\t500516\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "280",
-            "choices": [
-                {
-                    "_id": "133",
-                    "ballot_title": "NICK JOSEFOWITZ",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "134",
-                    "ballot_title": "JOHN DENNIS",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "135",
-                    "ballot_title": "SCHUYLER HUDAK",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "136",
-                    "ballot_title": "CATHERINE STEFANI",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [],
+            "heading": "Board of Supervisors, District 2",
             "precincts_reporting": 0,
             "rcv_rounds": 1,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "50394",
-                        "50394",
-                        "50394"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSExh",
-                    "heading": "Exhausted Ballots",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSWri",
-                    "heading": "Writein Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t133:NICK JOSEFOWITZ\t134:JOHN DENNIS\t135:SCHUYLER HUDAK\t136:CATHERINE STEFANI",
+                "RCV1\tTO\t50394\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tTO\t50394\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t50394\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t50394\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 62
+            "total_precincts": 62,
+            "winning_status": {}
         },
         {
             "_id": "285",
-            "choices": [
-                {
-                    "_id": "137",
-                    "ballot_title": "JESSICA HO",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "138",
-                    "ballot_title": "ADAM KIM",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "139",
-                    "ballot_title": "TUAN NGUYEN",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "140",
-                    "ballot_title": "ARTHUR TOM",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "141",
-                    "ballot_title": "TREVOR MCNEIL",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "142",
-                    "ballot_title": "GORDON MAR",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "143",
-                    "ballot_title": "MIKE MURPHY",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "144",
-                    "ballot_title": "LOU ANN BASSAN",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [],
+            "heading": "Board of Supervisors, District 4",
             "precincts_reporting": 0,
             "rcv_rounds": 1,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "42953",
-                        "42953",
-                        "42953"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSExh",
-                    "heading": "Exhausted Ballots",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSWri",
-                    "heading": "Writein Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t137:JESSICA HO\t138:ADAM KIM\t139:TUAN NGUYEN\t140:ARTHUR TOM\t141:TREVOR MCNEIL\t142:GORDON MAR\t143:MIKE MURPHY\t144:LOU ANN BASSAN",
+                "RCV1\tTO\t42953\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tTO\t42953\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t42953\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t42953\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 48
+            "total_precincts": 48,
+            "winning_status": {}
         },
         {
             "_id": "290",
-            "choices": [
-                {
-                    "_id": "145",
-                    "ballot_title": "CHRISTINE JOHNSON",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "146",
-                    "ballot_title": "MATT HANEY",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "147",
-                    "ballot_title": "SONJA TRAUSS",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [],
+            "heading": "Board of Supervisors, District 6",
             "precincts_reporting": 0,
             "rcv_rounds": 1,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "43321",
-                        "43321",
-                        "43321"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSExh",
-                    "heading": "Exhausted Ballots",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSWri",
-                    "heading": "Writein Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t145:CHRISTINE JOHNSON\t146:MATT HANEY\t147:SONJA TRAUSS",
+                "RCV1\tTO\t43321\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tTO\t43321\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t43321\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t43321\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 48
+            "total_precincts": 48,
+            "winning_status": {}
         },
         {
             "_id": "295",
-            "choices": [
-                {
-                    "_id": "148",
-                    "ballot_title": "LAWRENCE ''STARK'' DAGESSE",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "149",
-                    "ballot_title": "RAFAEL MANDELMAN",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT9901"
-            ],
+            "heading": "Board of Supervisors, District 8",
             "precincts_reporting": 0,
             "rcv_rounds": 1,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "58122",
-                        "58122",
-                        "58122"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSExh",
-                    "heading": "Exhausted Ballots",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSWri",
-                    "heading": "Writein Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t148:LAWRENCE ''STARK'' DAGESSE\t149:RAFAEL MANDELMAN",
+                "RCV1\tTO\t58122\t0\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tTO\t58122\t0\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t58122\t0\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t58122\t0\t0\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 71
+            "total_precincts": 71,
+            "winning_status": {}
         },
         {
             "_id": "300",
-            "choices": [
-                {
-                    "_id": "150",
-                    "ballot_title": "ASALE CHANDLER",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "151",
-                    "ballot_title": "UZURI PEASE-GREENE",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "152",
-                    "ballot_title": "TONY KELLY",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "153",
-                    "ballot_title": "SHAMANN WALTON",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "154",
-                    "ballot_title": "THEO ELLINGTON",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "155",
-                    "ballot_title": "GLORIA BERRY",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "157",
-                    "ballot_title": "NEO VEAVEA",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT9900"
-            ],
+            "heading": "Board of Supervisors, District 10",
             "precincts_reporting": 0,
             "rcv_rounds": 1,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "41862",
-                        "41862",
-                        "41862"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSExh",
-                    "heading": "Exhausted Ballots",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSWri",
-                    "heading": "Writein Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t150:ASALE CHANDLER\t151:UZURI PEASE-GREENE\t152:TONY KELLY\t153:SHAMANN WALTON\t154:THEO ELLINGTON\t155:GLORIA BERRY\t157:NEO VEAVEA",
+                "RCV1\tTO\t41862\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tTO\t41862\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t41862\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t41862\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 53
+            "total_precincts": 53,
+            "winning_status": {}
         },
         {
             "_id": "305",
-            "choices": [
-                {
-                    "_id": "004",
-                    "ballot_title": "Yes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "005",
-                    "ballot_title": "No",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "Sup Ct. Assoc Justice CORRIGAN",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t004:Yes\t005:No",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "310",
-            "choices": [
-                {
-                    "_id": "006",
-                    "ballot_title": "Yes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "007",
-                    "ballot_title": "No",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "Sup Ct. Assoc Justice KRUGER",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t006:Yes\t007:No",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "315",
-            "choices": [
-                {
-                    "_id": "008",
-                    "ballot_title": "Yes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "009",
-                    "ballot_title": "No",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "COA Div 1 Presiding Justice HUMES",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t008:Yes\t009:No",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "320",
-            "choices": [
-                {
-                    "_id": "010",
-                    "ballot_title": "Yes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "011",
-                    "ballot_title": "No",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "COA Div 1 Assoc Justice MARGULIES",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t010:Yes\t011:No",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "325",
-            "choices": [
-                {
-                    "_id": "012",
-                    "ballot_title": "Yes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "013",
-                    "ballot_title": "No",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "COA Div 2 Assoc Justice RICHMAN",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t012:Yes\t013:No",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "330",
-            "choices": [
-                {
-                    "_id": "014",
-                    "ballot_title": "Yes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "015",
-                    "ballot_title": "No",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "COA Div 2 Assoc Justice MILLER",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t014:Yes\t015:No",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "335",
-            "choices": [
-                {
-                    "_id": "016",
-                    "ballot_title": "Yes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "017",
-                    "ballot_title": "No",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "COA Div 3 Presiding Justice SIGGINS",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t016:Yes\t017:No",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "340",
-            "choices": [
-                {
-                    "_id": "018",
-                    "ballot_title": "Yes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "019",
-                    "ballot_title": "No",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "COA Div 4 Assoc Justice STREETER",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t018:Yes\t019:No",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "345",
-            "choices": [
-                {
-                    "_id": "020",
-                    "ballot_title": "Yes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "021",
-                    "ballot_title": "No",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "COA Div 4 Assoc Juctice TUCHER",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t020:Yes\t021:No",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "350",
-            "choices": [
-                {
-                    "_id": "022",
-                    "ballot_title": "Yes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "023",
-                    "ballot_title": "No",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "COA Div 5 Presiding Juctice JONES",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t022:Yes\t023:No",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "355",
-            "choices": [
-                {
-                    "_id": "040",
-                    "ballot_title": "Yes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "041",
-                    "ballot_title": "No",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "State Proposition 1",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t040:Yes\t041:No",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "360",
-            "choices": [
-                {
-                    "_id": "042",
-                    "ballot_title": "Yes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "043",
-                    "ballot_title": "No",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "State Proposition 2",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t042:Yes\t043:No",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "365",
-            "choices": [
-                {
-                    "_id": "044",
-                    "ballot_title": "Yes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "045",
-                    "ballot_title": "No",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "State Proposition 3",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t044:Yes\t045:No",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "370",
-            "choices": [
-                {
-                    "_id": "046",
-                    "ballot_title": "Yes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "047",
-                    "ballot_title": "No",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "State Proposition 4",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t046:Yes\t047:No",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "375",
-            "choices": [
-                {
-                    "_id": "048",
-                    "ballot_title": "Yes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "049",
-                    "ballot_title": "No",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "State Proposition 5",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t048:Yes\t049:No",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "380",
-            "choices": [
-                {
-                    "_id": "050",
-                    "ballot_title": "Yes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "051",
-                    "ballot_title": "No",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "State Proposition 6",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t050:Yes\t051:No",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "385",
-            "choices": [
-                {
-                    "_id": "052",
-                    "ballot_title": "Yes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "053",
-                    "ballot_title": "No",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "State Proposition 7",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t052:Yes\t053:No",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "390",
-            "choices": [
-                {
-                    "_id": "054",
-                    "ballot_title": "Yes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "055",
-                    "ballot_title": "No",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "State Proposition 8",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t054:Yes\t055:No",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "395",
-            "choices": [
-                {
-                    "_id": "056",
-                    "ballot_title": "Yes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "057",
-                    "ballot_title": "No",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "State Proposition 10",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t056:Yes\t057:No",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "400",
-            "choices": [
-                {
-                    "_id": "058",
-                    "ballot_title": "Yes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "059",
-                    "ballot_title": "No",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "State Proposition 11",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t058:Yes\t059:No",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "405",
-            "choices": [
-                {
-                    "_id": "060",
-                    "ballot_title": "Yes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "061",
-                    "ballot_title": "No",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "State Proposition 12",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t060:Yes\t061:No",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "410",
-            "choices": [
-                {
-                    "_id": "062",
-                    "ballot_title": "Yes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "063",
-                    "ballot_title": "No",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "Local Measure A",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t062:Yes\t063:No",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "415",
-            "choices": [
-                {
-                    "_id": "064",
-                    "ballot_title": "Yes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "065",
-                    "ballot_title": "No",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "Local Measure B",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t064:Yes\t065:No",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "420",
-            "choices": [
-                {
-                    "_id": "066",
-                    "ballot_title": "Yes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "067",
-                    "ballot_title": "No",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "Local Measure C",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t066:Yes\t067:No",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "425",
-            "choices": [
-                {
-                    "_id": "068",
-                    "ballot_title": "Yes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "069",
-                    "ballot_title": "No",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "Local Measure D",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t068:Yes\t069:No",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         },
         {
             "_id": "430",
-            "choices": [
-                {
-                    "_id": "070",
-                    "ballot_title": "Yes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                },
-                {
-                    "_id": "071",
-                    "ballot_title": "No",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ],
-                    "success": "",
-                    "winning_status": ""
-                }
-            ],
-            "no_voter_precincts": [
-                "PCT1151",
-                "PCT1154",
-                "PCT7954",
-                "PCT9900",
-                "PCT9901",
-                "PCT9902"
-            ],
+            "heading": "Local Measure E",
             "precincts_reporting": 0,
-            "rcv_rounds": 0,
-            "result_stats": [
-                {
-                    "_id": "RSReg",
-                    "heading": "Registered Voters",
-                    "results": [
-                        "500516",
-                        "500516",
-                        "500516"
-                    ]
-                },
-                {
-                    "_id": "RSCst",
-                    "heading": "Ballots Cast",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSRej",
-                    "heading": "Ballots Rejected",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSOvr",
-                    "heading": "Overvotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSUnd",
-                    "heading": "Undervotes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                },
-                {
-                    "_id": "RSTot",
-                    "heading": "Total Votes",
-                    "results": [
-                        "0",
-                        "0",
-                        "0"
-                    ]
-                }
+            "results_summary": [
+                "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t070:Yes\t071:No",
+                "ALL\tTO\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tED\t500516\t0\t0\t0\t0\t0\t0\t0",
+                "ALL\tMV\t500516\t0\t0\t0\t0\t0\t0\t0"
             ],
-            "total_precincts": 604
+            "total_precincts": 604,
+            "winning_status": {}
         }
     ],
     "turnout": {
         "_id": "TURNOUT",
-        "no_voter_precincts": [],
+        "eligible_voters": 660296,
         "precincts_reporting": 0,
-        "result_stats": [
-            {
-                "_id": "RSEli",
-                "heading": "Eligible Voters",
-                "results": [
-                    "660296",
-                    "660296",
-                    "660296"
-                ]
-            },
-            {
-                "_id": "RSReg",
-                "heading": "Registered Voters",
-                "results": [
-                    0,
-                    0,
-                    0
-                ]
-            },
-            {
-                "_id": "RSCst",
-                "heading": "Ballots Cast",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            },
-            {
-                "_id": "RSRej",
-                "heading": "Ballots Challenged",
-                "results": [
-                    "0",
-                    "0",
-                    "0"
-                ]
-            }
+        "results_summary": [
+            "area_id\tsubtotal_type\tparty\tRSReg\tRSCst\tRSCnt\tRSPnd\tRSCha",
+            "ALL\tTO\tALL\t500516\t0\t0\t0\t0",
+            "ALL\tED\tALL\t133232\t0\t0\t\t",
+            "ALL\tMV\tALL\t367432\t0\t0\t0\t0",
+            "ALL\tMV\tAI\t6119\t0\t0\t0\t0",
+            "ALL\tMV\tDEM\t211862\t0\t0\t0\t0",
+            "ALL\tMV\tGRN\t2685\t0\t0\t0\t0",
+            "ALL\tMV\tLIB\t2234\t0\t0\t0\t0",
+            "ALL\tMV\tPF\t947\t0\t0\t0\t0",
+            "ALL\tMV\tREP\t24417\t0\t0\t0\t0",
+            "ALL\tMV\tNPP\t117148\t0\t0\t0\t0"
         ],
-        "total_precincts": "604"
+        "total_precincts": 604
     }
 }
