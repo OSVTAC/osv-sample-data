@@ -52,3 +52,69 @@ contest_name_corrections:
     zh:
         - ^{letter}$=测量{letter}
         - ^{number}$=命题{number}
+
+
+# The district ID for all voters in this election:
+election_voting_district: COSF
+
+district_code_map:
+    0: COSF
+
+external_id_prefixes:
+    dfm:
+        organization: County of San Francisco
+        url: https://sfelections.sfgov.org/data-and-maps
+        code_group: DFM EMS
+    ds:
+        organization: County of San Francisco
+        url: https://sfelections.sfgov.org/data-and-maps
+        code_group: Dominion Democracy Suite
+    om:
+        organization: Democracy Live
+        url: https://sites.omniballot.us/06075/app/sb/election
+        code_group: Omniballot RAVBM id
+    omx:
+        organization: Democracy Live
+        url: https://sites.omniballot.us/06075/app/sb/election
+        code_group: Omniballot RAVBM external_id
+    fp:
+        organization: American National Standards Institute
+        url: https://www.census.gov/library/reference/code-lists/ansi.html
+        code_group: States
+    fs:
+        organization: American National Standards Institute
+        url: https://www.census.gov/library/reference/code-lists/ansi.html
+        code_group: Places
+        code_prefix: '06'
+    fc:
+        organization: American National Standards Institute
+        url: https://www.census.gov/library/reference/code-lists/ansi.html
+        code_group: Counties
+        code_prefix: '06'
+    fe:
+        organization: American National Standards Institute
+        url: https://www.census.gov/library/reference/code-lists/ansi.html
+        code_group: School Districts
+        code_prefix: '06'
+    cde:
+        organization: California Department of Education
+        url: https://www.cde.ca.gov/ds/si/ds/
+        code_group: County-District-School Codes
+    csc:
+        organization: California State Controller
+        url: https://bythenumbers.sco.ca.gov/Special-Districts/Special-Districts-Listing/fv6y-3v29
+        code_group: Special District Entity ID
+    ocd:
+        organization: Open Civic Data
+        url: https://github.com/opencivicdata/ocd-division-ids
+        code_group: OCD-ID
+        code_prefix: ocd-division/country:us/state:ca/
+    ss:
+        organization: California Secretary of State Elections Division
+        url: https://www.sos.ca.gov/media/
+        code_group: Election night data feed
+    sw:
+        organization: California Secretary of State Elections Division
+        url: https://electionresults.sos.ca.gov/
+        code_group: Results web site page ID
+        code_url: https://electionresults.sos.ca.gov/returns/{}

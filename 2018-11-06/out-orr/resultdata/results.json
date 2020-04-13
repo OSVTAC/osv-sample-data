@@ -4,13 +4,16 @@
     "_results_id": "20181127",
     "_results_status": "Final",
     "_results_title": {
-        "en": "Final Report"
+        "en": "Final Report",
+        "es": "",
+        "tl": "",
+        "zh": ""
     },
     "contests": [
         {
             "_id": "100",
+            "heading": "Governor",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t072:JOHN H. COX\t073:GAVIN NEWSOM",
                 "ALL\tTO\t500516\t372848\t106\t144\t11236\t361362\t49181\t312181",
@@ -24,8 +27,8 @@
         },
         {
             "_id": "105",
+            "heading": "Lieutenant Governor",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t074:ED HERNANDEZ\t075:ELENI KOUNALAKIS",
                 "ALL\tTO\t500516\t372848\t106\t348\t45920\t326474\t153733\t172741",
@@ -39,8 +42,8 @@
         },
         {
             "_id": "110",
+            "heading": "Secretary of State",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t076:ALEX PADILLA\t077:MARK P. MEUSER",
                 "ALL\tTO\t500516\t372848\t106\t109\t19728\t352905\t309367\t43538",
@@ -54,8 +57,8 @@
         },
         {
             "_id": "115",
+            "heading": "State Controller",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t078:KONSTANTINOS RODITIS\t079:BETTY T. YEE",
                 "ALL\tTO\t500516\t372848\t106\t85\t18077\t354580\t43021\t311559",
@@ -69,8 +72,8 @@
         },
         {
             "_id": "120",
+            "heading": "State Treasurer",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t080:GREG CONLON\t081:FIONA MA",
                 "ALL\tTO\t500516\t372848\t106\t98\t19947\t352697\t45699\t306998",
@@ -84,8 +87,8 @@
         },
         {
             "_id": "125",
+            "heading": "Attorney General",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t082:STEVEN C BAILEY\t083:XAVIER BECERRA",
                 "ALL\tTO\t500516\t372848\t106\t94\t20077\t352571\t47070\t305501",
@@ -99,8 +102,8 @@
         },
         {
             "_id": "130",
+            "heading": "Insurance Commissioner",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t084:RICARDO LARA\t085:STEVE POIZNER",
                 "ALL\tTO\t500516\t372848\t106\t157\t34922\t337663\t235299\t102364",
@@ -114,8 +117,8 @@
         },
         {
             "_id": "135",
+            "heading": "Board of Equalization, District 2",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t086:MALIA COHEN\t087:MARK BURNS",
                 "ALL\tTO\t500516\t372848\t106\t75\t31941\t340726\t292973\t47753",
@@ -129,8 +132,8 @@
         },
         {
             "_id": "140",
+            "heading": "U.S. Senator",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t088:DIANNE FEINSTEIN\t089:KEVIN DE LEON",
                 "ALL\tTO\t500516\t372848\t106\t374\t20247\t352121\t226167\t125954",
@@ -144,8 +147,8 @@
         },
         {
             "_id": "145",
+            "heading": "U.S. Representative, District 12",
             "precincts_reporting": 529,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t090:LISA REMMER\t091:NANCY PELOSI",
                 "ALL\tTO\t443570\t332491\t87\t107\t15225\t317072\t41780\t275292",
@@ -159,8 +162,8 @@
         },
         {
             "_id": "150",
+            "heading": "U.S. Representative, District 13",
             "precincts_reporting": 1,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t092:BARBARA LEE\t156:LAURA WELLS",
                 "ALL\tTO\t0\t0\t0\t0\t0\t0\t0\t0",
@@ -168,14 +171,12 @@
                 "ALL\tMV\t0\t0\t0\t0\t0\t0\t0\t0"
             ],
             "total_precincts": 1,
-            "winning_status": {
-                "": "092:BARBARA LEE\t156:LAURA WELLS"
-            }
+            "winning_status": {}
         },
         {
             "_id": "155",
+            "heading": "U.S. Representative, District 14",
             "precincts_reporting": 74,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t093:CRISTINA OSMEÑA\t094:JACKIE SPEIER",
                 "ALL\tTO\t56946\t40357\t19\t8\t2211\t38119\t6487\t31632",
@@ -189,8 +190,8 @@
         },
         {
             "_id": "160",
+            "heading": "State Assembly, District 17",
             "precincts_reporting": 353,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t095:DAVID CHIU\t096:ALEJANDRO FERNANDEZ",
                 "ALL\tTO\t291063\t214827\t62\t192\t28709\t185864\t140381\t45483",
@@ -204,8 +205,8 @@
         },
         {
             "_id": "165",
+            "heading": "State Assembly, District 19",
             "precincts_reporting": 251,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t097:PHIL TING\t098:KEITH BOGDON",
                 "ALL\tTO\t209453\t158021\t44\t37\t8898\t149042\t125804\t23238",
@@ -219,8 +220,8 @@
         },
         {
             "_id": "170",
+            "heading": "Member, Board of Education",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t099:MONICA CHINCHILLA\t100:ALISON COLLINS\t101:JOSEPHINE ZHAO\t102:MARTIN RAWLINGS-FEIN\t103:GABRIELA LÓPEZ\t104:LI MIAO LOVETT\t105:LEX LEIFHEIT\t106:ALIDA FISHER\t107:PHILLIP MARCEL HOUSE\t108:MICHELLE PARKER\t109:DARRON A. PADILLA\t110:PAUL KANGAS\t111:CONNOR KRONE\t112:PHIL KIM\t113:JOHN TRASVIÑA\t114:LENETTE THOMPSON\t115:FAAUUGA MOLIGA\t116:MIA SATYA\t117:ROGER SINASOHN",
                 "ALL\tTO\t500516\t372848\t836\t16041\t282075\t817920\t1551\t34193\t122865\t27761\t12439\t112299\t61412\t9605\t37735\t2491\t65740\t12950\t13967\t12251\t76017\t46601\t30496\t107989\t17540\t12018",
@@ -234,8 +235,8 @@
         },
         {
             "_id": "235",
+            "heading": "Superintendent of Public Instruction",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t118:MARSHALL TUCK\t119:TONY K. THURMOND",
                 "ALL\tTO\t500516\t372848\t106\t1511\t80051\t291180\t2071\t97777\t191332",
@@ -249,8 +250,8 @@
         },
         {
             "_id": "240",
+            "heading": "Member, Community College Board",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t120:JOHN RIZZO\t121:BRIGITTE DAVILA\t122:VICTOR OLIVIERI\t123:THEA SELBY",
                 "ALL\tTO\t500516\t372848\t106\t2760\t487621\t627845\t2373\t151356\t187792\t101368\t184956",
@@ -264,8 +265,8 @@
         },
         {
             "_id": "245",
+            "heading": "BART Director, District 8",
             "precincts_reporting": 266,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\tRSWri\t124:EVA I. CHAO\t125:BRIAN J. LARKIN\t126:JONATHAN LYENS\t127:JANICE LI\t128:MELANIE NUTTER\t129:WILLIAM WALKER",
                 "ALL\tTO\t223735\t166386\t47\t1610\t39920\t124809\t343\t24525\t16527\t14688\t39997\t23659\t5070",
@@ -279,26 +280,29 @@
         },
         {
             "_id": "250",
+            "heading": "Assessor-Recorder",
             "precincts_reporting": 604,
             "rcv_rounds": 1,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t130:CARMEN CHU\t131:PAUL BELLAR",
+                "RCV1\tTO\t500516\t372848\t4270\t428\t50974\t0\t317176\t0\t236697\t80479",
                 "ALL\tTO\t500516\t372848\t4270\t411\t52051\t0\t316116\t1255\t235187\t79674",
                 "ALL\tED\t500516\t127886\t933\t109\t21710\t0\t105134\t528\t73218\t31388",
                 "ALL\tMV\t500516\t244962\t3337\t302\t30341\t0\t210982\t727\t161969\t48286"
             ],
             "total_precincts": 604,
             "winning_status": {
-                "not_winning": "131:PAUL BELLAR",
                 "winning": "130:CARMEN CHU"
             }
         },
         {
             "_id": "265",
+            "heading": "Public Defender",
             "precincts_reporting": 604,
             "rcv_rounds": 1,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t132:JEFF ADACHI",
+                "RCV1\tTO\t500516\t372848\t4270\t83\t75631\t0\t292864\t0\t292864",
                 "ALL\tTO\t500516\t372848\t4270\t70\t77150\t0\t291358\t4670\t286688",
                 "ALL\tED\t500516\t127886\t933\t22\t29004\t0\t97927\t1630\t96297",
                 "ALL\tMV\t500516\t244962\t3337\t48\t48146\t0\t193431\t3040\t190391"
@@ -310,6 +314,7 @@
         },
         {
             "_id": "280",
+            "heading": "Board of Supervisors, District 2",
             "precincts_reporting": 62,
             "rcv_eliminations": [
                 "134:JOHN DENNIS",
@@ -319,18 +324,21 @@
             "rcv_rounds": 3,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t133:NICK JOSEFOWITZ\t134:JOHN DENNIS\t135:SCHUYLER HUDAK\t136:CATHERINE STEFANI",
+                "RCV3\tTO\t50394\t40402\t496\t97\t4515\t1893\t33401\t\t16061\t\t\t17340",
+                "RCV2\tTO\t50394\t40402\t496\t84\t4515\t1018\t34289\t\t14342\t\t4938\t15009",
+                "RCV1\tTO\t50394\t40402\t496\t79\t4515\t0\t35312\t0\t13644\t3108\t4145\t14415",
                 "ALL\tTO\t50394\t40402\t496\t76\t4515\t0\t35315\t93\t13617\t3095\t4132\t14378",
                 "ALL\tED\t50394\t13804\t101\t18\t1928\t0\t11757\t40\t4758\t1030\t1501\t4428",
                 "ALL\tMV\t50394\t26598\t395\t58\t2587\t0\t23558\t53\t8859\t2065\t2631\t9950"
             ],
             "total_precincts": 62,
             "winning_status": {
-                "not_winning": "133:NICK JOSEFOWITZ",
                 "winning": "136:CATHERINE STEFANI"
             }
         },
         {
             "_id": "285",
+            "heading": "Board of Supervisors, District 4",
             "precincts_reporting": 48,
             "rcv_eliminations": [
                 "138:ADAM KIM",
@@ -344,18 +352,25 @@
             "rcv_rounds": 7,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t137:JESSICA HO\t138:ADAM KIM\t139:TUAN NGUYEN\t140:ARTHUR TOM\t141:TREVOR MCNEIL\t142:GORDON MAR\t143:MIKE MURPHY\t144:LOU ANN BASSAN",
+                "RCV7\tTO\t42953\t31699\t287\t200\t2814\t5078\t23320\t\t10065\t\t\t\t\t13255",
+                "RCV6\tTO\t42953\t31699\t287\t189\t2814\t2538\t25871\t\t9013\t\t\t\t5055\t11803",
+                "RCV5\tTO\t42953\t31699\t287\t186\t2814\t1311\t27101\t\t8306\t\t\t3187\t4470\t11138",
+                "RCV4\tTO\t42953\t31699\t287\t183\t2814\t530\t27885\t\t7858\t\t\t2740\t3987\t10833\t\t2467",
+                "RCV3\tTO\t42953\t31699\t287\t181\t2814\t240\t28177\t\t7728\t\t\t2620\t3683\t10575\t1290\t2281",
+                "RCV2\tTO\t42953\t31699\t287\t177\t2814\t66\t28355\t\t7556\t\t898\t2513\t3547\t10388\t1233\t2220",
+                "RCV1\tTO\t42953\t31699\t287\t176\t2814\t0\t28422\t0\t7444\t515\t853\t2441\t3490\t10314\t1182\t2183",
                 "ALL\tTO\t42953\t31699\t287\t175\t2840\t0\t28397\t68\t7423\t511\t848\t2435\t3479\t10288\t1176\t2169",
                 "ALL\tED\t42953\t10755\t69\t45\t1288\t0\t9353\t20\t2108\t139\t314\t690\t1369\t3673\t418\t622",
                 "ALL\tMV\t42953\t20944\t218\t130\t1552\t0\t19044\t48\t5315\t372\t534\t1745\t2110\t6615\t758\t1547"
             ],
             "total_precincts": 48,
             "winning_status": {
-                "not_winning": "137:JESSICA HO",
                 "winning": "142:GORDON MAR"
             }
         },
         {
             "_id": "290",
+            "heading": "Board of Supervisors, District 6",
             "precincts_reporting": 48,
             "rcv_eliminations": [
                 "147:SONJA TRAUSS"
@@ -364,34 +379,37 @@
             "rcv_rounds": 2,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t145:CHRISTINE JOHNSON\t146:MATT HANEY\t147:SONJA TRAUSS",
+                "RCV2\tTO\t43321\t29158\t286\t77\t3467\t730\t24598\t\t9071\t15527",
+                "RCV1\tTO\t43321\t29158\t286\t75\t3467\t0\t25330\t0\t6267\t14288\t4775",
                 "ALL\tTO\t43321\t29158\t286\t74\t3460\t0\t25338\t93\t6237\t14249\t4759",
                 "ALL\tED\t43321\t9326\t64\t24\t1479\t0\t7759\t35\t1833\t4251\t1640",
                 "ALL\tMV\t43321\t19832\t222\t50\t1981\t0\t17579\t58\t4404\t9998\t3119"
             ],
             "total_precincts": 48,
             "winning_status": {
-                "not_winning": "145:CHRISTINE JOHNSON",
                 "winning": "146:MATT HANEY"
             }
         },
         {
             "_id": "295",
+            "heading": "Board of Supervisors, District 8",
             "precincts_reporting": 71,
             "rcv_rounds": 1,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t148:LAWRENCE ''STARK'' DAGESSE\t149:RAFAEL MANDELMAN",
+                "RCV1\tTO\t58122\t48632\t583\t38\t6007\t0\t42004\t0\t3598\t38406",
                 "ALL\tTO\t58122\t48632\t583\t37\t5933\t0\t42079\t233\t3554\t38292",
                 "ALL\tED\t58122\t16634\t169\t9\t2524\t0\t13932\t79\t1428\t12425",
                 "ALL\tMV\t58122\t31998\t414\t28\t3409\t0\t28147\t154\t2126\t25867"
             ],
             "total_precincts": 71,
             "winning_status": {
-                "not_winning": "148:LAWRENCE ''STARK'' DAGESSE",
                 "winning": "149:RAFAEL MANDELMAN"
             }
         },
         {
             "_id": "300",
+            "heading": "Board of Supervisors, District 10",
             "precincts_reporting": 53,
             "rcv_eliminations": [
                 "157:NEO VEAVEA",
@@ -404,20 +422,25 @@
             "rcv_rounds": 6,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSExh\tRSTot\tRSWri\t150:ASALE CHANDLER\t151:UZURI PEASE-GREENE\t152:TONY KELLY\t153:SHAMANN WALTON\t154:THEO ELLINGTON\t155:GLORIA BERRY\t157:NEO VEAVEA",
+                "RCV6\tTO\t41862\t26459\t202\t177\t2907\t2526\t20647\t\t\t\t7624\t13023",
+                "RCV5\tTO\t41862\t26459\t202\t166\t2907\t865\t22319\t\t\t\t6540\t10392\t5387",
+                "RCV4\tTO\t41862\t26459\t202\t162\t2907\t432\t22756\t\t\t1576\t6092\t9945\t5143",
+                "RCV3\tTO\t41862\t26459\t202\t159\t2907\t150\t23041\t\t\t1416\t5819\t9704\t4918\t1184",
+                "RCV2\tTO\t41862\t26459\t202\t156\t2907\t8\t23186\t\t803\t1314\t5687\t9591\t4825\t966",
+                "RCV1\tTO\t41862\t26459\t202\t156\t2907\t0\t23194\t0\t802\t1311\t5679\t9585\t4820\t966\t31",
                 "ALL\tTO\t41862\t26459\t202\t152\t2936\t0\t23169\t89\t799\t1304\t5643\t9550\t4800\t954\t30",
                 "ALL\tED\t41862\t8716\t43\t56\t1280\t0\t7337\t41\t333\t355\t1774\t2929\t1541\t348\t16",
                 "ALL\tMV\t41862\t17743\t159\t96\t1656\t0\t15832\t48\t466\t949\t3869\t6621\t3259\t606\t14"
             ],
             "total_precincts": 53,
             "winning_status": {
-                "not_winning": "152:TONY KELLY",
                 "winning": "153:SHAMANN WALTON"
             }
         },
         {
             "_id": "305",
+            "heading": "Sup Ct. Assoc Justice CORRIGAN",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t004:Yes\t005:No",
                 "ALL\tTO\t500516\t372848\t106\t238\t133261\t239243\t148219\t91024",
@@ -432,8 +455,8 @@
         },
         {
             "_id": "310",
+            "heading": "Sup Ct. Assoc Justice KRUGER",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t006:Yes\t007:No",
                 "ALL\tTO\t500516\t372848\t106\t108\t137808\t234826\t205510\t29316",
@@ -448,8 +471,8 @@
         },
         {
             "_id": "315",
+            "heading": "COA Div 1 Presiding Justice HUMES",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t008:Yes\t009:No",
                 "ALL\tTO\t500516\t372848\t106\t130\t146150\t226462\t191112\t35350",
@@ -464,8 +487,8 @@
         },
         {
             "_id": "320",
+            "heading": "COA Div 1 Assoc Justice MARGULIES",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t010:Yes\t011:No",
                 "ALL\tTO\t500516\t372848\t106\t114\t143534\t229094\t159187\t69907",
@@ -480,8 +503,8 @@
         },
         {
             "_id": "325",
+            "heading": "COA Div 2 Assoc Justice RICHMAN",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t012:Yes\t013:No",
                 "ALL\tTO\t500516\t372848\t106\t90\t150802\t221850\t137706\t84144",
@@ -496,8 +519,8 @@
         },
         {
             "_id": "330",
+            "heading": "COA Div 2 Assoc Justice MILLER",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t014:Yes\t015:No",
                 "ALL\tTO\t500516\t372848\t106\t168\t148241\t224333\t156312\t68021",
@@ -512,8 +535,8 @@
         },
         {
             "_id": "335",
+            "heading": "COA Div 3 Presiding Justice SIGGINS",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t016:Yes\t017:No",
                 "ALL\tTO\t500516\t372848\t106\t86\t150859\t221797\t185727\t36070",
@@ -528,8 +551,8 @@
         },
         {
             "_id": "340",
+            "heading": "COA Div 4 Assoc Justice STREETER",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t018:Yes\t019:No",
                 "ALL\tTO\t500516\t372848\t106\t89\t152378\t220275\t185425\t34850",
@@ -544,8 +567,8 @@
         },
         {
             "_id": "345",
+            "heading": "COA Div 4 Assoc Juctice TUCHER",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t020:Yes\t021:No",
                 "ALL\tTO\t500516\t372848\t106\t151\t149000\t223591\t197903\t25688",
@@ -560,8 +583,8 @@
         },
         {
             "_id": "350",
+            "heading": "COA Div 5 Presiding Juctice JONES",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t022:Yes\t023:No",
                 "ALL\tTO\t500516\t372848\t106\t49\t147640\t225053\t200164\t24889",
@@ -576,8 +599,8 @@
         },
         {
             "_id": "355",
+            "heading": "State Proposition 1",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t040:Yes\t041:No",
                 "ALL\tTO\t500516\t372848\t942\t161\t18594\t353151\t263769\t89382",
@@ -592,8 +615,8 @@
         },
         {
             "_id": "360",
+            "heading": "State Proposition 2",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t042:Yes\t043:No",
                 "ALL\tTO\t500516\t372848\t942\t124\t18230\t353552\t281389\t72163",
@@ -608,8 +631,8 @@
         },
         {
             "_id": "365",
+            "heading": "State Proposition 3",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t044:Yes\t045:No",
                 "ALL\tTO\t500516\t372848\t942\t279\t26417\t345210\t207164\t138046",
@@ -624,8 +647,8 @@
         },
         {
             "_id": "370",
+            "heading": "State Proposition 4",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t046:Yes\t047:No",
                 "ALL\tTO\t500516\t372848\t942\t239\t24028\t347639\t253202\t94437",
@@ -640,8 +663,8 @@
         },
         {
             "_id": "375",
+            "heading": "State Proposition 5",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t048:Yes\t049:No",
                 "ALL\tTO\t500516\t372848\t942\t294\t25364\t346248\t86130\t260118",
@@ -656,8 +679,8 @@
         },
         {
             "_id": "380",
+            "heading": "State Proposition 6",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t050:Yes\t051:No",
                 "ALL\tTO\t500516\t372848\t942\t332\t19912\t351662\t60002\t291660",
@@ -672,8 +695,8 @@
         },
         {
             "_id": "385",
+            "heading": "State Proposition 7",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t052:Yes\t053:No",
                 "ALL\tTO\t500516\t372848\t942\t114\t23666\t348126\t233508\t114618",
@@ -688,8 +711,8 @@
         },
         {
             "_id": "390",
+            "heading": "State Proposition 8",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t054:Yes\t055:No",
                 "ALL\tTO\t500516\t372848\t282\t232\t20107\t352227\t202728\t149499",
@@ -704,8 +727,8 @@
         },
         {
             "_id": "395",
+            "heading": "State Proposition 10",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t056:Yes\t057:No",
                 "ALL\tTO\t500516\t372848\t282\t224\t11904\t360438\t190911\t169527",
@@ -720,8 +743,8 @@
         },
         {
             "_id": "400",
+            "heading": "State Proposition 11",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t058:Yes\t059:No",
                 "ALL\tTO\t500516\t372848\t282\t266\t22063\t350237\t135874\t214363",
@@ -736,8 +759,8 @@
         },
         {
             "_id": "405",
+            "heading": "State Proposition 12",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t060:Yes\t061:No",
                 "ALL\tTO\t500516\t372848\t282\t168\t18717\t353681\t256166\t97515",
@@ -752,8 +775,8 @@
         },
         {
             "_id": "410",
+            "heading": "Local Measure A",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t062:Yes\t063:No",
                 "ALL\tTO\t500516\t372848\t282\t290\t23854\t348422\t288146\t60276",
@@ -768,8 +791,8 @@
         },
         {
             "_id": "415",
+            "heading": "Local Measure B",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t064:Yes\t065:No",
                 "ALL\tTO\t500516\t372848\t282\t147\t48069\t324350\t186758\t137592",
@@ -784,8 +807,8 @@
         },
         {
             "_id": "420",
+            "heading": "Local Measure C",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t066:Yes\t067:No",
                 "ALL\tTO\t500516\t372848\t282\t282\t20958\t351326\t215491\t135835",
@@ -800,8 +823,8 @@
         },
         {
             "_id": "425",
+            "heading": "Local Measure D",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t068:Yes\t069:No",
                 "ALL\tTO\t500516\t372848\t282\t169\t26332\t346065\t227250\t118815",
@@ -816,8 +839,8 @@
         },
         {
             "_id": "430",
+            "heading": "Local Measure E",
             "precincts_reporting": 604,
-            "rcv_rounds": 0,
             "results_summary": [
                 "area_id\tsubtotal_type\tRSReg\tRSCst\tRSRej\tRSOvr\tRSUnd\tRSTot\t070:Yes\t071:No",
                 "ALL\tTO\t500516\t372848\t282\t150\t28488\t343928\t258343\t85585",
