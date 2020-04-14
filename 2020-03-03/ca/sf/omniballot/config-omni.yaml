@@ -5,9 +5,6 @@
 contest_map_file: contmap.tsv
 candidate_map_file: candmap.tsv
 
-# The district ID for all voters in this election:
-election_voting_district: COSF
-
 # The result_style code for turnout giving voting_group_ids and result_stat_type_ids
 turnout_result_style: EMTX2
 
@@ -83,6 +80,13 @@ contest_name_corrections:
         - ^{letter}$=Proposition {letter}
         - ^{number}$=State Proposition {number}
 
+# The district ID for all voters in this election: (default is "0")
+election_voting_district: COSF
+
+# The area ID of the election admin, default is election_voting_district
+election_admin_area_id: COSF
+
+# Map EMS district IDs to reporting district IDs
 district_code_map:
     0: COSF
 
@@ -98,6 +102,14 @@ extra_districts:
     XCOSF:
       name: Outside of San Francisco County
       classification: Outside County
+
+# Map EMS contest IDs to reporting IDs
+extid_contest_map:
+    dfm: contmap.ems.tsv
+
+# Map EMS candidate IDs to reporting IDs
+extid_candidate_map:
+    dfm: candmap.ems.tsv
 
 external_id_prefixes:
     dfm:
@@ -117,6 +129,10 @@ external_id_prefixes:
         url: https://sites.omniballot.us/06075/app/sb/election
         code_group: Omniballot RAVBM external_id
     fp:
+        organization: American National Standards Institute
+        url: https://www.census.gov/library/reference/code-lists/ansi.html
+        code_group: States
+    fs:
         organization: American National Standards Institute
         url: https://www.census.gov/library/reference/code-lists/ansi.html
         code_group: Places
