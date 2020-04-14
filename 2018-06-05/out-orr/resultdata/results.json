@@ -369,6 +369,7 @@
         },
         {
             "_id": "215",
+            "approval_met": true,
             "heading": "State Proposition 68",
             "precincts_reporting": 604,
             "results_summary": [
@@ -377,7 +378,6 @@
                 "ALL\tED\t481991\t89756\t-87\t22\t5470\t84351\t70437\t13914",
                 "ALL\tMV\t481991\t163827\t31\t48\t10591\t153157\t119409\t33748"
             ],
-            "success": true,
             "total_precincts": 604,
             "winning_status": {
                 "winning": "022:Yes"
@@ -385,6 +385,7 @@
         },
         {
             "_id": "220",
+            "approval_met": true,
             "heading": "State Proposition 69",
             "precincts_reporting": 604,
             "results_summary": [
@@ -393,7 +394,6 @@
                 "ALL\tED\t481991\t89756\t-87\t20\t6733\t83090\t72473\t10617",
                 "ALL\tMV\t481991\t163827\t31\t38\t11773\t151985\t133067\t18918"
             ],
-            "success": true,
             "total_precincts": 604,
             "winning_status": {
                 "winning": "024:Yes"
@@ -401,6 +401,7 @@
         },
         {
             "_id": "225",
+            "approval_met": false,
             "heading": "State Proposition 70",
             "precincts_reporting": 604,
             "results_summary": [
@@ -409,7 +410,6 @@
                 "ALL\tED\t481991\t89756\t-87\t27\t11111\t78705\t19594\t59111",
                 "ALL\tMV\t481991\t163827\t31\t73\t19323\t144400\t41170\t103230"
             ],
-            "success": false,
             "total_precincts": 604,
             "winning_status": {
                 "winning": "027:No"
@@ -417,6 +417,7 @@
         },
         {
             "_id": "230",
+            "approval_met": true,
             "heading": "State Proposition 71",
             "precincts_reporting": 604,
             "results_summary": [
@@ -425,7 +426,6 @@
                 "ALL\tED\t481991\t89756\t-87\t83\t10528\t79232\t66495\t12737",
                 "ALL\tMV\t481991\t163827\t31\t151\t17252\t146393\t124248\t22145"
             ],
-            "success": true,
             "total_precincts": 604,
             "winning_status": {
                 "winning": "028:Yes"
@@ -433,6 +433,7 @@
         },
         {
             "_id": "235",
+            "approval_met": true,
             "heading": "State Proposition 72",
             "precincts_reporting": 604,
             "results_summary": [
@@ -441,7 +442,6 @@
                 "ALL\tED\t481991\t89756\t-87\t12\t9104\t80727\t69451\t11276",
                 "ALL\tMV\t481991\t163827\t31\t41\t14539\t149216\t129941\t19275"
             ],
-            "success": true,
             "total_precincts": 604,
             "winning_status": {
                 "winning": "030:Yes"
@@ -449,6 +449,7 @@
         },
         {
             "_id": "240",
+            "approval_met": true,
             "heading": "Regional Measure 3",
             "precincts_reporting": 604,
             "results_summary": [
@@ -457,7 +458,6 @@
                 "ALL\tED\t481991\t89756\t-87\t16\t7037\t82790\t55974\t26816",
                 "ALL\tMV\t481991\t163827\t31\t54\t11337\t152405\t97838\t54567"
             ],
-            "success": true,
             "total_precincts": 604,
             "winning_status": {
                 "winning": "032:Yes"
@@ -465,6 +465,7 @@
         },
         {
             "_id": "245",
+            "approval_met": true,
             "heading": "Local Measure A",
             "precincts_reporting": 604,
             "results_summary": [
@@ -473,7 +474,6 @@
                 "ALL\tED\t481991\t89756\t-87\t85\t6732\t83026\t66347\t16679",
                 "ALL\tMV\t481991\t163827\t31\t127\t11485\t152184\t115291\t36893"
             ],
-            "success": true,
             "total_precincts": 604,
             "winning_status": {
                 "winning": "034:Yes"
@@ -481,6 +481,7 @@
         },
         {
             "_id": "250",
+            "approval_met": true,
             "heading": "Local Measure B",
             "precincts_reporting": 604,
             "results_summary": [
@@ -489,7 +490,6 @@
                 "ALL\tED\t481991\t89756\t-87\t23\t8924\t80896\t56996\t23900",
                 "ALL\tMV\t481991\t163827\t31\t53\t14855\t148888\t103218\t45670"
             ],
-            "success": true,
             "total_precincts": 604,
             "winning_status": {
                 "winning": "036:Yes"
@@ -497,6 +497,7 @@
         },
         {
             "_id": "255",
+            "approval_met": true,
             "heading": "Local Measure C",
             "precincts_reporting": 604,
             "results_summary": [
@@ -505,7 +506,6 @@
                 "ALL\tED\t481991\t89756\t-87\t34\t6558\t83251\t45230\t38021",
                 "ALL\tMV\t481991\t163827\t31\t113\t10650\t153033\t74969\t78064"
             ],
-            "success": true,
             "total_precincts": 604,
             "winning_status": {
                 "winning": "038:Yes"
@@ -513,6 +513,7 @@
         },
         {
             "_id": "260",
+            "approval_met": false,
             "heading": "Local Measure D",
             "precincts_reporting": 604,
             "results_summary": [
@@ -521,7 +522,6 @@
                 "ALL\tED\t481991\t89756\t-87\t49\t6852\t82942\t36729\t46213",
                 "ALL\tMV\t481991\t163827\t31\t111\t11270\t152415\t69017\t83398"
             ],
-            "success": false,
             "total_precincts": 604,
             "winning_status": {
                 "winning": "041:No"
@@ -529,6 +529,7 @@
         },
         {
             "_id": "265",
+            "approval_met": true,
             "heading": "Local Measure E",
             "precincts_reporting": 604,
             "results_summary": [
@@ -537,7 +538,6 @@
                 "ALL\tED\t481991\t89756\t-87\t65\t4706\t85072\t57177\t27895",
                 "ALL\tMV\t481991\t163827\t31\t126\t7705\t155965\t107667\t48298"
             ],
-            "success": true,
             "total_precincts": 604,
             "winning_status": {
                 "winning": "042:Yes"
@@ -545,6 +545,7 @@
         },
         {
             "_id": "270",
+            "approval_met": true,
             "heading": "Local Measure F",
             "precincts_reporting": 604,
             "results_summary": [
@@ -553,7 +554,6 @@
                 "ALL\tED\t481991\t89756\t-87\t46\t5570\t84227\t52313\t31914",
                 "ALL\tMV\t481991\t163827\t31\t86\t8973\t154737\t80877\t73860"
             ],
-            "success": true,
             "total_precincts": 604,
             "winning_status": {
                 "winning": "044:Yes"
@@ -561,6 +561,7 @@
         },
         {
             "_id": "275",
+            "approval_met": true,
             "heading": "Local Measure G",
             "precincts_reporting": 604,
             "results_summary": [
@@ -569,7 +570,6 @@
                 "ALL\tED\t481991\t89756\t-87\t52\t6035\t83756\t55011\t28745",
                 "ALL\tMV\t481991\t163827\t31\t91\t9328\t154377\t89675\t64702"
             ],
-            "success": true,
             "total_precincts": 604,
             "winning_status": {
                 "winning": "046:Yes"
@@ -577,6 +577,7 @@
         },
         {
             "_id": "280",
+            "approval_met": false,
             "heading": "Local Measure H",
             "precincts_reporting": 604,
             "results_summary": [
@@ -585,7 +586,6 @@
                 "ALL\tED\t481991\t89756\t-87\t66\t5929\t83848\t29522\t54326",
                 "ALL\tMV\t481991\t163827\t31\t154\t10159\t153483\t60812\t92671"
             ],
-            "success": false,
             "total_precincts": 604,
             "winning_status": {
                 "winning": "049:No"
@@ -593,6 +593,7 @@
         },
         {
             "_id": "285",
+            "approval_met": false,
             "heading": "Local Measure I",
             "precincts_reporting": 604,
             "results_summary": [
@@ -601,7 +602,6 @@
                 "ALL\tED\t481991\t89756\t-87\t42\t8918\t80883\t36089\t44794",
                 "ALL\tMV\t481991\t163827\t31\t60\t15840\t147896\t61774\t86122"
             ],
-            "success": false,
             "total_precincts": 604,
             "winning_status": {
                 "winning": "051:No"
