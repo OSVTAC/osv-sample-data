@@ -269,6 +269,7 @@
             "_id": "NEIG25",
             "classification": "Neighborhood",
             "name": "Neighborhood of Western Addition",
+            "reporting_group_ids": "ED MV TO",
             "short_name": "Western Addition"
         },
         {
