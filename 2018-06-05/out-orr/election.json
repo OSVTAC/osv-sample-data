@@ -9301,6 +9301,12 @@
     ],
     "party_names": [
         {
+            "_id": "ALL",
+            "name": {
+                "en": "All Parties Combined"
+            }
+        },
+        {
             "_id": "AI",
             "name": {
                 "en": "American Independent",
@@ -9403,12 +9409,6 @@
             "_id": "UNK",
             "name": {
                 "en": "Unknown Party"
-            }
-        },
-        {
-            "_id": "ALL",
-            "name": {
-                "en": "All Parties Combined"
             }
         },
         {

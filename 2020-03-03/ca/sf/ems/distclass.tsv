@@ -1,58 +1,58 @@
-District_Code	Classification	District_Name	District_Short_Name
-0	County	City and County of San Francisco	San Francisco County
-ASSM17	Assembly District	California State Assembly District 17	Assembly District 17
-ASSM19	Assembly District	California State Assembly District 19	Assembly District 19
-BART	Transit District	San Francisco Bay Area Rapid Transit District	BART
-BART4	Transit District	San Francisco Bay Area Rapid Transit District, District  4	BART District 4
-BART7	Transit District	San Francisco Bay Area Rapid Transit District, District  7	BART District 7
-BART8	Transit District	San Francisco Bay Area Rapid Transit District, District  8	BART District 8
-BART9	Transit District	San Francisco Bay Area Rapid Transit District, District  9	BART District 9
-CITY1	City	City of San Francisco	San Francisco
-CONG12	Congressional District	California Congressional District 12	Congressional District 12
-CONG13	Congressional District	California Congressional District 13	Congressional District 13
-CONG14	Congressional District	California Congressional District 14	Congressional District 14
-EQUAL2	State Tax Board	California State Board of Equalization District  2	State BoEq District 2
-MTC9	Transit District	County of Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Sonoma and Solano	MTC Counties
-NEIG1	Neighborhood	Neighborhood of Bayview/Hunters Point	Bayview/Hunters Point
-NEIG2	Neighborhood	Neighborhood of Chinatown	Chinatown
-NEIG3	Neighborhood	Neighborhood of Civic Center/Downtown	Civic Center/Downtown
-NEIG4	Neighborhood	Neighborhood of Diamond Heights	Diamond Heights
-NEIG5	Neighborhood	Neighborhood of Excelsior	Excelsior
-NEIG6	Neighborhood	Neighborhood of Haight Ashbury	Haight Ashbury
-NEIG7	Neighborhood	Neighborhood of Ingleside	Ingleside
-NEIG8	Neighborhood	Neighborhood of Inner Sunset	Inner Sunset
-NEIG9	Neighborhood	Neighborhood of Lake Merced	Lake Merced
-NEIG10	Neighborhood	Neighborhood of Laurel Heights/Anza Vista	Laurel Heights/Anza Vista
-NEIG11	Neighborhood	Neighborhood of Marina Pacific Heights	Marina Pacific Heights
-NEIG12	Neighborhood	Neighborhood of Mission	Mission
-NEIG13	Neighborhood	Neighborhood of Noe Valley	Noe Valley
-NEIG14	Neighborhood	Neighborhood of North Bernal Heights	North Bernal Heights
-NEIG15	Neighborhood	Neighborhood of North Embarcadero	North Embarcadero
-NEIG16	Neighborhood	Neighborhood of Potrero Hill	Potrero Hill
-NEIG17	Neighborhood	Neighborhood of Richmond	Richmond
-NEIG18	Neighborhood	Neighborhood of Sea Cliff/Presidio Heights	Sea Cliff/Presidio Heights
-NEIG19	Neighborhood	Neighborhood of South of Bernal Heights	South of Bernal Heights
-NEIG20	Neighborhood	Neighborhood of South of Market	South of Market
-NEIG21	Neighborhood	Neighborhood of Sunset	Sunset
-NEIG22	Neighborhood	Neighborhood of Upper Market/Eureka Valley	Upper Market/Eureka Valley
-NEIG23	Neighborhood	Neighborhood of Visitation Valley	Visitation Valley
-NEIG24	Neighborhood	Neighborhood of West of Twin Peaks	West of Twin Peaks
-NEIG25	Neighborhood	Neighborhood of Western Addition	Western Addition
-NEIG26	Neighborhood	Neighborhood of Portola	Portola
-SBRA	Park District	San Francisco Bay Restoration Authority	SFBRA
-SCSF	State Superior Court District	San Francisco Superior Court	San Francisco Superior Court
-SEN11	Senate District	California State Senate District 11	Senate District 11
-SFUSD	School District	San Francisco Unified School District	San Francisco Unified School District
-SUPV1	Supervisorial District	San Francisco County Supervisorial District  1	Supervisorial District 1
-SUPV2	Supervisorial District	San Francisco County Supervisorial District  2	Supervisorial District 2
-SUPV3	Supervisorial District	San Francisco County Supervisorial District  3	Supervisorial District 3
-SUPV4	Supervisorial District	San Francisco County Supervisorial District  4	Supervisorial District 4
-SUPV5	Supervisorial District	San Francisco County Supervisorial District  5	Supervisorial District 5
-SUPV6	Supervisorial District	San Francisco County Supervisorial District  6	Supervisorial District 6
-SUPV7	Supervisorial District	San Francisco County Supervisorial District  7	Supervisorial District 7
-SUPV8	Supervisorial District	San Francisco County Supervisorial District  8	Supervisorial District 8
-SUPV9	Supervisorial District	San Francisco County Supervisorial District  9	Supervisorial District 9
-SUPV10	Supervisorial District	San Francisco County Supervisorial District 10	Supervisorial District 10
-SUPV11	Supervisorial District	San Francisco County Supervisorial District 11	Supervisorial District 11
-APPCT1	State Appellate Court District	California State Court of Appeal District  1	Appellate District 1
-STATE	State	State of California	California
+District_Code|Classification|District_Name|District_Short_Name
+0|County|City and County of San Francisco|San Francisco County
+ASSM17|Assembly District|California State Assembly District 17|Assembly District 17
+ASSM19|Assembly District|California State Assembly District 19|Assembly District 19
+BART|Transit District|San Francisco Bay Area Rapid Transit District|BART
+BART4|Transit District|San Francisco Bay Area Rapid Transit District, District  4|BART District 4
+BART7|Transit District|San Francisco Bay Area Rapid Transit District, District  7|BART District 7
+BART8|Transit District|San Francisco Bay Area Rapid Transit District, District  8|BART District 8
+BART9|Transit District|San Francisco Bay Area Rapid Transit District, District  9|BART District 9
+CITY1|City|City of San Francisco|San Francisco
+CONG12|Congressional District|California Congressional District 12|Congressional District 12
+CONG13|Congressional District|California Congressional District 13|Congressional District 13
+CONG14|Congressional District|California Congressional District 14|Congressional District 14
+EQUAL2|State Tax Board|California State Board of Equalization District  2|State BoEq District 2
+MTC9|Transit District|County of Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Sonoma and Solano|MTC Counties
+NEIG1|Neighborhood|Neighborhood of Bayview/Hunters Point|Bayview/Hunters Point
+NEIG2|Neighborhood|Neighborhood of Chinatown|Chinatown
+NEIG3|Neighborhood|Neighborhood of Civic Center/Downtown|Civic Center/Downtown
+NEIG4|Neighborhood|Neighborhood of Diamond Heights|Diamond Heights
+NEIG5|Neighborhood|Neighborhood of Excelsior|Excelsior
+NEIG6|Neighborhood|Neighborhood of Haight Ashbury|Haight Ashbury
+NEIG7|Neighborhood|Neighborhood of Ingleside|Ingleside
+NEIG8|Neighborhood|Neighborhood of Inner Sunset|Inner Sunset
+NEIG9|Neighborhood|Neighborhood of Lake Merced|Lake Merced
+NEIG10|Neighborhood|Neighborhood of Laurel Heights/Anza Vista|Laurel Heights/Anza Vista
+NEIG11|Neighborhood|Neighborhood of Marina Pacific Heights|Marina Pacific Heights
+NEIG12|Neighborhood|Neighborhood of Mission|Mission
+NEIG13|Neighborhood|Neighborhood of Noe Valley|Noe Valley
+NEIG14|Neighborhood|Neighborhood of North Bernal Heights|North Bernal Heights
+NEIG15|Neighborhood|Neighborhood of North Embarcadero|North Embarcadero
+NEIG16|Neighborhood|Neighborhood of Potrero Hill|Potrero Hill
+NEIG17|Neighborhood|Neighborhood of Richmond|Richmond
+NEIG18|Neighborhood|Neighborhood of Sea Cliff/Presidio Heights|Sea Cliff/Presidio Heights
+NEIG19|Neighborhood|Neighborhood of South of Bernal Heights|South of Bernal Heights
+NEIG20|Neighborhood|Neighborhood of South of Market|South of Market
+NEIG21|Neighborhood|Neighborhood of Sunset|Sunset
+NEIG22|Neighborhood|Neighborhood of Upper Market/Eureka Valley|Upper Market/Eureka Valley
+NEIG23|Neighborhood|Neighborhood of Visitation Valley|Visitation Valley
+NEIG24|Neighborhood|Neighborhood of West of Twin Peaks|West of Twin Peaks
+NEIG25|Neighborhood|Neighborhood of Western Addition|Western Addition
+NEIG26|Neighborhood|Neighborhood of Portola|Portola
+SBRA|Park District|San Francisco Bay Restoration Authority|SFBRA
+SCSF|State Superior Court District|San Francisco Superior Court|San Francisco Superior Court
+SEN11|Senate District|California State Senate District 11|Senate District 11
+SFUSD|School District|San Francisco Unified School District|San Francisco Unified School District
+SUPV1|Supervisorial District|San Francisco County Supervisorial District  1|Supervisorial District 1
+SUPV2|Supervisorial District|San Francisco County Supervisorial District  2|Supervisorial District 2
+SUPV3|Supervisorial District|San Francisco County Supervisorial District  3|Supervisorial District 3
+SUPV4|Supervisorial District|San Francisco County Supervisorial District  4|Supervisorial District 4
+SUPV5|Supervisorial District|San Francisco County Supervisorial District  5|Supervisorial District 5
+SUPV6|Supervisorial District|San Francisco County Supervisorial District  6|Supervisorial District 6
+SUPV7|Supervisorial District|San Francisco County Supervisorial District  7|Supervisorial District 7
+SUPV8|Supervisorial District|San Francisco County Supervisorial District  8|Supervisorial District 8
+SUPV9|Supervisorial District|San Francisco County Supervisorial District  9|Supervisorial District 9
+SUPV10|Supervisorial District|San Francisco County Supervisorial District 10|Supervisorial District 10
+SUPV11|Supervisorial District|San Francisco County Supervisorial District 11|Supervisorial District 11
+APPCT1|State Appellate Court District|California State Court of Appeal District  1|Appellate District 1
+STATE|State|State of California|California
