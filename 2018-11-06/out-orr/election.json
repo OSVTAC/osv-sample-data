@@ -8423,6 +8423,7 @@
                 "zh": "總登記和投票率"
             },
             "result_style": "EMTX",
+            "turnout_party_ids": "ALL AI DEM GRN LIB PF REP NPP",
             "voting_district": "COSF"
         }
     },

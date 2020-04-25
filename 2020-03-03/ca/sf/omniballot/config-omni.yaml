@@ -14,6 +14,9 @@ bt_digits: 3
 # Suffix on election-base to select alternate
 #election_base_suffix: "-t"
 
+# Party order listing for turnout
+turnout_party_ids: ALL AI AINPP DEM DEMNPP GRN LIB LIBNPP PF NPP NPPALL
+
 # Patterns to match retention candidate names in retention contest question text
 retention_pats:
     - Justice {candidate_name} be elected

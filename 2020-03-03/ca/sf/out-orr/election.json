@@ -4820,6 +4820,7 @@
             "tl": "Pinagsamang Primaryang Eleksyon para sa Pagkapangulo",
             "zh": "聯合總統初選"
         },
+        "contest_party_ids": "DEM REP AI GRN PF LIB",
         "contests": [
             {
                 "_id": "7",
@@ -7987,6 +7988,7 @@
                 "zh": "總登記和投票率"
             },
             "result_style": "EMTX2",
+            "turnout_party_ids": "ALL AI AINPP DEM DEMNPP GRN LIB LIBNPP PF NPP NPPALL",
             "voting_district": "COSF"
         },
         "url_state_results": "https://electionresults.sos.ca.gov/"
