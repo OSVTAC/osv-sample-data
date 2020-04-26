@@ -7988,7 +7988,7 @@
                 "zh": "總登記和投票率"
             },
             "result_style": "EMTX2",
-            "turnout_party_ids": "ALL AI AINPP DEM DEMNPP GRN LIB LIBNPP PF NPP NPPALL",
+            "turnout_party_ids": "ALL AI AINPP DEM DEMNPP GRN LIB LIBNPP PF REP NPP NPPALL",
             "voting_district": "COSF"
         },
         "url_state_results": "https://electionresults.sos.ca.gov/"
