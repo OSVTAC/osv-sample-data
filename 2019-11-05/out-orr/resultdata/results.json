@@ -286,7 +286,9 @@
         "results_summary": [
             "area_id\tsubtotal_type\tparty\tRSReg\tRSCst\tRSCnt\tRSPnd\tRSCha",
             "ALL\tTO\tALL\t495050\t210620\t206122\t7\t3549",
+            "ALL\tTO\t*\t\t\t\t\t",
             "ALL\tED\tALL\t117918\t59428\t59428\t\t",
+            "ALL\tED\t*\t\t\t\t\t",
             "ALL\tMV\tALL\t377297\t151192\t146694\t7\t3549",
             "ALL\tMV\tAI\t6793\t1938\t1870\t0\t68",
             "ALL\tMV\tDEM\t222732\t95181\t92884\t4\t2293",
