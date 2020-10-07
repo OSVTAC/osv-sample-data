@@ -1,1 +1,6 @@
 .DS_Store
+**/emsdata-raw
+**/resultdata-raw
+**/cvr-raw
+**/*.pp.json
+**/*kate-swp

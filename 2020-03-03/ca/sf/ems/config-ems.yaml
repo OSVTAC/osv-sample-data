@@ -8,6 +8,9 @@ bt_digits: 3
 # Number of digitst in a contest ID:
 contest_digits: 4
 
+# Order of party columns in files
+party_id_order: ALL DEM REP AI PF LIB GRN NPP
+
 #district_classification:
   #- City and County of=County
   #- California State Assembly=Assembly District
@@ -74,6 +77,7 @@ contest_district_map:
         - INSURANCE COMMISSIONER
         - SUPERINTENDENT OF PUBLIC INSTRUCTION
         - SUPREME COURT
+        - "13"
     EQUAL2:
         - BOARD OF EQUALIZATION
     APPCT1:
@@ -108,3 +112,16 @@ candidate_rotation_districts:
         - State Superior Court District
         - School District
 
+# Party ID to name mapping in EMS files:
+party_heading_map:
+    ALL: "*TOTAL*"
+    DEM: Democratic
+    REP: Republican
+    AI: American Independent
+    PF: Peace and Freedom
+    LIB: Libertarian
+    GRN: Green
+    NPP: Non-Partisan
+
+# No voter precincts to ignore
+no_voter_precincts: 1151 1154 7954 9900 9901 9902

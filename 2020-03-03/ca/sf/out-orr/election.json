@@ -4824,7 +4824,7 @@
         "contests": [
             {
                 "_id": "7",
-                "_id_ext": "omx:7 dfm:100",
+                "_id_ext": "omx:7 dfm:0100",
                 "_type": "office",
                 "ballot_subtitle": {
                     "en": "Presidential Preference",
@@ -5087,7 +5087,7 @@
             },
             {
                 "_id": "8",
-                "_id_ext": "omx:8 dfm:101",
+                "_id_ext": "omx:8 dfm:0101",
                 "_type": "office",
                 "ballot_subtitle": {
                     "en": "Presidential Preference",
@@ -5201,7 +5201,7 @@
             },
             {
                 "_id": "9",
-                "_id_ext": "omx:9 dfm:102",
+                "_id_ext": "omx:9 dfm:0102",
                 "_type": "office",
                 "ballot_subtitle": {
                     "en": "Presidential Preference",
@@ -5281,7 +5281,7 @@
             },
             {
                 "_id": "10",
-                "_id_ext": "omx:10 dfm:104",
+                "_id_ext": "omx:10 dfm:0104",
                 "_type": "office",
                 "ballot_subtitle": {
                     "en": "Presidential Candidate Preference",
@@ -5363,7 +5363,7 @@
             },
             {
                 "_id": "11",
-                "_id_ext": "omx:11 dfm:105",
+                "_id_ext": "omx:11 dfm:0105",
                 "_type": "office",
                 "ballot_subtitle": {
                     "en": "Presidential Preference",
@@ -5419,7 +5419,7 @@
             },
             {
                 "_id": "12",
-                "_id_ext": "omx:12 dfm:106",
+                "_id_ext": "omx:12 dfm:0106",
                 "_type": "office",
                 "ballot_subtitle": {
                     "en": "Presidential Preference",
@@ -7469,7 +7469,7 @@
             },
             {
                 "_id": "1",
-                "_id_ext": "omx:1 dfm:1",
+                "_id_ext": "omx:1 dfm:0001",
                 "_type": "measure",
                 "approval_choice_id": "1",
                 "approval_threshold": "Majority",
@@ -7520,7 +7520,7 @@
             },
             {
                 "_id": "2",
-                "_id_ext": "omx:2 dfm:2",
+                "_id_ext": "omx:2 dfm:0002",
                 "_type": "measure",
                 "approval_choice_id": "3",
                 "approval_threshold": "55%",
@@ -7573,7 +7573,7 @@
             },
             {
                 "_id": "3",
-                "_id_ext": "omx:3 dfm:3",
+                "_id_ext": "omx:3 dfm:0003",
                 "_type": "measure",
                 "approval_choice_id": "5",
                 "approval_threshold": "2/3",
@@ -7626,7 +7626,7 @@
             },
             {
                 "_id": "4",
-                "_id_ext": "omx:4 dfm:4",
+                "_id_ext": "omx:4 dfm:0004",
                 "_type": "measure",
                 "approval_choice_id": "7",
                 "approval_threshold": "Majority",
@@ -7679,7 +7679,7 @@
             },
             {
                 "_id": "5",
-                "_id_ext": "omx:5 dfm:5",
+                "_id_ext": "omx:5 dfm:0005",
                 "_type": "measure",
                 "approval_choice_id": "9",
                 "approval_threshold": "2/3",
@@ -7732,7 +7732,7 @@
             },
             {
                 "_id": "6",
-                "_id_ext": "omx:6 dfm:6",
+                "_id_ext": "omx:6 dfm:0006",
                 "_type": "measure",
                 "approval_choice_id": "11",
                 "approval_threshold": "Majority",

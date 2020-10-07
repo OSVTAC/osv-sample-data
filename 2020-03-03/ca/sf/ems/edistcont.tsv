@@ -1,0 +1,8 @@
+district_id|district_name|contest_ids
+0|City and County of San Francisco|0002 0003 0004 0005 0006 2200 2318 2321
+ASSM17|California State Assembly District 17|1310 3010 3110
+ASSM19|California State Assembly District 19|1210 3000
+CONG12|California Congressional District 12|1020
+CONG14|California Congressional District 14|1040
+SEN11|California State Senate District 11|1130
+STATE|State of California|0001 0100 0101 0102 0104 0105 0106 1030
