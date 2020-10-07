@@ -1,0 +1,26 @@
+contest_seq|contest_id|district_id|headings|ballot_title|contest_abbr|choice_names
+001|100|0|MEASURES SUBMITTED TO THE VOTERS~CITY AND COUNTY PROPOSITIONS|A|Health And Homelessness, Parks, And Streets Bond|Yes~No
+002|101|0|MEASURES SUBMITTED TO THE VOTERS~CITY AND COUNTY PROPOSITIONS|B|Department Of Sanitation And Streets, Sanitation And Streets Commission, And Public Works Commission|Yes~No
+003|102|0|MEASURES SUBMITTED TO THE VOTERS~CITY AND COUNTY PROPOSITIONS|C|Removing Citizenship Requirements For Members Of City Bodies|Yes~No
+004|103|0|MEASURES SUBMITTED TO THE VOTERS~CITY AND COUNTY PROPOSITIONS|D|Sheriff Oversight|Yes~No
+005|104|0|MEASURES SUBMITTED TO THE VOTERS~CITY AND COUNTY PROPOSITIONS|E|Police Staffing|Yes~No
+006|105|0|MEASURES SUBMITTED TO THE VOTERS~CITY AND COUNTY PROPOSITIONS|F|Business Tax Overhaul|Yes~No
+007|106|0|MEASURES SUBMITTED TO THE VOTERS~CITY AND COUNTY PROPOSITIONS|G|Youth Voting In Local Elections|Yes~No
+008|107|0|MEASURES SUBMITTED TO THE VOTERS~CITY AND COUNTY PROPOSITIONS|H|Neighborhood Commercial Districts And City Permitting|Yes~No
+009|108|0|MEASURES SUBMITTED TO THE VOTERS~CITY AND COUNTY PROPOSITIONS|I|Real Estate Transfer Tax|Yes~No
+010|109|0|MEASURES SUBMITTED TO THE VOTERS~CITY AND COUNTY PROPOSITIONS|J|Parcel Tax For San Francisco Unified School District|Yes~No
+011|111|0|MEASURES SUBMITTED TO THE VOTERS~CITY AND COUNTY PROPOSITIONS|K|Affordable Housing Authorization|Yes~No
+012|112|0|MEASURES SUBMITTED TO THE VOTERS~CITY AND COUNTY PROPOSITIONS|L|Business Tax Based On Comparison Of Top Executive's Pay To Employees Pay|Yes~No
+013|1101|0|MEASURES SUBMITTED TO THE VOTERS~STATE PROPOSITIONS|14|Authorizes Bond Continuing Stem Cell Research. Initiative Statute.|Yes~No
+014|1102|0|MEASURES SUBMITTED TO THE VOTERS~STATE PROPOSITIONS|15|Increases Funding Sources For Public Schools, Community Colleges, And Local Government Services By Changing Tax Assessme|Yes~No
+015|1103|0|MEASURES SUBMITTED TO THE VOTERS~STATE PROPOSITIONS|16|Allows Diversity As A Factor In Public Employment, Education, And Contracting Decisions. Legislative Constitutional Amen|Yes~No
+016|1104|0|MEASURES SUBMITTED TO THE VOTERS~STATE PROPOSITIONS|17|Restores Right To Vote After Completion Of Prison Term. Legislative Constitutional Amendment.|Yes~No
+017|1105|0|MEASURES SUBMITTED TO THE VOTERS~STATE PROPOSITIONS|18|Amends California Constitution To Permit 17-year-olds To Vote In Primary And Special Elections If They Will Turn 18 By T|Yes~No
+018|1106|0|MEASURES SUBMITTED TO THE VOTERS~STATE PROPOSITIONS|19|Changes Certain Property Tax Rules. Legislative Constitutional Amendment.|Yes~No
+019|1107|0|MEASURES SUBMITTED TO THE VOTERS~STATE PROPOSITIONS|20|Restricts Parole For Certain Offenses Currently Considered To Be Non-violent. Authorizes Felony Sentences For Certain Of|Yes~No
+020|1108|0|MEASURES SUBMITTED TO THE VOTERS~STATE PROPOSITIONS|21|Expands Local Governments' Authority To Enact Rent Control. On Residential Property. Initiative Statute.|Yes~No
+021|1109|0|MEASURES SUBMITTED TO THE VOTERS~STATE PROPOSITIONS|22|Exempts App-based Transportation And Delivery Companies From Providing Employee Benefits To Certain Drivers. Initiative|Yes~No
+022|1110|0|MEASURES SUBMITTED TO THE VOTERS~STATE PROPOSITIONS|23|Establishes State Requirements For Kidney Dialysis Clinics. Requires On-site Medical Professional. Initiative Statute.|Yes~No
+023|1111|0|MEASURES SUBMITTED TO THE VOTERS~STATE PROPOSITIONS|24|Amends Consumer Privacy Laws. Initiative Statute.|Yes~No
+024|1112|0|MEASURES SUBMITTED TO THE VOTERS~STATE PROPOSITIONS|25|Referendum On Law That Replaced Money Bail With System Based On Public Safety And Flight Risk.|Yes~No
+025|1113|0|MEASURES SUBMITTED TO THE VOTERS~DISTRICT PROPOSITIONS|RR|Caltrain Sales Tax|Yes~No

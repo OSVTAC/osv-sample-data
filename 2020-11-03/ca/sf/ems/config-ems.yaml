@@ -1,0 +1,127 @@
+# Config for EMS data conversion - name mappings
+# Configures district name cleanup, name shortening, classification
+#
+# The format is a work in progress
+
+# Number of digits in ballot types:
+bt_digits: 3
+# Number of digitst in a contest ID:
+contest_digits: 4
+
+# Order of party columns in files
+party_id_order: ALL DEM REP AI PF LIB GRN NPP
+
+#district_classification:
+  #- City and County of=County
+  #- California State Assembly=Assembly District
+  #- Transit=Transit District
+  #- Neighborhood=Neighborhood
+
+# Set classification by district code prefix
+district_code_classification:
+  0: County
+  ASSM: Assembly District
+  BART: Transit District
+  MTC: Transit District
+  CITY: City
+  CONG: Congressional District
+  EQUAL: State Tax Board
+  NEIG: Neighborhood
+  SBRA: Park District
+  SFUSD: School District
+  SEN: Senate District
+  SUPV: Supervisorial District
+  APPCT: State Appellate Court District
+  SC: State Superior Court District
+  STATE: State
+
+# Classification codes for results subtotal or precinct grouping
+summary_district_classifications:
+  - Congressional District
+  - Assembly District
+  - Supervisorial District
+  - Neighborhood
+
+# Poll location conversions:
+# The columns in the PODJ011 file are used differently in each county,
+# so the usage conventions for PODJ011 columns are defined here:
+
+# Space separated column IDs for the site/lcoation name:
+poll_location_columns: PollingPlaceDesc1
+# Space separated column IDs for directions, site details:
+poll_directions_columns: SamBalAddr1
+# Space separated column IDs for the street address
+poll_address_columns: PollingPlaceDesc2
+# Space separated column IDs for the city, state, zip
+#poll_city_columns:
+# Space separated column IDs for accessibility/wheelchair access
+poll_accessibility_columns: SamBalAddr2
+# Pattern to match vote by mail locations
+poll_vote_by_mail_pattern: MAIL BALLOT PRECINCT
+# column to find the poll_vote_by_mail_pattern
+poll_vote_by_mail_column: PollingSiteName
+
+# Some contests may be associated with the voting district of the county
+# in some election management systms, but are actually a larger district
+# that includes the county and other counties. A list of contest title
+# patterns identify a district code representing the cross-county area
+contest_district_map:
+    STATE:
+        - PRESIDENT OF THE UNITED STATES
+        - UNITED STATES SENATE
+        - GOVERNOR
+        - SECRETARY OF STATE
+        - CONTROLLER
+        - TREASURER
+        - ATTORNEY GENERAL
+        - INSURANCE COMMISSIONER
+        - SUPERINTENDENT OF PUBLIC INSTRUCTION
+        - SUPREME COURT
+        - "13"
+    EQUAL2:
+        - BOARD OF EQUALIZATION
+    APPCT1:
+        - COURT OF APPEAL
+    0:
+        - SUPERIOR COURT
+
+# Results of random alphabets for candidate order
+# Letters are the order priority 1..26
+randomized_alphabets:
+    state: BAEZTLGHPOSNMDQFICVUXYKWRJ
+
+# The random alphabet used if not otherwise matched by contest name
+default_alphabet: state
+
+# Candidate rotation is defined by numbered districts of a particular
+# district classification. Contests that rotate by the Assembly District
+# use the assembly district number as a rotation number 1 to n, where n is
+# the number of candidates. A rotation of 1 means no rotation, 2 means the first
+# candidate moves to the last position, and others move up 1.
+# The classification associated with the voting district determines which
+# rotation district to apply.  The following contains the list of voting
+# district classification for each rotation district.
+candidate_rotation_districts:
+    "Assembly District":
+        - State
+        - State Tax Board
+        - Congressional District
+    "Supervisorial District":
+        - County
+        - City
+        - State Superior Court District
+        - School District
+
+# Party ID to name mapping in EMS files:
+party_heading_map:
+    ALL: "*TOTAL*"
+    DEM: Democratic
+    REP: Republican
+    AI: American Independent
+    PF: Peace and Freedom
+    LIB: Libertarian
+    GRN: Green
+    NPP: Non-Partisan
+
+# No voter precincts to ignore
+no_voter_precincts: 1151 1154 7954 9900 9901 9902

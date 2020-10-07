@@ -1,0 +1,22 @@
+District_Code	County_List	External_IDs
+0	City and County of San Francisco	fc:06075 ocd:county:san_francisco 
+ASSM17	California State Assembly District 17	ocd:sldl:17
+ASSM19	California State Assembly District 19	ocd:sldl:19
+CITY1	City of San Francisco	fp:67000 ocd:place:san_francisco
+CONG12	California Congressional District 12	ocd:cd:12
+CONG13	California Congressional District 13	ocd:cd:13
+CONG14	California Congressional District 14	ocd:cd:14
+SEN11	California State Senate District 11	ocd:sldu:11
+SFUSD	San Francisco Unified School District	fe:34410 ocd:county:san_francisco/school_district:san_francisco_unified cde:3868478
+STATE	State of California	fs:06 ocd:
+SUPV1	San Francisco County Supervisorial District  1	ocd:county:san_francisco/council_district:1
+SUPV10	San Francisco County Supervisorial District 10	ocd:county:san_francisco/council_district:10
+SUPV11	San Francisco County Supervisorial District 11	ocd:county:san_francisco/council_district:11
+SUPV2	San Francisco County Supervisorial District  2	ocd:county:san_francisco/council_district:2
+SUPV3	San Francisco County Supervisorial District  3	ocd:county:san_francisco/council_district:3
+SUPV4	San Francisco County Supervisorial District  4	ocd:county:san_francisco/council_district:4
+SUPV5	San Francisco County Supervisorial District  5	ocd:county:san_francisco/council_district:5
+SUPV6	San Francisco County Supervisorial District  6	ocd:county:san_francisco/council_district:6
+SUPV7	San Francisco County Supervisorial District  7	ocd:county:san_francisco/council_district:7
+SUPV8	San Francisco County Supervisorial District  8	ocd:county:san_francisco/council_district:8
+SUPV9	San Francisco County Supervisorial District  9	ocd:county:san_francisco/council_district:9

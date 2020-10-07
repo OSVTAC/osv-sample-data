@@ -1,0 +1,46 @@
+# config-cvr.yaml - Configuration for the cvr creation/conversion
+
+# Descriptive title for the election and area
+election_description: City and County of San Francisco Consolidated Municipal Election
+
+# Human-readable note
+note: Derived json CVR export, https://sfelections.sfgov.org/march-3-2020-election-results-detailed-reports
+
+# Codes for the election administration (jurisdiction)
+# ANSI/FIPS 5 digit county code or 7 digit city code from census.gov
+# Available in Wikipedia pages sidebar
+# Note: quotes are required with leading 0 codes
+election_admin_fips: '06065'
+# OCD ID (Open Civic Data) ID
+# https://developers.google.com/civic-information/docs/v2/divisions/search
+election_admin_ocdid: 'ocd-division/country:us/state:ca/county:san_francisco'
+
+# Pattern to extract the precinct ID from the text name
+precinct_trim: '^(?:PCT|Pct) (\d\d\d\d)(?:/\d\d\d\d)?(?: MB)?$'
+# Pattern to convert ballot type description to ID
+# In 5.10 the description uses "Ballot Type 8" etc.
+# Maps BT to 1..n or E1..En for EDU ballots
+bt_trim: '^(?:VBM |Poll |Ballot Type )(?:BO(E) )?(?:BT |Ballot Type )?(\d+)$'
+
+# Converts party suffix to and from abbreviatons
+# The ballot type description has a party name suffix. The name is mapped
+# to the codes defined below in the ballot party field.
+bt_party_suffix:
+    A:  American Independent
+    AN: American Independent NPP
+    D:  Democratic
+    DN: Democratic NPP
+    G:  Green
+    L:  Libertarian
+    LN: Libertarian NPP
+    N:  Non-Partisan
+    P:  Peace and Freedom
+    R:  Republican
+
+# The following contest IDs in the BallotTypeContestManifest.tsv are undefined,
+# and usage is unknown-- it may represent a page side split
+# (Space separated list)
+ignore_contest_ids:
+
+# The following contest IDs identify a card split
+card_split_contest_ids:

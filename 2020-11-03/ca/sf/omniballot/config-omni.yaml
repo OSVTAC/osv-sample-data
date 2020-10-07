@@ -1,0 +1,189 @@
+# Config for convomniballot.py
+# chops the first part of the sequence number used to move RCV to the end
+#trim_sequence_prefix: 9
+
+contest_map_file: contmap.tsv
+candidate_map_file: candmap.tsv
+
+# The result_style code for turnout giving voting_group_ids and result_stat_type_ids
+turnout_result_style: EMTX2
+
+# Number of digits in the bt subdirectory for ballot type number
+bt_digits: 3
+
+# Suffix on election-base to select alternate
+#election_base_suffix: "-t"
+
+# Party order listing for turnout
+#turnout_party_ids: ALL AI AINPP DEM DEMNPP GRN LIB LIBNPP PF REP NPP NPPALL
+
+# Patterns to match retention candidate names in retention contest question text
+retention_pats:
+    - Justice {candidate_name} be elected
+
+# Patterns for contest with a running mate
+running_mate_pats:
+    - PRESIDENT AND VICE PRESIDENT
+
+# Patterns to match contests restricted to a partisan ballot
+contest_party_pats:
+    - PRESIDENT OF THE UNITED STATES
+    - MEMBER, COUNTY CENTRAL COMMITTEE
+
+contest_party_crossover_pats:
+    - PRESIDENT OF THE UNITED STATES{any}DEM
+    - PRESIDENT OF THE UNITED STATES{any}LIB
+    - PRESIDENT OF THE UNITED STATES{any}AI
+
+url_state_results: https://electionresults.sos.ca.gov/
+url_state_results_map:
+    #- PRESIDENT OF THE UNITED STATES{any}DEM=https://electionresults.sos.ca.gov/returns/president/party/democratic
+    #- PRESIDENT OF THE UNITED STATES{any}REP=https://electionresults.sos.ca.gov/returns/president/party/republican
+    #- PRESIDENT OF THE UNITED STATES{any}AI=https://electionresults.sos.ca.gov/returns/president/party/american-independent
+    #- PRESIDENT OF THE UNITED STATES{any}PF=https://electionresults.sos.ca.gov/returns/president/party/peace-and-freedom
+    #- PRESIDENT OF THE UNITED STATES{any}LIB=https://electionresults.sos.ca.gov/returns/president/party/libertarian
+    #- PRESIDENT OF THE UNITED STATES{any}GRN=https://electionresults.sos.ca.gov/returns/president/party/green
+    #- State Proposition 13=https://electionresults.sos.ca.gov/returns/ballot-measures
+    #- UNITED STATES REPRESENTATIVE, DISTRICT {number}=https://electionresults.sos.ca.gov/returns/us-rep/district/{number}
+    #- STATE ASSEMBLY MEMBER, DISTRICT {number}=https://electionresults.sos.ca.gov/returns/state-assembly/district/{number}
+    #- STATE SENATOR, DISTRICT {number}=https://electionresults.sos.ca.gov/returns/state-senate/district/{number}
+
+approval_required:
+    '2/3':
+        - A
+        - J
+        - RR
+    #'55%':
+        #- A
+
+#runoff:
+    #2020-11-03:
+        #top_2:
+            #- GOVERNOR
+            #- SECRETARY OF STATE
+            #- CONTROLLER
+            #- TREASURER
+            #- ATTORNEY GENERAL
+            #- INSURANCE COMMISSIONER
+            #- BOARD OF EQUALIZATION
+            #- SENATE
+            #- STATE ASSEMBLY MEMBER
+            #- STATE SENATOR
+            #- UNITED STATES REPRESENTATIVE
+            #- SUPERINTENDENT OF PUBLIC INSTRUCTION
+        #non_majority:
+            #- JUDGE OF THE SUPERIOR COURT
+
+# Short descriptions (for proposition/measures) by contest name
+short_description:
+    Proposition 13: School Repair Bond
+    Proposition A: San Francisco Affordable Housing Bonds
+    Proposition B: Charter Amendment Creating Department of Sanitation and Streets
+    Proposition C: Charter Amendment Removing Voter Registration Requirement for Boards and Commissions
+    Proposition D: Charter Amendment Creating Sheriff's Department Office of Inspector General and Oversight Board
+    Proposition E: Charter Amendment on Police Staffing Levels
+    Proposition F: Charter Amendment Business Tax Adjustments
+    Proposition G: Charter Amendment Allowing 16 Years Old to Vote
+    Proposition H: Neighborhood Commercial Districts and City Permitting
+    Proposition I: Real Estate Transfer Tax
+    Proposition J: San Francisco Unified School District Parcel Tax
+    Proposition K: Affordable Housing Authorization
+    Proposition L: Business Tax Based on Comparison of Top Executive's Pay to Employees' Pay
+    Proposition RR: Caltrain Transactions and Use Tax
+
+contest_name_corrections:
+    en:
+        - ^{letterxx}$=Proposition {letterxx}
+        - ^{number}$=State Proposition {number}
+
+# The district ID for all voters in this election: (default is "0")
+election_voting_district: COSF
+
+# The area ID of the election admin, default is election_voting_district
+election_admin_area_id: COSF
+
+# Map EMS district IDs to reporting district IDs
+district_code_map:
+    0: COSF
+
+extra_districts:
+    COSM:
+      name: County of San Mateo
+      short_name: San Mateo County
+      classification: County
+    COALM:
+      name: County of Alameda
+      short_name: Alameda County
+      classification: County
+    XCOSF:
+      name: Outside of San Francisco County
+      classification: Outside County
+
+# Map EMS contest IDs to reporting IDs
+extid_contest_map:
+    dfm: contmap.ems.tsv
+
+# Map EMS candidate IDs to reporting IDs
+extid_candidate_map:
+    dfm: candmap.ems.tsv
+
+external_id_prefixes:
+    dfm:
+        organization: County of San Francisco
+        url: https://sfelections.sfgov.org/data-and-maps
+        code_group: DFM EMS
+    ds:
+        organization: County of San Francisco
+        url: https://sfelections.sfgov.org/data-and-maps
+        code_group: Dominion Democracy Suite
+    om:
+        organization: Democracy Live
+        url: https://sites.omniballot.us/06075/app/sb/election
+        code_group: Omniballot RAVBM id
+    omx:
+        organization: Democracy Live
+        url: https://sites.omniballot.us/06075/app/sb/election
+        code_group: Omniballot RAVBM external_id
+    fp:
+        organization: American National Standards Institute
+        url: https://www.census.gov/library/reference/code-lists/ansi.html
+        code_group: States
+    fs:
+        organization: American National Standards Institute
+        url: https://www.census.gov/library/reference/code-lists/ansi.html
+        code_group: Places
+        code_prefix: '06'
+    fc:
+        organization: American National Standards Institute
+        url: https://www.census.gov/library/reference/code-lists/ansi.html
+        code_group: Counties
+        code_prefix: '06'
+    fe:
+        organization: American National Standards Institute
+        url: https://www.census.gov/library/reference/code-lists/ansi.html
+        code_group: School Districts
+        code_prefix: '06'
+    cde:
+        organization: California Department of Education
+        url: https://www.cde.ca.gov/ds/si/ds/
+        code_group: County-District-School Codes
+    csc:
+        organization: California State Controller
+        url: https://bythenumbers.sco.ca.gov/Special-Districts/Special-Districts-Listing/fv6y-3v29
+        code_group: Special District Entity ID
+    ocd:
+        organization: Open Civic Data
+        url: https://github.com/opencivicdata/ocd-division-ids
+        code_group: OCD-ID
+        code_prefix: ocd-division/country:us/state:ca/
+    ss:
+        organization: California Secretary of State Elections Division
+        url: https://www.sos.ca.gov/media/
+        code_group: Election night data feed
+    sw:
+        organization: California Secretary of State Elections Division
+        url: https://electionresults.sos.ca.gov/
+        code_group: Results web site page ID
+        code_url: https://electionresults.sos.ca.gov/returns/{}
+
+
